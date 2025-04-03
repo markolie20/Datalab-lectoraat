@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script om groepen personen te genereren met Faker en op te slaan als CSV-bestanden.
 """
@@ -8,7 +7,7 @@ import random
 import pandas as pd
 from faker import Faker
 from faker.providers import DynamicProvider
-from dotenv import load_dotenv  # Indien nodig voor verdere configuratie
+from dotenv import load_dotenv
 
 def create_weighted_provider(elements, weights):
     """
@@ -67,6 +66,9 @@ def generate_dynamic_providers(faker_instance):
     for provider_name, elements in providers.items():
         dynamic_provider = DynamicProvider(provider_name=provider_name, elements=elements)
         faker_instance.add_provider(dynamic_provider)
+    
+    age_provider = DynamicProvider(provider_name='age_provider', elements=list(range(18, 100)))
+    faker_instance.add_provider(age_provider)
 
 def generate_people(faker_instance, num_people):
     """
@@ -77,7 +79,7 @@ def generate_people(faker_instance, num_people):
     people = []
     for _ in range(num_people):
         # Basisprofiel met een aantal velden
-        person = faker_instance.profile(fields=['name', 'sex', 'birthdate', 'job'])
+        person = faker_instance.profile(fields=['name', 'sex', 'job'])
         # Toevoegen van extra attributen via de dynamische providers
         person.update({
             'country_of_origin': faker_instance.country_of_origin(),
@@ -90,6 +92,7 @@ def generate_people(faker_instance, num_people):
             'employment_status': faker_instance.employment_status(),
             'housing_type': faker_instance.housing_type(),
             'technology_proficiency': faker_instance.technology_proficiency(),
+            'age': faker_instance.age_provider(),
         })
         people.append(person)
     return pd.DataFrame(people)
