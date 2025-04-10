@@ -26,15 +26,11 @@ def generate_dynamic_providers(faker_instance):
     providers = {
         'country_of_origin': create_weighted_provider(
             ['Nederlands', 'Turks', 'Marokkaans', 'Surinaams', 'Antilliaans', 'Indonesisch', 'Duits', 'Pools', 'Chinees', 'Indiaas', 'Afghaans', 'Irakees', 'Somalisch', 'Syrisch', 'Eritrees', 'Roemeens', 'Bulgaars', 'Italiaans', 'Spaans', 'Portugees'],
-            [40, 10, 10, 8, 5, 5, 5, 5, 7, 5, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2]
+            [70, 10, 10, 8, 5, 5, 5, 5, 7, 5, 3, 3, 3, 3, 3, 3, 3, 2, 2, 2]
         ),
         'socio_economic_status': create_weighted_provider(
             ['Laag', 'Gemiddeld', 'Hoog'],
             [50, 30, 20]
-        ),
-        'household_composition': create_weighted_provider(
-            ['Alleenstaand', 'Alleenstaand met kinderen', 'Samenwonend', 'Samenwonend met kinderen'],
-            [25, 15, 30, 30]
         ),
         'political_orientation': ['Links', 'Midden', 'Rechts'],
         'education_level': create_weighted_provider(
@@ -45,21 +41,9 @@ def generate_dynamic_providers(faker_instance):
             ['Christelijk', 'Islamitisch', 'Hindoeïstisch', 'Boeddhistisch', 'Joods', 'Atheïstisch', 'Anders'],
             [35, 20, 5, 5, 5, 15, 10, 5]
         ),
-        'marital_status': create_weighted_provider(
-            ['Ongehuwd', 'Gehuwd', 'Gescheiden', 'Weduwe/Weduwnaar'],
-            [50, 30, 15, 5]
-        ),
-        'employment_status': create_weighted_provider(
-            ['Werkloos', 'Parttime', 'Fulltime', 'Zelfstandig', 'Student', 'Gepensioneerd'],
-            [10, 20, 40, 10, 10, 10]
-        ),
         'housing_type': create_weighted_provider(
             ['Appartement', 'Rijtjeshuis', 'Vrijstaand', 'Twee-onder-een-kap', 'Studio', 'Woonboot'],
             [30, 40, 10, 10, 5, 5]
-        ),
-        'technology_proficiency': create_weighted_provider(
-            ['Digibeet', 'Beginner', 'Intermediate', 'Advanced', 'Expert'],
-            [10, 30, 30, 20, 10]
         ),
     }
 
@@ -81,21 +65,150 @@ def generate_people(faker_instance, num_people):
         # Basisprofiel met een aantal velden
         person = faker_instance.profile(fields=['name', 'sex', 'job'])
         # Toevoegen van extra attributen via de dynamische providers
+        age = faker_instance.age_provider()
+        marital_status = get_marital_status(age)
+        socio_economic_status = faker_instance.socio_economic_status()
+        employment_status = get_employment_status(age)
+        health_status = get_health_status(age)
+        technology_proficiency = get_technology_proficiency(age)
+        income = get_income(socio_economic_status)
+        household = household_composition(age, marital_status)
+
         person.update({
             'country_of_origin': faker_instance.country_of_origin(),
-            'socio_economic_status': faker_instance.socio_economic_status(),
-            'household_composition': faker_instance.household_composition(),
+            'socio_economic_status': socio_economic_status,
+            'household_composition': household,
             'political_orientation': faker_instance.political_orientation(),
             'education_level': faker_instance.education_level(),
             'religion': faker_instance.religion(),
-            'marital_status': faker_instance.marital_status(),
-            'employment_status': faker_instance.employment_status(),
+            'marital_status': marital_status,
+            'employment_status': employment_status,
             'housing_type': faker_instance.housing_type(),
-            'technology_proficiency': faker_instance.technology_proficiency(),
-            'age': faker_instance.age_provider(),
+            'technology_proficiency': technology_proficiency,
+            'health_status': health_status,
+            'income': income,
+            'age': age,
         })
         people.append(person)
     return pd.DataFrame(people)
+
+def generate_person(faker_instance):
+    # Generate core attributes (e.g., age, name, sex, job)
+    base_profile = faker_instance.profile(fields=['name', 'sex'])
+    age = faker_instance.age_provider()
+    base_profile['age'] = age
+    return base_profile
+
+import random
+
+def get_employment_status(age):
+    if age < 25:
+        # Most under 25 are likely students.
+        return random.choices(
+            ['Student', 'Fulltime', 'Zelfstandig'], 
+            weights=[80, 10, 2])
+    elif age < 65:
+        # Working age: mix between full-time, part-time, and self-employed.
+        return random.choices(
+            ['Parttime', 'Fulltime', 'Zelfstandig'], 
+            weights=[20, 50, 30]
+        )[0]
+    else:
+        # Older than 65 might be retired.
+        return random.choices(
+            ['Gepensioneerd', 'Parttime'], 
+            weights=[70, 30]
+        )[0]
+
+def get_marital_status(age):
+    if age < 25:
+        return 'Ongehuwd'
+    elif age < 35:
+        return random.choices(
+            ['Ongehuwd', 'Gehuwd'], 
+            weights=[70, 30]
+        )[0]
+    elif age < 50:
+        return random.choices(
+            ['Gehuwd', 'Gescheiden', 'Ongehuwd'], 
+            weights=[60, 20, 20]
+        )[0]
+    else:
+        return random.choices(
+            ['Gehuwd', 'Gescheiden', 'Weduwe/Weduwnaar'], 
+            weights=[50, 30, 20]
+        )[0]
+
+def get_health_status(age):
+    if age < 40:
+        return random.choices(
+            ['Zeer goed', 'Goed', 'Redelijk', 'Slecht'], 
+            weights=[50, 30, 15, 5]
+        )[0]
+    elif age < 65:
+        return random.choices(
+            ['Zeer goed', 'Goed', 'Redelijk', 'Slecht'], 
+            weights=[30, 40, 20, 10]
+        )[0]
+    else:
+        return random.choices(
+            ['Zeer goed', 'Goed', 'Redelijk', 'Slecht'], 
+            weights=[10, 20, 30, 40]
+        )[0]
+
+def get_income(socio_economic_status):
+    if socio_economic_status == 'Laag':
+        return random.choices(
+            ['Laag', 'Gemiddeld'], 
+            weights=[70, 30]
+        )[0]
+    elif socio_economic_status == 'Gemiddeld':
+        return random.choices(
+            ['Gemiddeld', 'Hoog'], 
+            weights=[60, 40]
+        )[0]
+    else:
+        return 'Hoog'
+
+def get_technology_proficiency(age):
+    if age < 25:
+        return random.choices(
+            ['Beginner', 'Intermediate', 'Advanced', 'Expert'], 
+            weights=[10, 30, 40, 20]
+        )[0]
+    elif age < 50:
+        return random.choices(
+            ['Beginner', 'Intermediate', 'Advanced', 'Expert'], 
+            weights=[5, 20, 50, 25]
+        )[0]
+    else:
+        return random.choices(
+            ['Beginner', 'Intermediate', 'Advanced'], 
+            weights=[10, 40, 50]
+        )[0]
+
+def household_composition(age, marital_status):
+    if marital_status == 'Ongehuwd':
+        if age < 25:
+            return random.choices(
+                ['Bij ouders', 'Alleenstaand', 'Samenwonend'], 
+                weights=[60, 30, 20]
+            )[0]
+        elif age < 35:
+            return random.choices(
+                ['Alleenstaand', 'Samenwonend', 'Alleenstaand met kinderen'], 
+                weights=[50, 10, 20]
+            )[0]
+        elif age < 50:
+            return random.choices(
+                ['Samenwonend', 'Alleenstaand', 'Samenwonend met kinderen'], 
+                weights=[10, 70, 5]
+            )[0]
+        else:
+            return random.choices(
+                ['Samenwonend', 'Weduwe/Weduwnaar'], 
+                weights=[70, 30]
+            )[0]
 
 def main():
     # Initialisatie en setup
