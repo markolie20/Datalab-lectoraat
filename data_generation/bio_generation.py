@@ -1,20 +1,8 @@
 import os
-import ollama
 import pandas as pd
 import json
 import time
-
-class agent():
-  def __init__(self, role, model):
-    self.role = role
-    self.model = model
-  def generate(self, prompt):
-    start_time = time.perf_counter()
-    response = ollama.generate(prompt=prompt, system=self.role, model=self.model, stream=False)["response"]
-    end_time = time.perf_counter()
-    duration_seconds = end_time - start_time
-    duration_minutes = duration_seconds / 60
-    return response, duration_minutes
+from agent import agent
 
 def generate_bio(row, bio_agent):
     props = {
@@ -113,7 +101,7 @@ def save_bio(df, bio_agent, filepath):
     end_time = time.perf_counter()
     duration_seconds = end_time - start_time
     duration_minutes = duration_seconds / 60
-    print(f'Bios generated in {duration_minutes:.2f} minutes')
+    print(f'Bios ({filepath}) generated in {duration_minutes:.2f} minutes\n')
     # Save the list of bios to a JSON file
     with open(filepath, "w", encoding="utf-8") as file:
         json.dump(bios, fp=file, indent=4)
@@ -121,7 +109,8 @@ def save_bio(df, bio_agent, filepath):
 def main():
   BIO_DATA_FOLDER = 'data/bios'
   GROUP_DATA_FOLDER = 'data/groups'
-  MODEL = "deepseek-r1:7b"
+  API_MODEL = "gemini-2.0-flash"
+  LOCAL_MODEL = "deepseek-r1:7b"
 
   os.makedirs(BIO_DATA_FOLDER, exist_ok=True)
 
@@ -135,7 +124,7 @@ def main():
       "You do not add any extra headers, introductory sentences, or comments. "
       "You only provide the output in the exact format requested, without any additional text or modifications."
     ),
-    model=MODEL)
+    api_model=API_MODEL, local_model=LOCAL_MODEL)
   
   for csv_file in os.listdir(GROUP_DATA_FOLDER):
     csv_filepath = os.path.join(GROUP_DATA_FOLDER, csv_file)
