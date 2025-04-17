@@ -1,11 +1,12 @@
-# Datalab-lectoraat
-Here’s a polished and clear `README.md` for your project:
+Thanks! Here’s your updated `README.md` with the GitHub link and the correct files from the `EDA` folder included:
 
 ---
 
 # 🧠 Chat Summary Model
 
-A project focused on building an AI-powered summarization model for chat dialogues. Our goal is to generate concise and accurate summaries from multi-turn chat conversations—ideal for customer service, team chats, or any other dialogue-heavy environments.
+A project focused on building an AI-powered summarization model for chat dialogues. The goal is to generate concise, meaningful summaries from multi-turn conversations—useful for customer support logs, internal communication analysis, or chatbot reviews.
+
+👉 **GitHub Repo**: [markolie20/Datalab-lectoraat](https://github.com/markolie20/Datalab-lectoraat/tree/develop)
 
 ---
 
@@ -13,12 +14,16 @@ A project focused on building an AI-powered summarization model for chat dialogu
 
 ```
 .
-├── EDA/                     # Exploratory Data Analysis
-├── Data_generation/        # Artificial chat generation pipeline
-│   ├── agent.py
-│   ├── bio_generation.py
-│   ├── custom_expectations.py
-│   └── group_generation.py
+├── EDA/                     
+│   ├── Dashboard.py             # Dashboard for visualizing chat patterns
+│   └── EDA_Chatboxen.ipynb      # Notebook for exploratory data analysis
+│
+├── Data_generation/
+│   ├── agent.py                 # Agent persona logic
+│   ├── bio_generation.py        # User biography/context generation
+│   ├── custom_expectations.py   # Domain-specific constraints/rules
+│   └── group_generation.py      # Group conversation simulation
+│
 └── README.md
 ```
 
@@ -26,71 +31,73 @@ A project focused on building an AI-powered summarization model for chat dialogu
 
 ## 🔍 Description
 
-This project is developing a summarization model tailored for dialog boxes or chat transcripts. Because clean, real-world datasets are limited, we are leveraging **Gemini** to generate synthetic yet realistic chat data. The generated data is then used to train and evaluate summarization approaches.
+This project is focused on creating a summarization model specifically for **chatbox dialogues**. Because annotated datasets are limited, we use **Gemini** to generate high-quality synthetic chats, enriched with personas and context, to train and test our model.
 
 ---
 
-## 🧪 Folders Overview
+## 🧪 Folder Overview
 
 ### `EDA/`
-Contains notebooks and scripts for data exploration—checking distributions, message lengths, role patterns, and initial summary quality.
+Exploratory Data Analysis tools:
+
+- **`Dashboard.py`** — Interactive dashboard to visualize chat trends, message flows, and speaker stats.
+- **`EDA_Chatboxen.ipynb`** — Jupyter notebook with data inspection, distributions, and summary previews.
 
 ### `Data_generation/`
-This folder handles the creation of synthetic conversations:
+Artificial data generation logic:
 
-- **`agent.py`** — Logic for simulating different agent personas in a conversation.  
-- **`bio_generation.py`** — Generates user biographies or background info to help create more context-rich chats.  
-- **`custom_expectations.py`** — Defines domain-specific rules or expectations to guide chat generation.  
-- **`group_generation.py`** — Combines agents and bios to create diverse group interactions.
-
----
-
-## 🚧 Current Status
-
-- [x] Synthetic data generation pipeline
-- [x] Initial EDA on synthetic conversations
-- [ ] Chat summarization model (in progress)
-- [ ] Evaluation metrics and fine-tuning
+- **`agent.py`** — Defines behavior patterns for different conversational agents.
+- **`bio_generation.py`** — Creates user bios to add realism and variety.
+- **`custom_expectations.py`** — Adds custom constraints and logic for generating meaningful dialogue.
+- **`group_generation.py`** — Combines all components to simulate multi-party chat scenarios.
 
 ---
 
-## 🚀 Setup & Usage
+## 🚧 Current Progress
 
-Clone the repo:
-
-```bash
-git clone https://github.com/yourusername/chat-summary-model.git
-cd chat-summary-model
-```
-
-Create a virtual environment and install dependencies (coming soon when requirements are finalized):
-
-```bash
-pip install -r requirements.txt
-```
-
-Run data generation:
-
-```bash
-python Data_generation/group_generation.py
-```
+- ✅ Synthetic chat data generation using Gemini
+- ✅ EDA of generated chat logs
+- ⏳ Summarization model development
+- ⏳ Evaluation and fine-tuning
 
 ---
 
-## 🤖 Model Goals
+## 🚀 How to Use
 
-Eventually, the model should:
+1. **Clone the repo**:
+   ```bash
+   git clone https://github.com/markolie20/Datalab-lectoraat.git
+   cd Datalab-lectoraat
+   ```
 
-- Take in multi-turn chat logs
-- Understand speaker context and flow
-- Output accurate, coherent summaries in natural language
+2. **(Optional)** Create a virtual environment and install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run data generation**:
+   ```bash
+   python Data_generation/group_generation.py
+   ```
+
+4. **Explore data** using:
+   - `EDA/EDA_Chatboxen.ipynb` (Jupyter)
+   - `EDA/Dashboard.py` (dashboard app)
 
 ---
 
-## 📌 License
+## 🎯 Project Goals
 
-This project is licensed under the MIT License.
+- 💬 Build a summarizer for messy, multi-speaker dialogues
+- 🧠 Train on synthetic, diverse, and realistic data
+- ✨ Output clean, informative summaries with minimal hallucination
 
 ---
 
-Let me know if you want help customizing it further, adding badges, or generating a `requirements.txt` or `setup.py`!
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+Let me know if you want to add usage examples, screenshots, model architecture, or a contributing guide!
