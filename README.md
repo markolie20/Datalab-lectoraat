@@ -1,4 +1,3 @@
-Thanks! Here’s your updated `README.md` with the GitHub link and the correct files from the `EDA` folder included:
 
 ---
 
@@ -23,7 +22,8 @@ A project focused on building an AI-powered summarization model for chat dialogu
 │   ├── bio_generation.py        # User biography/context generation
 │   ├── custom_expectations.py   # Domain-specific constraints/rules
 │   └── group_generation.py      # Group conversation simulation
-│
+├── Testing/
+│   ├── main.ipynb               # Main notebook where the training happends
 └── README.md
 ```
 
@@ -31,7 +31,7 @@ A project focused on building an AI-powered summarization model for chat dialogu
 
 ## 🔍 Description
 
-This project is focused on creating a summarization model specifically for **chatbox dialogues**. Because annotated datasets are limited, we use **Gemini** to generate high-quality synthetic chats, enriched with personas and context, to train and test our model.
+This project is focused on creating a summarization model specifically for **chatbox dialogues**. Because annotated datasets are limited, we use **Gemini** to generate high-quality synthetic chats, enriched with personas and context, to train and test our model on different pre-trained models.
 
 ---
 
@@ -51,16 +51,11 @@ Artificial data generation logic:
 - **`custom_expectations.py`** — Adds custom constraints and logic for generating meaningful dialogue.
 - **`group_generation.py`** — Combines all components to simulate multi-party chat scenarios.
 
+### `Testing\`
+Training the models on our data:
+- **`main.ipynb`** — Prepering the data, training the models and evaluating them.
 ---
 
-## 🚧 Current Progress
-
-- ✅ Synthetic chat data generation using Gemini
-- ✅ EDA of generated chat logs
-- ⏳ Summarization model development
-- ⏳ Evaluation and fine-tuning
-
----
 
 ## 🚀 How to Use
 
@@ -84,6 +79,8 @@ Artificial data generation logic:
    - `EDA/EDA_Chatboxen.ipynb` (Jupyter)
    - `EDA/Dashboard.py` (dashboard app)
 
+5. **Training**: 
+   - `Testing/main.ipynb` (Jupyter)
 ---
 
 ## 🎯 Project Goals
@@ -100,4 +97,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Let me know if you want to add usage examples, screenshots, model architecture, or a contributing guide!
