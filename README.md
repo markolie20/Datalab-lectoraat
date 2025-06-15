@@ -51,7 +51,7 @@ Artificial data generation logic:
 - **`custom_expectations.py`** — Adds custom constraints and logic for generating meaningful dialogue.
 - **`group_generation.py`** — Combines all components to simulate multi-party chat scenarios.
 
-### `Testing\`
+### `Testing/`
 Training the models on our data:
 - **`main.ipynb`** — Prepering the data, training the models and evaluating them.
 ---
@@ -81,6 +81,7 @@ Training the models on our data:
 
 5. **Training**: 
    - `Testing/main.ipynb` (Jupyter)
+   - For all the trained models head to: https://dehaagsehogeschool-my.sharepoint.com/:u:/g/personal/22076719_student_hhs_nl/ETC6Isj35KFAsx11hD6xXRsBFJCQvxsWWmTuC-GhhGjjJg?e=IZbd0d Where you can download them. They are in total 16 gigabyte
 ---
 
 ## 🎯 Project Goals
@@ -97,3 +98,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
+ 
