@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Editor, film/video",Meike van Formbach,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Boeddhistisch,Ongehuwd,Student,Vrijstaand,Digibeet,82,Hoog,Gemiddeld,Slecht,Slecht
+Glass blower/designer,Floor van der Leek-Takkelenburg,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Islamitisch,Gehuwd,Parttime,Appartement,Advanced,36,Laag,Goed,Gemiddeld,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Aiden Kosten,M,Somalisch,Hoog,Samenwonend,Links,VMBO,Joods,Gescheiden,Fulltime,Appartement,Intermediate,58,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Site engineer,Lena Meyer,F,Nederlands,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,24,Laag,Goed,Gemiddeld,Gemiddeld
+"Production designer, theatre/television/film",Mason Jacobs,F,Pools,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Airline pilot,Bibi Mens,F,Nederlands,Laag,Samenwonend,Links,HBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,66,Laag,Gemiddeld,Slecht,Gemiddeld
+Veterinary surgeon,Senna Heerschop,F,Chinees,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Student,Woonboot,Intermediate,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Librarian, public",Fabian Kalman,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,21,Laag,Goed,Goed,Gemiddeld
+Art therapist,Dean Gerritsen-Ariens Ansems,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Expert,62,Gemiddeld,Gemiddeld,Goed,Goed
+Equities trader,Victoria Saxo-Gnodde,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,22,Laag,Gemiddeld,Slecht,Goed
+Architect,Sterre Lamore,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Anders,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,56,Gemiddeld,Gemiddeld,Slecht,Goed
+Advertising art director,Jade de Strigter,F,Roemeens,Hoog,Samenwonend met kinderen,Links,VWO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,21,Laag,Goed,Gemiddeld,Slecht
+"Investment banker, corporate",Aaliyah van 't Riet,F,Nederlands,Hoog,Samenwonend,Midden,VMBO,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Digibeet,47,Laag,Goed,Gemiddeld,Gemiddeld

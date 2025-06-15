@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Metallurgist,Collin Lensen-Weerdenburg,M,Marokkaans,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Zelfstandig,Studio,Intermediate,70,Gemiddeld,Gemiddeld,Goed,Slecht
+"Therapist, nutritional",Stan Timmermans,M,Duits,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Studio,Intermediate,27,Hoog,Gemiddeld,Gemiddeld,Goed
+Art therapist,Pien Appelman,M,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,75,Laag,Goed,Gemiddeld,Gemiddeld
+Set designer,Jason Broeckx,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,71,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Television floor manager,Loes Romijn,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Digibeet,96,Hoog,Gemiddeld,Gemiddeld,Goed
+Sport and exercise psychologist,Brent The Elder,M,Syrisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,22,Laag,Goed,Gemiddeld,Goed
+"Programmer, applications",Johannes Mulders,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,76,Gemiddeld,Goed,Goed,Slecht
+Herbalist,"Maartje Riem-West-Francië, van",M,Roemeens,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,81,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Manufacturing engineer,Mart Hoelen,M,Somalisch,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,57,Laag,Goed,Goed,Slecht
+Estate agent,Seth Jekel,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,68,Laag,Goed,Slecht,Gemiddeld
+Clinical research associate,Brian Olthof,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,74,Gemiddeld,Slecht,Slecht,Goed
+"Merchandiser, retail",Suze Roukes,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,25,Laag,Slecht,Slecht,Gemiddeld

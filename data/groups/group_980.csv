@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Animator,Nadia van Dam,F,Pools,Laag,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,66,Laag,Gemiddeld,Slecht,Slecht
+Patent attorney,Jip van der Kint-van der Ploeg,F,Indiaas,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,41,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Petroleum engineer,Alex van den Velde-van den Berg,M,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,83,Hoog,Slecht,Goed,Gemiddeld
+Editorial assistant,Vincent Mol,M,Somalisch,Hoog,Alleenstaand,Links,HBO,Joods,Ongehuwd,Parttime,Appartement,Intermediate,25,Laag,Gemiddeld,Gemiddeld,Goed
+Dentist,Merle van Breukeleveen-Rouwhorst,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Hindoeïstisch,Ongehuwd,Student,Vrijstaand,Intermediate,78,Laag,Gemiddeld,Goed,Slecht
+Editorial assistant,Jolie Strijker,F,Surinaams,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gescheiden,Gepensioneerd,Appartement,Beginner,25,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, audiological",Quinty Wolters,M,Roemeens,Hoog,Alleenstaand,Rechts,WO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Expert,26,Laag,Goed,Gemiddeld,Gemiddeld
+Actor,Mats Estey,M,Somalisch,Hoog,Alleenstaand,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,34,Laag,Gemiddeld,Slecht,Gemiddeld
+"Therapist, drama",Luc van Dam,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Anders,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,63,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Geneticist, molecular",Stef van Landen-Rijntjes,M,Indiaas,Hoog,Alleenstaand,Links,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,34,Hoog,Goed,Gemiddeld,Gemiddeld
+Air cabin crew,Ravi Uittenbosch,F,Nederlands,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,43,Gemiddeld,Gemiddeld,Goed,Goed
+"Clinical scientist, histocompatibility and immunogenetics",Dani Serra,F,Nederlands,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Advanced,39,Hoog,Goed,Goed,Goed
+Broadcast journalist,Sofia Slagmolen,M,Somalisch,Laag,Alleenstaand met kinderen,Links,VWO,Joods,Ongehuwd,Fulltime,Vrijstaand,Beginner,22,Laag,Slecht,Goed,Slecht

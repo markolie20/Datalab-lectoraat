@@ -1,0 +1,28 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Broadcast journalist,Morris Wijland,M,Spaans,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Werkloos,Twee-onder-een-kap,Beginner,45,Laag,Gemiddeld,Goed,Goed
+Technical sales engineer,Guus van Geffen,F,Indiaas,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,59,Laag,Gemiddeld,Gemiddeld,Goed
+Freight forwarder,Pieter Boer,F,Marokkaans,Hoog,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,27,Laag,Slecht,Gemiddeld,Slecht
+Company secretary,Robin Grondel,M,Syrisch,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,52,Laag,Goed,Gemiddeld,Goed
+Chief Executive Officer,Elize van Evelingen-Vial,M,Afghaans,Hoog,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,83,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, water",Marijn van der Ploeg,F,Duits,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Beginner,55,Hoog,Slecht,Gemiddeld,Goed
+"Designer, furniture",Bradley Fredriks,M,Nederlands,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,32,Laag,Gemiddeld,Gemiddeld,Goed
+Physiotherapist,Dirk Mol,F,Duits,Gemiddeld,Samenwonend,Rechts,VWO,Joods,Ongehuwd,Fulltime,Appartement,Expert,77,Laag,Slecht,Slecht,Gemiddeld
+Scientific laboratory technician,Gijs Vink,M,Somalisch,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,62,Gemiddeld,Goed,Slecht,Gemiddeld
+Public librarian,Merijn Ponci-Gervais,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,87,Laag,Gemiddeld,Goed,Gemiddeld
+Writer,Nadine Bosch-Stoffel,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,32,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Private music teacher,Muhammed van Orleans,M,Nederlands,Hoog,Alleenstaand,Midden,VWO,Joods,Ongehuwd,Zelfstandig,Woonboot,Digibeet,64,Laag,Gemiddeld,Gemiddeld,Goed
+"Designer, interior/spatial",Mirthe Wever-Mijsberg,M,Indonesisch,Laag,Samenwonend,Midden,VWO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,54,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Designer, furniture",Linn Heerschop,F,Irakees,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Gepensioneerd,Appartement,Expert,49,Gemiddeld,Goed,Gemiddeld,Goed
+Seismic interpreter,Ashley van der Pluijm,F,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,47,Laag,Slecht,Goed,Gemiddeld
+Adult guidance worker,Imke David-van der Hoeven,F,Pools,Laag,Alleenstaand,Links,MBO,Anders,Gehuwd,Student,Vrijstaand,Intermediate,60,Laag,Goed,Slecht,Gemiddeld
+Furniture conservator/restorer,Mare Knuf,F,Portugees,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,33,Gemiddeld,Goed,Goed,Goed
+Technical sales engineer,Ella Moenen-van den Nyeuwenhuysen,M,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Anders,Gehuwd,Student,Rijtjeshuis,Beginner,41,Gemiddeld,Slecht,Gemiddeld,Slecht
+Personnel officer,Lindsey van Ooste,M,Indiaas,Gemiddeld,Alleenstaand met kinderen,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,20,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Veterinary surgeon,Casper Sanders,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,83,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Television/film/video producer,Jolie Westerburg,F,Turks,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,75,Laag,Goed,Goed,Goed
+Minerals surveyor,Michelle Pieters,M,Italiaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,96,Hoog,Goed,Gemiddeld,Gemiddeld
+"Engineer, aeronautical",Kian Backer,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HAVO,Anders,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Beginner,98,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Associate Professor,Puk van der Velden-Vos,M,Nederlands,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,18,Laag,Gemiddeld,Gemiddeld,Goed
+Heritage manager,Mehmet Gepa van Bourgondië,F,Turks,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,59,Laag,Gemiddeld,Goed,Goed
+Occupational psychologist,Elisabeth Heijman-de Koning,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Anders,Gehuwd,Parttime,Appartement,Digibeet,71,Hoog,Goed,Gemiddeld,Gemiddeld
+Sales promotion account executive,Helena Louws,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Beginner,83,Laag,Goed,Goed,Gemiddeld

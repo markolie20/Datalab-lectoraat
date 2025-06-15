@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, broadcasting (operations)",Vera Pierson-Guit,F,Pools,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,61,Laag,Gemiddeld,Gemiddeld,Slecht
+Housing manager/officer,Suze Blewanus,M,Nederlands,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Studio,Intermediate,68,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, water quality",Hendrik Hagendoorn-Rousselet,M,Chinees,Gemiddeld,Samenwonend,Midden,HAVO,Joods,Ongehuwd,Student,Rijtjeshuis,Beginner,59,Laag,Goed,Slecht,Goed
+Recruitment consultant,Raf Helmerhorst,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,55,Laag,Gemiddeld,Gemiddeld,Goed
+"Education officer, museum",Johannes Boer,F,Nederlands,Hoog,Alleenstaand,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,96,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Medical secretary,Fenna van Brunswijk,F,Nederlands,Hoog,Alleenstaand,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,70,Laag,Goed,Gemiddeld,Slecht
+Lawyer,Stan Muijs,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,66,Gemiddeld,Gemiddeld,Goed,Slecht
+Toxicologist,Fem van de Weterink,F,Indiaas,Hoog,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,60,Gemiddeld,Slecht,Goed,Goed
+Paediatric nurse,Mara Verwoert-van de Veen,M,Duits,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Woonboot,Beginner,74,Laag,Gemiddeld,Slecht,Gemiddeld
+"Psychotherapist, dance movement",Tijs Coret-Coredo-Werdes,F,Portugees,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Werkloos,Vrijstaand,Digibeet,62,Laag,Goed,Goed,Slecht
+Trading standards officer,Jelle van den Broek,M,Spaans,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,47,Laag,Slecht,Slecht,Gemiddeld
+Musician,Dani van Beieren,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Vrijstaand,Intermediate,27,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Early years teacher,Tess van Venrooy,F,Somalisch,Laag,Alleenstaand met kinderen,Midden,HAVO,Joods,Gehuwd,Fulltime,Appartement,Advanced,84,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Wellsite geologist,Berend Lips-Rijntjes,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Boeddhistisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,39,Laag,Gemiddeld,Goed,Gemiddeld
+"Sound technician, broadcasting/film/video",Frederique Scharroo,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,77,Laag,Gemiddeld,Goed,Goed
+"Teacher, English as a foreign language",Danique Greij,M,Turks,Hoog,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Parttime,Appartement,Advanced,79,Hoog,Goed,Gemiddeld,Gemiddeld
+Textile designer,Dina van der Leek,M,Irakees,Gemiddeld,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Expert,73,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, water",Laura Hoelen-Matthews,F,Indonesisch,Laag,Alleenstaand,Links,HAVO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,63,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Secretary/administrator,Jonas Gnodde,F,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,38,Gemiddeld,Goed,Goed,Goed
+Dramatherapist,Ali Verhagen,F,Chinees,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Digibeet,33,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Technical author,Isa Ehlert,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,34,Hoog,Goed,Gemiddeld,Gemiddeld
+Archaeologist,Azra Gnodde-de Koning,M,Turks,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Student,Woonboot,Intermediate,75,Laag,Goed,Slecht,Goed

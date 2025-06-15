@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Learning disability nurse,Dean Bosman,M,Nederlands,Hoog,Samenwonend,Links,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,78,Laag,Goed,Goed,Gemiddeld
+Psychotherapist,Chloé van der Maes,M,Marokkaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,50,Hoog,Goed,Gemiddeld,Slecht
+Biomedical scientist,Yfke Buijs,M,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Expert,80,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Management consultant,Arthur Aertsz-Zijlmans,M,Chinees,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,25,Laag,Goed,Gemiddeld,Slecht
+Private music teacher,Norah van Asten-Gemen,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,42,Laag,Slecht,Gemiddeld,Gemiddeld
+Tour manager,Senn van Breukeleveen,F,Marokkaans,Gemiddeld,Samenwonend,Links,HBO,Boeddhistisch,Gescheiden,Parttime,Appartement,Beginner,40,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, counselling",Anouk Thout-Janssen,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,89,Laag,Slecht,Slecht,Goed
+Bookseller,Hamza van Luin,F,Bulgaars,Laag,Samenwonend,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,88,Laag,Goed,Goed,Gemiddeld
+Counsellor,Amina Wooning,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,41,Hoog,Gemiddeld,Goed,Slecht
+Toxicologist,Sam van Beek,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Vrijstaand,Advanced,35,Laag,Slecht,Goed,Slecht
+Systems analyst,Joshua Bloemendaal,M,Turks,Hoog,Alleenstaand,Links,HAVO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,51,Laag,Gemiddeld,Goed,Slecht
+"Biochemist, clinical",Fenna Huisman,M,Duits,Laag,Alleenstaand met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Parttime,Appartement,Expert,85,Laag,Gemiddeld,Gemiddeld,Goed

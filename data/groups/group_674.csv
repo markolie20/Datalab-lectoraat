@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Sales professional, IT",Chloë Draaisma,F,Surinaams,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,23,Hoog,Gemiddeld,Goed,Goed
+Physiological scientist,Thom Tamsma-van de Brink,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,63,Laag,Gemiddeld,Slecht,Gemiddeld
+Publishing rights manager,Nisa Bouhuizen,M,Surinaams,Hoog,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Expert,55,Gemiddeld,Goed,Gemiddeld,Goed
+"Engineer, maintenance",Mika Korstman,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Joods,Ongehuwd,Gepensioneerd,Appartement,Intermediate,61,Gemiddeld,Goed,Goed,Gemiddeld
+Chartered certified accountant,Thom van Susa-Texier,M,Duits,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,72,Gemiddeld,Gemiddeld,Goed,Goed
+Town planner,Silke Ernst,M,Somalisch,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,40,Hoog,Goed,Gemiddeld,Gemiddeld
+Data scientist,Femke Lamotte,M,Surinaams,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,48,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Minerals surveyor,Nova Govarts,F,Surinaams,Hoog,Samenwonend met kinderen,Links,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,23,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Designer, jewellery",Jelle Bouwhuisen-Prins,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Gescheiden,Parttime,Appartement,Beginner,88,Laag,Goed,Goed,Goed
+Ranger/warden,Philip Stoffelsz,F,Nederlands,Laag,Samenwonend,Links,VWO,Joods,Gehuwd,Fulltime,Appartement,Beginner,79,Laag,Gemiddeld,Slecht,Gemiddeld
+Broadcast journalist,Boris Coret,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,51,Hoog,Slecht,Gemiddeld,Gemiddeld
+Water quality scientist,Fem van der Spaendonck,F,Duits,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,40,Laag,Gemiddeld,Gemiddeld,Slecht
+Geophysical data processor,Luna van Drenthe,M,Turks,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,39,Laag,Goed,Gemiddeld,Gemiddeld
+Technical brewer,Lois Roessink-Jorlink,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Intermediate,95,Gemiddeld,Goed,Slecht,Gemiddeld
+Early years teacher,Ilse Peterse,F,Surinaams,Gemiddeld,Samenwonend,Midden,VMBO,Anders,Gehuwd,Student,Rijtjeshuis,Beginner,73,Laag,Slecht,Goed,Gemiddeld
+Medical secretary,Faas van Leuven-Heerschop,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,86,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Teaching laboratory technician,Joël Muijs,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,69,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Futures trader,Ecrin Dachgeldt-Kunen,F,Nederlands,Hoog,Samenwonend,Rechts,MBO,Joods,Ongehuwd,Student,Appartement,Intermediate,87,Hoog,Goed,Goed,Slecht
+Television floor manager,Sten van de Noordmark,M,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,20,Hoog,Goed,Goed,Gemiddeld
+Rural practice surveyor,Niels van de Wal,M,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Expert,59,Laag,Gemiddeld,Gemiddeld,Goed
+Professor Emeritus,Bilal Boddaugh,M,Portugees,Laag,Alleenstaand,Links,VWO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,52,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Hospital pharmacist,Iris Verbeek,F,Afghaans,Laag,Samenwonend,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,23,Gemiddeld,Goed,Gemiddeld,Slecht

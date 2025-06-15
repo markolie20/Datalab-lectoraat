@@ -1,0 +1,27 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, civil (consulting)",Daphne van der Sande,F,Eritrees,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,90,Laag,Gemiddeld,Slecht,Slecht
+Patent attorney,Jente Tielemans-Zijlmans,F,Roemeens,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Hindoeïstisch,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,19,Gemiddeld,Goed,Goed,Slecht
+Drilling engineer,Myrthe van den Nuwenhuijzen,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gescheiden,Gepensioneerd,Vrijstaand,Beginner,25,Laag,Goed,Goed,Goed
+"Scientist, research (medical)",Elizabeth Vandenbergh,F,Marokkaans,Laag,Alleenstaand,Midden,HAVO,Anders,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,81,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Gaffer,Kick van der Kint,F,Marokkaans,Gemiddeld,Alleenstaand,Links,VWO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,19,Laag,Gemiddeld,Gemiddeld,Goed
+Data scientist,Mick van Doorn,M,Indiaas,Gemiddeld,Samenwonend,Links,HAVO,Joods,Ongehuwd,Parttime,Vrijstaand,Advanced,46,Laag,Slecht,Gemiddeld,Slecht
+Trade union research officer,Maryam Schuurmans,M,Syrisch,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,70,Hoog,Gemiddeld,Slecht,Goed
+Microbiologist,Fenna Carnotte,M,Indiaas,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,36,Laag,Slecht,Slecht,Goed
+Field seismologist,Bryan Martens,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,70,Laag,Gemiddeld,Gemiddeld,Slecht
+"Doctor, general practice",Keano van de Eerenbeemt-de Ruiter,M,Turks,Laag,Samenwonend,Midden,WO,Joods,Ongehuwd,Parttime,Vrijstaand,Advanced,80,Gemiddeld,Slecht,Slecht,Gemiddeld
+Sub,Lily van de Wal-Tammerijn,F,Italiaans,Laag,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Vrijstaand,Intermediate,38,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Scientist, research (physical sciences)",Lisanne van de Biezenbos,M,Marokkaans,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Digibeet,25,Laag,Goed,Gemiddeld,Gemiddeld
+Software engineer,Aya Hehl,M,Turks,Laag,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Woonboot,Beginner,69,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Lawyer,Vincent Gellemeyer,M,Portugees,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Beginner,91,Laag,Goed,Slecht,Goed
+Product/process development scientist,Yinthe Tielemans,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Weduwe/Weduwnaar,Fulltime,Woonboot,Beginner,92,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Technical author,Esmée Kunen,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,46,Gemiddeld,Gemiddeld,Goed,Goed
+"Investment banker, corporate",Max Levesque,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Student,Appartement,Advanced,36,Laag,Gemiddeld,Gemiddeld,Slecht
+Oncologist,Quinten de Nijs,F,Nederlands,Laag,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,95,Gemiddeld,Slecht,Slecht,Gemiddeld
+Economist,David Molenaar,F,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,26,Laag,Gemiddeld,Gemiddeld,Goed
+Musician,Bilal Symons,F,Duits,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,63,Laag,Gemiddeld,Slecht,Gemiddeld
+Marine scientist,Azra Willems van Lier,M,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Student,Appartement,Beginner,41,Gemiddeld,Goed,Goed,Goed
+Furniture conservator/restorer,Sander Schiffer,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Intermediate,49,Laag,Goed,Gemiddeld,Gemiddeld
+Youth worker,Jayda Billung,F,Nederlands,Laag,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,52,Hoog,Goed,Slecht,Gemiddeld
+Air cabin crew,Esmée Lambregt,M,Turks,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,88,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Designer, blown glass/stained glass",Phileine van Venrooy,F,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,30,Gemiddeld,Goed,Slecht,Gemiddeld
+"Editor, film/video",Evie van Evelingen,M,Nederlands,Hoog,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,61,Laag,Goed,Goed,Gemiddeld

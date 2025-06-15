@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Sub,Bibi van de Pol,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,79,Laag,Gemiddeld,Gemiddeld,Slecht
+"Production assistant, television",Suze Köster,F,Afghaans,Gemiddeld,Samenwonend,Rechts,WO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Gemiddeld,Goed,Gemiddeld,Goed
+"Lighting technician, broadcasting/film/video",Linde Becht-Aelftrud van Wessex,M,Indonesisch,Laag,Samenwonend met kinderen,Midden,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,21,Laag,Slecht,Goed,Gemiddeld
+"Therapist, occupational",Aron Roessink,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Joods,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Intermediate,58,Laag,Slecht,Gemiddeld,Slecht
+Research scientist (maths),Ivy Bouwhuisen,F,Surinaams,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,77,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, technical sales",Duuk van Dooren,F,Chinees,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,28,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Media planner,Hannah Wouters-Berends,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,67,Laag,Gemiddeld,Slecht,Gemiddeld
+Financial controller,Sofie Hermans-Verwoert,M,Indonesisch,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,41,Laag,Gemiddeld,Goed,Slecht
+Biomedical engineer,Jip Groenendaal,F,Italiaans,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Beginner,58,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Tax adviser,Cas Mol,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,38,Hoog,Slecht,Goed,Gemiddeld
+Television camera operator,Nynke van der Klein,M,Eritrees,Laag,Alleenstaand,Midden,VWO,Christelijk,Gescheiden,Parttime,Vrijstaand,Intermediate,64,Hoog,Gemiddeld,Gemiddeld,Goed

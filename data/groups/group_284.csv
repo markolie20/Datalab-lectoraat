@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Ship broker,Mohamed Schagen,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,22,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Hydrologist,Bram Nek,F,Turks,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,66,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Horticulturist, amenity",Chloë Korsman,M,Pools,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Vrijstaand,Intermediate,61,Laag,Slecht,Gemiddeld,Gemiddeld
+Management consultant,Alicia Martel,M,Indiaas,Hoog,Samenwonend,Midden,HBO,Anders,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Advanced,82,Laag,Goed,Goed,Goed
+Personal assistant,Wessel Winnrich,M,Eritrees,Laag,Samenwonend,Midden,VMBO,Anders,Gehuwd,Student,Appartement,Digibeet,61,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Analytical chemist,Simon Uittenbosch,F,Surinaams,Gemiddeld,Samenwonend,Rechts,VWO,Islamitisch,Gehuwd,Gepensioneerd,Vrijstaand,Beginner,37,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Web designer,Oscar Hanegraaff,M,Roemeens,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Trade mark attorney,Mehmet Oversteeg,M,Marokkaans,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,55,Laag,Gemiddeld,Gemiddeld,Goed
+Petroleum engineer,Silke Otte-Lensen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Anders,Gescheiden,Fulltime,Appartement,Digibeet,35,Laag,Slecht,Gemiddeld,Goed
+Aeronautical engineer,Niek Berendse,M,Nederlands,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,30,Laag,Gemiddeld,Gemiddeld,Goed
+Industrial buyer,Maartje van het Heerenveen,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Joods,Ongehuwd,Fulltime,Studio,Beginner,98,Laag,Gemiddeld,Goed,Gemiddeld
+Advice worker,Rafael van Dooren,M,Marokkaans,Gemiddeld,Samenwonend,Links,WO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Expert,99,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, forensic",Collin Hellevoort,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gescheiden,Zelfstandig,Vrijstaand,Intermediate,63,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dentist,Victoria Driessen-van Klaarwater,F,Bulgaars,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,23,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Housing manager/officer,Bibi Steenbeek,M,Indonesisch,Laag,Samenwonend met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,65,Laag,Slecht,Gemiddeld,Gemiddeld
+Hotel manager,Niek van Duivenvoorde,F,Duits,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,88,Gemiddeld,Goed,Goed,Slecht

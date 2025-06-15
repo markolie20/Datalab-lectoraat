@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Sport and exercise psychologist,Megan Zwart,M,Indonesisch,Hoog,Alleenstaand met kinderen,Links,WO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,51,Laag,Goed,Gemiddeld,Slecht
+Commercial art gallery manager,Selina Adriaensdr,F,Antilliaans,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,44,Hoog,Slecht,Goed,Gemiddeld
+"Programmer, multimedia",Florian Lorreijn-van Laon,F,Chinees,Gemiddeld,Samenwonend,Rechts,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,98,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Audiological scientist,Emily Middelkoop,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,84,Laag,Gemiddeld,Goed,Goed
+Personal assistant,Zoë Heerschop,M,Somalisch,Laag,Samenwonend,Midden,VWO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,97,Laag,Gemiddeld,Gemiddeld,Goed
+Land,Laura Roosenboom,M,Pools,Gemiddeld,Alleenstaand met kinderen,Links,WO,Islamitisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Digibeet,32,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Medical secretary,Suus Jacquot,M,Afghaans,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Vrijstaand,Advanced,93,Gemiddeld,Goed,Goed,Gemiddeld
+Data processing manager,Ryan Strijker,M,Chinees,Gemiddeld,Alleenstaand,Rechts,VWO,Islamitisch,Gescheiden,Fulltime,Appartement,Beginner,30,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Civil engineer, contracting",Sander Boudewijns,M,Duits,Laag,Alleenstaand met kinderen,Rechts,WO,Anders,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,61,Gemiddeld,Gemiddeld,Slecht,Goed
+"Surveyor, planning and development",Victor Pons,M,Pools,Hoog,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Appartement,Digibeet,43,Laag,Slecht,Slecht,Slecht
+Optometrist,Lara Dubois-Sitters,F,Nederlands,Laag,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,62,Laag,Goed,Gemiddeld,Gemiddeld

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Cytogeneticist,Mason Brumleve,M,Turks,Hoog,Alleenstaand,Rechts,Basisonderwijs,Anders,Gescheiden,Gepensioneerd,Vrijstaand,Intermediate,77,Hoog,Slecht,Gemiddeld,Gemiddeld
+Clinical biochemist,Ilse Coolen,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,60,Laag,Goed,Gemiddeld,Gemiddeld
+Housing manager/officer,Jesper van der Schuijt,F,Bulgaars,Laag,Samenwonend,Links,MBO,Anders,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,78,Gemiddeld,Slecht,Gemiddeld,Goed
+Geophysicist/field seismologist,Robin Klerks,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Digibeet,66,Laag,Goed,Gemiddeld,Goed
+Press sub,Sam Hulshouts,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,45,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Chartered management accountant,Rik Lage,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,33,Gemiddeld,Gemiddeld,Goed,Slecht
+Retail manager,Yassin de Boer-van den Assem,M,Turks,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,95,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Copy,Loes de Nijs,M,Indonesisch,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,73,Laag,Goed,Gemiddeld,Gemiddeld
+Early years teacher,Jill Dorsman-van Wijk,F,Marokkaans,Hoog,Alleenstaand,Rechts,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Goed,Slecht,Slecht
+Product designer,Ali van Ginkel-Ooms,M,Roemeens,Hoog,Samenwonend met kinderen,Links,HBO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Intermediate,20,Laag,Goed,Gemiddeld,Slecht
+Community pharmacist,Melle Alpaidis-Gerrits,F,Turks,Hoog,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,62,Laag,Goed,Gemiddeld,Slecht

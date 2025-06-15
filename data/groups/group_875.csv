@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chiropractor,Gerrit Willemsen-Maas,M,Roemeens,Laag,Samenwonend,Rechts,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Laag,Goed,Goed,Goed
+Air traffic controller,Philip van de Darnau,F,Chinees,Hoog,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,52,Gemiddeld,Slecht,Goed,Gemiddeld
+Lobbyist,Lisa van den Bergh,M,Duits,Laag,Samenwonend,Links,MBO,Atheïstisch,Gescheiden,Parttime,Appartement,Beginner,69,Laag,Gemiddeld,Goed,Goed
+Advertising account planner,Ryan den Teuling,F,Roemeens,Laag,Alleenstaand met kinderen,Links,HAVO,Anders,Ongehuwd,Student,Rijtjeshuis,Beginner,83,Laag,Slecht,Slecht,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Bram van de Velde,M,Indiaas,Laag,Samenwonend,Links,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,70,Laag,Goed,Gemiddeld,Gemiddeld
+Jewellery designer,Kate Blom,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Anders,Ongehuwd,Student,Appartement,Advanced,47,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Software engineer,Madelief Brandon,F,Indonesisch,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,50,Gemiddeld,Slecht,Gemiddeld,Goed
+Financial planner,Mees de Mol-Verhagen,M,Chinees,Hoog,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,63,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Legal executive,Josephine de Graaf,F,Nederlands,Hoog,Samenwonend,Links,MBO,Joods,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,22,Laag,Slecht,Gemiddeld,Goed
+Exercise physiologist,Demi Stook,F,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Beginner,38,Hoog,Slecht,Slecht,Gemiddeld
+Archivist,Chloé Bastiaense-Vertooren,F,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,42,Hoog,Slecht,Gemiddeld,Slecht
+Financial controller,Megan Nek-de Koning,M,Marokkaans,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Student,Appartement,Advanced,79,Laag,Goed,Gemiddeld,Goed

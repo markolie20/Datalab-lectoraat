@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Charity officer,Jan van Dooren-Weerdenburg,F,Duits,Laag,Samenwonend,Links,HBO,Christelijk,Gehuwd,Fulltime,Woonboot,Expert,59,Laag,Gemiddeld,Gemiddeld,Slecht
+"Journalist, magazine",Maria Kirpenstein,M,Antilliaans,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,69,Laag,Slecht,Goed,Goed
+Barista,Fleur de Bock,M,Turks,Laag,Alleenstaand,Links,VMBO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,18,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Arts development officer,Mehmet Charon,M,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Advanced,23,Laag,Slecht,Goed,Gemiddeld
+"Engineer, control and instrumentation",Quinten van der Meulen,M,Nederlands,Hoog,Samenwonend,Links,HAVO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,18,Gemiddeld,Goed,Goed,Goed
+"Designer, textile",Rosa Breugelensis,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,22,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Emergency planning/management officer,Suze Kuijpers,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,21,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Adult guidance worker,Amy Weyland,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,75,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Recycling officer,Daphne Janse,F,Surinaams,Laag,Alleenstaand,Rechts,HAVO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Studio,Beginner,49,Hoog,Goed,Gemiddeld,Slecht
+Biomedical scientist,Mia Arens,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Expert,57,Laag,Goed,Gemiddeld,Gemiddeld
+Quantity surveyor,Yassin van Metz,F,Indiaas,Hoog,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Advanced,64,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

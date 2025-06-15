@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tree surgeon,Oscar Scheffers,F,Turks,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gescheiden,Student,Vrijstaand,Intermediate,61,Hoog,Goed,Goed,Gemiddeld
+Illustrator,Stan Thatcher-van Velzen,F,Duits,Gemiddeld,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Gepensioneerd,Studio,Beginner,52,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, minerals",Nisa de Jager-van Dongen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,83,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, quantity",Senna Reimes,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Intermediate,84,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Civil engineer, consulting",Cornelis Strik-de Kale,M,Indiaas,Hoog,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Digibeet,83,Laag,Slecht,Gemiddeld,Slecht
+Child psychotherapist,Maryam Geneart,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,39,Laag,Gemiddeld,Slecht,Gemiddeld
+"Chemist, analytical",Catharina van Opper-Lotharingen,F,Turks,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,18,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Homeopath,Imran Recer-Adriaensdr,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,47,Gemiddeld,Goed,Goed,Gemiddeld
+"Editor, magazine features",Robin Ligtvoet,M,Surinaams,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,89,Laag,Goed,Goed,Gemiddeld
+Contracting civil engineer,Jelle Rubben,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Werkloos,Vrijstaand,Expert,70,Laag,Goed,Goed,Gemiddeld
+"Therapist, music",Naud van Breukelveen-Klomp Jan,F,Antilliaans,Gemiddeld,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,52,Gemiddeld,Slecht,Gemiddeld,Slecht
+Diplomatic Services operational officer,Nina van den Wittenboer,M,Nederlands,Hoog,Alleenstaand,Links,VWO,Atheïstisch,Weduwe/Weduwnaar,Student,Appartement,Beginner,78,Laag,Gemiddeld,Gemiddeld,Slecht
+Financial risk analyst,Pim Kruns,F,Pools,Gemiddeld,Samenwonend,Rechts,VMBO,Joods,Gehuwd,Zelfstandig,Appartement,Intermediate,50,Laag,Goed,Goed,Goed
+Textile designer,Cornelia Kolster,M,Bulgaars,Gemiddeld,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,26,Laag,Goed,Gemiddeld,Goed
+"Surveyor, mining",Sterre van Gelder,F,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Anders,Gehuwd,Parttime,Vrijstaand,Expert,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Police officer,Isabel van Beieren,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,47,Laag,Goed,Gemiddeld,Slecht
+"Therapist, music",Owen van der Klijn,M,Turks,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,19,Laag,Gemiddeld,Goed,Goed
+"Social research officer, government",Fem Veenstra,F,Nederlands,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,84,Gemiddeld,Gemiddeld,Goed,Goed
+"Designer, ceramics/pottery",Mohammed Brizee-Haengreve,M,Syrisch,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,84,Hoog,Gemiddeld,Slecht,Slecht

@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Radiographer, therapeutic",Jasmijn Vallenduuk,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Islamitisch,Gescheiden,Gepensioneerd,Vrijstaand,Beginner,96,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Music tutor,Joël Doornhem,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,86,Hoog,Gemiddeld,Gemiddeld,Slecht
+Pensions consultant,Jules Fechant-Smit,M,Surinaams,Gemiddeld,Samenwonend,Midden,HBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,76,Hoog,Gemiddeld,Goed,Goed
+Medical sales representative,Johanna van Loon,F,Marokkaans,Gemiddeld,Samenwonend,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,47,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Systems developer,Lana Lijn,F,Antilliaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,91,Laag,Gemiddeld,Slecht,Gemiddeld
+Chief Operating Officer,Aylin Kisman-de Graaf,F,Surinaams,Laag,Samenwonend,Rechts,WO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,49,Laag,Gemiddeld,Goed,Slecht
+Higher education careers adviser,Jip Tillmanno,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gescheiden,Zelfstandig,Studio,Intermediate,94,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, electrical",Kiki Beekman-Pastoors,F,Nederlands,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Islamitisch,Gehuwd,Student,Appartement,Beginner,25,Hoog,Slecht,Slecht,Slecht
+Financial trader,Fiene van Nes-Frankhuizen,F,Antilliaans,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Studio,Expert,54,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, communications",Jason Oosterhek-van Henegouwen,F,Chinees,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Expert,48,Laag,Goed,Goed,Gemiddeld
+Air traffic controller,Stijn Sarneel,F,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,53,Hoog,Slecht,Gemiddeld,Gemiddeld
+Copy,Ian Lucas,F,Nederlands,Laag,Alleenstaand,Links,MBO,Joods,Gehuwd,Student,Twee-onder-een-kap,Intermediate,19,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Administrator, sports",Ashley de Beer,F,Turks,Laag,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,27,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Administrator, local government",Danique Rademaker,F,Surinaams,Laag,Alleenstaand met kinderen,Links,WO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Expert,68,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Scientist, biomedical",Emir van Ochten,M,Surinaams,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,85,Hoog,Goed,Gemiddeld,Slecht
+"Programmer, systems",Jesper van Mispelen,F,Nederlands,Laag,Samenwonend,Rechts,WO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld

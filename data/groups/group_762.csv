@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Accountant, chartered certified",Yasmine Adriaensdr-Hermans,F,Bulgaars,Laag,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,77,Laag,Goed,Goed,Slecht
+"Psychologist, forensic",Jelle Jekel,M,Chinees,Hoog,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,76,Hoog,Slecht,Gemiddeld,Slecht
+Broadcast journalist,Joep van Rijnsbergen,M,Indonesisch,Hoog,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,31,Gemiddeld,Gemiddeld,Slecht,Goed
+Broadcast presenter,Tijs Sas,F,Pools,Laag,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,51,Laag,Gemiddeld,Slecht,Slecht
+Ceramics designer,Dylan van Emmelen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Expert,51,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Journalist, magazine",Nienke Lage,F,Chinees,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Advanced,61,Laag,Goed,Gemiddeld,Goed
+"Buyer, industrial",Fem Lankle,M,Chinees,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, materials",Loïs Latier,M,Indiaas,Hoog,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,77,Laag,Goed,Gemiddeld,Slecht
+Claims inspector/assessor,Liv Kunen-de Boer,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Gehuwd,Parttime,Rijtjeshuis,Intermediate,35,Laag,Gemiddeld,Slecht,Gemiddeld
+Teaching laboratory technician,Suze van 't Erve-Cornelisse,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,92,Hoog,Slecht,Slecht,Goed
+"Exhibitions officer, museum/gallery",Féline Puig,F,Surinaams,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,88,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Administrator, sports",Fabiënne Broeckx,M,Nederlands,Laag,Samenwonend,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,22,Laag,Slecht,Gemiddeld,Gemiddeld
+"Surveyor, building control",Hailey Kamper,M,Turks,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,39,Laag,Slecht,Goed,Slecht
+Office manager,Aya Wolfsdr,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gescheiden,Zelfstandig,Twee-onder-een-kap,Intermediate,74,Laag,Gemiddeld,Goed,Gemiddeld
+Tourist information centre manager,Alicia Scheer,F,Antilliaans,Laag,Samenwonend met kinderen,Links,WO,Atheïstisch,Gehuwd,Student,Appartement,Expert,89,Laag,Goed,Gemiddeld,Goed
+Secondary school teacher,Amelia Pison,M,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,WO,Anders,Ongehuwd,Student,Appartement,Beginner,69,Laag,Goed,Gemiddeld,Slecht
+Health visitor,Thijmen de Grote,F,Irakees,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,68,Hoog,Gemiddeld,Slecht,Slecht
+Chartered legal executive (England and Wales),Linn van Bentheim-van Dijk,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Plant breeder/geneticist,Jamie Jans-Oude Heer,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Intermediate,77,Gemiddeld,Goed,Gemiddeld,Goed
+Midwife,Catharina Maas,F,Duits,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Parttime,Woonboot,Beginner,52,Hoog,Gemiddeld,Goed,Gemiddeld
+Sports administrator,Esther Martens,F,Surinaams,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,97,Laag,Gemiddeld,Slecht,Gemiddeld
+Oceanographer,Riley Heerschop-Meyer,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,65,Laag,Goed,Slecht,Gemiddeld
+"Scientist, research (medical)",Wesley van den Oever-Coolen,M,Italiaans,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Gemiddeld

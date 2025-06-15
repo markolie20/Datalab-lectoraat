@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Farm manager,Hanna van Bruchem,F,Turks,Laag,Alleenstaand,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,53,Laag,Goed,Gemiddeld,Goed
+"Doctor, hospital",Joey Coret-Coredo-Stichter,M,Spaans,Laag,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Student,Studio,Advanced,69,Laag,Goed,Slecht,Goed
+"Librarian, public",Mees Verbruggen,F,Marokkaans,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,19,Laag,Gemiddeld,Gemiddeld,Slecht
+Armed forces logistics/support/administrative officer,Bryan van den Nieuwenhuijsen-Walter,M,Spaans,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,92,Laag,Gemiddeld,Slecht,Goed
+Education administrator,Aaron Osterhoudt,F,Roemeens,Laag,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,64,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Development worker, community",Sepp van den Hoek,M,Indiaas,Gemiddeld,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Werkloos,Vrijstaand,Advanced,58,Laag,Goed,Gemiddeld,Goed
+"Designer, textile",Sep Jones,M,Nederlands,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,36,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Trade mark attorney,Fenne Tammerijn,M,Pools,Laag,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Fulltime,Appartement,Digibeet,73,Laag,Goed,Goed,Gemiddeld
+"Engineer, site",Tristan van Nederlotharingen,M,Eritrees,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial horticulturist,Fenna Pison,F,Nederlands,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Werkloos,Appartement,Beginner,95,Gemiddeld,Goed,Gemiddeld,Slecht
+Insurance account manager,Daniel Veltman,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Gepensioneerd,Appartement,Expert,39,Hoog,Goed,Goed,Slecht
+Advertising account executive,Mara Boddaugh,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,87,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Location manager,Fem Mahieu,F,Marokkaans,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,49,Laag,Slecht,Goed,Gemiddeld
+Personal assistant,Bo Lamotte,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,33,Hoog,Gemiddeld,Goed,Goed
+Advertising account planner,Naomi Buijs,F,Marokkaans,Laag,Alleenstaand,Midden,HAVO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Beginner,47,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Risk manager,Jolie de Marduras,F,Duits,Laag,Alleenstaand,Midden,MBO,Anders,Gescheiden,Parttime,Appartement,Intermediate,95,Laag,Goed,Slecht,Gemiddeld
+Aid worker,Rowan van Salm-Garret,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,88,Gemiddeld,Goed,Goed,Goed
+Armed forces logistics/support/administrative officer,Amina Hellevoort,M,Indonesisch,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,71,Gemiddeld,Goed,Goed,Goed

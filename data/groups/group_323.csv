@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Air broker,Maja Meeusen,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,23,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Insurance underwriter,Merijn Chevresson-Vergeer,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,51,Laag,Gemiddeld,Gemiddeld,Slecht
+Speech and language therapist,Mason Cornelisse,M,Surinaams,Laag,Samenwonend,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,68,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Aeronautical engineer,Demi van Landen-van der Linden,M,Chinees,Hoog,Alleenstaand,Midden,HBO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,43,Laag,Slecht,Gemiddeld,Gemiddeld
+Management consultant,Jet van Praagh,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,74,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Press photographer,Laura Sanders,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Expert,25,Hoog,Gemiddeld,Gemiddeld,Goed
+"Designer, fashion/clothing",Jet van de Wiel,F,Pools,Laag,Alleenstaand,Links,MBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Digibeet,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Haematologist,Victoria Ooms,F,Roemeens,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,47,Laag,Slecht,Slecht,Gemiddeld
+Make,Bas Jacobs,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,HAVO,Joods,Gehuwd,Fulltime,Appartement,Advanced,20,Laag,Gemiddeld,Gemiddeld,Slecht
+Sports administrator,Sara Pieters,F,Pools,Hoog,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,70,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Engineer, production",Liv Blom-Romijn,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,36,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Optician, dispensing",Jinthe Boddaugh,M,Indiaas,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,58,Gemiddeld,Gemiddeld,Slecht,Slecht
+Equality and diversity officer,Julius Kronenberg,M,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,98,Laag,Slecht,Goed,Goed
+Heritage manager,Timo Schwartsbach,F,Chinees,Hoog,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,91,Laag,Gemiddeld,Slecht,Goed
+"Merchandiser, retail",Jorn Serra,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,49,Hoog,Gemiddeld,Gemiddeld,Goed
+Dietitian,Jurre Courtier,F,Indiaas,Laag,Samenwonend met kinderen,Links,MBO,Joods,Ongehuwd,Student,Appartement,Intermediate,89,Laag,Gemiddeld,Gemiddeld,Slecht
+Higher education careers adviser,Yfke de Wit,M,Eritrees,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Advanced,36,Laag,Goed,Goed,Gemiddeld
+Acupuncturist,Mart Vial,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Joods,Gescheiden,Werkloos,Rijtjeshuis,Expert,92,Laag,Slecht,Slecht,Goed
+"Administrator, education",Collin Oosterhout-Doornhem,M,Marokkaans,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Student,Appartement,Intermediate,30,Hoog,Goed,Gemiddeld,Gemiddeld
+Podiatrist,Sjoerd Eerden,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,88,Laag,Goed,Slecht,Gemiddeld
+Museum education officer,Kyara van den Wittenboer-Stamrood,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Ongehuwd,Student,Appartement,Expert,39,Hoog,Gemiddeld,Goed,Goed
+Environmental health practitioner,Indy van der Heijden,M,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,67,Hoog,Gemiddeld,Gemiddeld,Goed
+"Scientist, product/process development",Iris van Vermandois,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Studio,Expert,68,Laag,Gemiddeld,Goed,Gemiddeld
+Event organiser,Nienke Emmen,F,Pools,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,28,Hoog,Goed,Gemiddeld,Slecht
+Insurance broker,Vajèn van Este,M,Marokkaans,Laag,Alleenstaand,Rechts,HAVO,Anders,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,98,Laag,Goed,Goed,Slecht
+Hydrologist,Lena Eijkelboom,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,72,Laag,Goed,Gemiddeld,Goed
+"Producer, television/film/video",Lot Hoedemakers-Jorlink,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Intermediate,61,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Building control surveyor,Nikki van Brunswijk-Aarts,M,Turks,Laag,Alleenstaand,Midden,HBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,35,Laag,Slecht,Gemiddeld,Gemiddeld
+Risk analyst,Jennifer den Buytelaar-Willems van Lier,M,Chinees,Laag,Alleenstaand,Links,HAVO,Anders,Gehuwd,Student,Vrijstaand,Beginner,73,Gemiddeld,Goed,Slecht,Gemiddeld
+Leisure centre manager,Faye Boer,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,42,Gemiddeld,Goed,Gemiddeld,Goed
+"Nurse, adult",Mason Lafleur,M,Marokkaans,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,77,Hoog,Gemiddeld,Gemiddeld,Goed
+"Investment banker, corporate",Dewi van Embden-van Kuijc,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,44,Laag,Goed,Goed,Slecht
+Operational researcher,Valentijn Martel-Dubois,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,21,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, structural",Amelia Janse-Verbeek,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,94,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Landscape architect,Olivia Dekker,M,Syrisch,Gemiddeld,Samenwonend,Midden,MBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Appartement,Digibeet,72,Laag,Gemiddeld,Goed,Goed

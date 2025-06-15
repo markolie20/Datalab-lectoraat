@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Therapeutic radiographer,Jennifer Hagendoorn,F,Surinaams,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Student,Vrijstaand,Digibeet,30,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Adult guidance worker,Tygo Kerkhof,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Appartement,Expert,32,Laag,Slecht,Gemiddeld,Gemiddeld
+Industrial buyer,Jay Perck,M,Nederlands,Gemiddeld,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,78,Laag,Gemiddeld,Gemiddeld,Slecht
+Regulatory affairs officer,Jay van Noort-van Leeuwen,F,Bulgaars,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,48,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Cartographer,Jim van Noordeloos-Claassen,F,Somalisch,Hoog,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,29,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Restaurant manager, fast food",Victoria van Ginkel,M,Indonesisch,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Expert,88,Gemiddeld,Slecht,Goed,Gemiddeld
+Quarry manager,Dina Charon-Moenen,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Beginner,99,Laag,Gemiddeld,Goed,Goed
+Conference centre manager,Siem Hoeks,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Beginner,57,Hoog,Goed,Gemiddeld,Gemiddeld
+Paediatric nurse,Ravi Ridder-Brandt,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,88,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Careers information officer,Noor Gruijl,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,38,Laag,Gemiddeld,Slecht,Gemiddeld
+"Therapist, sports",Sarah Dorsman-Vial,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Digibeet,24,Gemiddeld,Slecht,Gemiddeld,Goed
+"Lecturer, higher education",Danique de Boer-Adriaansen,F,Nederlands,Laag,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Werkloos,Studio,Beginner,63,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Photographer,Dex van 't Erve,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,18,Laag,Goed,Goed,Slecht
+Audiological scientist,Pien Uit de Willigen-Werdes,F,Nederlands,Hoog,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Woonboot,Advanced,71,Gemiddeld,Gemiddeld,Goed,Goed

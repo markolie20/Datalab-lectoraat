@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Sales professional, IT",Elena de Gratie-Rijntjes,M,Roemeens,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Student,Rijtjeshuis,Expert,77,Laag,Gemiddeld,Gemiddeld,Goed
+Ophthalmologist,Aaron Kramer,F,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gescheiden,Zelfstandig,Appartement,Intermediate,73,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Environmental education officer,Felix Jones-Velderman,M,Duits,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,93,Laag,Goed,Gemiddeld,Goed
+IT consultant,Jesper Ghoerle,F,Somalisch,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Anders,Gehuwd,Fulltime,Vrijstaand,Beginner,81,Gemiddeld,Slecht,Slecht,Goed
+Paramedic,Catharina van Beek,F,Indonesisch,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,98,Laag,Gemiddeld,Slecht,Gemiddeld
+Public house manager,Maurits van Dongen,M,Eritrees,Hoog,Samenwonend,Rechts,VMBO,Joods,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,79,Gemiddeld,Slecht,Goed,Goed
+Magazine features editor,Luna van der Sande,M,Pools,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,57,Laag,Gemiddeld,Gemiddeld,Goed
+Mechanical engineer,Jurre Loreal,M,Indiaas,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Gescheiden,Parttime,Twee-onder-een-kap,Advanced,47,Hoog,Goed,Gemiddeld,Slecht
+Technical author,Michael van den Nuwenhuijzen,M,Nederlands,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,18,Laag,Gemiddeld,Gemiddeld,Goed
+Television/film/video producer,Maartje Kamp-Gerrits,M,Portugees,Laag,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Parttime,Woonboot,Beginner,80,Laag,Gemiddeld,Goed,Gemiddeld
+Technical author,Raf van den Pol,F,Indonesisch,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Beginner,73,Gemiddeld,Slecht,Goed,Slecht
+Ambulance person,Sterre Keijzer,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,WO,Boeddhistisch,Gehuwd,Parttime,Appartement,Intermediate,91,Laag,Goed,Gemiddeld,Gemiddeld

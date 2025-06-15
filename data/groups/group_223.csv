@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Petroleum engineer,Mia Waardeloo,F,Surinaams,Laag,Samenwonend,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Vrijstaand,Intermediate,22,Gemiddeld,Goed,Goed,Slecht
+Optometrist,Elin van Westfalen,M,Surinaams,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,61,Laag,Gemiddeld,Gemiddeld,Slecht
+Purchasing manager,Giovanni Schuylenborch,F,Nederlands,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Student,Appartement,Digibeet,28,Hoog,Gemiddeld,Goed,Slecht
+Accounting technician,Jort de Bont-Lagerweij,F,Turks,Hoog,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Werkloos,Appartement,Beginner,80,Hoog,Goed,Goed,Gemiddeld
+Optometrist,Sterre Schilt,M,Pools,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,83,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Surveyor, minerals",Ella Otto,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,77,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Restaurant manager,Elise van Drenthe-van der Klijn,F,Antilliaans,Hoog,Samenwonend,Links,MBO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,76,Laag,Gemiddeld,Goed,Gemiddeld
+"Designer, interior/spatial",Joshua van Kusen,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,82,Laag,Gemiddeld,Goed,Goed
+"Journalist, broadcasting",Robin Spies,F,Marokkaans,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,54,Gemiddeld,Goed,Slecht,Goed
+Geoscientist,Noud van Arnsberg,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Anders,Gehuwd,Parttime,Rijtjeshuis,Intermediate,47,Hoog,Slecht,Gemiddeld,Gemiddeld

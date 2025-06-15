@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Scientific laboratory technician,Quinten van der Stael,F,Irakees,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gescheiden,Parttime,Appartement,Advanced,69,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Patent examiner,Mohamed Mangel,M,Turks,Hoog,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,48,Hoog,Slecht,Gemiddeld,Gemiddeld
+Financial adviser,Berat Steenbeek,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Applications developer,Sam de Kale,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,37,Laag,Gemiddeld,Gemiddeld,Slecht
+"Psychologist, counselling",Ivan Doyle,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,34,Laag,Gemiddeld,Goed,Gemiddeld
+Forensic psychologist,Julius van Enschot,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Expert,39,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Biomedical engineer,Elena Elbertse,M,Chinees,Gemiddeld,Alleenstaand,Midden,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,59,Laag,Goed,Gemiddeld,Gemiddeld
+Fast food restaurant manager,Amy van Riet,F,Marokkaans,Gemiddeld,Samenwonend,Midden,MBO,Joods,Gehuwd,Gepensioneerd,Appartement,Digibeet,79,Laag,Gemiddeld,Gemiddeld,Goed
+"Psychotherapist, child",Matthijs Wolters,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Parttime,Studio,Digibeet,96,Laag,Slecht,Goed,Gemiddeld
+Clinical cytogeneticist,Lucas van Gemert,F,Afghaans,Laag,Samenwonend,Midden,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Laag,Gemiddeld,Gemiddeld,Goed
+Contractor,Isabella van Gelder-Tammerijn,M,Indiaas,Laag,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Digibeet,69,Laag,Gemiddeld,Gemiddeld,Slecht
+"Journalist, newspaper",Lara Geerts,M,Indiaas,Gemiddeld,Samenwonend,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,40,Gemiddeld,Slecht,Goed,Slecht
+Arboriculturist,Giel van der Kint,M,Nederlands,Hoog,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,56,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Hydrogeologist,Mirte van der Sloot,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,55,Laag,Goed,Goed,Slecht
+Clinical research associate,Leah Olthof,F,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Parttime,Woonboot,Intermediate,53,Gemiddeld,Goed,Goed,Slecht
+"Administrator, arts",Koen Verhaar,F,Duits,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,46,Laag,Gemiddeld,Goed,Goed
+Catering manager,Sanne Kok,F,Nederlands,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,94,Laag,Slecht,Gemiddeld,Gemiddeld

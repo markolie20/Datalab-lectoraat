@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Quarry manager,Jort Coolen,F,Marokkaans,Hoog,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,99,Hoog,Goed,Slecht,Gemiddeld
+Media buyer,Niels Beourgeois,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,73,Laag,Gemiddeld,Slecht,Gemiddeld
+Curator,Ryan Rousselet,M,Nederlands,Gemiddeld,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,52,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Careers adviser,Yasmin Tuithof-Zuijdveld,M,Indonesisch,Laag,Alleenstaand,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Laag,Gemiddeld,Slecht,Gemiddeld
+Community pharmacist,Isa Zeldenrust,M,Duits,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,81,Gemiddeld,Goed,Goed,Gemiddeld
+Geographical information systems officer,Tijn Opmans,M,Turks,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,24,Laag,Gemiddeld,Goed,Gemiddeld
+"Presenter, broadcasting",Loes Momberg,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,53,Laag,Goed,Goed,Slecht
+"Engineer, agricultural",Indy Vierdag,F,Turks,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,46,Laag,Gemiddeld,Goed,Gemiddeld
+Press sub,Sten Govarts,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,81,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Surveyor, rural practice",Nadia Hendriks,F,Turks,Hoog,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,89,Gemiddeld,Slecht,Goed,Goed
+"Administrator, education",Jasper Moet,M,Turks,Hoog,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Werkloos,Studio,Intermediate,81,Laag,Gemiddeld,Goed,Gemiddeld
+Barista,Daniel Miltenburg-Hendricks,F,Italiaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Appartement,Advanced,91,Hoog,Goed,Slecht,Gemiddeld
+Radio producer,Dirk van Veen,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,92,Laag,Goed,Goed,Slecht
+Pensions consultant,Jesper van Duvenvoirde,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Boeddhistisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,29,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Rural practice surveyor,Joël Smeets-Broekhoven,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,55,Laag,Gemiddeld,Goed,Gemiddeld
+Clinical molecular geneticist,Tijn Bave,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Weduwe/Weduwnaar,Student,Appartement,Advanced,50,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

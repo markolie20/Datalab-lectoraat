@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Applications developer,Aiden de Bruin,M,Italiaans,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Ongehuwd,Student,Appartement,Advanced,92,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Minerals surveyor,Philip van Embden,F,Turks,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Advanced,40,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Amenity horticulturist,Luke Schenk,F,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,28,Laag,Gemiddeld,Slecht,Gemiddeld
+Public affairs consultant,Ivan Haring,M,Antilliaans,Gemiddeld,Alleenstaand,Links,WO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,86,Hoog,Goed,Gemiddeld,Gemiddeld
+Radio producer,Féline der Kijnder,M,Duits,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,43,Hoog,Goed,Slecht,Gemiddeld
+Aeronautical engineer,Julia Post,M,Spaans,Laag,Alleenstaand,Rechts,WO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,94,Laag,Slecht,Goed,Gemiddeld
+Holiday representative,Jacob Arnold,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,85,Hoog,Gemiddeld,Gemiddeld,Goed
+Radio broadcast assistant,Norah Ketting,F,Chinees,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Gescheiden,Parttime,Appartement,Advanced,26,Laag,Gemiddeld,Slecht,Slecht
+"Surveyor, rural practice",Dirk van Hostaden,M,Nederlands,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Expert,47,Hoog,Goed,Slecht,Gemiddeld
+Retail banker,Elisabeth Verbeeck,F,Eritrees,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Digibeet,95,Laag,Gemiddeld,Slecht,Gemiddeld
+Barrister,Roos van de Velde,M,Nederlands,Laag,Samenwonend,Links,VMBO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Advanced,77,Gemiddeld,Gemiddeld,Goed,Goed
+"Surveyor, hydrographic",Quinn Ansems,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Gescheiden,Gepensioneerd,Vrijstaand,Intermediate,49,Laag,Goed,Goed,Gemiddeld

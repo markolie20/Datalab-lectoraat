@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Prison officer,Isis Oostveen,F,Pools,Laag,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,91,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Insurance risk surveyor,Jelte Jonker,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,64,Laag,Goed,Goed,Goed
+Race relations officer,Bibi Stinis,M,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Hoog,Gemiddeld,Goed,Goed
+Chief Executive Officer,Matthijs van Leuven,M,Turks,Laag,Alleenstaand,Midden,HBO,Anders,Ongehuwd,Fulltime,Studio,Intermediate,78,Hoog,Slecht,Gemiddeld,Goed
+"Pilot, airline",Jesper van Boven,F,Pools,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,34,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Nurse, learning disability",Kevin Otto,M,Indiaas,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Anders,Gehuwd,Werkloos,Rijtjeshuis,Beginner,46,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, site",Ceylin Dirksen,M,Roemeens,Hoog,Alleenstaand,Midden,VWO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,64,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Wellsite geologist,Roan van der Maes,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,74,Hoog,Goed,Gemiddeld,Slecht
+Retail buyer,Quinten Rademaker-Brandt,M,Eritrees,Gemiddeld,Alleenstaand,Links,HAVO,Boeddhistisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,30,Gemiddeld,Goed,Gemiddeld,Slecht
+Curator,Thijn Boogaerts-Weeldenburg,M,Marokkaans,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,78,Laag,Slecht,Gemiddeld,Goed
+Environmental consultant,Stijn Loreal,M,Indiaas,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,48,Laag,Gemiddeld,Goed,Gemiddeld
+"Restaurant manager, fast food",Charlotte Brumleve,M,Indonesisch,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,42,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Air traffic controller,Hendrik Lambregt,F,Nederlands,Hoog,Alleenstaand,Rechts,VWO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,52,Gemiddeld,Slecht,Goed,Gemiddeld
+Fisheries officer,Bas Jansen-van Kasteelen,F,Surinaams,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,87,Laag,Slecht,Gemiddeld,Goed
+Sub,Tim Ariens,M,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Intermediate,89,Laag,Goed,Gemiddeld,Goed
+"Clinical scientist, histocompatibility and immunogenetics",Olivia de Nijs,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Studio,Beginner,31,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Secretary, company",Nout Wilson,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Joods,Ongehuwd,Parttime,Vrijstaand,Advanced,76,Laag,Goed,Goed,Goed
+Planning and development surveyor,Olivia Sire,M,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Studio,Intermediate,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered accountant,Fleur Spruyt,F,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,80,Laag,Gemiddeld,Gemiddeld,Goed
+Higher education careers adviser,Jade Emmen,F,Indiaas,Laag,Samenwonend,Rechts,WO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,53,Laag,Slecht,Gemiddeld,Goed
+Insurance claims handler,Ruben de Vos,F,Afghaans,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,39,Laag,Gemiddeld,Slecht,Slecht
+Child psychotherapist,Noortje van der Velden,F,Nederlands,Laag,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,52,Laag,Slecht,Gemiddeld,Slecht
+Office manager,Siem Passchiers,F,Nederlands,Hoog,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Beginner,81,Laag,Gemiddeld,Gemiddeld,Goed

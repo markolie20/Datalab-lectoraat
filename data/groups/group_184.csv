@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Teacher, secondary school",Benjamin Boetet,F,Portugees,Laag,Alleenstaand,Rechts,WO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,30,Laag,Goed,Slecht,Gemiddeld
+Mudlogger,Pleun Peronne,M,Turks,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,25,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Financial manager,Noëlle Wolters,F,Chinees,Hoog,Samenwonend,Rechts,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Expert,45,Laag,Slecht,Gemiddeld,Slecht
+Publishing rights manager,Lucy van Schevinghuizen,M,Nederlands,Laag,Alleenstaand,Links,WO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,59,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Advice worker,Phileine van den Eijssel,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,40,Gemiddeld,Slecht,Slecht,Gemiddeld
+Amenity horticulturist,Merle Eijkelboom,F,Marokkaans,Hoog,Alleenstaand,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,52,Laag,Goed,Slecht,Slecht
+"Clinical scientist, histocompatibility and immunogenetics",Selina Arent,M,Pools,Laag,Samenwonend,Rechts,VWO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,42,Gemiddeld,Gemiddeld,Goed,Goed
+"Embryologist, clinical",Florian Neuzerling,F,Afghaans,Hoog,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,66,Laag,Gemiddeld,Gemiddeld,Slecht
+Nature conservation officer,Elias Vegt,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Intermediate,37,Laag,Slecht,Gemiddeld,Goed
+Pharmacologist,Jennifer van Salmen,M,Indonesisch,Hoog,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,52,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Translator,Kay van Enschot,F,Somalisch,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,81,Gemiddeld,Goed,Gemiddeld,Goed
+Sports therapist,Elias de Leeuw,M,Bulgaars,Laag,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Student,Twee-onder-een-kap,Digibeet,32,Gemiddeld,Goed,Slecht,Gemiddeld
+Microbiologist,Dani van Vermandois,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,84,Hoog,Gemiddeld,Gemiddeld,Goed
+Youth worker,Pien Wigman,F,Eritrees,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,89,Laag,Gemiddeld,Goed,Gemiddeld
+TEFL teacher,Esmée Pierson,M,Surinaams,Hoog,Samenwonend met kinderen,Midden,VWO,Christelijk,Gescheiden,Student,Appartement,Advanced,96,Laag,Gemiddeld,Slecht,Gemiddeld
+"Teacher, early years/pre",Indy Rek-d' Heripon,F,Afghaans,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,41,Hoog,Goed,Slecht,Goed
+Community arts worker,Esmee Kof-Nek,F,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Twee-onder-een-kap,Intermediate,94,Hoog,Goed,Slecht,Goed

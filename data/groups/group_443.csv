@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Programmer, applications",Yfke Scardino-van Maasgouw,F,Bulgaars,Hoog,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Goed,Goed,Gemiddeld
+Theatre director,Sofia Honing,M,Chinees,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,91,Gemiddeld,Goed,Goed,Gemiddeld
+Information systems manager,Cas Oosterhek-Engels,M,Indiaas,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Parttime,Appartement,Beginner,29,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+General practice doctor,Zakaria van Northeim-ter Waarbeek,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gescheiden,Fulltime,Appartement,Digibeet,58,Gemiddeld,Goed,Slecht,Gemiddeld
+Technical author,Stefan van den Nuwenhuysen-Overdijk,F,Turks,Laag,Samenwonend,Links,HBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Expert,50,Laag,Slecht,Gemiddeld,Gemiddeld
+"Designer, television/film set",Fay Bronder-Schotte,F,Marokkaans,Gemiddeld,Samenwonend,Rechts,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,48,Laag,Gemiddeld,Goed,Gemiddeld
+"Social research officer, government",Ryan Maas,F,Syrisch,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Student,Appartement,Expert,42,Laag,Goed,Gemiddeld,Gemiddeld
+"Teacher, music",Matthias Oennen,M,Somalisch,Laag,Samenwonend met kinderen,Rechts,WO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,55,Hoog,Gemiddeld,Gemiddeld,Goed
+"Teacher, special educational needs",Niels den Buytelaar,F,Portugees,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Student,Appartement,Expert,68,Gemiddeld,Goed,Gemiddeld,Goed
+Data scientist,Matthias van de Leemput,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,65,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Designer, ceramics/pottery",Annabel Laffray,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Expert,75,Laag,Goed,Goed,Gemiddeld
+Herpetologist,Joshua van Ochten,M,Indonesisch,Gemiddeld,Samenwonend,Links,HBO,Anders,Ongehuwd,Werkloos,Appartement,Intermediate,49,Laag,Slecht,Gemiddeld,Gemiddeld

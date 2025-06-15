@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Fine artist,Zara Oostveen-Stettyn,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,52,Laag,Goed,Gemiddeld,Gemiddeld
+"Biochemist, clinical",Evi Bloemendaal,F,Duits,Gemiddeld,Alleenstaand met kinderen,Links,WO,Islamitisch,Gehuwd,Student,Vrijstaand,Expert,29,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Housing manager/officer,Helena Heijmen,M,Somalisch,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,65,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Journalist, magazine",Sophia van der Kaay-de Bruin,F,Irakees,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Intermediate,86,Laag,Slecht,Goed,Gemiddeld
+"Engineer, maintenance",Maartje Risma-van Bernicia,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,VMBO,Anders,Gescheiden,Student,Rijtjeshuis,Intermediate,28,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety adviser,Rik van de Biezenbos,M,Turks,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,18,Laag,Gemiddeld,Gemiddeld,Goed
+Ranger/warden,Seth Sestig-Thomas,M,Pools,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Digibeet,49,Laag,Goed,Gemiddeld,Slecht
+Lobbyist,Nina Boers,M,Marokkaans,Laag,Alleenstaand,Links,VWO,Joods,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Digibeet,23,Laag,Goed,Slecht,Goed
+Air cabin crew,Bart van Tours,F,Turks,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,65,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Catering manager,Sanne de Hoog-Tielemans,M,Chinees,Gemiddeld,Samenwonend met kinderen,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,74,Gemiddeld,Slecht,Goed,Gemiddeld
+"Journalist, newspaper",Tess Wipstrik,M,Italiaans,Gemiddeld,Samenwonend met kinderen,Links,HBO,Joods,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,52,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Agricultural engineer,Mats van Haspengouw Hesbaye-Bos,F,Turks,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Advanced,65,Gemiddeld,Gemiddeld,Gemiddeld,Goed

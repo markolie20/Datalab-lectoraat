@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Broadcast journalist,Bibi Oennen,M,Eritrees,Laag,Alleenstaand,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,27,Laag,Gemiddeld,Gemiddeld,Slecht
+Tax inspector,Milou de Koning-van der Velde,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Advanced,32,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Newspaper journalist,Amélie Kuijpers,F,Turks,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,26,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, radio",Chloé van Orleans,F,Turks,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,89,Laag,Goed,Goed,Slecht
+"Surveyor, building control",Raf van Ooste,F,Chinees,Laag,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,71,Gemiddeld,Slecht,Gemiddeld,Slecht
+Banker,Ilse de Bruin,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,54,Laag,Goed,Gemiddeld,Gemiddeld
+Television camera operator,Philip Brands,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Gescheiden,Werkloos,Appartement,Advanced,38,Laag,Gemiddeld,Slecht,Gemiddeld
+Adult guidance worker,Milo Haack,M,Surinaams,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Expert,25,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Estate manager/land agent,Fenne Engels,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,25,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, research (medical)",Berat Uphaus,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,21,Laag,Gemiddeld,Gemiddeld,Goed
+Management consultant,Lucy Krabbe,F,Bulgaars,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Expert,90,Laag,Gemiddeld,Slecht,Slecht

@@ -1,0 +1,21 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Advertising copywriter,Maud van den Nuwenhuysen,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Student,Vrijstaand,Beginner,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Software engineer,Loïs Dachgeldt,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Parttime,Woonboot,Beginner,61,Laag,Gemiddeld,Goed,Gemiddeld
+Lawyer,Sofie Fortuyn,M,Bulgaars,Laag,Samenwonend,Midden,HBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Twee-onder-een-kap,Beginner,81,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Mining engineer,Noud Linschoten,M,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Student,Vrijstaand,Intermediate,24,Hoog,Gemiddeld,Slecht,Goed
+Illustrator,Ibrahim Verhaar-van Bernicia,M,Marokkaans,Laag,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Expert,44,Laag,Goed,Gemiddeld,Gemiddeld
+Academic librarian,Lize Stange,M,Turks,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,46,Hoog,Slecht,Gemiddeld,Gemiddeld
+Naval architect,Jente Vastenhouw-Ferran,F,Marokkaans,Hoog,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Student,Appartement,Intermediate,38,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Equities trader,Lotte van Gils,F,Nederlands,Hoog,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,71,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Heritage manager,Hamza van Clootwijck,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,56,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Accountant, chartered",Aylin Martel,F,Duits,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Digibeet,95,Laag,Goed,Goed,Goed
+Curator,Sarah Vial,F,Syrisch,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,38,Laag,Slecht,Goed,Goed
+Occupational psychologist,Jinthe Henric van den Nuwenhuse,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,MBO,Anders,Gescheiden,Fulltime,Appartement,Beginner,19,Laag,Slecht,Goed,Gemiddeld
+"Teacher, primary school",Jayden Schulten,F,Indiaas,Laag,Samenwonend,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Nurse, mental health",Brent Schakelaar-van de Pol,F,Pools,Hoog,Alleenstaand,Midden,MBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,83,Gemiddeld,Goed,Goed,Slecht
+"Education officer, environmental",Luca Bos,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,77,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Community pharmacist,Aaliyah Bruijne van der Veen,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Studio,Expert,37,Gemiddeld,Goed,Slecht,Gemiddeld
+Horticultural therapist,Zakaria Freshour,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,MBO,Joods,Gescheiden,Parttime,Rijtjeshuis,Intermediate,20,Laag,Gemiddeld,Goed,Goed
+Pensions consultant,Ali de Boer,F,Turks,Laag,Samenwonend,Rechts,WO,Islamitisch,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,81,Gemiddeld,Gemiddeld,Goed,Goed
+"Lecturer, higher education",Julia Claassen,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Student,Woonboot,Beginner,86,Laag,Gemiddeld,Goed,Gemiddeld
+Air broker,Fay Jansdr-Carnotte,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Gescheiden,Fulltime,Vrijstaand,Advanced,39,Hoog,Gemiddeld,Slecht,Goed

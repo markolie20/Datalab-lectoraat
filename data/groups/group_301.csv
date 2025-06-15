@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Clinical scientist, histocompatibility and immunogenetics",Hendrik Marchal,F,Turks,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,30,Laag,Goed,Gemiddeld,Goed
+Biomedical engineer,Senna Hak-van den Nuwenhuysen,M,Eritrees,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Parttime,Studio,Intermediate,84,Gemiddeld,Gemiddeld,Goed,Goed
+Insurance account manager,Juliette van Bernicia,M,Surinaams,Gemiddeld,Alleenstaand,Links,HBO,Anders,Gescheiden,Fulltime,Appartement,Advanced,61,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Civil engineer, consulting",Guusje Kuipers,F,Antilliaans,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,81,Gemiddeld,Goed,Goed,Goed
+Meteorologist,Morris Matthews-de Leeuw,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Studio,Intermediate,56,Gemiddeld,Gemiddeld,Slecht,Goed
+Outdoor activities/education manager,Fatima François,M,Antilliaans,Hoog,Samenwonend,Midden,VMBO,Islamitisch,Gescheiden,Parttime,Appartement,Intermediate,58,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, automotive",Felix Meyer,M,Surinaams,Hoog,Samenwonend,Midden,Basisonderwijs,Islamitisch,Gehuwd,Parttime,Appartement,Expert,33,Laag,Gemiddeld,Gemiddeld,Goed
+Microbiologist,Myrthe van Beeck Beeckmans-Meijer,M,Turks,Hoog,Samenwonend,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Woonboot,Beginner,93,Laag,Goed,Gemiddeld,Gemiddeld
+Armed forces operational officer,Marit Krabbe-Melet,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,79,Laag,Goed,Goed,Gemiddeld
+Musician,Jasmijn Goderts,M,Nederlands,Gemiddeld,Samenwonend,Midden,WO,Atheïstisch,Gescheiden,Fulltime,Appartement,Beginner,52,Hoog,Slecht,Gemiddeld,Goed
+Charity officer,Raf Mens,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,40,Gemiddeld,Goed,Slecht,Gemiddeld
+Dealer,Lisanne van Laon-van der Maath,F,Turks,Laag,Samenwonend,Links,WO,Atheïstisch,Ongehuwd,Zelfstandig,Woonboot,Beginner,66,Laag,Slecht,Goed,Gemiddeld
+Phytotherapist,Jules Estey,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gescheiden,Gepensioneerd,Appartement,Intermediate,88,Gemiddeld,Goed,Goed,Gemiddeld
+Psychotherapist,Jens Honing,M,Pools,Laag,Samenwonend met kinderen,Rechts,WO,Atheïstisch,Gescheiden,Zelfstandig,Appartement,Intermediate,63,Gemiddeld,Goed,Gemiddeld,Gemiddeld

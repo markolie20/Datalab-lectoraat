@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, research (physical sciences)",Kim Van Bragt,M,Nederlands,Hoog,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,32,Laag,Goed,Gemiddeld,Goed
+Retail banker,Mette Wolzak-de Jong,M,Irakees,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Intermediate,79,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, therapeutic",Kim Cadefau,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Joods,Ongehuwd,Student,Vrijstaand,Advanced,98,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Theme park manager,Emily Kolen,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Parttime,Appartement,Expert,97,Gemiddeld,Gemiddeld,Goed,Goed
+Contracting civil engineer,Jim Jansen,F,Duits,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,78,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Actor,Hamza Jonker,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,91,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Geophysical data processor,Bo Dekker,M,Indonesisch,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Gepensioneerd,Vrijstaand,Intermediate,29,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Accounting technician,Ilse Claassen,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Werkloos,Woonboot,Beginner,95,Gemiddeld,Goed,Gemiddeld,Goed
+Surgeon,Frederique Oude Heer-Draaisma,M,Pools,Hoog,Alleenstaand,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Intermediate,44,Laag,Goed,Slecht,Goed
+Chief of Staff,Aimée de Jong-Ariens Ansems,M,Surinaams,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,99,Gemiddeld,Gemiddeld,Goed,Slecht
+Writer,Jonas Engels-Broeckx,M,Nederlands,Hoog,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,38,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Network engineer,Inaya Blonk,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,30,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

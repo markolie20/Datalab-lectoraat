@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Market researcher,Victor van Stralen,F,Pools,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Student,Appartement,Advanced,69,Laag,Gemiddeld,Gemiddeld,Slecht
+Clinical biochemist,Leon Heymans,M,Spaans,Hoog,Samenwonend,Links,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Intermediate,64,Laag,Gemiddeld,Goed,Goed
+Archivist,Jenna Pierson-Laffray,F,Marokkaans,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Gehuwd,Fulltime,Vrijstaand,Beginner,33,Laag,Gemiddeld,Gemiddeld,Slecht
+Insurance risk surveyor,Kick Bouthoorn,M,Portugees,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,74,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Jewellery designer,"Bryan West-Francië, van",M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Beginner,62,Gemiddeld,Gemiddeld,Goed,Goed
+Land,Mia Duivenvoorden-Zwart,F,Turks,Hoog,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,51,Laag,Goed,Goed,Gemiddeld
+Cartographer,Isa Gemen,M,Nederlands,Hoog,Alleenstaand,Links,MBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,46,Gemiddeld,Gemiddeld,Slecht,Goed
+"Therapist, speech and language",Casper Ghoerle,M,Roemeens,Hoog,Alleenstaand,Links,WO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,50,Laag,Gemiddeld,Goed,Gemiddeld
+Illustrator,Faye van der Meulen-van der Mast,F,Chinees,Laag,Samenwonend,Rechts,VWO,Joods,Gescheiden,Parttime,Studio,Intermediate,68,Laag,Goed,Slecht,Goed
+IT consultant,Arie Moensendijk-Speijer,M,Irakees,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,61,Gemiddeld,Goed,Slecht,Goed
+Air broker,Tara van Berkel-Huijben,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,26,Gemiddeld,Goed,Gemiddeld,Goed

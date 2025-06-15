@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, aeronautical",Nout Klomp Jan,M,Chinees,Laag,Samenwonend,Links,HAVO,Anders,Gehuwd,Zelfstandig,Studio,Beginner,61,Laag,Goed,Gemiddeld,Gemiddeld
+Product manager,Lauren van der Velde,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,96,Gemiddeld,Goed,Slecht,Gemiddeld
+Diagnostic radiographer,Meike Velderman-van Zwaben,M,Pools,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,80,Gemiddeld,Gemiddeld,Goed,Goed
+Applications developer,Lizz van de Kooij,F,Portugees,Hoog,Alleenstaand,Midden,MBO,Christelijk,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Expert,42,Laag,Slecht,Gemiddeld,Gemiddeld
+Naval architect,Kyara Kok-Hekker,F,Afghaans,Laag,Alleenstaand met kinderen,Links,MBO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,56,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Purchasing manager,Olaf Nijman,F,Nederlands,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,19,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, sports",Dex Ellis,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,24,Laag,Goed,Gemiddeld,Gemiddeld
+"Lecturer, higher education",Fleur Marchand-Furda,F,Portugees,Laag,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,40,Laag,Goed,Gemiddeld,Gemiddeld
+Ranger/warden,Sjoerd Hendrikse-Walsteijn,F,Bulgaars,Laag,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Fulltime,Woonboot,Advanced,21,Hoog,Goed,Slecht,Gemiddeld
+"Production assistant, television",Thijn Bruynzeels-de Ruiter,F,Turks,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,79,Laag,Gemiddeld,Gemiddeld,Slecht
+Educational psychologist,Nathan van Haspengouw Hesbaye,F,Pools,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,73,Laag,Gemiddeld,Goed,Goed
+Banker,Isabelle Steenbakkers,M,Bulgaars,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,73,Gemiddeld,Goed,Goed,Gemiddeld
+"Runner, broadcasting/film/video",Bas Vial,F,Somalisch,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,83,Hoog,Goed,Gemiddeld,Slecht
+Research scientist (life sciences),Johanna van der Stael,M,Nederlands,Hoog,Samenwonend,Links,WO,Joods,Ongehuwd,Fulltime,Appartement,Beginner,60,Laag,Goed,Gemiddeld,Slecht
+Land/geomatics surveyor,Berat Smit-Potters,M,Nederlands,Hoog,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,83,Laag,Gemiddeld,Slecht,Slecht

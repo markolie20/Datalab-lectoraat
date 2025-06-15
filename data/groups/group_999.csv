@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Personal assistant,Cornelis van de Leemput-van der Kint,F,Nederlands,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,65,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Communications engineer,Jort Hoes,M,Turks,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,28,Gemiddeld,Goed,Gemiddeld,Slecht
+Building services engineer,Jack van Kuijc,M,Spaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,31,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Financial planner,Jelle de Roo,M,Nederlands,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,33,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Ecologist,Jake van der Laarse,F,Chinees,Hoog,Samenwonend,Midden,Basisonderwijs,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,28,Laag,Gemiddeld,Gemiddeld,Slecht
+Theatre director,Lara Berendse,M,Indiaas,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,67,Laag,Gemiddeld,Goed,Slecht
+IT consultant,Josephine van de Greef,F,Chinees,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,57,Laag,Slecht,Slecht,Goed
+Museum/gallery conservator,Dani Ariens Ansems-Spanhaak,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Beginner,99,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Aya Kriens,M,Chinees,Laag,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,45,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Mining engineer,Marinus Luitgardis van Neustrië,M,Nederlands,Hoog,Alleenstaand,Rechts,VMBO,Joods,Ongehuwd,Zelfstandig,Appartement,Beginner,40,Gemiddeld,Goed,Goed,Goed
+Systems developer,Joey Roose,F,Surinaams,Hoog,Alleenstaand,Rechts,WO,Anders,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,52,Hoog,Gemiddeld,Slecht,Gemiddeld
+Museum/gallery curator,Mare die Pelser,F,Chinees,Laag,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Expert,78,Laag,Gemiddeld,Goed,Slecht
+"Engineer, agricultural",Timo van Beek,M,Pools,Laag,Alleenstaand,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,79,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Manufacturing systems engineer,Ruben Schiffer-Draaisma,M,Surinaams,Laag,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Woonboot,Beginner,95,Hoog,Goed,Slecht,Gemiddeld
+TEFL teacher,Mick van der Meulen,M,Marokkaans,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,95,Hoog,Gemiddeld,Gemiddeld,Goed
+Fisheries officer,Luc Nedermeijer-Uit de Willigen,F,Nederlands,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,47,Laag,Gemiddeld,Slecht,Gemiddeld
+"Social research officer, government",Milou Giselmeyer,M,Indiaas,Hoog,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,81,Laag,Slecht,Gemiddeld,Goed

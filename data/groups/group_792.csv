@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, marine",Vigo Hoppenbrouwer,M,Antilliaans,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gescheiden,Werkloos,Twee-onder-een-kap,Intermediate,91,Laag,Goed,Gemiddeld,Goed
+Comptroller,Aron van Gastel,F,Nederlands,Hoog,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,95,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Nature conservation officer,Isabella Cornelissen,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,71,Hoog,Gemiddeld,Gemiddeld,Goed
+Quarry manager,Amir Kuilenburg-Doyle,F,Irakees,Laag,Samenwonend,Rechts,HBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,49,Laag,Slecht,Gemiddeld,Slecht
+Agricultural engineer,Amelia van Gorp-van 't Riet,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,42,Hoog,Goed,Goed,Gemiddeld
+Commissioning editor,Ian Sitters-van der Kaay,M,Turks,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Expert,90,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Buyer, industrial",Mohamed van der Hoeven,F,Irakees,Gemiddeld,Samenwonend met kinderen,Links,WO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,80,Laag,Slecht,Goed,Goed
+Set designer,Berat van Allemanië,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,79,Hoog,Gemiddeld,Goed,Gemiddeld
+Chief Executive Officer,Pien Steenbakkers,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Hindoeïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,20,Gemiddeld,Slecht,Goed,Gemiddeld
+"Doctor, hospital",Evy Remmers-van der Wal,M,Indiaas,Laag,Alleenstaand met kinderen,Links,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,63,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, site",Sebastiaan Coret-Coredo,F,Portugees,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,49,Laag,Goed,Gemiddeld,Goed
+"Engineer, building services",Ibrahim Adriaensdr,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Anders,Gescheiden,Parttime,Appartement,Advanced,75,Laag,Slecht,Goed,Goed

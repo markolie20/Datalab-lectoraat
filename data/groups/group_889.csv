@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, production",Ise Koster,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,47,Laag,Gemiddeld,Goed,Gemiddeld
+Artist,Valentijn de Roos,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Gescheiden,Parttime,Twee-onder-een-kap,Expert,67,Laag,Gemiddeld,Slecht,Goed
+Risk manager,Joëlle Buijs,M,Turks,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,71,Laag,Slecht,Goed,Gemiddeld
+Orthoptist,Daan van Salm,M,Nederlands,Gemiddeld,Alleenstaand,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Hoog,Slecht,Slecht,Goed
+"Surveyor, rural practice",Victor Sitters,M,Syrisch,Laag,Alleenstaand met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Expert,40,Laag,Gemiddeld,Goed,Goed
+Operational researcher,Jari Verhoeven,F,Nederlands,Laag,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,99,Laag,Gemiddeld,Goed,Goed
+"Engineer, drilling",Jill Bosch-Pierson,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Laag,Goed,Goed,Gemiddeld
+"Designer, fashion/clothing",Yassin Driessen,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,83,Laag,Gemiddeld,Gemiddeld,Goed
+Call centre manager,Norah van der Linden,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Werkloos,Appartement,Digibeet,22,Gemiddeld,Gemiddeld,Slecht,Goed
+Food technologist,Fabiënne Cadefau,F,Surinaams,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Psychiatric nurse,Quinty Vervoort,F,Chinees,Hoog,Samenwonend,Links,HAVO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,63,Laag,Slecht,Gemiddeld,Slecht
+Homeopath,Jasmijn Honing,F,Indiaas,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Werkloos,Appartement,Expert,56,Gemiddeld,Goed,Goed,Slecht

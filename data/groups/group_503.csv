@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Medical illustrator,Ben Blokland,F,Surinaams,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Expert,88,Gemiddeld,Goed,Goed,Slecht
+Warehouse manager,Bente Wildschut,F,Antilliaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,63,Gemiddeld,Slecht,Goed,Gemiddeld
+IT sales professional,Joy Houdijk,F,Pools,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,86,Laag,Slecht,Goed,Gemiddeld
+Newspaper journalist,Vincent Korstman,M,Marokkaans,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,72,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Fish farm manager,Demi Joosten-d' Heripon,F,Nederlands,Laag,Samenwonend,Midden,MBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Advanced,78,Laag,Goed,Goed,Gemiddeld
+Magazine journalist,Selena Recers,F,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,28,Laag,Gemiddeld,Gemiddeld,Slecht
+"Psychologist, sport and exercise",Elif Helmerhorst,F,Chinees,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Werkloos,Appartement,Advanced,38,Laag,Gemiddeld,Gemiddeld,Goed
+"Geologist, wellsite",Leah Osterhoudt,F,Surinaams,Hoog,Samenwonend met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,80,Hoog,Slecht,Gemiddeld,Goed
+"Scientist, research (medical)",Naomi de Roo-van Rossum,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Ongehuwd,Fulltime,Studio,Intermediate,39,Laag,Gemiddeld,Slecht,Slecht
+Regulatory affairs officer,Zoey van Beek,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,96,Laag,Gemiddeld,Slecht,Gemiddeld
+Tour manager,Sil van Noordeloos,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,96,Laag,Gemiddeld,Gemiddeld,Goed
+Minerals surveyor,Fenna Tillmanno,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,68,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Editor, film/video",Joost Schellekens-van Gemert,M,Pools,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,23,Hoog,Gemiddeld,Goed,Goed
+Forensic scientist,Tyler Meeusen,F,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,19,Laag,Gemiddeld,Goed,Goed
+"Physicist, medical",Ties Boddaugh,F,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,69,Laag,Slecht,Goed,Goed
+Orthoptist,Fien Lamotte-Friehus,M,Turks,Gemiddeld,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Werkloos,Vrijstaand,Intermediate,49,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Energy engineer,Yfke Sitters,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,86,Laag,Goed,Slecht,Slecht

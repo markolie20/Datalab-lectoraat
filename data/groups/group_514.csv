@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Radiographer, therapeutic",Tirza van Bunschoten-van Hamaland,M,Surinaams,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,62,Laag,Slecht,Slecht,Slecht
+"Engineer, building services",Daniel van der Loo,F,Chinees,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gehuwd,Parttime,Appartement,Advanced,70,Laag,Goed,Slecht,Gemiddeld
+Quarry manager,Vince Horrocks,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,94,Laag,Slecht,Slecht,Gemiddeld
+Marine scientist,Cornelia Moensendijk,M,Irakees,Gemiddeld,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,56,Hoog,Gemiddeld,Slecht,Gemiddeld
+Medical secretary,Sophie Vermeulen,M,Portugees,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,37,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Probation officer,Selina Brizee,M,Syrisch,Laag,Alleenstaand met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Beginner,67,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Mental health nurse,Bilal Kleijse,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,70,Laag,Gemiddeld,Gemiddeld,Slecht
+"Librarian, public",Imke Henric van den Nuwenhuse,M,Turks,Gemiddeld,Samenwonend,Links,VWO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,73,Hoog,Gemiddeld,Gemiddeld,Goed
+Illustrator,Bo Brugman,M,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,18,Hoog,Goed,Gemiddeld,Gemiddeld
+Planning and development surveyor,Philip van de Leemput,F,Indiaas,Laag,Samenwonend,Rechts,Basisonderwijs,Anders,Gescheiden,Student,Rijtjeshuis,Advanced,74,Laag,Gemiddeld,Slecht,Gemiddeld
+"Journalist, newspaper",Livia Loreal,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,WO,Anders,Ongehuwd,Fulltime,Studio,Intermediate,58,Laag,Gemiddeld,Gemiddeld,Goed
+"Teacher, early years/pre",Sylvie Post,M,Eritrees,Laag,Samenwonend,Midden,MBO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Chief Operating Officer,Danique Haring,F,Marokkaans,Laag,Alleenstaand,Rechts,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,44,Laag,Gemiddeld,Slecht,Gemiddeld

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Accountant, chartered",Faye Mol,M,Duits,Gemiddeld,Samenwonend,Midden,HBO,Anders,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,80,Laag,Gemiddeld,Gemiddeld,Goed
+Jewellery designer,Merel Brouwer,F,Antilliaans,Laag,Samenwonend met kinderen,Links,HBO,Hindoeïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,26,Laag,Goed,Gemiddeld,Slecht
+"Scientist, water quality",Chris van Formbach-Keijser,F,Portugees,Laag,Alleenstaand met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Expert,84,Laag,Gemiddeld,Gemiddeld,Goed
+Radio broadcast assistant,Cas Hoppenbrouwer,F,Marokkaans,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,88,Laag,Slecht,Gemiddeld,Gemiddeld
+Occupational therapist,Fem Winters,F,Italiaans,Gemiddeld,Samenwonend,Midden,VMBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,33,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Programmer, systems",Elisabeth van den Corput-Huijs,F,Pools,Hoog,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Digibeet,40,Hoog,Slecht,Slecht,Goed
+Adult guidance worker,Noortje Suijker,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,31,Laag,Slecht,Slecht,Goed
+Tax adviser,Sylvie Wooning,M,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,63,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Health and safety inspector,Jules Peronne,M,Turks,Laag,Samenwonend met kinderen,Rechts,WO,Anders,Gescheiden,Werkloos,Appartement,Beginner,59,Hoog,Gemiddeld,Goed,Gemiddeld
+"Sales professional, IT",Danique van Venrooy,M,Indiaas,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,20,Laag,Slecht,Gemiddeld,Gemiddeld
+"Psychotherapist, dance movement",Wesley van Leuven,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Student,Appartement,Intermediate,50,Laag,Slecht,Gemiddeld,Gemiddeld

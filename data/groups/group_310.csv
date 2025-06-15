@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Education administrator,Jonathan Geerts,F,Indiaas,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,69,Laag,Goed,Gemiddeld,Slecht
+"Nurse, mental health",Imran Terry,M,Surinaams,Laag,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Studio,Expert,78,Hoog,Gemiddeld,Slecht,Gemiddeld
+Lexicographer,Lisanne Ernst,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,61,Laag,Goed,Goed,Gemiddeld
+Newspaper journalist,Oscar Bos,F,Portugees,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Advanced,94,Hoog,Gemiddeld,Gemiddeld,Slecht
+Clinical cytogeneticist,Ivy van de Elzas,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,81,Hoog,Goed,Gemiddeld,Goed
+Mechanical engineer,Sara Woudenberg,F,Chinees,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,90,Laag,Gemiddeld,Gemiddeld,Slecht
+Immigration officer,Ryan van der Pouw-Wolfswinkel,M,Turks,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Studio,Intermediate,48,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Marketing executive,Elias Gerritse,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Studio,Intermediate,66,Gemiddeld,Slecht,Goed,Gemiddeld
+"Surveyor, hydrographic",Tara de Mol,M,Somalisch,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,60,Laag,Gemiddeld,Gemiddeld,Slecht
+"Research officer, government",Kick Wilmont,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,27,Laag,Goed,Goed,Gemiddeld
+"Therapist, horticultural",Samuel van Oirschot,M,Somalisch,Laag,Alleenstaand,Links,HBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,91,Laag,Gemiddeld,Gemiddeld,Goed
+Farm manager,Jaylinn Schokman-Levesque,F,Bulgaars,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Woonboot,Intermediate,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (life sciences),Aaron Chotzen,F,Nederlands,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Gescheiden,Student,Rijtjeshuis,Beginner,73,Gemiddeld,Goed,Goed,Gemiddeld
+"Chemist, analytical",Mehmet Stamrood,M,Italiaans,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Advanced,43,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Minerals surveyor,Mathijs de Wit,M,Irakees,Hoog,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Studio,Intermediate,73,Laag,Goed,Gemiddeld,Goed
+"Engineer, manufacturing",Milou Dries,F,Bulgaars,Hoog,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,23,Hoog,Goed,Gemiddeld,Slecht
+"Engineer, site",Victoria Aalts,F,Surinaams,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Islamitisch,Gehuwd,Werkloos,Vrijstaand,Advanced,90,Laag,Goed,Slecht,Gemiddeld
+Ranger/warden,Mohamed Lucas,M,Chinees,Hoog,Samenwonend,Links,HBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Appartement,Expert,20,Hoog,Goed,Gemiddeld,Goed

@@ -1,0 +1,22 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Administrator, Civil Service",Philip Jeggij,F,Spaans,Laag,Samenwonend,Midden,MBO,Atheïstisch,Gehuwd,Werkloos,Appartement,Advanced,81,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Public librarian,Chris Dries,M,Chinees,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,69,Gemiddeld,Gemiddeld,Goed,Goed
+Print production planner,Arie Backer,F,Nederlands,Laag,Alleenstaand,Midden,WO,Joods,Gescheiden,Student,Woonboot,Intermediate,28,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Database administrator,Joey van Mil-Mijsberg,M,Pools,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,90,Hoog,Goed,Goed,Slecht
+Farm manager,Noah Dennenberg,F,Chinees,Gemiddeld,Alleenstaand,Midden,MBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,29,Laag,Gemiddeld,Gemiddeld,Goed
+Chief Technology Officer,Lot van Oostendorp,M,Syrisch,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,30,Gemiddeld,Goed,Gemiddeld,Goed
+Armed forces operational officer,Olivier van Arkel,M,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Intermediate,23,Hoog,Goed,Gemiddeld,Gemiddeld
+Fast food restaurant manager,Noortje Puig,F,Surinaams,Laag,Alleenstaand met kinderen,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,86,Laag,Gemiddeld,Slecht,Gemiddeld
+Agricultural consultant,Mohammed Korstman,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,74,Gemiddeld,Slecht,Gemiddeld,Slecht
+Records manager,Lex van Laon,M,Turks,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Studio,Intermediate,71,Hoog,Gemiddeld,Slecht,Gemiddeld
+Software engineer,Tyler van Daal,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,89,Laag,Goed,Gemiddeld,Goed
+Product designer,Matthijs Klomp Jan-Schellekens,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,WO,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,78,Hoog,Slecht,Goed,Gemiddeld
+Rural practice surveyor,Matthijs Meeusen,M,Afghaans,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,24,Laag,Goed,Goed,Gemiddeld
+Animal nutritionist,Megan van Spreuwel,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Anders,Gescheiden,Parttime,Woonboot,Intermediate,81,Hoog,Slecht,Gemiddeld,Gemiddeld
+Charity fundraiser,Maja Passchiers,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,24,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, therapeutic",Valerie Mosley,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,63,Hoog,Gemiddeld,Goed,Slecht
+Systems developer,Sara de Gruil,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,70,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Administrator, arts",Joey Post,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,75,Laag,Gemiddeld,Goed,Gemiddeld
+Clothing/textile technologist,Florian Heerkens-Meeusen,F,Indiaas,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Student,Appartement,Intermediate,84,Laag,Gemiddeld,Gemiddeld,Slecht
+Cytogeneticist,Leah Korsman,F,Roemeens,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,59,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, music",Loek van Hamaland,M,Portugees,Laag,Samenwonend met kinderen,Midden,WO,Joods,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,59,Hoog,Goed,Goed,Gemiddeld

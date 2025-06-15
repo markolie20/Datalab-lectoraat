@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, chemical",Iris van der Spaendonck,F,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,47,Laag,Gemiddeld,Goed,Slecht
+Aeronautical engineer,Kayleigh Verschut-van Rijthoven,M,Roemeens,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,21,Laag,Gemiddeld,Gemiddeld,Slecht
+Mudlogger,Jason Arent,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Parttime,Studio,Advanced,78,Laag,Gemiddeld,Gemiddeld,Slecht
+Energy engineer,Lot Arnold,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Student,Twee-onder-een-kap,Advanced,57,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, building services",Nisa Bos,F,Antilliaans,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,59,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Optician, dispensing",Faas Bleijenberg,M,Irakees,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Werkloos,Studio,Digibeet,30,Gemiddeld,Gemiddeld,Goed,Goed
+Comptroller,Liza van der Stael de Jonge,M,Roemeens,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Beginner,87,Hoog,Goed,Goed,Goed
+Control and instrumentation engineer,Melissa van der Sloot,F,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Boeddhistisch,Gescheiden,Zelfstandig,Appartement,Beginner,83,Gemiddeld,Goed,Goed,Goed
+Translator,Guus de Heer,F,Antilliaans,Laag,Alleenstaand,Rechts,VWO,Anders,Ongehuwd,Werkloos,Studio,Advanced,77,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Copywriter, advertising",Philip Roose,M,Marokkaans,Laag,Alleenstaand,Links,WO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,74,Gemiddeld,Slecht,Slecht,Gemiddeld
+Print production planner,Sebastiaan Meyer-Feenstra,F,Indiaas,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,62,Gemiddeld,Goed,Gemiddeld,Slecht
+Fisheries officer,Loes Claesner-van Saksen,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Student,Appartement,Advanced,55,Laag,Gemiddeld,Gemiddeld,Goed

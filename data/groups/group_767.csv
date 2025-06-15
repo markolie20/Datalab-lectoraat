@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Associate Professor,Eline Matthews,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,98,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Homeopath,Tom Lieshout,M,Portugees,Laag,Samenwonend,Rechts,HAVO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,87,Gemiddeld,Goed,Goed,Gemiddeld
+Plant breeder/geneticist,Casper Levesque-Stinis,F,Roemeens,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,44,Hoog,Gemiddeld,Goed,Gemiddeld
+"Radiographer, diagnostic",Lucas van Wijland-van Oirschot,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Anders,Ongehuwd,Fulltime,Vrijstaand,Intermediate,85,Laag,Goed,Gemiddeld,Gemiddeld
+Analytical chemist,Yfke Verheij-Westermann,M,Irakees,Hoog,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Beginner,70,Laag,Goed,Gemiddeld,Slecht
+Information systems manager,Nora Schagen-Vandenbergh,F,Roemeens,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,73,Gemiddeld,Gemiddeld,Goed,Goed
+Research scientist (physical sciences),Ilse van Ooste-van Beek,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Advanced,80,Laag,Goed,Goed,Goed
+"Research officer, government",Jelte Hekker,F,Eritrees,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,47,Laag,Goed,Goed,Slecht
+"Teacher, primary school",Nadia Michielsen-Salet,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Anders,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,48,Laag,Gemiddeld,Gemiddeld,Goed
+Community development worker,Jordy van Ghoerle,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Gehuwd,Parttime,Woonboot,Digibeet,86,Hoog,Goed,Gemiddeld,Goed
+"Geologist, wellsite",Mark de Smit,M,Surinaams,Laag,Alleenstaand met kinderen,Links,HAVO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,33,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Comptroller,Jayson Korsman-Hehl,M,Portugees,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,42,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Environmental education officer,Twan van Bruchem,F,Surinaams,Laag,Alleenstaand,Links,WO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,60,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Astronomer,Julie van der Pol,M,Pools,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,19,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Exhibition designer,Pleun van den Assem,F,Antilliaans,Hoog,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,38,Laag,Slecht,Goed,Slecht
+"Designer, interior/spatial",Roan van Allemanië,M,Marokkaans,Hoog,Alleenstaand,Links,Basisonderwijs,Hindoeïstisch,Gehuwd,Fulltime,Studio,Expert,33,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

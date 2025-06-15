@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, research (life sciences)",Sarah Miltenburg,F,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Digibeet,54,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Television production assistant,Noud de Vos,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,86,Hoog,Slecht,Gemiddeld,Gemiddeld
+Estate manager/land agent,Leah van Breukeleveen,F,Chinees,Laag,Samenwonend met kinderen,Links,HBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,44,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Clothing/textile technologist,Philip van Haspengouw,M,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Werkloos,Woonboot,Expert,88,Laag,Gemiddeld,Goed,Gemiddeld
+Field trials officer,Simon van der Brink,M,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Gescheiden,Student,Appartement,Expert,20,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, blown glass/stained glass",Alicia Huberts,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,79,Laag,Goed,Goed,Gemiddeld
+Dealer,Alex van de Water,M,Indiaas,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,77,Gemiddeld,Slecht,Slecht,Slecht
+Careers adviser,Juul Kuijpers,F,Indonesisch,Laag,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,73,Hoog,Gemiddeld,Slecht,Goed
+"Scientist, water quality",Zeynep van den Oever,F,Italiaans,Laag,Samenwonend,Links,VWO,Joods,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,53,Hoog,Gemiddeld,Gemiddeld,Goed
+Firefighter,Rosa Serra,F,Pools,Gemiddeld,Samenwonend,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Beginner,71,Gemiddeld,Slecht,Slecht,Gemiddeld
+Armed forces operational officer,Sami Genefaas-Mijsberg,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,MBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Expert,69,Hoog,Gemiddeld,Gemiddeld,Goed
+"Conservator, furniture",Jaylinn Sarneel,F,Roemeens,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,21,Hoog,Gemiddeld,Slecht,Gemiddeld
+Training and development officer,Noah Brizee,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Student,Appartement,Beginner,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Amenity horticulturist,Sarah Soos,M,Turks,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Anders,Ongehuwd,Fulltime,Vrijstaand,Advanced,45,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Economist,Tijs Lamotte,M,Antilliaans,Laag,Samenwonend met kinderen,Links,WO,Anders,Gehuwd,Fulltime,Vrijstaand,Advanced,67,Laag,Slecht,Gemiddeld,Gemiddeld
+Horticultural therapist,Lizzy Ketting,M,Duits,Laag,Samenwonend met kinderen,Midden,WO,Boeddhistisch,Gescheiden,Zelfstandig,Twee-onder-een-kap,Beginner,78,Gemiddeld,Gemiddeld,Goed,Gemiddeld

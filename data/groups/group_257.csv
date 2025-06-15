@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Barista,Lucas de Bruin,M,Bulgaars,Laag,Alleenstaand,Rechts,HBO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,46,Gemiddeld,Goed,Goed,Gemiddeld
+"Designer, multimedia",Kyra van Haeften,F,Syrisch,Laag,Samenwonend,Midden,WO,Christelijk,Gehuwd,Werkloos,Appartement,Intermediate,46,Gemiddeld,Slecht,Gemiddeld,Slecht
+Environmental education officer,Luke van Kusen-Bouthoorn,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,90,Gemiddeld,Gemiddeld,Goed,Goed
+Broadcast engineer,Sebastiaan Dachgelt,M,Somalisch,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,96,Gemiddeld,Slecht,Slecht,Gemiddeld
+Hydrographic surveyor,Nadine van der Hoeven-Rippey,M,Roemeens,Hoog,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,69,Gemiddeld,Goed,Gemiddeld,Goed
+Solicitor,Yinthe Joosten,M,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,49,Laag,Goed,Goed,Gemiddeld
+Secretary/administrator,Mia Blewanus,M,Somalisch,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,63,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Museum education officer,Veerle van Ommeren,F,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,97,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Fisheries officer,Fatima Zijlmans,M,Afghaans,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,88,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Human resources officer,Luc de Gruijl,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,98,Laag,Gemiddeld,Gemiddeld,Goed
+Medical technical officer,Chloé Westerburg,F,Eritrees,Laag,Samenwonend met kinderen,Midden,VWO,Hindoeïstisch,Gescheiden,Student,Vrijstaand,Intermediate,55,Gemiddeld,Goed,Slecht,Goed
+"Journalist, magazine",Aimée Hulst,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Digibeet,91,Laag,Slecht,Gemiddeld,Goed
+Trade union research officer,Bradley Passchiers,M,Marokkaans,Laag,Samenwonend,Links,WO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, land/geomatics",Jonathan Bruggeman,F,Marokkaans,Gemiddeld,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,97,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety inspector,Tara van Tours,M,Turks,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,29,Gemiddeld,Goed,Goed,Goed
+Actuary,Mats de Jode Vastraedsd,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,94,Laag,Slecht,Gemiddeld,Slecht
+"Engineer, maintenance",Brent Corstiaens,M,Antilliaans,Laag,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Woonboot,Intermediate,56,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Risk analyst,Maud van Gemert,M,Nederlands,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Hindoeïstisch,Gehuwd,Werkloos,Appartement,Advanced,71,Hoog,Goed,Slecht,Gemiddeld
+"Engineer, structural",Chloé Bouthoorn,F,Indiaas,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,76,Laag,Gemiddeld,Goed,Goed
+Barrister's clerk,Rens Jansen,M,Irakees,Laag,Samenwonend,Midden,HBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,87,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Insurance underwriter,Ella Blonk,M,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Parttime,Studio,Expert,97,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Copy,Nout Lutterveld-van Rossum,F,Spaans,Hoog,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,97,Laag,Goed,Goed,Slecht
+"Scientist, audiological",Dex Mulder-Slingerland,F,Somalisch,Laag,Samenwonend,Midden,MBO,Atheïstisch,Gescheiden,Parttime,Woonboot,Intermediate,57,Laag,Slecht,Gemiddeld,Slecht
+"Psychotherapist, child",Dean den Haag-Ferran,F,Roemeens,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,49,Laag,Slecht,Slecht,Slecht
+"Exhibitions officer, museum/gallery",Catharina van Luxemburg-Thout,F,Surinaams,Laag,Alleenstaand,Rechts,VMBO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,88,Hoog,Gemiddeld,Slecht,Goed

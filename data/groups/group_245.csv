@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Theme park manager,Lina van Beek,M,Bulgaars,Hoog,Samenwonend met kinderen,Rechts,WO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Expert,42,Laag,Gemiddeld,Gemiddeld,Goed
+Web designer,Jacob van Dijk,F,Nederlands,Laag,Samenwonend,Links,HBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Appartement,Digibeet,36,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Charity officer,Elisabeth van Grondelle-den Teuling,M,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,40,Gemiddeld,Goed,Goed,Slecht
+"Exhibitions officer, museum/gallery",Dana Bosman,F,Duits,Laag,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Student,Vrijstaand,Advanced,65,Hoog,Gemiddeld,Slecht,Goed
+Ceramics designer,Ruben Stange,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,64,Gemiddeld,Gemiddeld,Goed,Goed
+Optometrist,Pim Berendse,M,Turks,Hoog,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,90,Laag,Goed,Gemiddeld,Goed
+Analytical chemist,Lieve Dorsman-Kronenberg,F,Surinaams,Hoog,Alleenstaand,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,46,Hoog,Slecht,Goed,Slecht
+"Surveyor, building control",Feline Feenstra,F,Chinees,Gemiddeld,Alleenstaand,Links,MBO,Anders,Ongehuwd,Fulltime,Studio,Beginner,88,Gemiddeld,Goed,Goed,Goed
+"Conservation officer, nature",Fedde Jdotte,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,59,Gemiddeld,Goed,Goed,Goed
+Legal secretary,Joris Françoise,F,Syrisch,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,64,Gemiddeld,Slecht,Goed,Gemiddeld
+"Engineer, maintenance (IT)",Stella van Velzen,M,Bulgaars,Laag,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Fulltime,Studio,Beginner,95,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Public relations account executive,Kyano Loreal,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,20,Laag,Gemiddeld,Goed,Goed
+Psychiatric nurse,Féline van Laarhoven-van der Heijden,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,94,Gemiddeld,Gemiddeld,Gemiddeld,Goed

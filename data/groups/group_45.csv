@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Computer games developer,Elias Tielemans,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,95,Laag,Goed,Gemiddeld,Goed
+Advertising account planner,Hailey Bertho,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Expert,80,Gemiddeld,Gemiddeld,Goed,Goed
+Dealer,Sofia de Werd-Ulrich,M,Pools,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Digibeet,41,Laag,Goed,Goed,Goed
+"Teacher, secondary school",Mats Zeemans,M,Eritrees,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,49,Laag,Slecht,Gemiddeld,Gemiddeld
+"Doctor, hospital",Yinthe Lind,M,Marokkaans,Laag,Alleenstaand,Midden,HAVO,Anders,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Editor, magazine features",Oscar Tirie-Rijntjes,M,Antilliaans,Laag,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,61,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Housing manager/officer,Olaf van Arkel,F,Syrisch,Laag,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,70,Laag,Gemiddeld,Goed,Gemiddeld
+Agricultural engineer,Sofia Wagenvoort,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Beginner,23,Hoog,Goed,Slecht,Gemiddeld
+Lobbyist,Jaylinn Roose,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Advanced,28,Gemiddeld,Slecht,Goed,Goed
+Communications engineer,Matthijs Mens,M,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Gescheiden,Fulltime,Woonboot,Intermediate,51,Gemiddeld,Goed,Gemiddeld,Goed
+Cartographer,Esther Veenstra,F,Nederlands,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,24,Gemiddeld,Gemiddeld,Slecht,Goed
+Mining engineer,Dex Beourgeois-Maas,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Digibeet,64,Laag,Gemiddeld,Gemiddeld,Slecht

@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Insurance broker,Britt Scherms,M,Marokkaans,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,43,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, forensic",Annemijn Greij-Sprong,F,Syrisch,Laag,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Studio,Beginner,58,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Geographical information systems officer,Maartje Rijntjes,F,Marokkaans,Laag,Samenwonend,Midden,HBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,30,Laag,Gemiddeld,Slecht,Goed
+Information systems manager,Nadine Kamp-Gepa van Bourgondië,F,Indiaas,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Intermediate,75,Gemiddeld,Goed,Slecht,Goed
+Office manager,Aya Wolfsdr,M,Irakees,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Mental health nurse,Chloë Goedhart,M,Marokkaans,Laag,Samenwonend,Links,HBO,Hindoeïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,53,Laag,Goed,Gemiddeld,Slecht
+Higher education lecturer,Ise Huijben-Vandenbergh,F,Indonesisch,Laag,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,49,Laag,Gemiddeld,Goed,Goed
+Archivist,Tycho Amalrada,M,Somalisch,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,96,Laag,Gemiddeld,Gemiddeld,Slecht
+Health promotion specialist,Frederique Ernst-Brouwer,M,Surinaams,Gemiddeld,Alleenstaand,Links,HBO,Anders,Weduwe/Weduwnaar,Gepensioneerd,Vrijstaand,Beginner,84,Laag,Goed,Goed,Slecht
+Chartered legal executive (England and Wales),Sam van Dijk,M,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,87,Laag,Goed,Gemiddeld,Slecht
+Risk manager,Sven Korstman,F,Indonesisch,Laag,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,68,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Fashion designer,Raf Sprong,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,86,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, civil (contracting)",Lenn Hendriks,M,Surinaams,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,66,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Geologist, engineering",Jip Winnrich,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,73,Hoog,Goed,Gemiddeld,Goed
+"Engineer, aeronautical",Jacob Kamp,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,66,Hoog,Gemiddeld,Slecht,Goed
+"Programmer, multimedia",Floortje van der Steen,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Beginner,47,Laag,Gemiddeld,Gemiddeld,Slecht
+Public affairs consultant,Lena Oda,F,Syrisch,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,21,Hoog,Slecht,Gemiddeld,Goed
+Financial controller,Elif de Jong,M,Turks,Laag,Samenwonend met kinderen,Links,VWO,Hindoeïstisch,Gescheiden,Student,Appartement,Intermediate,45,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Hotel manager,Simon Smits-Langevoort,F,Irakees,Laag,Alleenstaand,Links,MBO,Hindoeïstisch,Gehuwd,Student,Appartement,Intermediate,92,Laag,Slecht,Goed,Gemiddeld
+"Research officer, political party",Roan van der Maes-van Laar,F,Indonesisch,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,75,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Systems developer,Senn Kathagen,M,Roemeens,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,28,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Producer, radio",Yinthe Werdes,M,Surinaams,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,39,Gemiddeld,Goed,Goed,Gemiddeld
+Herpetologist,Britt Briere,F,Pools,Gemiddeld,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,30,Gemiddeld,Goed,Gemiddeld,Slecht
+Community pharmacist,Kate de Koning,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Advanced,70,Gemiddeld,Gemiddeld,Slecht,Slecht
+Commercial/residential surveyor,Tirza Hendriks-van Brunswijk,M,Syrisch,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,86,Laag,Slecht,Gemiddeld,Gemiddeld

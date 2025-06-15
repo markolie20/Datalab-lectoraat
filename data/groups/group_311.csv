@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Copywriter, advertising",Mohamed Uit de Willigen,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,28,Hoog,Gemiddeld,Slecht,Goed
+Neurosurgeon,Nadine Huberts,M,Antilliaans,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,60,Laag,Gemiddeld,Slecht,Gemiddeld
+Dance movement psychotherapist,Eva van Geest,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gescheiden,Gepensioneerd,Appartement,Digibeet,91,Hoog,Goed,Slecht,Slecht
+"Therapist, nutritional",Norah Hoes,F,Pools,Hoog,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,60,Laag,Slecht,Gemiddeld,Goed
+Investment analyst,Mason Niermann,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,29,Hoog,Gemiddeld,Slecht,Slecht
+"Teacher, special educational needs",Isa Dijkman,F,Roemeens,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,79,Gemiddeld,Goed,Slecht,Gemiddeld
+Photographer,Jelle Oemencs,F,Pools,Laag,Alleenstaand,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,68,Gemiddeld,Slecht,Gemiddeld,Goed
+Armed forces training and education officer,Chloé van de Noordmark,F,Pools,Gemiddeld,Samenwonend,Rechts,VWO,Joods,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,97,Laag,Gemiddeld,Slecht,Gemiddeld
+Equality and diversity officer,Finn Goedhart,M,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,49,Laag,Slecht,Slecht,Gemiddeld
+Event organiser,Wout Blom-Pierson,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,81,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, water",Sebastiaan Schakelaar,F,Nederlands,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,66,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Social research officer, government",Aimée Elsemulder,F,Indiaas,Hoog,Samenwonend,Links,VMBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Digibeet,61,Laag,Slecht,Slecht,Gemiddeld
+Actuary,Joost van Wallaert,M,Nederlands,Hoog,Samenwonend,Midden,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Expert,61,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Musician,Brent Massa,F,Portugees,Laag,Samenwonend met kinderen,Links,WO,Joods,Weduwe/Weduwnaar,Parttime,Appartement,Advanced,93,Hoog,Slecht,Goed,Slecht

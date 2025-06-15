@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Sports coach,Fleur van Rijthoven-van Ginkel,F,Pools,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gescheiden,Student,Appartement,Advanced,54,Laag,Goed,Gemiddeld,Goed
+"Designer, multimedia",Carlijn van Velthoven,F,Surinaams,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,94,Laag,Goed,Gemiddeld,Gemiddeld
+Charity fundraiser,Amelia Perck,F,Chinees,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,74,Laag,Gemiddeld,Slecht,Gemiddeld
+Politician's assistant,Myrthe Ehlert-Uphuis,F,Nederlands,Laag,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Student,Appartement,Intermediate,50,Laag,Goed,Gemiddeld,Goed
+"Therapist, sports",Michael Doyle,F,Surinaams,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,61,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Conservator, museum/gallery",Job van Dijk,M,Indiaas,Hoog,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,38,Laag,Gemiddeld,Goed,Goed
+Television floor manager,Quinty van den Nuwenhuijzen,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,43,Laag,Slecht,Gemiddeld,Slecht
+"Engineer, aeronautical",Stijn de Heer,F,Marokkaans,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Digibeet,77,Laag,Gemiddeld,Goed,Goed
+"Engineer, automotive",Mason Unruoch Hunerik,M,Indonesisch,Gemiddeld,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,75,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Therapist, sports",Joy Klomp Jan-Bezemer,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,74,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Therapist, art",Milo van der Stael,M,Irakees,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Biochemist, clinical",Thomas van der Mast,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Joods,Gehuwd,Parttime,Rijtjeshuis,Beginner,56,Laag,Slecht,Goed,Gemiddeld
+"Psychotherapist, dance movement",Josephine van Geest,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,28,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Conference centre manager,Ali Smeets,M,Turks,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Gehuwd,Student,Appartement,Digibeet,56,Laag,Slecht,Slecht,Slecht
+Armed forces training and education officer,Rik Stinis-van de Pavert,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,32,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Lighting technician, broadcasting/film/video",Lars Korstman,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,27,Gemiddeld,Goed,Goed,Gemiddeld
+"Surveyor, quantity",Elin Room,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,80,Gemiddeld,Goed,Gemiddeld,Goed
+"Engineer, civil (contracting)",Olivia van Rossum,F,Surinaams,Hoog,Samenwonend met kinderen,Rechts,HBO,Joods,Ongehuwd,Fulltime,Vrijstaand,Intermediate,73,Hoog,Goed,Slecht,Slecht
+Risk manager,Mehmet Stuivenberg,F,Nederlands,Hoog,Alleenstaand,Midden,VWO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,66,Laag,Gemiddeld,Gemiddeld,Slecht
+Personnel officer,Koen Claassen,F,Somalisch,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,56,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Outdoor activities/education manager,Arie Honing,F,Italiaans,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gescheiden,Werkloos,Appartement,Expert,32,Laag,Slecht,Gemiddeld,Gemiddeld
+Radio broadcast assistant,Jayda Jeggij,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,61,Laag,Slecht,Gemiddeld,Slecht

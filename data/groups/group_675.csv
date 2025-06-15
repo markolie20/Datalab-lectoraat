@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Community arts worker,Esmée Brandon-Arnold,M,Italiaans,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,29,Laag,Goed,Gemiddeld,Goed
+"Horticulturist, amenity",Sara Gepa van Bourgondië,M,Indiaas,Hoog,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Expert,36,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Community development worker,Dana Kamper,F,Indiaas,Laag,Samenwonend met kinderen,Rechts,HBO,Hindoeïstisch,Gehuwd,Fulltime,Woonboot,Advanced,32,Laag,Goed,Gemiddeld,Gemiddeld
+Special effects artist,Arthur van Boulogne,M,Marokkaans,Laag,Samenwonend,Midden,HBO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Intermediate,79,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, production",Maartje van den Broek,M,Indiaas,Hoog,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Studio,Expert,83,Laag,Goed,Gemiddeld,Slecht
+"Designer, interior/spatial",Alicia Spier,M,Pools,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,31,Gemiddeld,Goed,Slecht,Goed
+Chief Marketing Officer,Isabella Brands,F,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,91,Laag,Gemiddeld,Gemiddeld,Slecht
+Solicitor,Wessel Walsteijn,F,Nederlands,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,49,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Chiropractor,Lisa van der Heyden,M,Eritrees,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, exhibition/display",Jonathan Wolfsdr-van Salm,M,Pools,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Magazine features editor,Loïs Bijlsma,M,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Woonboot,Expert,57,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, water quality",Jasmijn Oude Heer,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HAVO,Hindoeïstisch,Ongehuwd,Zelfstandig,Woonboot,Beginner,46,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Toxicologist,Ties Bouhuizen,M,Nederlands,Hoog,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,99,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, planning and development",Norah van Oudewater,F,Somalisch,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Environmental education officer,Ayden Ghoerle-Schroeff,M,Marokkaans,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Werkloos,Appartement,Beginner,39,Laag,Goed,Goed,Gemiddeld
+Dietitian,Aiden Hoppenbrouwer,F,Nederlands,Laag,Samenwonend,Links,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,59,Laag,Gemiddeld,Goed,Goed
+Wellsite geologist,Yusuf Palman-de Beer,F,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Expert,56,Hoog,Goed,Slecht,Slecht
+Furniture conservator/restorer,Casper Goudriaan,M,Turks,Hoog,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,99,Gemiddeld,Slecht,Slecht,Gemiddeld
+Air cabin crew,Alex Köster,M,Portugees,Laag,Samenwonend,Rechts,HAVO,Anders,Ongehuwd,Zelfstandig,Appartement,Intermediate,41,Gemiddeld,Goed,Gemiddeld,Goed
+"Teacher, primary school",Noëlle Elsenaar,F,Somalisch,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,67,Hoog,Goed,Gemiddeld,Slecht
+Surgeon,Jinthe Heinrichs,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,95,Laag,Gemiddeld,Goed,Gemiddeld
+Financial trader,Linn Kamper,M,Duits,Laag,Samenwonend,Rechts,MBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,39,Laag,Gemiddeld,Gemiddeld,Slecht
+Fashion designer,Mark Jekel,F,Antilliaans,Gemiddeld,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Fast food restaurant manager,Lucy van Amstel,F,Roemeens,Hoog,Samenwonend,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Vrijstaand,Advanced,65,Gemiddeld,Slecht,Slecht,Gemiddeld
+Arts administrator,Owen van Asten-Koret,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,85,Gemiddeld,Gemiddeld,Goed,Gemiddeld

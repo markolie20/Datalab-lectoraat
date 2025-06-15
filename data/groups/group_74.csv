@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Clinical molecular geneticist,Yasmine Linschoten,F,Chinees,Hoog,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Advanced,24,Laag,Slecht,Slecht,Gemiddeld
+Diagnostic radiographer,Boaz Lijn,F,Marokkaans,Hoog,Alleenstaand,Rechts,MBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Digibeet,45,Laag,Slecht,Gemiddeld,Gemiddeld
+Amenity horticulturist,Mirte Frerichs,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,46,Laag,Slecht,Gemiddeld,Goed
+"Accountant, chartered management",Nina Jorrisen,F,Duits,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,89,Gemiddeld,Goed,Goed,Gemiddeld
+Interpreter,Colin Spier,M,Chinees,Laag,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,49,Hoog,Gemiddeld,Gemiddeld,Slecht
+Garment/textile technologist,Jules van Ham-Weeldenburg,M,Bulgaars,Laag,Samenwonend,Midden,HAVO,Hindoeïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,19,Laag,Goed,Slecht,Gemiddeld
+Senior tax professional/tax inspector,Micha van der Loo,F,Antilliaans,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Beginner,25,Laag,Goed,Slecht,Slecht
+Gaffer,Felix Winnrich,M,Surinaams,Hoog,Alleenstaand met kinderen,Links,Basisonderwijs,Islamitisch,Gehuwd,Student,Woonboot,Beginner,20,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+General practice doctor,Annemijn van Emmelen,F,Marokkaans,Laag,Samenwonend met kinderen,Midden,MBO,Joods,Gehuwd,Fulltime,Appartement,Digibeet,21,Hoog,Goed,Slecht,Goed
+"Engineer, structural",Nick Boogaerts,F,Pools,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,50,Gemiddeld,Goed,Slecht,Slecht
+"Therapist, music",Seth Takkelenburg,F,Surinaams,Laag,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,51,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, arts",Quinty Bloemendaal,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,33,Gemiddeld,Gemiddeld,Goed,Goed
+Health and safety inspector,Robin van der Ploeg,F,Nederlands,Hoog,Samenwonend,Links,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,99,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Accounting technician,Indy Grondel,F,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,19,Gemiddeld,Goed,Gemiddeld,Slecht

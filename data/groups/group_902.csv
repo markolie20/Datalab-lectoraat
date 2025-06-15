@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Garment/textile technologist,Jesper Eckhardt,M,Surinaams,Laag,Alleenstaand,Links,WO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,44,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, forensic",Fabian Korstman,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Expert,58,Laag,Goed,Gemiddeld,Gemiddeld
+Health physicist,Pim van Brunswijk,F,Nederlands,Hoog,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Student,Appartement,Digibeet,49,Laag,Goed,Goed,Gemiddeld
+"Engineer, energy",Ilse Dries,F,Marokkaans,Hoog,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,68,Laag,Slecht,Gemiddeld,Goed
+Social researcher,Jort de Strigter,F,Afghaans,Gemiddeld,Samenwonend,Midden,HBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,41,Hoog,Goed,Goed,Gemiddeld
+Fashion designer,Sophie van Eck,F,Irakees,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Digibeet,81,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Historic buildings inspector/conservation officer,Damian Lieshout-Verschut,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,61,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial horticulturist,Cornelis Boer,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Atheïstisch,Gescheiden,Student,Appartement,Advanced,67,Hoog,Goed,Goed,Goed
+Chief Financial Officer,Karlijn van de Ven,M,Marokkaans,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,32,Gemiddeld,Gemiddeld,Goed,Goed
+Airline pilot,Amira Schouten,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Beginner,74,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Historic buildings inspector/conservation officer,Evi Stoffelsz,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,39,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Social worker,Sara van Praagh,F,Duits,Laag,Alleenstaand,Midden,MBO,Anders,Gehuwd,Fulltime,Appartement,Intermediate,25,Laag,Gemiddeld,Goed,Goed
+Immigration officer,Evie Elbertse-Kleijse,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,75,Laag,Gemiddeld,Gemiddeld,Slecht

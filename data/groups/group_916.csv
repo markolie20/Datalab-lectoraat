@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Veterinary surgeon,Brian van Leeuwen,F,Nederlands,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,45,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, building",Bram Ketting,F,Chinees,Gemiddeld,Alleenstaand,Midden,VWO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,57,Hoog,Gemiddeld,Slecht,Slecht
+"Scientist, research (maths)",Tijs Verbeek-Beernink,F,Syrisch,Laag,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,56,Laag,Slecht,Gemiddeld,Gemiddeld
+"Therapist, sports",Noah Huisman,M,Portugees,Laag,Samenwonend,Rechts,HBO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Beginner,93,Hoog,Goed,Gemiddeld,Gemiddeld
+"Doctor, hospital",Nisa van Luinenburg,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,31,Hoog,Gemiddeld,Goed,Goed
+Call centre manager,Jelle Bave,F,Nederlands,Laag,Samenwonend,Rechts,WO,Atheïstisch,Ongehuwd,Werkloos,Studio,Beginner,42,Laag,Slecht,Gemiddeld,Goed
+"Chemist, analytical",Yinthe de la Fleche,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Student,Appartement,Advanced,36,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Engineering geologist,Julian Bierstraten,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,66,Hoog,Slecht,Gemiddeld,Slecht
+Insurance claims handler,Micha Joosten,F,Chinees,Laag,Alleenstaand,Midden,HAVO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,20,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Research scientist (medical),Ashley Dijkman,F,Nederlands,Hoog,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,45,Hoog,Gemiddeld,Goed,Gemiddeld
+Broadcast journalist,Faye van Luxemburg,F,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Joods,Ongehuwd,Parttime,Vrijstaand,Advanced,45,Laag,Gemiddeld,Gemiddeld,Slecht
+Museum education officer,Jonas Adriaensdr,F,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Expert,53,Laag,Goed,Gemiddeld,Gemiddeld
+Ambulance person,Vera Haselaar-van Hamaland,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,54,Laag,Gemiddeld,Slecht,Goed
+Chemical engineer,Sam Geertsen-Wolzak,M,Indiaas,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,36,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Astronomer,Mason Arts,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Twee-onder-een-kap,Advanced,39,Hoog,Slecht,Goed,Gemiddeld
+"Editor, film/video",Ceylin Waardeloo-Sanders,M,Turks,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Parttime,Studio,Beginner,75,Gemiddeld,Slecht,Slecht,Goed
+Television production assistant,Joshua van Wel-Lieshout,F,Chinees,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,51,Laag,Goed,Gemiddeld,Goed
+"Engineer, biomedical",Cornelia Eelman,F,Surinaams,Laag,Alleenstaand,Midden,HAVO,Joods,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,65,Gemiddeld,Gemiddeld,Goed,Goed
+"Designer, interior/spatial",Matthijs Postma-Lips,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,WO,Hindoeïstisch,Gehuwd,Werkloos,Appartement,Intermediate,24,Laag,Goed,Goed,Gemiddeld
+Clinical biochemist,Victor Ghoerle,M,Nederlands,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,24,Laag,Goed,Gemiddeld,Gemiddeld
+Landscape architect,Justin van Beaumont,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,87,Hoog,Goed,Goed,Goed
+Commercial art gallery manager,Yasmine van Veen-Wunderink,M,Indonesisch,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Gescheiden,Student,Twee-onder-een-kap,Expert,94,Gemiddeld,Goed,Gemiddeld,Slecht
+Heritage manager,Tijn Louws,M,Turks,Laag,Samenwonend,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Intermediate,41,Laag,Goed,Goed,Goed
+"Doctor, hospital",Kick Furda,F,Surinaams,Gemiddeld,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,20,Laag,Goed,Gemiddeld,Gemiddeld
+Curator,Esila Beernink,M,Indiaas,Laag,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,83,Laag,Gemiddeld,Goed,Gemiddeld
+Nutritional therapist,Vajèn Chrodtrud,F,Nederlands,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Digibeet,47,Laag,Gemiddeld,Goed,Gemiddeld
+Estate manager/land agent,Sanne van der Stael,M,Chinees,Gemiddeld,Samenwonend,Links,HAVO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,67,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, educational",Mats van Ommeren,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Woonboot,Expert,81,Laag,Gemiddeld,Gemiddeld,Slecht
+Geographical information systems officer,Philip Schellekens-Stamrood,F,Bulgaars,Hoog,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,82,Gemiddeld,Slecht,Gemiddeld,Goed
+Retail merchandiser,Stef Wouters,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Beginner,45,Laag,Slecht,Gemiddeld,Gemiddeld
+"Geologist, wellsite",Fabian Meijer,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,95,Laag,Goed,Goed,Gemiddeld
+Health promotion specialist,Isa Hulshouts,M,Roemeens,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,25,Laag,Goed,Gemiddeld,Gemiddeld
+Physiotherapist,Felix Veenstra,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,46,Laag,Gemiddeld,Gemiddeld,Goed
+Metallurgist,Yasmine Willems van Lier,F,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,81,Laag,Slecht,Gemiddeld,Gemiddeld

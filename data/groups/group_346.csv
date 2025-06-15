@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, maintenance",Joëlle Blees-van Riet,M,Marokkaans,Hoog,Samenwonend,Rechts,VWO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,55,Hoog,Goed,Gemiddeld,Slecht
+Archaeologist,Morris Thomas-van Holland,F,Portugees,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Weduwe/Weduwnaar,Parttime,Appartement,Digibeet,49,Gemiddeld,Gemiddeld,Goed,Goed
+Recruitment consultant,Kaylee van 't Riet,M,Nederlands,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,34,Laag,Goed,Gemiddeld,Slecht
+Housing manager/officer,Kaylee de Heer,M,Eritrees,Laag,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,92,Laag,Goed,Gemiddeld,Goed
+Patent attorney,Ibrahim Brisee,F,Nederlands,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,70,Gemiddeld,Goed,Gemiddeld,Slecht
+Health and safety inspector,Duuk Blaak,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Woonboot,Digibeet,56,Hoog,Gemiddeld,Gemiddeld,Goed
+Police officer,Jordy Zeemans,F,Antilliaans,Laag,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,36,Hoog,Slecht,Gemiddeld,Gemiddeld
+Housing manager/officer,Chloë Mathurin-Elbertse,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Werkloos,Appartement,Digibeet,38,Hoog,Goed,Goed,Slecht
+"Programmer, multimedia",Lucas Rotteveel-van der Horst,F,Bulgaars,Gemiddeld,Samenwonend met kinderen,Links,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,53,Hoog,Gemiddeld,Slecht,Gemiddeld
+Interpreter,Joël Elbertse,M,Duits,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Beginner,94,Gemiddeld,Gemiddeld,Goed,Goed
+Radio producer,Rowan Vial-Willems,F,Roemeens,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,74,Laag,Gemiddeld,Goed,Slecht
+Purchasing manager,Daan van der Loo,F,Antilliaans,Laag,Samenwonend,Midden,VMBO,Joods,Ongehuwd,Fulltime,Appartement,Digibeet,25,Hoog,Gemiddeld,Gemiddeld,Goed
+Forest/woodland manager,Colin Merkx,F,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,68,Hoog,Gemiddeld,Gemiddeld,Goed
+Counsellor,Daan Brouwer,M,Eritrees,Hoog,Alleenstaand,Links,VMBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,32,Hoog,Gemiddeld,Goed,Goed
+Chiropractor,Mats Schuylenborch,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Student,Appartement,Beginner,43,Laag,Gemiddeld,Slecht,Gemiddeld
+Theatre director,Justin Ernst,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,62,Hoog,Slecht,Goed,Goed
+Hospital pharmacist,Ravi Freshour,F,Nederlands,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Studio,Intermediate,62,Hoog,Goed,Slecht,Gemiddeld

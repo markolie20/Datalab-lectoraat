@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Water quality scientist,Cornelis Romijn,M,Nederlands,Gemiddeld,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Studio,Beginner,36,Laag,Gemiddeld,Gemiddeld,Slecht
+Web designer,Dylan Beekman,F,Turks,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,55,Gemiddeld,Goed,Gemiddeld,Slecht
+"Teacher, special educational needs",Lena van Evelingen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,76,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Radio broadcast assistant,Ayoub Die Bont,M,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,19,Laag,Goed,Gemiddeld,Goed
+"Solicitor, Scotland",Hannah Nollee,M,Marokkaans,Laag,Alleenstaand,Links,VMBO,Joods,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,70,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Production assistant, television",Zara Wolffel,F,Chinees,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,35,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial/residential surveyor,Florian van Oosten,M,Chinees,Laag,Samenwonend,Links,MBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,68,Laag,Gemiddeld,Gemiddeld,Slecht
+Press sub,Femke van Beek,M,Somalisch,Gemiddeld,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,99,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Paediatric nurse,Micha Kathagen,M,Chinees,Hoog,Alleenstaand,Rechts,VWO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,45,Laag,Gemiddeld,Slecht,Slecht
+Pharmacologist,Yasmin Weeldenburg,M,Pools,Hoog,Alleenstaand met kinderen,Links,WO,Anders,Ongehuwd,Fulltime,Studio,Expert,70,Laag,Slecht,Goed,Goed
+Exhibition designer,Sienna Brouwer-van Dijk,F,Eritrees,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Digibeet,51,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Fashion designer,Amy van Northeim,M,Duits,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,75,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Engineer, manufacturing",Maya Tirie-Willemsen,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,81,Hoog,Slecht,Gemiddeld,Gemiddeld
+Futures trader,Wout de Marduras-Elberts,M,Nederlands,Hoog,Samenwonend,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,67,Laag,Gemiddeld,Gemiddeld,Goed
+Office manager,Maarten de Koning,F,Syrisch,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Advanced,93,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Historic buildings inspector/conservation officer,Noah Verheij-van Gent,F,Marokkaans,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Advanced,73,Gemiddeld,Goed,Gemiddeld,Goed
+Building services engineer,Helena Wildschut,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,92,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Medical physicist,Hamza Charon,F,Chinees,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,58,Hoog,Goed,Gemiddeld,Goed
+"Accountant, chartered",Sophie Scherms,M,Nederlands,Laag,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Digibeet,95,Hoog,Gemiddeld,Goed,Goed
+Civil Service administrator,Alexander Klein,M,Italiaans,Laag,Alleenstaand met kinderen,Links,HBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,64,Hoog,Goed,Slecht,Gemiddeld
+"Education officer, community",Maud Dachgeldt,F,Marokkaans,Laag,Alleenstaand,Links,HBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,75,Laag,Gemiddeld,Goed,Goed
+"Designer, fashion/clothing",Jason Wigman,F,Turks,Laag,Alleenstaand,Links,WO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,99,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, automotive",Maria van Kuijc-de Koning,F,Duits,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,82,Laag,Slecht,Goed,Gemiddeld
+Fish farm manager,Mare Bruynzeels,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Student,Studio,Advanced,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Curator,Robin van der Velden,F,Chinees,Laag,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,66,Laag,Gemiddeld,Slecht,Gemiddeld
+Race relations officer,Dion Gellemeyer-Oosterhout,M,Afghaans,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gescheiden,Fulltime,Appartement,Digibeet,38,Laag,Gemiddeld,Goed,Gemiddeld
+Sports development officer,Willem Pierson,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,98,Hoog,Goed,Slecht,Gemiddeld
+"Designer, exhibition/display",Pien Bos,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Expert,71,Laag,Slecht,Goed,Gemiddeld
+"Engineer, land",Femke Claesdr,F,Pools,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Beginner,23,Laag,Slecht,Goed,Goed
+Land,Karlijn van Ooste,M,Nederlands,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Woonboot,Intermediate,35,Hoog,Gemiddeld,Slecht,Slecht
+Chemical engineer,Amelia Moet-die Witte,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,57,Gemiddeld,Slecht,Gemiddeld,Goed
+"Production assistant, radio",Rik Klein,F,Indonesisch,Laag,Samenwonend,Midden,MBO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,55,Laag,Slecht,Gemiddeld,Gemiddeld
+Interior and spatial designer,Lieke Huls-Lorreijn,M,Pools,Hoog,Samenwonend met kinderen,Links,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Advanced,51,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Product designer,Sanne Wendt-van der Horst,F,Duits,Gemiddeld,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,66,Laag,Slecht,Gemiddeld,Gemiddeld

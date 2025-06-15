@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Aid worker,Luca van Enschot,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,47,Gemiddeld,Goed,Slecht,Slecht
+Media buyer,Collin Huls-van 't Riet,M,Indiaas,Gemiddeld,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,69,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Scientist, research (medical)",Fatima Otto,F,Syrisch,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,43,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Materials engineer,Laurens de Gruijter,M,Nederlands,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,93,Hoog,Goed,Gemiddeld,Goed
+Psychiatrist,Loïs Jonkman-Ruijs,F,Surinaams,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,56,Hoog,Slecht,Gemiddeld,Gemiddeld
+Insurance broker,Jolijn Palman,F,Eritrees,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Advanced,56,Laag,Goed,Goed,Slecht
+Hotel manager,Liz van Riet-van de Noordmark,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,VMBO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Beginner,97,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial controller,Amélie Blokland,F,Nederlands,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Woonboot,Advanced,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, prison and probation services",Noor Stoffelsz,M,Surinaams,Gemiddeld,Samenwonend,Links,WO,Hindoeïstisch,Gehuwd,Zelfstandig,Appartement,Digibeet,63,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Conservator, furniture",Fleur de Bruyn-Shupe,F,Nederlands,Laag,Alleenstaand,Links,WO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,45,Laag,Gemiddeld,Goed,Slecht
+Chiropodist,Maria van Breukelveen,F,Pools,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,35,Laag,Gemiddeld,Goed,Goed
+Warden/ranger,Lorenzo van Oirschot,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,22,Laag,Gemiddeld,Goed,Goed
+Building services engineer,Maxim Spaan,M,Surinaams,Hoog,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,70,Laag,Gemiddeld,Gemiddeld,Goed
+Merchant navy officer,Puk Bouhuizen,F,Chinees,Laag,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,70,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Furniture designer,Leon Ghoerle,F,Eritrees,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,20,Laag,Slecht,Gemiddeld,Goed
+Astronomer,Mats Spier,F,Nederlands,Gemiddeld,Alleenstaand,Midden,WO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Gemiddeld,Goed,Slecht,Slecht
+Editorial assistant,Pippa van der Heyden,M,Somalisch,Laag,Samenwonend met kinderen,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,90,Laag,Goed,Gemiddeld,Goed

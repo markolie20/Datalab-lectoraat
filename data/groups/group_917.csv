@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chartered public finance accountant,Noah Doorhof,M,Nederlands,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Intermediate,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Professor Emeritus,Oscar Geerts,F,Eritrees,Hoog,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,88,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Geochemist,Marit Matthews,F,Indonesisch,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gescheiden,Zelfstandig,Appartement,Beginner,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Operational investment banker,Louise Hendriks-Jans,F,Indiaas,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,28,Hoog,Gemiddeld,Gemiddeld,Goed
+Astronomer,Maya Keijzer,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Gehuwd,Gepensioneerd,Studio,Advanced,33,Hoog,Gemiddeld,Goed,Goed
+Haematologist,Daniel Blom,M,Nederlands,Laag,Alleenstaand met kinderen,Links,Basisonderwijs,Islamitisch,Gescheiden,Parttime,Appartement,Beginner,47,Gemiddeld,Gemiddeld,Slecht,Slecht
+Veterinary surgeon,Vincent Nihoe,F,Pools,Laag,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Programmer, multimedia",Sil de Roos,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,34,Hoog,Gemiddeld,Gemiddeld,Goed
+Accommodation manager,Bastiaan Luboch,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,84,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Politician's assistant,Merle Rubben,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,99,Laag,Slecht,Gemiddeld,Gemiddeld
+International aid/development worker,Jules Bresé,M,Italiaans,Hoog,Alleenstaand,Links,HAVO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,19,Laag,Gemiddeld,Goed,Goed
+"Merchandiser, retail",Stan van Berkum,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,65,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Media buyer,Mark Janssens,M,Surinaams,Hoog,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,47,Laag,Gemiddeld,Gemiddeld,Goed
+Industrial/product designer,Kick Uphaus,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Advanced,35,Hoog,Goed,Goed,Gemiddeld
+Advertising art director,Noud van Rooij,M,Roemeens,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Advanced,83,Laag,Slecht,Gemiddeld,Goed
+"Journalist, magazine",Lars Hulst,M,Syrisch,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,71,Laag,Gemiddeld,Slecht,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Hailey van 't Riet,M,Somalisch,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,84,Laag,Gemiddeld,Goed,Gemiddeld
+Special educational needs teacher,Saar Mallien-Wilmont,M,Nederlands,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Beginner,49,Hoog,Goed,Gemiddeld,Gemiddeld
+Brewing technologist,Amelia Furda,M,Pools,Laag,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,96,Laag,Goed,Goed,Gemiddeld
+"Administrator, sports",Yusuf de Kok-van de Velden,M,Afghaans,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Vrijstaand,Intermediate,37,Gemiddeld,Goed,Goed,Gemiddeld
+Bonds trader,Lisa van Wessex,F,Surinaams,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,47,Laag,Gemiddeld,Slecht,Gemiddeld
+Newspaper journalist,Mohammed de Jager,F,Surinaams,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,39,Laag,Gemiddeld,Gemiddeld,Goed

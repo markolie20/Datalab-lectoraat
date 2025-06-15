@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Careers adviser,Nynke van de Velden,F,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,48,Laag,Gemiddeld,Slecht,Gemiddeld
+"Therapist, nutritional",Jennifer Tillmanno-Ruijs,M,Marokkaans,Gemiddeld,Samenwonend,Links,VMBO,Boeddhistisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Advanced,27,Laag,Goed,Gemiddeld,Gemiddeld
+Senior tax professional/tax inspector,Jennifer van Wassenaar,F,Turks,Laag,Alleenstaand,Rechts,HAVO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,42,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Investment banker, corporate",Mika Brandon,F,Turks,Gemiddeld,Samenwonend,Rechts,HBO,Joods,Gehuwd,Parttime,Appartement,Beginner,37,Laag,Gemiddeld,Goed,Gemiddeld
+Occupational psychologist,Emily van Egisheim,M,Afghaans,Gemiddeld,Alleenstaand met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,66,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Microbiologist,Alyssa Neuteboom,F,Surinaams,Laag,Alleenstaand,Links,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,83,Hoog,Gemiddeld,Goed,Goed
+Environmental manager,Laura van den Berg,M,Indiaas,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,81,Laag,Gemiddeld,Gemiddeld,Goed
+Animal technologist,Tijs de Jode Vastraedsd-Oversteeg,M,Nederlands,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Parttime,Woonboot,Intermediate,27,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Commercial/residential surveyor,Xavi van Zwaben-Elbertse,F,Roemeens,Hoog,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,71,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Higher education lecturer,Floris Haneberg,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,52,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Health service manager,Stef van der Horst,F,Chinees,Laag,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,66,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, hydrographic",Marijn Mangel,F,Syrisch,Hoog,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,46,Gemiddeld,Slecht,Goed,Gemiddeld
+"Psychologist, occupational",Elena de Korte,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,80,Hoog,Slecht,Gemiddeld,Goed
+"Engineer, automotive",Evie van Oosten-de Boer,M,Marokkaans,Hoog,Alleenstaand met kinderen,Links,VWO,Anders,Gescheiden,Fulltime,Appartement,Intermediate,86,Laag,Gemiddeld,Gemiddeld,Goed
+Ophthalmologist,Elisabeth Recer,M,Afghaans,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,18,Laag,Gemiddeld,Slecht,Gemiddeld
+Arts development officer,Noëlle van Wallaert,M,Indiaas,Hoog,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Digibeet,47,Laag,Gemiddeld,Goed,Goed
+Claims inspector/assessor,Luca van der Flaas,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,60,Laag,Goed,Gemiddeld,Goed
+Astronomer,Samuel van Haspengouw,F,Surinaams,Hoog,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Beginner,82,Laag,Goed,Goed,Gemiddeld
+"Psychologist, counselling",Amir Meeres,F,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,78,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Further education lecturer,Mike van Duvenvoirde,F,Pools,Gemiddeld,Samenwonend,Rechts,VMBO,Boeddhistisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,48,Hoog,Gemiddeld,Slecht,Gemiddeld
+Illustrator,Raf van Metz,M,Antilliaans,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,19,Gemiddeld,Gemiddeld,Slecht,Slecht
+Media buyer,Nienke van de Velde,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Student,Appartement,Beginner,48,Hoog,Gemiddeld,Goed,Gemiddeld
+Occupational hygienist,Loes Blom,M,Indonesisch,Hoog,Alleenstaand,Links,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,63,Laag,Goed,Goed,Gemiddeld
+Diagnostic radiographer,Daphne van Geest,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,63,Laag,Goed,Slecht,Slecht
+"Therapist, drama",Timo van de Darnau,F,Nederlands,Hoog,Alleenstaand,Midden,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,85,Laag,Gemiddeld,Goed,Goed
+"Administrator, charities/voluntary organisations",Jasmijn Schokman,M,Indiaas,Hoog,Alleenstaand met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Advanced,40,Laag,Goed,Goed,Slecht
+Sports therapist,Jesse van Kusen,F,Nederlands,Laag,Samenwonend,Midden,HBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,29,Laag,Goed,Gemiddeld,Gemiddeld
+Quarry manager,Hidde Friehus-Ariens Ansems,M,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,50,Hoog,Gemiddeld,Slecht,Gemiddeld
+Dancer,Lotte Recers-Kallen,F,Marokkaans,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Advanced,78,Laag,Slecht,Gemiddeld,Goed
+Restaurant manager,Feline Rek,M,Duits,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Student,Appartement,Advanced,70,Gemiddeld,Goed,Slecht,Gemiddeld
+Manufacturing systems engineer,Rosa Melet,M,Indonesisch,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,49,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Catering manager,Jan Hakker,M,Turks,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,32,Hoog,Gemiddeld,Goed,Slecht
+Market researcher,Sarah van Praagh,F,Pools,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,37,Laag,Slecht,Goed,Gemiddeld
+Learning disability nurse,Johanna Hoeks-Helmerhorst,M,Chinees,Hoog,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,21,Gemiddeld,Goed,Gemiddeld,Goed

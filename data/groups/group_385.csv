@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Electrical engineer,Renske Kloppert,M,Turks,Laag,Alleenstaand,Links,HBO,Christelijk,Gehuwd,Student,Twee-onder-een-kap,Beginner,97,Hoog,Slecht,Slecht,Gemiddeld
+Hospital doctor,Kian Galenzone,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,41,Laag,Gemiddeld,Gemiddeld,Goed
+Retail manager,Simon Rijcken-Smeets,M,Spaans,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,48,Gemiddeld,Goed,Gemiddeld,Goed
+Acupuncturist,Veerle van Santen-Vervoort,M,Duits,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Goed,Gemiddeld,Goed
+Medical illustrator,Lana Wilmont-van Duyvenvoorde,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Ecologist,Noor van Jumiège,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Boeddhistisch,Weduwe/Weduwnaar,Student,Appartement,Advanced,94,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Interior and spatial designer,Myrthe Simons-Verkade,F,Nederlands,Laag,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,47,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Armed forces technical officer,Mike Blewanus-van Arnsberg,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,73,Gemiddeld,Gemiddeld,Goed,Goed
+"Journalist, newspaper",Matthias de Vrome,M,Chinees,Hoog,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,60,Laag,Goed,Gemiddeld,Slecht
+Marketing executive,Bryan Ehlert,M,Indiaas,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Student,Appartement,Beginner,76,Laag,Gemiddeld,Slecht,Goed
+Hospital doctor,Leon Arent,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,87,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Management consultant,Jonathan Perck-Flink,F,Indiaas,Hoog,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Expert,45,Laag,Goed,Gemiddeld,Gemiddeld
+Catering manager,Merle le Floch,F,Duits,Hoog,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Advanced,89,Laag,Goed,Gemiddeld,Goed
+"Programmer, applications",Kai Pison-Kolen,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,35,Gemiddeld,Slecht,Slecht,Gemiddeld
+Herpetologist,Mats de Boer,F,Nederlands,Hoog,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Student,Studio,Advanced,50,Hoog,Slecht,Gemiddeld,Gemiddeld
+Public relations account executive,Zakaria Uphus,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,47,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Editor, commissioning",Joost Claassen,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,HBO,Joods,Ongehuwd,Zelfstandig,Appartement,Expert,19,Hoog,Gemiddeld,Gemiddeld,Slecht
+Amenity horticulturist,Abel Weijters,M,Surinaams,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Expert,32,Laag,Gemiddeld,Gemiddeld,Slecht
+Ecologist,Elise van Luxemburg,F,Marokkaans,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Beginner,74,Laag,Goed,Goed,Slecht
+Jewellery designer,David Kirpenstein,M,Surinaams,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Gehuwd,Student,Appartement,Advanced,27,Gemiddeld,Gemiddeld,Goed,Goed
+Production manager,Sofia Weyland,M,Nederlands,Gemiddeld,Samenwonend,Links,WO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,69,Laag,Goed,Gemiddeld,Slecht
+Copy,Tijmen Bruynzeels-van Wel,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,64,Hoog,Goed,Goed,Gemiddeld
+Engineering geologist,Amir Bastiaense-Hoogers,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,65,Hoog,Slecht,Goed,Goed
+Risk analyst,Norah van Geffen,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,80,Laag,Gemiddeld,Slecht,Goed
+Broadcast presenter,Frederique Estey,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,49,Laag,Gemiddeld,Gemiddeld,Slecht

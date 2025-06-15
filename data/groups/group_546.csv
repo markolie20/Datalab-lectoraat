@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Passenger transport manager,Lex Meyer-Joosten,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Studio,Intermediate,47,Laag,Goed,Goed,Gemiddeld
+Automotive engineer,Guus Rousselet-Goudriaan,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Joods,Ongehuwd,Parttime,Vrijstaand,Beginner,46,Laag,Goed,Gemiddeld,Goed
+Barista,Teun Scherms,F,Antilliaans,Laag,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Werkloos,Vrijstaand,Beginner,19,Hoog,Goed,Gemiddeld,Goed
+"Producer, radio",Yasmine de Hoog,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Advanced,27,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Accountant, chartered",Pleun Verheij,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,54,Gemiddeld,Gemiddeld,Goed,Goed
+Research scientist (medical),Joëlle Stuivenberg,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Anders,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Beginner,77,Hoog,Slecht,Slecht,Goed
+Local government officer,Owen Oude Heer,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Weduwe/Weduwnaar,Student,Woonboot,Expert,58,Laag,Goed,Goed,Gemiddeld
+Chief Technology Officer,Michael de Koning-Kalman,M,Duits,Laag,Alleenstaand,Midden,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Beginner,42,Hoog,Goed,Goed,Gemiddeld
+Medical technical officer,Aron Spruit-Moenen,M,Irakees,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,67,Hoog,Goed,Goed,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Lot Tamsma,M,Indiaas,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Fulltime,Studio,Advanced,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, Civil Service",Esila Groote-van de Berg,M,Pools,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,26,Laag,Goed,Gemiddeld,Gemiddeld
+Local government officer,Jack Furda-van Dillen,F,Marokkaans,Gemiddeld,Alleenstaand,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,74,Laag,Gemiddeld,Goed,Slecht
+Chartered accountant,Isabella Schatteleijn,F,Eritrees,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,23,Hoog,Gemiddeld,Gemiddeld,Slecht
+Civil Service fast streamer,Sylvie Verheuvel,M,Duits,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Gehuwd,Werkloos,Twee-onder-een-kap,Advanced,24,Hoog,Slecht,Goed,Goed
+Sports therapist,Jan Sarneel-Bastiaanse,F,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Advanced,21,Laag,Gemiddeld,Goed,Gemiddeld
+Adult guidance worker,Fleur Lind,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Gehuwd,Student,Rijtjeshuis,Advanced,86,Laag,Gemiddeld,Gemiddeld,Goed
+Video editor,Jack Rouwhorst-Dekker,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Hindoeïstisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,82,Gemiddeld,Slecht,Gemiddeld,Goed

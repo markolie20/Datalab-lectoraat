@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Politician's assistant,Myrthe Diesbergen,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,90,Laag,Goed,Gemiddeld,Goed
+"Geneticist, molecular",Jonathan Aarden-Remmers,M,Nederlands,Hoog,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,95,Hoog,Goed,Slecht,Slecht
+Medical illustrator,Lucy Hulst-van Westfalen,M,Nederlands,Laag,Samenwonend,Links,HAVO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Expert,24,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Medical sales representative,Noor Broeckx,M,Marokkaans,Laag,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Advanced,28,Hoog,Gemiddeld,Gemiddeld,Slecht
+Tax inspector,Joëlle Dachgeldt,F,Marokkaans,Laag,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Appartement,Advanced,69,Laag,Goed,Goed,Gemiddeld
+Research scientist (medical),Giel Peeters,F,Surinaams,Laag,Samenwonend,Links,HBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,63,Hoog,Goed,Gemiddeld,Goed
+Maintenance engineer,Job van Gent-Brands,M,Antilliaans,Gemiddeld,Samenwonend,Rechts,HBO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Beginner,94,Gemiddeld,Goed,Goed,Slecht
+"Engineer, materials",Kyara Jansen,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Expert,84,Laag,Gemiddeld,Slecht,Gemiddeld
+Oceanographer,Bram Ketel,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gescheiden,Fulltime,Appartement,Expert,74,Laag,Gemiddeld,Slecht,Slecht
+Financial risk analyst,Vajèn van 't Riet,M,Indiaas,Laag,Samenwonend,Midden,VWO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Advanced,22,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Writer,Renske Kuilenburg,F,Irakees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Anders,Ongehuwd,Fulltime,Vrijstaand,Beginner,42,Gemiddeld,Goed,Goed,Goed

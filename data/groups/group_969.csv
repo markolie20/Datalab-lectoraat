@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Geoscientist,Anne Peterse,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Boeddhistisch,Gehuwd,Parttime,Woonboot,Beginner,84,Laag,Gemiddeld,Goed,Goed
+"Therapist, music",Evi van der Smeede,M,Nederlands,Gemiddeld,Samenwonend,Links,WO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,80,Laag,Goed,Slecht,Gemiddeld
+"Therapist, drama",Hannah Rijcken,F,Bulgaars,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Zelfstandig,Woonboot,Advanced,72,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Architectural technologist,Naomi Smit-Haring,F,Marokkaans,Hoog,Samenwonend,Rechts,HAVO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,43,Laag,Gemiddeld,Gemiddeld,Slecht
+Financial trader,Esmee Scuylenborchs,F,Bulgaars,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,54,Gemiddeld,Goed,Goed,Gemiddeld
+Retail manager,Giovanni Wouters van Eijndhoven,F,Irakees,Hoog,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,34,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Environmental consultant,Jack Ehlert,F,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Atheïstisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,55,Laag,Gemiddeld,Gemiddeld,Slecht
+"Designer, interior/spatial",Naud Frankhuizen,F,Somalisch,Hoog,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,26,Laag,Goed,Gemiddeld,Goed
+Broadcast presenter,Puck de Pauw,F,Eritrees,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Joods,Gescheiden,Fulltime,Woonboot,Intermediate,55,Laag,Goed,Slecht,Gemiddeld
+Health and safety inspector,Jenna Jorlink,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,63,Gemiddeld,Goed,Gemiddeld,Goed
+Learning disability nurse,Lucy van Beeck,F,Chinees,Laag,Alleenstaand,Midden,VWO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,46,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, occupational",Loïs le Floch,M,Pools,Laag,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Student,Studio,Advanced,44,Hoog,Slecht,Gemiddeld,Goed
+Mudlogger,Kay Honing-'s Gravensande,M,Nederlands,Hoog,Samenwonend,Links,MBO,Anders,Gescheiden,Parttime,Woonboot,Intermediate,37,Hoog,Gemiddeld,Slecht,Gemiddeld
+Commissioning editor,Karlijn Lathrope,M,Indiaas,Gemiddeld,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld

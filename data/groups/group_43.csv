@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Applications developer,Vajèn Schouten,F,Indiaas,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,61,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Haematologist,Kay van Voorhout,F,Roemeens,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,84,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Arboriculturist,Laurens de Jager,F,Turks,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Intermediate,80,Gemiddeld,Goed,Gemiddeld,Goed
+"Engineer, electronics",Bo van Beek,M,Irakees,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,36,Gemiddeld,Gemiddeld,Slecht,Slecht
+Primary school teacher,Guus Speijer,F,Pools,Hoog,Alleenstaand met kinderen,Links,WO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Digibeet,77,Laag,Goed,Gemiddeld,Slecht
+Toxicologist,Amber Briere,M,Italiaans,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,53,Gemiddeld,Gemiddeld,Goed,Goed
+Chiropodist,Norah Bruijne van der Veen-Neuteboom,M,Eritrees,Hoog,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,99,Laag,Gemiddeld,Gemiddeld,Goed
+"Doctor, hospital",Riley Bresé-van de Noordmark,M,Nederlands,Hoog,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,74,Laag,Goed,Gemiddeld,Gemiddeld
+"Nurse, mental health",Damian Kort,M,Roemeens,Laag,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,81,Laag,Goed,Gemiddeld,Gemiddeld
+Banker,Ize van den Nyeuwenhuysen,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Anders,Gescheiden,Zelfstandig,Appartement,Beginner,86,Laag,Gemiddeld,Gemiddeld,Goed

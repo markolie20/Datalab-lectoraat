@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Ergonomist,Jonas Stange,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,76,Hoog,Goed,Goed,Slecht
+Environmental consultant,Lise Vastenhouw,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Weduwe/Weduwnaar,Parttime,Vrijstaand,Advanced,82,Laag,Gemiddeld,Goed,Goed
+Mechanical engineer,Valerie van den Eerenbeemt,M,Surinaams,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,71,Hoog,Slecht,Slecht,Goed
+"Surveyor, quantity",Rosa Tillmanno,F,Chinees,Hoog,Samenwonend met kinderen,Links,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Expert,85,Laag,Gemiddeld,Slecht,Gemiddeld
+Graphic designer,Berend Bud,F,Surinaams,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,22,Laag,Gemiddeld,Goed,Slecht
+Cabin crew,Liz Boudewijns,M,Pools,Laag,Alleenstaand met kinderen,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Woonboot,Beginner,20,Laag,Goed,Slecht,Gemiddeld
+Advertising art director,Ali Westerbeek,M,Pools,Gemiddeld,Alleenstaand,Links,WO,Islamitisch,Gehuwd,Parttime,Appartement,Beginner,31,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Aeronautical engineer,Jorn Lieshout,M,Pools,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Advanced,65,Hoog,Goed,Goed,Gemiddeld
+Psychiatrist,Justin Emmen,F,Nederlands,Hoog,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,60,Laag,Gemiddeld,Gemiddeld,Goed
+Leisure centre manager,Jolijn van Veen,M,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Boeddhistisch,Gescheiden,Parttime,Twee-onder-een-kap,Expert,99,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Production manager,Lana van den Velde,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,25,Hoog,Goed,Slecht,Gemiddeld
+Ergonomist,Isabelle Weijland,F,Indiaas,Laag,Samenwonend,Links,WO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,35,Laag,Gemiddeld,Slecht,Goed
+Ship broker,Hamza van der Veiver,F,Nederlands,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,31,Hoog,Gemiddeld,Slecht,Gemiddeld
+Tax inspector,Louise van Salm,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,63,Laag,Slecht,Gemiddeld,Gemiddeld
+Surgeon,Fleur van Kusen,M,Antilliaans,Laag,Alleenstaand met kinderen,Links,HBO,Anders,Gescheiden,Fulltime,Vrijstaand,Beginner,65,Laag,Gemiddeld,Slecht,Goed
+Systems analyst,Mees de Jonge-Claesdr,M,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gescheiden,Werkloos,Appartement,Intermediate,80,Laag,Gemiddeld,Slecht,Gemiddeld
+Photographer,Emily Aeije-Verhaar,M,Chinees,Laag,Samenwonend met kinderen,Rechts,HAVO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,28,Laag,Slecht,Goed,Gemiddeld
+Veterinary surgeon,Carlijn Unruoch Hunerik,M,Nederlands,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Parttime,Appartement,Intermediate,19,Hoog,Gemiddeld,Gemiddeld,Goed
+Industrial/product designer,Vigo Steenbakkers-Hazenveld,M,Antilliaans,Gemiddeld,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,71,Laag,Slecht,Slecht,Gemiddeld
+Music therapist,Emily van de Wal-de Plantard,M,Nederlands,Laag,Samenwonend,Links,WO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,71,Laag,Goed,Goed,Gemiddeld
+Forensic psychologist,Tara Heere,F,Antilliaans,Laag,Alleenstaand,Midden,VWO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,41,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Legal secretary,Jolie Cornelissen,F,Nederlands,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,92,Laag,Gemiddeld,Slecht,Slecht
+"Scientist, marine",Loek van de Velde-Willems,M,Somalisch,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Digibeet,81,Laag,Goed,Slecht,Gemiddeld
+Estate manager/land agent,Bart de Reede-Lucas,F,Afghaans,Hoog,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,54,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Teacher, secondary school",Kim Soos-Brievingh,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Digibeet,23,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Forensic psychologist,Hanna Dennenberg,F,Chinees,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Parttime,Appartement,Intermediate,65,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Copy,Johannes de Pauw,M,Indiaas,Laag,Samenwonend,Links,VMBO,Atheïstisch,Gehuwd,Werkloos,Woonboot,Advanced,58,Hoog,Slecht,Goed,Gemiddeld
+Architect,Lisanne van Wickerode,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,81,Hoog,Gemiddeld,Slecht,Slecht
+Child psychotherapist,Dana de Vrome,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Sales professional, IT",Jinthe Niermann,F,Syrisch,Hoog,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Student,Woonboot,Intermediate,87,Hoog,Slecht,Gemiddeld,Goed
+Emergency planning/management officer,Esmée Bijlsma,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,91,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, land",Annabel Doyle-van den Corput,F,Irakees,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,77,Laag,Gemiddeld,Gemiddeld,Slecht
+Prison officer,Daniel Bökenkamp,F,Roemeens,Hoog,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gescheiden,Fulltime,Vrijstaand,Intermediate,32,Laag,Slecht,Gemiddeld,Slecht
+"Administrator, local government",Dylan Martens-Klomp Jan,M,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,84,Laag,Slecht,Gemiddeld,Goed

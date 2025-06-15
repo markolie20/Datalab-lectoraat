@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Health and safety adviser,Nathan Elberts,F,Eritrees,Laag,Samenwonend,Midden,Basisonderwijs,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Advanced,21,Laag,Goed,Slecht,Gemiddeld
+Sport and exercise psychologist,Luna Tuithof,M,Nederlands,Laag,Samenwonend,Links,HAVO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Goed,Goed
+"Engineer, electronics",Jack Rijntjes,M,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,52,Hoog,Slecht,Goed,Gemiddeld
+Toxicologist,Rafael Adriaense,M,Turks,Laag,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Parttime,Twee-onder-een-kap,Advanced,85,Laag,Gemiddeld,Slecht,Gemiddeld
+Arts administrator,Lizz Erhout,F,Syrisch,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,98,Laag,Slecht,Gemiddeld,Goed
+"Pharmacist, hospital",Iris Voortman-Bouhuizen,F,Turks,Hoog,Samenwonend met kinderen,Rechts,HBO,Anders,Gehuwd,Fulltime,Studio,Advanced,39,Gemiddeld,Gemiddeld,Goed,Slecht
+"Restaurant manager, fast food",Vera van der Klein,M,Duits,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Gehuwd,Student,Studio,Beginner,23,Laag,Goed,Goed,Goed
+Social researcher,Noëlle le Briel,F,Turks,Hoog,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,79,Hoog,Gemiddeld,Goed,Gemiddeld
+Counsellor,Nadia Vos,F,Marokkaans,Hoog,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Parttime,Woonboot,Expert,40,Hoog,Goed,Gemiddeld,Goed
+"Psychologist, educational",Merijn Dennenberg,M,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,33,Laag,Slecht,Goed,Goed
+Environmental health practitioner,Sebastiaan Boer,M,Antilliaans,Laag,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, manufacturing systems",Stijn de Heer,M,Irakees,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Gepensioneerd,Woonboot,Digibeet,50,Laag,Goed,Gemiddeld,Goed
+Education administrator,Bradley Mijsberg,F,Duits,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Gescheiden,Fulltime,Appartement,Beginner,92,Laag,Goed,Slecht,Slecht
+Data processing manager,Kaylee van Laon,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Christelijk,Ongehuwd,Werkloos,Woonboot,Digibeet,43,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Regulatory affairs officer,Vera Doornhem,M,Portugees,Gemiddeld,Alleenstaand,Midden,WO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Advanced,23,Laag,Slecht,Goed,Gemiddeld
+Farm manager,Bram Kuijpers-Heijmen,M,Pools,Laag,Samenwonend,Links,Basisonderwijs,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, minerals",Ise Palman,F,Somalisch,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Digibeet,70,Hoog,Goed,Gemiddeld,Gemiddeld
+"Scientist, biomedical",Daphne Lonen,F,Chinees,Laag,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,46,Hoog,Goed,Goed,Gemiddeld
+Information officer,Elif Köster,M,Roemeens,Hoog,Samenwonend met kinderen,Links,MBO,Anders,Gehuwd,Parttime,Appartement,Beginner,82,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Engineer, biomedical",Esmee van de Veen,F,Turks,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gescheiden,Zelfstandig,Vrijstaand,Advanced,28,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, materials",Cato Jekel,F,Antilliaans,Hoog,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Expert,43,Laag,Gemiddeld,Gemiddeld,Goed
+Chief of Staff,"Dex Bourgondië, van",F,Duits,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,65,Hoog,Slecht,Gemiddeld,Gemiddeld
+Homeopath,Jasper François,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,42,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Press sub,Youssef Fortuyn-de Vries,M,Chinees,Gemiddeld,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,32,Laag,Goed,Goed,Gemiddeld
+Office manager,Beau van de Darnau,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HAVO,Christelijk,Gescheiden,Parttime,Appartement,Expert,74,Hoog,Goed,Gemiddeld,Goed

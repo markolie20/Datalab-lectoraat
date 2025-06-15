@@ -1,0 +1,28 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Television camera operator,Jolie Bertho,M,Spaans,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,42,Gemiddeld,Goed,Goed,Slecht
+"Development worker, international aid",Maud Willems,M,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,84,Laag,Gemiddeld,Goed,Gemiddeld
+Tour manager,Jordy de Haas,F,Irakees,Laag,Samenwonend met kinderen,Midden,HAVO,Hindoeïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,31,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Nurse, children's",Ivy Phillipsen,F,Bulgaars,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,18,Hoog,Slecht,Gemiddeld,Gemiddeld
+Broadcast presenter,Quinten van den Corput,M,Duits,Laag,Samenwonend met kinderen,Rechts,WO,Joods,Gehuwd,Parttime,Studio,Advanced,78,Laag,Gemiddeld,Goed,Slecht
+Warehouse manager,Thijn van der Stael,M,Afghaans,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,47,Laag,Slecht,Gemiddeld,Goed
+Warehouse manager,Silke Vastenhouw,M,Duits,Hoog,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Studio,Beginner,21,Gemiddeld,Goed,Slecht,Gemiddeld
+Chiropractor,Esmee Leene-van Dagsburg,F,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Advanced,93,Laag,Goed,Goed,Slecht
+"Scientist, research (physical sciences)",Jake Dirven-Backer,F,Pools,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Beginner,70,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Naval architect,Stijn van Oudewater,F,Chinees,Laag,Samenwonend,Rechts,VWO,Islamitisch,Gescheiden,Parttime,Woonboot,Beginner,36,Gemiddeld,Goed,Slecht,Gemiddeld
+Chartered loss adjuster,Sjoerd van Schweinfurt,F,Indiaas,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,74,Laag,Goed,Gemiddeld,Goed
+Special educational needs teacher,Thijmen de Bock,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,38,Laag,Slecht,Slecht,Goed
+Acupuncturist,Femke van Arkel,F,Marokkaans,Laag,Alleenstaand,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,69,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Osteopath,Xavi van Bergen,M,Surinaams,Laag,Samenwonend,Rechts,VWO,Christelijk,Weduwe/Weduwnaar,Werkloos,Vrijstaand,Advanced,25,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Communications engineer,Timo Scheer,F,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,84,Gemiddeld,Gemiddeld,Goed,Slecht
+"Surveyor, hydrographic",Leah Ellis,F,Marokkaans,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Graphic designer,Rosa Manne,M,Pools,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Appartement,Intermediate,56,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Estate agent,Zeynep van Breukelveen,F,Nederlands,Hoog,Alleenstaand,Links,MBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,73,Laag,Goed,Gemiddeld,Gemiddeld
+Commercial art gallery manager,Rayan van der Steen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Anders,Ongehuwd,Gepensioneerd,Woonboot,Digibeet,64,Laag,Gemiddeld,Goed,Goed
+Economist,Rens Pasman,F,Spaans,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,20,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Video editor,Arie Schelvis,M,Syrisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Student,Appartement,Beginner,33,Gemiddeld,Slecht,Goed,Slecht
+"Radiographer, diagnostic",Bastiaan Overdijk,M,Turks,Hoog,Samenwonend,Midden,VMBO,Atheïstisch,Gescheiden,Student,Vrijstaand,Intermediate,46,Gemiddeld,Gemiddeld,Slecht,Goed
+Camera operator,Jayden Lips-de Wit,F,Marokkaans,Hoog,Alleenstaand,Rechts,HAVO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Expert,35,Laag,Goed,Goed,Gemiddeld
+Dance movement psychotherapist,Emir Vandenbergh,M,Afghaans,Hoog,Samenwonend,Links,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Woonboot,Advanced,38,Gemiddeld,Goed,Slecht,Gemiddeld
+Banker,Ali Vaessen-Verschuere,M,Nederlands,Laag,Samenwonend,Links,MBO,Boeddhistisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,33,Gemiddeld,Slecht,Slecht,Gemiddeld
+Consulting civil engineer,Bradley Momberg,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Werkloos,Appartement,Expert,32,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, forensic",Iris Evers,F,Nederlands,Laag,Alleenstaand,Midden,MBO,Boeddhistisch,Gescheiden,Parttime,Woonboot,Intermediate,25,Laag,Goed,Goed,Gemiddeld

@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Land/geomatics surveyor,Bjorn Drysdale,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,49,Laag,Gemiddeld,Gemiddeld,Goed
+Chiropodist,Isabella Eckhardt,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,94,Hoog,Gemiddeld,Slecht,Goed
+"Therapist, horticultural",Mason Rouwenhorst,M,Turks,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,93,Hoog,Goed,Goed,Goed
+Waste management officer,Lauren Bertho,M,Syrisch,Gemiddeld,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,53,Gemiddeld,Slecht,Slecht,Goed
+Proofreader,Noortje van der Meulen-Scardino,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,19,Hoog,Goed,Slecht,Gemiddeld
+Toxicologist,Quinn van der Hoeven,F,Surinaams,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,68,Gemiddeld,Goed,Slecht,Slecht
+Diplomatic Services operational officer,Meike Potters,M,Irakees,Hoog,Samenwonend met kinderen,Rechts,VWO,Joods,Ongehuwd,Fulltime,Vrijstaand,Digibeet,49,Hoog,Slecht,Goed,Gemiddeld
+Sports administrator,Lieve van Bergen-van Leeuwen,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,53,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Pathologist,Elise Vial,M,Bulgaars,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,65,Laag,Gemiddeld,Gemiddeld,Goed
+Sales promotion account executive,Yinthe Lucas,M,Bulgaars,Gemiddeld,Samenwonend,Links,HAVO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,76,Laag,Goed,Goed,Slecht
+"Education officer, community",Jacob van Munster,F,Somalisch,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,69,Gemiddeld,Goed,Goed,Goed
+Data processing manager,Thijn Janssen,M,Marokkaans,Laag,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,25,Laag,Gemiddeld,Goed,Goed
+"Designer, interior/spatial",Nadia Brouwer,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,44,Hoog,Goed,Gemiddeld,Gemiddeld
+Publishing rights manager,Noortje van Landen,M,Syrisch,Laag,Samenwonend,Links,VWO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Advanced,18,Laag,Goed,Gemiddeld,Gemiddeld

@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Investment analyst,Eva Schipper-Blaak,M,Spaans,Gemiddeld,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Parttime,Twee-onder-een-kap,Beginner,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Music tutor,Milo van de Biesenbos,F,Turks,Laag,Samenwonend,Links,HAVO,Joods,Gehuwd,Parttime,Rijtjeshuis,Intermediate,82,Hoog,Slecht,Gemiddeld,Gemiddeld
+Materials engineer,Lizz Meijer,F,Indiaas,Laag,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,41,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Therapist, occupational",Jules van Mil,M,Roemeens,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,50,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, water quality",Ashley van Doorn,M,Indonesisch,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,25,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Mudlogger,Damian Bouthoorn-van Luxemburg,F,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,58,Laag,Goed,Slecht,Slecht
+Operations geologist,Hannah le Briel,F,Surinaams,Hoog,Samenwonend,Rechts,WO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,57,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Medical sales representative,Gijs Heerschop,F,Spaans,Hoog,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,97,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, radio",Maartje Amalrada,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Studio,Expert,38,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, mining",Lizz van der Steen-Groote,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Vrijstaand,Digibeet,62,Laag,Gemiddeld,Gemiddeld,Goed
+Secondary school teacher,Fabian Pieters,M,Duits,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,86,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Neurosurgeon,Lois Werdes,F,Portugees,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,19,Laag,Goed,Slecht,Goed
+Contractor,Jinthe van Este,M,Surinaams,Gemiddeld,Alleenstaand,Links,MBO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,75,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Investment analyst,Pim Gnodde-van Berkel,F,Turks,Gemiddeld,Samenwonend,Links,HBO,Hindoeïstisch,Gescheiden,Zelfstandig,Appartement,Digibeet,91,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Amenity horticulturist,Juul Kleibrink-Vergeer,M,Indiaas,Gemiddeld,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,73,Gemiddeld,Slecht,Gemiddeld,Slecht
+Building services engineer,Emir Kriens,F,Syrisch,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,92,Laag,Goed,Gemiddeld,Goed
+"Teacher, secondary school",Joy van Egisheim-Die Bont,M,Duits,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Digibeet,57,Laag,Slecht,Goed,Goed
+Cabin crew,Pien van Henegouwen,F,Nederlands,Hoog,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,53,Laag,Gemiddeld,Slecht,Gemiddeld
+Barrister,Ties Broeckx,F,Bulgaars,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Studio,Digibeet,81,Hoog,Goed,Gemiddeld,Goed
+"Exhibitions officer, museum/gallery",Tessa van Luinenburg,M,Indiaas,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,67,Gemiddeld,Slecht,Goed,Slecht
+"Editor, film/video",Angelina Wever,M,Roemeens,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,41,Gemiddeld,Goed,Goed,Gemiddeld
+"Conservator, furniture",Nova Verda-Maas,F,Roemeens,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,57,Gemiddeld,Slecht,Gemiddeld,Goed
+Data processing manager,Joost Gerritsen,F,Nederlands,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Beginner,92,Laag,Gemiddeld,Gemiddeld,Slecht
+"Scientist, water quality",Pieter van der Maes,F,Indonesisch,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,67,Hoog,Gemiddeld,Goed,Goed

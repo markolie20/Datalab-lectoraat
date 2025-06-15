@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Surgeon,Finn van Gorp-van der Horst,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Diagnostic radiographer,Amira Schenkel,M,Marokkaans,Laag,Samenwonend,Midden,MBO,Joods,Gehuwd,Parttime,Vrijstaand,Intermediate,30,Hoog,Slecht,Slecht,Goed
+Artist,Giel Ridder,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,35,Gemiddeld,Goed,Goed,Gemiddeld
+"Therapist, occupational",Stefan Bruijne van der Veen,M,Surinaams,Gemiddeld,Samenwonend,Rechts,MBO,Anders,Gescheiden,Fulltime,Appartement,Beginner,94,Laag,Gemiddeld,Goed,Gemiddeld
+Newspaper journalist,Mick Brands-Boudewijns,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,73,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Doctor, general practice",Owen Spreeuw-van Es,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,42,Laag,Gemiddeld,Goed,Gemiddeld
+"Pharmacist, community",Fenne van Beeck Beeckmans,F,Nederlands,Laag,Samenwonend,Links,WO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,61,Laag,Goed,Gemiddeld,Slecht
+"Social research officer, government",Thijn Arnold,F,Spaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Boeddhistisch,Ongehuwd,Fulltime,Woonboot,Digibeet,74,Gemiddeld,Goed,Goed,Gemiddeld
+Financial planner,Raf Zijlmans-Jdotte,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,78,Hoog,Goed,Gemiddeld,Gemiddeld
+"Teacher, early years/pre",Jill van Jumiège,F,Bulgaars,Hoog,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,32,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Curator,Tirza van Beieren,F,Marokkaans,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,78,Hoog,Gemiddeld,Goed,Goed
+Land,Tess Adriaansen-van Asten,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Digibeet,89,Laag,Gemiddeld,Gemiddeld,Slecht

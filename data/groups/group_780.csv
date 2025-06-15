@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Biochemist, clinical",Isabella de Wit-le Gallen,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,65,Gemiddeld,Goed,Slecht,Gemiddeld
+Radiation protection practitioner,Senna Jansse-Claesner,F,Marokkaans,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,36,Hoog,Slecht,Gemiddeld,Goed
+Maintenance engineer,Quinty Ansems,F,Portugees,Laag,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,79,Laag,Gemiddeld,Slecht,Gemiddeld
+"Psychologist, clinical",Seth Sanders,M,Nederlands,Laag,Alleenstaand,Links,VWO,Islamitisch,Gescheiden,Zelfstandig,Appartement,Intermediate,84,Laag,Goed,Goed,Gemiddeld
+Child psychotherapist,Rowan Keijzer,M,Indonesisch,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,72,Gemiddeld,Goed,Goed,Gemiddeld
+Systems developer,Collin Gemen,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,94,Laag,Slecht,Goed,Goed
+Charity fundraiser,Joël Wijland,F,Indiaas,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Gehuwd,Parttime,Appartement,Expert,87,Laag,Goed,Gemiddeld,Gemiddeld
+Paramedic,Jules Buijs,M,Pools,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,83,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Dealer,Thijmen Boer-Oosterhek,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Anders,Gehuwd,Zelfstandig,Appartement,Beginner,83,Laag,Slecht,Gemiddeld,Slecht
+Gaffer,Wouter Gellemeyer,M,Italiaans,Hoog,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Studio,Advanced,66,Gemiddeld,Slecht,Gemiddeld,Goed
+Energy manager,Janna Martens,M,Eritrees,Laag,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,72,Laag,Gemiddeld,Slecht,Gemiddeld
+Orthoptist,Ruben van den Eerenbeemt,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,64,Laag,Goed,Gemiddeld,Gemiddeld
+Corporate investment banker,Job Middelkoop,M,Duits,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Advanced,45,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Operational researcher,Lotte Symons-de Grunt,F,Duits,Gemiddeld,Samenwonend,Rechts,HBO,Anders,Weduwe/Weduwnaar,Parttime,Appartement,Digibeet,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Journalist, magazine",Roan Melet-Brugman,F,Afghaans,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Beginner,78,Hoog,Goed,Gemiddeld,Goed
+Emergency planning/management officer,Pleun van Eck,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Advanced,65,Gemiddeld,Slecht,Gemiddeld,Slecht
+Equities trader,Amélie Verhoeven,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,25,Gemiddeld,Goed,Goed,Gemiddeld
+"Civil engineer, contracting",Lucy de Backer,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, counselling",Florian Bierstraten,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,62,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+English as a foreign language teacher,Valerie Oosterhek,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Anders,Gescheiden,Parttime,Appartement,Intermediate,34,Laag,Gemiddeld,Slecht,Gemiddeld
+"Copywriter, advertising",Saar Huijzing,F,Duits,Laag,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Vrijstaand,Beginner,87,Gemiddeld,Slecht,Goed,Slecht
+"Journalist, broadcasting",Josephine van Geest,M,Indonesisch,Hoog,Samenwonend,Midden,WO,Christelijk,Gehuwd,Werkloos,Studio,Intermediate,59,Hoog,Slecht,Gemiddeld,Goed
+Retail banker,Dylano Vignon-de Keijzer,F,Surinaams,Laag,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Parttime,Vrijstaand,Beginner,96,Hoog,Slecht,Goed,Slecht
+Chief Strategy Officer,Bram Timmermans,F,Nederlands,Hoog,Samenwonend,Links,HAVO,Anders,Gehuwd,Fulltime,Vrijstaand,Intermediate,95,Gemiddeld,Gemiddeld,Gemiddeld,Goed

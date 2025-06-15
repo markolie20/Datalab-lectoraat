@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Conference centre manager,Féline Verda-Hehl,M,Syrisch,Hoog,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Expert,76,Laag,Gemiddeld,Gemiddeld,Goed
+Financial risk analyst,Ecrin van Loon,M,Afghaans,Hoog,Samenwonend,Midden,MBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,33,Laag,Goed,Gemiddeld,Slecht
+Theatre manager,Ivan van Asten,M,Bulgaars,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,32,Laag,Slecht,Goed,Gemiddeld
+"Engineer, broadcasting (operations)",Chloé Opmans,F,Indonesisch,Laag,Alleenstaand,Midden,HAVO,Anders,Ongehuwd,Fulltime,Appartement,Expert,92,Laag,Gemiddeld,Slecht,Slecht
+Risk analyst,Jack Hondeveld,M,Bulgaars,Hoog,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,19,Laag,Goed,Goed,Slecht
+"Scientist, marine",Hamza Roosenboom-Boogaerts,F,Chinees,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,30,Laag,Goed,Gemiddeld,Gemiddeld
+Occupational psychologist,Mats Lijn,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,52,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Interior and spatial designer,Kyano Wutke,F,Eritrees,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Student,Appartement,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Goed
+Special effects artist,Levi van 't Houteveen,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Beginner,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Private music teacher,Feline de Mol,M,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,88,Laag,Slecht,Gemiddeld,Goed

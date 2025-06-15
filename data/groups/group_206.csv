@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Clinical psychologist,Helena van Arkel,F,Turks,Laag,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Gescheiden,Werkloos,Appartement,Digibeet,80,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Psychologist, counselling",Nienke van Leuven-der Kijnder,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,60,Laag,Goed,Slecht,Gemiddeld
+Fast food restaurant manager,Elias Vandenbergh,M,Roemeens,Hoog,Alleenstaand met kinderen,Links,HAVO,Joods,Gescheiden,Parttime,Rijtjeshuis,Beginner,69,Laag,Goed,Goed,Gemiddeld
+Advertising art director,Jolijn Hermans,M,Nederlands,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,64,Laag,Goed,Gemiddeld,Slecht
+"Surveyor, minerals",Pleun van Daal,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Expert,40,Gemiddeld,Goed,Gemiddeld,Goed
+Sport and exercise psychologist,Sam van den Corput,F,Surinaams,Hoog,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Parttime,Twee-onder-een-kap,Digibeet,85,Hoog,Gemiddeld,Goed,Gemiddeld
+Call centre manager,Yusuf le Gulcher-Elbertse,F,Nederlands,Laag,Samenwonend,Midden,HBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,18,Gemiddeld,Goed,Slecht,Gemiddeld
+"Accountant, chartered certified",Marijn Kuilenburg,M,Eritrees,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,33,Laag,Gemiddeld,Gemiddeld,Goed
+Heritage manager,Jente Arts,M,Antilliaans,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gescheiden,Fulltime,Woonboot,Beginner,69,Laag,Gemiddeld,Goed,Gemiddeld
+Forensic psychologist,Lizzy Heinrichs,F,Marokkaans,Gemiddeld,Alleenstaand,Links,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Studio,Beginner,66,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Civil engineer, consulting",Emir Boer,M,Nederlands,Gemiddeld,Samenwonend,Links,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Expert,67,Hoog,Goed,Gemiddeld,Gemiddeld
+Oncologist,Bente Kleybrink,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,98,Laag,Slecht,Gemiddeld,Slecht
+Comptroller,Lukas Dachgeldt,M,Antilliaans,Hoog,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Studio,Beginner,30,Hoog,Slecht,Slecht,Gemiddeld
+Science writer,Jet de Groot,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,81,Hoog,Goed,Gemiddeld,Gemiddeld
+Retail banker,Casper Helmerhorst,F,Antilliaans,Hoog,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,19,Laag,Goed,Goed,Goed

@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Doctor, hospital",Tim Vrancken-Aschman,F,Afghaans,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,58,Laag,Goed,Gemiddeld,Goed
+"Teacher, early years/pre",Emily van den Heuvel,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Tax adviser,Jet van den Velde,F,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,26,Laag,Gemiddeld,Goed,Gemiddeld
+"Production assistant, radio",Berat Volcke,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Gehuwd,Parttime,Studio,Beginner,70,Laag,Gemiddeld,Goed,Gemiddeld
+Hotel manager,Anouk Ulrich,M,Chinees,Gemiddeld,Samenwonend,Midden,MBO,Joods,Gehuwd,Fulltime,Appartement,Advanced,20,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Teaching laboratory technician,Aaliyah Suijker,M,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,69,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (maths),Mick Huberts-van Munster,F,Pools,Gemiddeld,Samenwonend,Rechts,WO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Intermediate,77,Hoog,Gemiddeld,Slecht,Goed
+Make,Jenna Nieuwstraten,M,Indiaas,Laag,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,30,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Zakaria van Soest-van Beek,M,Roemeens,Laag,Alleenstaand,Rechts,VWO,Atheïstisch,Gehuwd,Student,Appartement,Digibeet,27,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Hydrographic surveyor,Imke van de Velden,F,Nederlands,Laag,Samenwonend,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,79,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Geologist, engineering",Floor Hendricks,M,Surinaams,Gemiddeld,Alleenstaand,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,71,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Printmaker,Amina de Gruson,M,Chinees,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,49,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Call centre manager,Anouk Cadefau,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Boeddhistisch,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,79,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, communications",Madelief van Kuijc,F,Duits,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Student,Vrijstaand,Intermediate,63,Laag,Gemiddeld,Goed,Gemiddeld
+Marine scientist,Naud Brouwer-Arens,F,Antilliaans,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Student,Appartement,Expert,64,Laag,Gemiddeld,Goed,Goed

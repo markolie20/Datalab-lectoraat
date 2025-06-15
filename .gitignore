@@ -173,6 +173,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# other files
-Anders/
-Data/
+
+#trained_models/
+bartsummarizer/
+flant5summarizer/
+longformersummarizer/
+longt5summarizer/
+pegasussummarizer/
+t5summarizer/

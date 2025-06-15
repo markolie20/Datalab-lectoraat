@@ -1,0 +1,34 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, maintenance",Mustafa Overeem,F,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,83,Gemiddeld,Goed,Goed,Gemiddeld
+Drilling engineer,Lauren van Kuijc,F,Nederlands,Laag,Samenwonend,Links,VWO,Islamitisch,Gescheiden,Zelfstandig,Appartement,Beginner,25,Laag,Gemiddeld,Goed,Gemiddeld
+"Horticulturist, commercial",Ruben Fechant-Jorrisen,F,Bulgaars,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,19,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Freight forwarder,Jens Pons,F,Roemeens,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Parttime,Appartement,Beginner,82,Laag,Slecht,Goed,Goed
+Garment/textile technologist,Rens van de Darnau-van den Hoek,M,Italiaans,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,51,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Building services engineer,Floortje Ramaker,M,Antilliaans,Laag,Alleenstaand met kinderen,Midden,VMBO,Boeddhistisch,Gehuwd,Parttime,Appartement,Digibeet,24,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Television floor manager,Koen de Plantard,F,Duits,Laag,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Woonboot,Intermediate,87,Laag,Goed,Goed,Gemiddeld
+Press sub,Finn Lafleur,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,WO,Islamitisch,Gehuwd,Student,Appartement,Advanced,52,Laag,Gemiddeld,Gemiddeld,Slecht
+"Accountant, chartered",Marit van der Velden,M,Turks,Laag,Alleenstaand,Midden,WO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,48,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Therapist, drama",Tess Bruggeman,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Beginner,26,Hoog,Gemiddeld,Goed,Goed
+"Psychotherapist, child",Elisa de Vroege-Pierson,M,Turks,Laag,Samenwonend,Midden,WO,Hindoeïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,66,Laag,Gemiddeld,Goed,Slecht
+"Scientist, research (medical)",Noud Lage,M,Turks,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Digibeet,76,Laag,Goed,Slecht,Gemiddeld
+"Surveyor, rural practice",Raf Aalts,M,Marokkaans,Laag,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Parttime,Appartement,Beginner,40,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Scientist, clinical (histocompatibility and immunogenetics)",Melle van Vliet,F,Chinees,Gemiddeld,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,29,Hoog,Goed,Gemiddeld,Gemiddeld
+Higher education careers adviser,Tijn Doyle,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Zelfstandig,Vrijstaand,Beginner,77,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Barrister's clerk,Veerle Kamp-van Landen,F,Surinaams,Hoog,Samenwonend,Links,HAVO,Anders,Weduwe/Weduwnaar,Parttime,Twee-onder-een-kap,Beginner,35,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Doctor, general practice",Evi Schatteleijn-de Graaf,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,24,Gemiddeld,Slecht,Gemiddeld,Goed
+Investment analyst,Jorn van Duivenvoorde,F,Surinaams,Laag,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,98,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Dentist,Pepijn van der Wal-Kuit,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Expert,93,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Newspaper journalist,Milo van Dam,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Student,Vrijstaand,Advanced,31,Hoog,Slecht,Slecht,Slecht
+"Conservation officer, nature",Alex Henric van den Nuwenhuse,M,Afghaans,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Expert,86,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Accountant, chartered certified",Ize van der Klein,M,Duits,Laag,Samenwonend,Links,HBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,46,Hoog,Goed,Gemiddeld,Goed
+Minerals surveyor,Arthur Broekhoven,M,Afghaans,Hoog,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,43,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Occupational therapist,Mads van Bernicia,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Anders,Ongehuwd,Parttime,Vrijstaand,Beginner,34,Hoog,Gemiddeld,Goed,Slecht
+Building surveyor,Micha Adriaensdr-Broekhoven,F,Eritrees,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Woonboot,Beginner,68,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Furniture conservator/restorer,Elif Suijker-Hazenveld,M,Pools,Gemiddeld,Samenwonend,Midden,MBO,Joods,Weduwe/Weduwnaar,Parttime,Woonboot,Intermediate,85,Laag,Gemiddeld,Goed,Slecht
+Forensic scientist,Silke van de Veen,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Digibeet,61,Laag,Goed,Gemiddeld,Slecht
+"Production designer, theatre/television/film",Dewi van de Velde-Zwijsen,F,Duits,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,25,Laag,Gemiddeld,Slecht,Gemiddeld
+Tree surgeon,Roan Bosch-Wijland,F,Turks,Gemiddeld,Samenwonend,Rechts,WO,Anders,Ongehuwd,Werkloos,Appartement,Beginner,76,Laag,Slecht,Slecht,Goed
+TEFL teacher,Maryam Lemmens,F,Spaans,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,32,Laag,Gemiddeld,Slecht,Slecht
+Airline pilot,Victor Molen,F,Indiaas,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Intermediate,42,Gemiddeld,Goed,Goed,Gemiddeld
+Hospital doctor,Tobias Chrodtrud,F,Indiaas,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,19,Gemiddeld,Slecht,Goed,Goed
+"Journalist, newspaper",Joshua Kleijse,M,Duits,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Weduwe/Weduwnaar,Fulltime,Studio,Intermediate,53,Gemiddeld,Slecht,Goed,Gemiddeld

@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, site",Lorenzo Vaessen,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Goed
+Musician,Juul van Brunswijk,F,Turks,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,78,Laag,Goed,Gemiddeld,Goed
+Visual merchandiser,Laurens Blees,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,28,Laag,Gemiddeld,Slecht,Gemiddeld
+Metallurgist,Ceylin Spies,F,Eritrees,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Student,Appartement,Beginner,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Systems developer,Isabel Soos-Takkelenburg,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Gescheiden,Parttime,Rijtjeshuis,Expert,91,Hoog,Goed,Goed,Goed
+"Teacher, English as a foreign language",Rick Aelftrud van Wessex-Boetet,F,Syrisch,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,44,Laag,Slecht,Gemiddeld,Goed
+Licensed conveyancer,Fleur van Rossum,F,Roemeens,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Clinical scientist, histocompatibility and immunogenetics",Lotte van Straaten,F,Nederlands,Hoog,Samenwonend,Rechts,HBO,Atheïstisch,Gescheiden,Fulltime,Woonboot,Digibeet,69,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Editor, commissioning",Jamie Hehl,F,Indiaas,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,97,Laag,Gemiddeld,Goed,Goed
+Ophthalmologist,Colin Niermann-van Lucel,F,Indonesisch,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Expert,91,Laag,Goed,Slecht,Gemiddeld
+Historic buildings inspector/conservation officer,Lana de Beer-Schilt,F,Nederlands,Laag,Alleenstaand,Links,WO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,33,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Civil engineer, contracting",Madelief van der Klein-Jekel,F,Eritrees,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,27,Laag,Goed,Gemiddeld,Goed

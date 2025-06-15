@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Energy engineer,Kate de Korte,F,Roemeens,Laag,Samenwonend,Links,MBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,38,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Printmaker,Tyler Hoelen,M,Italiaans,Gemiddeld,Samenwonend,Links,HBO,Joods,Gescheiden,Zelfstandig,Appartement,Advanced,37,Laag,Gemiddeld,Slecht,Gemiddeld
+Special effects artist,Fedde van den Velden,M,Nederlands,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,83,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, maintenance",Siem Vink-van Ooyen,F,Bulgaars,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,61,Laag,Slecht,Goed,Goed
+Social researcher,Lana de Jong-van Susa,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Student,Twee-onder-een-kap,Digibeet,80,Laag,Slecht,Goed,Slecht
+Media buyer,Linde Loep,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Student,Studio,Beginner,93,Laag,Goed,Goed,Goed
+Chemical engineer,Livia van Leuven,F,Nederlands,Hoog,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,84,Hoog,Slecht,Gemiddeld,Goed
+Museum/gallery curator,Rayan Kuit-de Jode Vastraedsd,F,Indonesisch,Laag,Samenwonend,Links,MBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Beginner,24,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, product/process development",Cas van Beek,M,Marokkaans,Gemiddeld,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Digibeet,58,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Herpetologist,Juliette Bos-Elsenaar,M,Nederlands,Laag,Alleenstaand,Links,HBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,67,Hoog,Gemiddeld,Goed,Goed
+Translator,Lois Kuipers,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Vrijstaand,Expert,91,Laag,Gemiddeld,Goed,Gemiddeld
+Tree surgeon,Maja Verschut-Hehl,F,Bulgaars,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Advanced,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Risk analyst,Lois Alpaidis,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,34,Laag,Gemiddeld,Goed,Gemiddeld
+Conference centre manager,Abel van der Strigt,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,21,Laag,Gemiddeld,Slecht,Slecht
+"Designer, multimedia",Jack Tielemans,M,Duits,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Student,Rijtjeshuis,Beginner,52,Gemiddeld,Slecht,Gemiddeld,Slecht
+Furniture designer,Mohammed Tins,F,Marokkaans,Hoog,Samenwonend,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,34,Laag,Slecht,Slecht,Gemiddeld

@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chief Technology Officer,Sienna van Vermandois-Heijmen,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,97,Hoog,Gemiddeld,Goed,Gemiddeld
+Haematologist,Aaron Mol-Prins,F,Turks,Laag,Alleenstaand,Midden,HAVO,Hindoeïstisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Dealer,Pien van Wassenaar,M,Nederlands,Laag,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,35,Hoog,Gemiddeld,Goed,Gemiddeld
+Regulatory affairs officer,Mason Wijland,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,84,Hoog,Goed,Gemiddeld,Gemiddeld
+"Conservation officer, nature",Mason Teunissen-Gepa van Bourgondië,M,Chinees,Laag,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Student,Studio,Advanced,69,Laag,Goed,Goed,Gemiddeld
+Cabin crew,Mare van Straaten,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,79,Laag,Goed,Slecht,Gemiddeld
+Systems developer,Brian Risma,M,Turks,Hoog,Samenwonend met kinderen,Links,HBO,Christelijk,Gescheiden,Werkloos,Vrijstaand,Beginner,53,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Advice worker,Ivy Speijer-Voortman,M,Bulgaars,Laag,Samenwonend met kinderen,Rechts,WO,Anders,Ongehuwd,Fulltime,Vrijstaand,Intermediate,58,Laag,Goed,Slecht,Gemiddeld
+Advertising account executive,Fatima Broeshart,F,Indonesisch,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Appartement,Expert,78,Laag,Slecht,Slecht,Goed
+"Teacher, adult education",Finn Linschoten,M,Marokkaans,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,24,Hoog,Goed,Gemiddeld,Slecht
+Advertising account executive,Aaron Wagenvoort,F,Marokkaans,Laag,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,55,Hoog,Slecht,Gemiddeld,Goed
+"Engineer, petroleum",Cornelia van der Meulen,M,Marokkaans,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Expert,92,Laag,Goed,Slecht,Goed

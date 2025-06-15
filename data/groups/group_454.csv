@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, water quality",Lizzy van de Velde,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Digibeet,37,Laag,Gemiddeld,Goed,Goed
+Theatre manager,Ali Engels,M,Chinees,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,23,Laag,Gemiddeld,Goed,Gemiddeld
+"Geneticist, molecular",Lauren Remmers,F,Nederlands,Gemiddeld,Samenwonend,Links,Basisonderwijs,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,97,Laag,Gemiddeld,Slecht,Slecht
+Barrister's clerk,Lana Sam,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gescheiden,Student,Twee-onder-een-kap,Expert,23,Hoog,Gemiddeld,Goed,Gemiddeld
+Fashion designer,Sepp van Henegouwen-Meeres,F,Indiaas,Hoog,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Zelfstandig,Studio,Intermediate,72,Gemiddeld,Goed,Slecht,Goed
+"Teacher, primary school",Sepp van der Kint,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,61,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Accountant, chartered management",Elizabeth Flink,F,Turks,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,34,Laag,Gemiddeld,Slecht,Slecht
+Environmental consultant,Daniel Pieters van der Maes-van Breukeleveen,F,Nederlands,Laag,Samenwonend,Midden,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,27,Laag,Gemiddeld,Goed,Gemiddeld
+Senior tax professional/tax inspector,Jari Jorlink,M,Italiaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Joods,Ongehuwd,Student,Rijtjeshuis,Expert,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Cabin crew,Gijs Kloppert,F,Nederlands,Hoog,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,21,Laag,Slecht,Slecht,Goed
+Chief Marketing Officer,Mohamed van Breugel-van de Darnau,M,Spaans,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Gehuwd,Fulltime,Woonboot,Expert,55,Hoog,Slecht,Goed,Goed
+Logistics and distribution manager,Luca Kathagen,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Advanced,96,Laag,Goed,Goed,Gemiddeld
+"Surveyor, insurance",Floris Kwaadland,M,Surinaams,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,59,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Higher education lecturer,Dylan van de Water,M,Turks,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,31,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, aeronautical",Isabel Dircken,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Expert,22,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Financial controller,Seth Estey-van Wessex,F,Pools,Hoog,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,40,Laag,Gemiddeld,Gemiddeld,Goed
+"Journalist, newspaper",Joris Willems van Lier,M,Bulgaars,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,45,Hoog,Goed,Gemiddeld,Gemiddeld
+Occupational psychologist,Fabiënne Ooms,F,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,55,Laag,Goed,Gemiddeld,Goed

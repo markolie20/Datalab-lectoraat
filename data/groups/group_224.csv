@@ -1,0 +1,27 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Solicitor,Jesper van Wallaert,M,Turks,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,58,Laag,Goed,Gemiddeld,Gemiddeld
+Civil Service fast streamer,Esther Woutersz,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Boeddhistisch,Gehuwd,Student,Rijtjeshuis,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Goed
+Community education officer,Fleur van der Kint,M,Marokkaans,Laag,Samenwonend,Links,VWO,Anders,Ongehuwd,Gepensioneerd,Woonboot,Advanced,68,Laag,Slecht,Gemiddeld,Gemiddeld
+Public affairs consultant,Maarten van Rheineck-Verbruggen,M,Surinaams,Gemiddeld,Samenwonend,Midden,MBO,Joods,Ongehuwd,Fulltime,Studio,Expert,76,Laag,Goed,Slecht,Goed
+Financial planner,Ryan Passchiers,M,Chinees,Laag,Samenwonend met kinderen,Links,HAVO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Beginner,66,Gemiddeld,Gemiddeld,Slecht,Goed
+Warden/ranger,Olivia van Baalen,F,Roemeens,Hoog,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Phytotherapist,Suus Friehus,F,Indiaas,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,32,Laag,Goed,Slecht,Goed
+"Engineer, control and instrumentation",Puk van Amstel,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,58,Laag,Slecht,Gemiddeld,Gemiddeld
+Investment analyst,Nick van der Meer,M,Indiaas,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Werkloos,Woonboot,Beginner,88,Laag,Gemiddeld,Gemiddeld,Goed
+Acupuncturist,Demi van der Pol,M,Irakees,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Student,Woonboot,Intermediate,64,Laag,Slecht,Goed,Slecht
+Theatre stage manager,Ceylin van Dooren,F,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Slecht
+Haematologist,Sami Köster,F,Pools,Hoog,Samenwonend,Midden,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Beginner,66,Hoog,Goed,Gemiddeld,Goed
+"Scientist, audiological",Maja van Dalem,F,Bulgaars,Hoog,Alleenstaand,Rechts,HBO,Anders,Ongehuwd,Parttime,Appartement,Intermediate,61,Laag,Gemiddeld,Goed,Gemiddeld
+Media planner,Imran van Duvenvoirde,M,Indonesisch,Hoog,Samenwonend,Links,MBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,51,Laag,Gemiddeld,Goed,Gemiddeld
+Private music teacher,Lois Hazenveld,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Werkloos,Vrijstaand,Digibeet,88,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Chartered certified accountant,Levi Jekel,M,Indonesisch,Laag,Alleenstaand,Links,WO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,59,Hoog,Goed,Goed,Slecht
+Trading standards officer,Noah Meeusen-Fremie,F,Duits,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,57,Laag,Gemiddeld,Slecht,Goed
+"Pilot, airline",Tygo van Westfalen,F,Marokkaans,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,46,Laag,Gemiddeld,Goed,Slecht
+"Chemist, analytical",Senna de Wit-Shupe,M,Turks,Laag,Alleenstaand,Midden,HAVO,Joods,Ongehuwd,Student,Rijtjeshuis,Intermediate,43,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Comptroller,Felix Ellis,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,63,Laag,Goed,Gemiddeld,Slecht
+"Engineer, civil (contracting)",Loïs Spier-van Loon,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Digibeet,63,Gemiddeld,Goed,Goed,Slecht
+"Lecturer, further education",Evie Aschman-van Loon,F,Afghaans,Laag,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,26,Laag,Slecht,Gemiddeld,Goed
+"Scientist, marine",Bram Rietveld,F,Marokkaans,Laag,Samenwonend,Links,MBO,Atheïstisch,Gescheiden,Zelfstandig,Rijtjeshuis,Beginner,89,Laag,Gemiddeld,Goed,Gemiddeld
+Naval architect,Michelle van Nes,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,30,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Bookseller,Aaron van der Kaay,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gescheiden,Parttime,Appartement,Beginner,52,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Buyer, retail",Giel Steenbeek,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,78,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

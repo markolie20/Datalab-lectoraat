@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Conference centre manager,Lana Jansdr,M,Duits,Laag,Samenwonend,Links,HBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Beginner,69,Gemiddeld,Goed,Goed,Slecht
+Special educational needs teacher,Sam Molegraaf,F,Indonesisch,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Studio,Advanced,80,Laag,Slecht,Gemiddeld,Goed
+Interpreter,Muhammed Haselaar,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,62,Laag,Gemiddeld,Slecht,Gemiddeld
+Tourism officer,Meike Jansen,M,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Anders,Gehuwd,Fulltime,Studio,Beginner,95,Gemiddeld,Slecht,Gemiddeld,Goed
+Community education officer,Bo Bertho-van Breukelveen,M,Indiaas,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dramatherapist,Mark van de Pol,M,Indonesisch,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Beginner,63,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Network engineer,Eliza van Suinvorde,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,88,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, rural practice",Sofie Courtier,F,Nederlands,Laag,Alleenstaand,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,37,Laag,Gemiddeld,Slecht,Slecht
+Photographer,Lara Kathagen,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Student,Twee-onder-een-kap,Beginner,40,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Public librarian,Felix Rubben,F,Indonesisch,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,56,Laag,Gemiddeld,Slecht,Gemiddeld
+Advertising art director,Hanna Dennenberg-van der Horst,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,47,Hoog,Gemiddeld,Goed,Slecht

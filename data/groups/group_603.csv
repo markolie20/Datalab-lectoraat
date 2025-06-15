@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Midwife,Daphne Pons-Köster,M,Chinees,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,58,Laag,Gemiddeld,Goed,Gemiddeld
+"Civil engineer, contracting",Raf Martens,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gescheiden,Fulltime,Studio,Beginner,73,Laag,Gemiddeld,Gemiddeld,Goed
+Furniture conservator/restorer,Madelief van Mook,M,Spaans,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gescheiden,Werkloos,Studio,Beginner,87,Laag,Goed,Gemiddeld,Gemiddeld
+Medical secretary,Oscar Smit,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,30,Gemiddeld,Slecht,Goed,Gemiddeld
+Recruitment consultant,Dina Arent,M,Afghaans,Laag,Alleenstaand,Links,HAVO,Boeddhistisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,83,Laag,Gemiddeld,Gemiddeld,Goed
+"Education officer, community",Mohamed de Strigter-Vegt,M,Surinaams,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Student,Vrijstaand,Digibeet,71,Laag,Gemiddeld,Slecht,Slecht
+Tour manager,Merel van Eck,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Environmental health practitioner,Jolijn de Korte,F,Nederlands,Laag,Samenwonend,Midden,WO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,36,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Surveyor, quantity",Maud Timmermans,M,Indiaas,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,38,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Psychologist, educational",Dina van der Mast,F,Portugees,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Student,Studio,Advanced,80,Laag,Goed,Goed,Gemiddeld
+"Scientist, water quality",Joris Timmerman-Bouhuizen,F,Chinees,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,59,Laag,Slecht,Gemiddeld,Slecht
+Occupational therapist,Gijs van het Heerenveen,F,Duits,Laag,Samenwonend,Rechts,Basisonderwijs,Anders,Gehuwd,Student,Appartement,Digibeet,90,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Early years teacher,Chloé van Dongen,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Boeddhistisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,89,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Systems analyst,Luca Huberts,F,Spaans,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Appartement,Advanced,63,Hoog,Slecht,Gemiddeld,Slecht
+Accommodation manager,Elisa Bakker-Jacobs,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,37,Hoog,Goed,Gemiddeld,Gemiddeld
+"Engineer, land",Elizabeth Vignon,F,Pools,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Advanced,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Horticultural therapist,Nout Kleibrink,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,75,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Science writer,Senna Spiker,F,Spaans,Gemiddeld,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,61,Laag,Goed,Gemiddeld,Goed
+Agricultural engineer,Olaf Broekhoven,F,Indonesisch,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,60,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Cabin crew,Evie Oude Heer,M,Spaans,Gemiddeld,Alleenstaand,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,75,Laag,Gemiddeld,Goed,Goed
+"Geologist, wellsite",Chloé Van Bragt-Engels,M,Turks,Hoog,Samenwonend,Links,VWO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,20,Laag,Gemiddeld,Gemiddeld,Slecht
+Arts development officer,Vajèn Willems,F,Nederlands,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,40,Laag,Goed,Gemiddeld,Goed
+Museum education officer,Rik Puig-Dirksen,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,55,Laag,Slecht,Gemiddeld,Gemiddeld

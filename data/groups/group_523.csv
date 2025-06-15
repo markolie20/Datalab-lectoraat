@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Teacher, adult education",Nisa van Velthoven-Mater,M,Turks,Laag,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Werkloos,Vrijstaand,Intermediate,90,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Brewing technologist,Jelte Hak,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,26,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, communications",Floris Brouwer-Molen,M,Spaans,Laag,Samenwonend,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Beginner,34,Laag,Slecht,Gemiddeld,Goed
+Web designer,Colin van Luyssel-Lonen,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Advanced,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+IT sales professional,Puk van den Velden,F,Roemeens,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,58,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Adult nurse,Dion van Gemert,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,65,Gemiddeld,Slecht,Gemiddeld,Goed
+Associate Professor,Jayda van der Pol,M,Surinaams,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,45,Laag,Goed,Gemiddeld,Goed
+"Journalist, newspaper",Job Kathagen,M,Duits,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,90,Hoog,Goed,Gemiddeld,Slecht
+"Engineer, manufacturing systems",Marinus Gerritsen,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Land,Kyan van Tuijl,M,Nederlands,Laag,Samenwonend,Links,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,54,Gemiddeld,Goed,Gemiddeld,Slecht
+Civil Service administrator,Chloë Room,M,Nederlands,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,97,Laag,Gemiddeld,Goed,Gemiddeld

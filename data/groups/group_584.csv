@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Passenger transport manager,Lynn de Bruijn,M,Spaans,Laag,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,60,Hoog,Gemiddeld,Goed,Goed
+"Engineer, maintenance",Maaike Vertoor,M,Italiaans,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,20,Hoog,Goed,Goed,Slecht
+"Horticulturist, commercial",Stijn van Ghoerle-Broeckx,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Joods,Gescheiden,Zelfstandig,Studio,Expert,79,Hoog,Slecht,Slecht,Slecht
+Health and safety inspector,Jesse Nollee-Zevenboom,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,55,Laag,Gemiddeld,Gemiddeld,Goed
+Hydrographic surveyor,Elif Heere-Ariens Ansems,M,Bulgaars,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,76,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Armed forces operational officer,Alexander van Gent-Arnold,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,53,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Financial planner,Evie Dorsman,F,Nederlands,Laag,Alleenstaand,Links,HBO,Atheïstisch,Gescheiden,Werkloos,Vrijstaand,Advanced,71,Laag,Gemiddeld,Gemiddeld,Goed
+Ambulance person,Tyler van Rijthoven-Mulder,F,Indonesisch,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Ongehuwd,Werkloos,Appartement,Beginner,74,Laag,Goed,Goed,Slecht
+Further education lecturer,Lisa van der Heiden,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,80,Laag,Goed,Goed,Gemiddeld
+"Psychologist, sport and exercise",Rick Lieshout,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Anders,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Digibeet,65,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Geographical information systems officer,Mike Hermans-van Spreeuwel,M,Roemeens,Hoog,Samenwonend,Rechts,WO,Anders,Ongehuwd,Fulltime,Studio,Advanced,50,Hoog,Slecht,Gemiddeld,Gemiddeld
+Astronomer,Jente van Dooren,F,Pools,Laag,Alleenstaand met kinderen,Midden,VMBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,75,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Restaurant manager,Amelia de Grunt-van Laar,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Studio,Intermediate,71,Hoog,Slecht,Slecht,Goed
+Chief Operating Officer,Megan ter Waarbeek,M,Roemeens,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Joods,Ongehuwd,Zelfstandig,Appartement,Intermediate,97,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Dealer,Beau Slaetsdochter,F,Duits,Hoog,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,18,Hoog,Gemiddeld,Gemiddeld,Gemiddeld

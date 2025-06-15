@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Commercial horticulturist,Rosa Estey,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Beginner,43,Laag,Gemiddeld,Slecht,Gemiddeld
+Actor,Jaylinn Amalrada-Wolters,F,Chinees,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Zelfstandig,Woonboot,Advanced,58,Laag,Gemiddeld,Gemiddeld,Goed
+Waste management officer,Dave Bertho,M,Chinees,Laag,Samenwonend,Links,HAVO,Joods,Gescheiden,Fulltime,Appartement,Advanced,55,Laag,Gemiddeld,Goed,Goed
+Exercise physiologist,Lizzy Vertoor-Kuijpers,F,Indiaas,Gemiddeld,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,66,Laag,Gemiddeld,Slecht,Gemiddeld
+Automotive engineer,Jurre van Clootwijck,F,Nederlands,Laag,Samenwonend,Links,VWO,Atheïstisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,40,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Chief Marketing Officer,Nadine van Wessex-van Ginkel,M,Syrisch,Hoog,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Laag,Gemiddeld,Slecht,Goed
+"Teacher, English as a foreign language",Kevin Paillet,F,Irakees,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,45,Gemiddeld,Slecht,Slecht,Goed
+"Scientist, audiological",Mike van Ochten,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,79,Laag,Gemiddeld,Goed,Gemiddeld
+Management consultant,Liz Ketel-van Grondelle,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Anders,Gescheiden,Fulltime,Twee-onder-een-kap,Beginner,33,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Operational investment banker,Leon Geertsen,F,Roemeens,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,46,Gemiddeld,Slecht,Gemiddeld,Goed
+Information systems manager,Adam Rippey,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,WO,Anders,Ongehuwd,Werkloos,Appartement,Advanced,77,Laag,Slecht,Gemiddeld,Goed
+Firefighter,Ian van Limburg,F,Italiaans,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,64,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Secretary/administrator,Liz Pison,M,Indonesisch,Laag,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Student,Woonboot,Digibeet,50,Laag,Goed,Gemiddeld,Gemiddeld
+Artist,Isabel van der Lede,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,95,Laag,Gemiddeld,Goed,Gemiddeld
+Higher education careers adviser,Emir Helmerhorst-Brievingh,F,Turks,Hoog,Alleenstaand,Rechts,MBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,59,Laag,Goed,Gemiddeld,Gemiddeld
+Research scientist (maths),Olivia Merkx,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Joods,Gehuwd,Fulltime,Woonboot,Beginner,37,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

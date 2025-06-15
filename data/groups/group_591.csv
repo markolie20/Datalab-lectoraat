@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Solicitor, Scotland",Selena Hazenveld,F,Eritrees,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Advanced,23,Laag,Gemiddeld,Goed,Goed
+Arts development officer,Kayleigh Schatteleijn,M,Surinaams,Hoog,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Parttime,Woonboot,Intermediate,81,Laag,Gemiddeld,Slecht,Goed
+Sports development officer,Jay Versluijs,F,Surinaams,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,91,Hoog,Gemiddeld,Goed,Slecht
+Technical brewer,Dylano Bijlsma,F,Surinaams,Gemiddeld,Alleenstaand,Links,VMBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,36,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, production",Pien Lips,F,Surinaams,Laag,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Gehuwd,Fulltime,Woonboot,Intermediate,59,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Quality manager,Daphne van Loon-Weijters,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,38,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Designer, industrial/product",Koen van de Pavert,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,34,Gemiddeld,Goed,Gemiddeld,Goed
+Publishing rights manager,Hendrik Suijker,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,64,Hoog,Goed,Gemiddeld,Goed
+"Engineer, site",Twan Michiels,M,Surinaams,Gemiddeld,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,99,Gemiddeld,Slecht,Goed,Slecht
+"Nurse, adult",Yassin Chevresson-Steenbakkers,M,Surinaams,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,55,Hoog,Slecht,Goed,Goed
+Clothing/textile technologist,Kyan Verbeek,M,Surinaams,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Expert,75,Gemiddeld,Goed,Goed,Gemiddeld
+Energy manager,Jonathan de Koning,M,Irakees,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,75,Laag,Goed,Gemiddeld,Gemiddeld
+Architectural technologist,James van Engeland,M,Marokkaans,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,33,Laag,Goed,Gemiddeld,Gemiddeld
+Glass blower/designer,Danique de Bruin,F,Indiaas,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,40,Laag,Goed,Gemiddeld,Goed
+"Nurse, children's",Chloë van der Veiver,F,Antilliaans,Hoog,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,97,Laag,Slecht,Gemiddeld,Goed

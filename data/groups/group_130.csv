@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, biomedical",Ian Saxo,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,98,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Merchant navy officer,Zoë van de Greef,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial horticulturist,Ali de Groot,F,Nederlands,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,83,Laag,Goed,Gemiddeld,Gemiddeld
+Dramatherapist,Faye van Dam,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,20,Hoog,Slecht,Slecht,Goed
+Clinical cytogeneticist,Robin van der Spaendonck,M,Chinees,Laag,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,87,Gemiddeld,Gemiddeld,Slecht,Goed
+Advice worker,Valentijn van der Kaay-Willems,F,Pools,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,82,Hoog,Gemiddeld,Gemiddeld,Slecht
+Plant breeder/geneticist,Yusuf Krabbe,F,Spaans,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,82,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Television/film/video producer,Kian Korstman,F,Marokkaans,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,62,Gemiddeld,Goed,Gemiddeld,Goed
+"Lecturer, further education",Dave Barents,M,Indonesisch,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,34,Laag,Gemiddeld,Gemiddeld,Goed
+Company secretary,Lenn Pison,M,Indiaas,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Best boy,Catharina van Landen,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,68,Gemiddeld,Gemiddeld,Goed,Slecht
+"Psychologist, forensic",Stijn Aarden,M,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,25,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Community pharmacist,Thijn van der Spaendonck,F,Bulgaars,Hoog,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,96,Hoog,Slecht,Goed,Goed
+Computer games developer,Angelina Kuiper-Bouthoorn,M,Marokkaans,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Parttime,Appartement,Advanced,23,Laag,Slecht,Gemiddeld,Gemiddeld
+Print production planner,Dave Reimes,F,Marokkaans,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Expert,34,Laag,Gemiddeld,Goed,Goed

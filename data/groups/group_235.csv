@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Police officer,Lola Janssen,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,20,Laag,Slecht,Gemiddeld,Slecht
+Nature conservation officer,Teun Broeckx,M,Nederlands,Hoog,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,45,Hoog,Goed,Gemiddeld,Gemiddeld
+Meteorologist,Lily Verbeek-Rubben,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,27,Laag,Goed,Gemiddeld,Gemiddeld
+Computer games developer,Sami van Oirschot,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Student,Appartement,Beginner,19,Gemiddeld,Slecht,Goed,Gemiddeld
+Armed forces operational officer,Mirthe Roose,F,Eritrees,Gemiddeld,Alleenstaand,Midden,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,42,Laag,Slecht,Gemiddeld,Gemiddeld
+"Programmer, systems",Elif Becht-van Laon,F,Nederlands,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,75,Laag,Goed,Goed,Goed
+Air broker,Brent le Floch,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,49,Hoog,Slecht,Gemiddeld,Gemiddeld
+Quality manager,Brian le Gulcher,M,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Digibeet,64,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Mart Huberts,F,Afghaans,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,98,Gemiddeld,Goed,Goed,Slecht
+Scientific laboratory technician,Liza de Boer-Tielemans,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Beginner,67,Laag,Goed,Gemiddeld,Goed
+"Therapist, sports",Jules Wilson-Kloppert,M,Surinaams,Hoog,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,91,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, materials",Mike de Backer,F,Nederlands,Gemiddeld,Alleenstaand,Midden,WO,Anders,Gescheiden,Werkloos,Vrijstaand,Expert,48,Gemiddeld,Slecht,Gemiddeld,Goed
+Geographical information systems officer,Elin van Parijs-Dachgelder,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,70,Laag,Gemiddeld,Gemiddeld,Goed
+Conference centre manager,Pepijn Rutten,M,Nederlands,Laag,Samenwonend,Links,HBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,81,Laag,Goed,Gemiddeld,Gemiddeld
+Chartered certified accountant,Lotte Kerkhof-Miltenburg,F,Turks,Laag,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,33,Laag,Slecht,Gemiddeld,Gemiddeld
+Charity officer,Jules Boeser,F,Somalisch,Hoog,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Expert,89,Laag,Gemiddeld,Goed,Goed
+Mudlogger,Fleur Mallien,F,Indonesisch,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,42,Laag,Goed,Goed,Slecht
+Film/video editor,Sam van Tuijl,M,Afghaans,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,40,Laag,Gemiddeld,Slecht,Slecht

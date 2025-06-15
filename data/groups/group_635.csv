@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, drama",Dina van Tuijl,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,32,Laag,Goed,Slecht,Gemiddeld
+Statistician,Liz van den Berg,F,Nederlands,Laag,Samenwonend,Links,VMBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,55,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Fish farm manager,Selina van Eck,F,Indiaas,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,22,Hoog,Gemiddeld,Gemiddeld,Slecht
+Outdoor activities/education manager,Vince Michielsen-van der Stael de Jonge,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Anders,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,27,Laag,Gemiddeld,Gemiddeld,Goed
+Building surveyor,Bastiaan Mater,F,Irakees,Hoog,Alleenstaand,Links,MBO,Anders,Gescheiden,Parttime,Studio,Beginner,22,Gemiddeld,Slecht,Slecht,Gemiddeld
+Water quality scientist,Teun Alpaidis-van Landen,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,78,Laag,Gemiddeld,Goed,Goed
+Information systems manager,Rosa Hendriks,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,52,Laag,Gemiddeld,Slecht,Goed
+Learning mentor,Daniel Mangel-Kloppert,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,91,Laag,Goed,Slecht,Gemiddeld
+Textile designer,Mads Jansen,F,Marokkaans,Hoog,Samenwonend,Rechts,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,76,Gemiddeld,Slecht,Slecht,Gemiddeld
+Glass blower/designer,Teun Keijser,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Advanced,96,Laag,Gemiddeld,Goed,Gemiddeld
+"Designer, furniture",Naomi Kok,F,Portugees,Hoog,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,47,Laag,Goed,Gemiddeld,Goed
+Bonds trader,"Vigo Werl-Arnsberg, van-van der Noot",M,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,21,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Data scientist,Bradley ter Waarbeek,M,Turks,Laag,Alleenstaand,Midden,MBO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Digibeet,18,Laag,Gemiddeld,Goed,Slecht
+Race relations officer,Tyler Vierdag,F,Irakees,Hoog,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,89,Laag,Gemiddeld,Goed,Gemiddeld
+Immigration officer,Jayda van Gemert,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Parttime,Appartement,Advanced,51,Laag,Goed,Gemiddeld,Gemiddeld
+Lobbyist,Veerle de Heer-Schilt,M,Turks,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,92,Hoog,Slecht,Gemiddeld,Slecht
+Comptroller,Jasper van Boulogne-Verbeeck,M,Syrisch,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Weduwe/Weduwnaar,Student,Appartement,Intermediate,74,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

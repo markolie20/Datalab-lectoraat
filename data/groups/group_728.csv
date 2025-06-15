@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Technical brewer,Demi ter Waarbeek,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Advanced,62,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Therapist, art",Lieke van Beek,F,Pools,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Advanced,58,Laag,Slecht,Gemiddeld,Gemiddeld
+"Conservation officer, historic buildings",Sem Michielsen-Geertsen,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,48,Gemiddeld,Slecht,Goed,Goed
+Commercial horticulturist,Lena Peterse,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Digibeet,80,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Software engineer,Pleun Bakker,M,Nederlands,Laag,Alleenstaand met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Expert,98,Laag,Slecht,Gemiddeld,Slecht
+"Teacher, adult education",Elisa Jochems,M,Indonesisch,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,74,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Publishing copy,Kyano Wolzak,F,Chinees,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Laag,Slecht,Gemiddeld,Slecht
+Merchant navy officer,Zoey Vos-Rijcken,F,Portugees,Laag,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Zelfstandig,Woonboot,Beginner,92,Laag,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, land/geomatics","Nienke West-Francië, van",F,Marokkaans,Hoog,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,24,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Aid worker,Merijn Bruggeman-van den Velde,F,Turks,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Woonboot,Beginner,51,Gemiddeld,Goed,Goed,Gemiddeld

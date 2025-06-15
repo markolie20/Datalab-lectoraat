@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Interpreter,Collin van den Assem,M,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Weduwe/Weduwnaar,Parttime,Woonboot,Advanced,93,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Pharmacist, community",Keano Scheer,M,Somalisch,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,43,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Cabin crew,Mette Rackham-Jonker,F,Marokkaans,Hoog,Samenwonend,Midden,HAVO,Anders,Gescheiden,Werkloos,Rijtjeshuis,Expert,34,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, communications",Victoria van de Brink,M,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Parttime,Studio,Intermediate,48,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Horticulturist, amenity",Luke van Mispelen,F,Turks,Gemiddeld,Alleenstaand,Rechts,MBO,Boeddhistisch,Gehuwd,Student,Appartement,Beginner,87,Gemiddeld,Goed,Goed,Goed
+"Accountant, chartered certified",Lara Grondel,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,92,Hoog,Gemiddeld,Gemiddeld,Goed
+Leisure centre manager,Bilal van den Broek-van den Henst,M,Pools,Laag,Samenwonend,Links,HAVO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,48,Laag,Slecht,Slecht,Goed
+Fisheries officer,Jordy Spies,M,Eritrees,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Digibeet,60,Laag,Gemiddeld,Slecht,Slecht
+Biomedical scientist,Finn Koeman,M,Roemeens,Hoog,Samenwonend,Links,VWO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Intermediate,27,Hoog,Goed,Gemiddeld,Goed
+Medical physicist,Rens van der Berg,F,Somalisch,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,85,Hoog,Goed,Goed,Gemiddeld
+Mechanical engineer,Dana van Berkum-Feltzer,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Student,Appartement,Beginner,38,Laag,Slecht,Slecht,Gemiddeld
+IT technical support officer,Esther Schagen,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Woonboot,Intermediate,34,Laag,Slecht,Slecht,Goed

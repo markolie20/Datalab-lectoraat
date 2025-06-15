@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Writer,Elias van de Biesenbos,M,Turks,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Digibeet,53,Laag,Goed,Gemiddeld,Gemiddeld
+Wellsite geologist,Kiki Sanders,F,Italiaans,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,39,Hoog,Gemiddeld,Gemiddeld,Slecht
+Occupational therapist,Mohammed Boddaugh,F,Chinees,Laag,Samenwonend,Links,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Advanced,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Estate manager/land agent,Stijn Terry,M,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,65,Laag,Gemiddeld,Slecht,Gemiddeld
+Psychiatrist,Zara Salet,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,82,Laag,Slecht,Gemiddeld,Goed
+Astronomer,Luc van Oirschot,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,HBO,Anders,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,99,Laag,Goed,Goed,Gemiddeld
+Public relations account executive,Jonas van Kempen,F,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Anders,Gehuwd,Fulltime,Appartement,Beginner,29,Laag,Gemiddeld,Slecht,Goed
+Dentist,Lana van Noordeloos,M,Antilliaans,Hoog,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,78,Gemiddeld,Goed,Slecht,Gemiddeld
+"Conservator, museum/gallery",Kyan van Riet,F,Somalisch,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,19,Laag,Gemiddeld,Slecht,Slecht
+Furniture designer,Aaliyah Peeters-de Jonge,M,Nederlands,Hoog,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,89,Laag,Slecht,Gemiddeld,Goed
+"Merchandiser, retail",Nick Simonis,F,Indiaas,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,59,Gemiddeld,Goed,Goed,Gemiddeld
+Speech and language therapist,Livia van der Horst,M,Portugees,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,33,Laag,Slecht,Goed,Gemiddeld
+"Journalist, broadcasting",Bas Jeggij,F,Spaans,Laag,Alleenstaand,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,94,Laag,Slecht,Gemiddeld,Slecht
+Freight forwarder,Muhammed Verkade,M,Turks,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Gescheiden,Werkloos,Appartement,Intermediate,47,Laag,Gemiddeld,Slecht,Goed
+Volunteer coordinator,Tessa Haselaar-van der Leek,M,Turks,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Advanced,60,Gemiddeld,Slecht,Gemiddeld,Goed
+Horticultural consultant,Ceylin Arent,M,Nederlands,Laag,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,79,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, sport and exercise",Vajèn Sanders,M,Duits,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,40,Gemiddeld,Gemiddeld,Goed,Goed
+Environmental manager,Norah Jacobs-Jansen,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Advanced,56,Laag,Slecht,Slecht,Gemiddeld
+Museum/gallery curator,Maurits van Jumiège,F,Spaans,Hoog,Alleenstaand,Rechts,VMBO,Islamitisch,Gescheiden,Parttime,Appartement,Advanced,93,Hoog,Goed,Gemiddeld,Goed
+Legal executive,Alexander van der Linden,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Student,Appartement,Beginner,44,Laag,Goed,Slecht,Goed
+"Surveyor, building",Faye Dijkman-Scharroo,M,Eritrees,Gemiddeld,Alleenstaand,Links,WO,Atheïstisch,Ongehuwd,Parttime,Appartement,Beginner,44,Hoog,Gemiddeld,Goed,Goed
+Mudlogger,Milan van der Berg,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,80,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, mining",Rafael Meyer,M,Somalisch,Gemiddeld,Samenwonend,Midden,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,39,Laag,Slecht,Slecht,Gemiddeld

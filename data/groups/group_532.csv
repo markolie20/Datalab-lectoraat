@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, broadcasting (operations)",Jesper van Loon,F,Nederlands,Hoog,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,55,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, water",Dave Joosten-Winnrich,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,97,Laag,Slecht,Goed,Gemiddeld
+Sport and exercise psychologist,Kyara Verhoeven,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,71,Laag,Goed,Slecht,Slecht
+Public relations account executive,Noah Dries,F,Turks,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Gescheiden,Zelfstandig,Appartement,Intermediate,81,Laag,Goed,Gemiddeld,Gemiddeld
+Special educational needs teacher,Keano Keijzer-Vial,M,Pools,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,48,Gemiddeld,Goed,Slecht,Gemiddeld
+"Engineer, aeronautical",Niels van den Brink,F,Nederlands,Laag,Samenwonend,Midden,HBO,Anders,Gescheiden,Fulltime,Twee-onder-een-kap,Digibeet,98,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Solicitor, Scotland",Noud Kuipers,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,35,Hoog,Goed,Goed,Gemiddeld
+"Geologist, wellsite",Alicia van 't Erve-van Asten,M,Surinaams,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,65,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Engineer, maintenance (IT)",Kate Kleibrink,F,Surinaams,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,85,Laag,Gemiddeld,Goed,Goed
+Health physicist,Madelief de Keijser,M,Duits,Hoog,Alleenstaand met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,65,Laag,Slecht,Slecht,Gemiddeld

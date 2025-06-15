@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Physiological scientist,Elif Erhout,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,19,Hoog,Gemiddeld,Goed,Gemiddeld
+Community education officer,Seth Rackham,F,Indonesisch,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, production",Pien van Allemanië-Versluijs,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,89,Gemiddeld,Goed,Gemiddeld,Goed
+"Nurse, learning disability",Jet van Baalen,F,Eritrees,Hoog,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,84,Laag,Goed,Gemiddeld,Gemiddeld
+Ecologist,Lise Phillipsen,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Woonboot,Beginner,73,Laag,Gemiddeld,Goed,Slecht
+Civil Service administrator,Lauren Schrant,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Studio,Beginner,81,Gemiddeld,Slecht,Gemiddeld,Goed
+Therapeutic radiographer,Johanna Mol-Janssen,M,Nederlands,Laag,Samenwonend,Links,HBO,Christelijk,Gescheiden,Werkloos,Vrijstaand,Intermediate,61,Gemiddeld,Goed,Goed,Gemiddeld
+Automotive engineer,Elif Oennen,F,Nederlands,Hoog,Samenwonend met kinderen,Links,WO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Expert,93,Laag,Slecht,Gemiddeld,Goed
+"Physicist, medical",Kayleigh Brandt,M,Somalisch,Hoog,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,61,Laag,Gemiddeld,Goed,Goed
+"Research officer, trade union",Lot Ridder,F,Portugees,Hoog,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Gehuwd,Fulltime,Studio,Advanced,73,Laag,Gemiddeld,Slecht,Gemiddeld
+Manufacturing systems engineer,Elif Kisman-van Metz,M,Surinaams,Hoog,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,76,Hoog,Goed,Slecht,Gemiddeld
+"Programmer, multimedia",Robin Booden,M,Portugees,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,60,Laag,Goed,Slecht,Gemiddeld
+"Psychologist, clinical",Sepp van Allemanië,M,Irakees,Laag,Alleenstaand,Midden,WO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,86,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Mudlogger,Max van der Kint-van Dam,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Advanced,25,Laag,Goed,Gemiddeld,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Dylan Aeije,M,Afghaans,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,89,Gemiddeld,Goed,Gemiddeld,Slecht
+Animator,Evie Mercks-d' Heripon,F,Antilliaans,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Digibeet,26,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, building control",Fabiënne van der Ven,F,Duits,Laag,Alleenstaand met kinderen,Rechts,HBO,Joods,Gescheiden,Zelfstandig,Appartement,Digibeet,83,Laag,Gemiddeld,Gemiddeld,Goed

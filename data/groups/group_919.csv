@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, clinical (histocompatibility and immunogenetics)",Michael Jorlink-Kleybrink,M,Nederlands,Hoog,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,66,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, television/film set",Sarah van den Berg,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Advanced,81,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, water quality",Mirte Fechant-Janssen,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Zelfstandig,Vrijstaand,Advanced,65,Hoog,Goed,Slecht,Gemiddeld
+"Engineer, land",Nadine Thomas-Weerdenburg,F,Eritrees,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Student,Appartement,Advanced,75,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, clinical",Mirthe Speijer,F,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Anders,Gescheiden,Zelfstandig,Studio,Intermediate,89,Gemiddeld,Goed,Goed,Gemiddeld
+"Designer, interior/spatial",Morris Scuylenborchs,M,Marokkaans,Gemiddeld,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,76,Gemiddeld,Goed,Gemiddeld,Goed
+General practice doctor,Dean Heyne,F,Marokkaans,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Advanced,27,Gemiddeld,Slecht,Goed,Slecht
+Geophysicist/field seismologist,Kyara Freshour,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,39,Laag,Slecht,Goed,Goed
+"Civil engineer, contracting",Daan Bos-Prins,M,Turks,Laag,Alleenstaand met kinderen,Links,VMBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,73,Laag,Gemiddeld,Goed,Gemiddeld
+Immigration officer,Julius de Korte-van Mook,M,Surinaams,Hoog,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Gescheiden,Parttime,Studio,Intermediate,52,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Programmer, applications",Madelief van de Veen,F,Syrisch,Hoog,Alleenstaand,Midden,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,74,Hoog,Goed,Gemiddeld,Gemiddeld
+Arboriculturist,Kayleigh Kortman-Simons,M,Surinaams,Hoog,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Studio,Intermediate,30,Laag,Gemiddeld,Gemiddeld,Slecht
+Office manager,Colin van Dam,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Boeddhistisch,Gehuwd,Student,Rijtjeshuis,Digibeet,48,Laag,Goed,Gemiddeld,Goed
+"Exhibitions officer, museum/gallery",Elin Fredriks-Pauwels,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,57,Gemiddeld,Slecht,Gemiddeld,Goed

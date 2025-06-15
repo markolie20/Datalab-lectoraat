@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Regulatory affairs officer,Kyra Gervais,F,Turks,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,79,Laag,Goed,Slecht,Gemiddeld
+"Psychologist, counselling",Beau van der Zijl,F,Turks,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,86,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Midwife,Jim Zwijsen,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Digibeet,23,Laag,Goed,Gemiddeld,Slecht
+Emergency planning/management officer,Jesper Moensendijk,F,Antilliaans,Laag,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,45,Hoog,Slecht,Goed,Gemiddeld
+Education administrator,Indy Oda,M,Chinees,Hoog,Samenwonend met kinderen,Links,WO,Islamitisch,Gehuwd,Werkloos,Woonboot,Expert,89,Laag,Goed,Goed,Goed
+"Scientist, forensic",Maud Kleibrink-van Hulten,F,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Student,Appartement,Beginner,25,Gemiddeld,Slecht,Goed,Gemiddeld
+Field seismologist,Elias Miltenburg,F,Antilliaans,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Student,Appartement,Advanced,22,Laag,Slecht,Goed,Gemiddeld
+"Research officer, trade union",Juliette Nihoe,F,Indiaas,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,36,Hoog,Goed,Gemiddeld,Slecht
+Community pharmacist,Kian Boudewijns-Giselmeyer,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Parttime,Vrijstaand,Beginner,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Cabin crew,Tara Miltenburg-Wilson,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,34,Laag,Goed,Slecht,Slecht
+Corporate investment banker,Ninthe Slingerland,F,Chinees,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,58,Hoog,Slecht,Goed,Gemiddeld
+Local government officer,Sanne van de Berg,M,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,32,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Advertising account planner,Tara Jochems-Broeckx,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,45,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Ranger/warden,Lucas Dennenberg-Unruoch Hunerik,M,Nederlands,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,40,Gemiddeld,Gemiddeld,Slecht,Slecht
+Equality and diversity officer,Nova Michiels,F,Indonesisch,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Intermediate,83,Laag,Gemiddeld,Goed,Gemiddeld
+Tree surgeon,David van der Maath,M,Roemeens,Laag,Samenwonend,Midden,VWO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,72,Laag,Goed,Gemiddeld,Gemiddeld
+"Production assistant, television",Imran Remmers,F,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Parttime,Appartement,Beginner,21,Laag,Gemiddeld,Goed,Gemiddeld
+Health and safety adviser,Nikki Mol,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,67,Laag,Slecht,Gemiddeld,Gemiddeld
+"Exhibitions officer, museum/gallery",Pippa Wigman-Glasses,M,Nederlands,Hoog,Samenwonend,Links,HBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,47,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Arts administrator,Melle Slaetsdochter,F,Italiaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,62,Gemiddeld,Slecht,Gemiddeld,Goed
+Equities trader,Ashley van de Berg,F,Indonesisch,Laag,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,21,Laag,Goed,Slecht,Gemiddeld
+Air cabin crew,Maja Keijser,M,Chinees,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Gescheiden,Parttime,Rijtjeshuis,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Slecht
+Associate Professor,Lorenzo Verheij,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Intermediate,49,Hoog,Gemiddeld,Gemiddeld,Goed
+"Chemist, analytical",Melissa van Formbach-Rouwenhorst,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Gescheiden,Gepensioneerd,Woonboot,Expert,94,Hoog,Goed,Gemiddeld,Goed

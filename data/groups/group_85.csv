@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Administrator,Fabian le Luc,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Vrijstaand,Beginner,41,Gemiddeld,Goed,Goed,Goed
+Physiotherapist,Chloë van de Plas,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,40,Laag,Goed,Gemiddeld,Gemiddeld
+Sports administrator,Mohamed Pons,M,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Intermediate,22,Gemiddeld,Goed,Goed,Gemiddeld
+"Psychologist, forensic",Bastiaan van Allemanië,F,Duits,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,31,Laag,Slecht,Gemiddeld,Gemiddeld
+"Producer, radio",Twan van der Heiden,M,Nederlands,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,44,Laag,Gemiddeld,Goed,Gemiddeld
+Biomedical scientist,Ivan Post,M,Pools,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,50,Hoog,Gemiddeld,Gemiddeld,Goed
+Landscape architect,Mark Vignon,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,42,Gemiddeld,Goed,Slecht,Gemiddeld
+Chartered legal executive (England and Wales),Maria van de Berg,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,54,Gemiddeld,Gemiddeld,Slecht,Goed
+Information officer,Jill Bosman-Brouwer,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Gepensioneerd,Appartement,Beginner,50,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Customer service manager,Rosalie Ouwerkerk,M,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,56,Laag,Slecht,Gemiddeld,Gemiddeld

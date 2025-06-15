@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, materials",Matthijs van de Wal-Aeije,F,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Digibeet,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Biomedical engineer,Lauren Saxo,F,Eritrees,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,96,Hoog,Gemiddeld,Goed,Goed
+"Biochemist, clinical",Faye van Laarhoven,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Parttime,Rijtjeshuis,Intermediate,40,Laag,Gemiddeld,Goed,Slecht
+"Producer, television/film/video",Hannah Verhoeven,F,Pools,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Zelfstandig,Vrijstaand,Beginner,69,Laag,Goed,Goed,Goed
+Sub,Loïs Aelftrud van Wessex,F,Chinees,Laag,Samenwonend met kinderen,Midden,HBO,Anders,Gehuwd,Gepensioneerd,Appartement,Digibeet,56,Gemiddeld,Goed,Slecht,Gemiddeld
+Environmental consultant,Sil Wildschut-van Veen,M,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Goed,Gemiddeld
+Retail merchandiser,Guus den Haag,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,52,Laag,Goed,Slecht,Goed
+Energy engineer,Niek Coret-Doesburg,M,Chinees,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Boeddhistisch,Gescheiden,Zelfstandig,Vrijstaand,Expert,47,Hoog,Goed,Slecht,Gemiddeld
+"Scientist, product/process development",Tess Schotte,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,65,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Art therapist,Ecrin van Breukelveen-Niermann,M,Syrisch,Hoog,Samenwonend,Links,WO,Atheïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,61,Laag,Goed,Gemiddeld,Slecht
+"Journalist, newspaper",Sami van der Loo,F,Chinees,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Parttime,Appartement,Advanced,93,Laag,Goed,Gemiddeld,Slecht
+"Geneticist, molecular",Nina Coolen,F,Marokkaans,Hoog,Alleenstaand,Midden,HBO,Anders,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,79,Laag,Goed,Goed,Goed
+Materials engineer,Kyano Arent,F,Pools,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Student,Twee-onder-een-kap,Digibeet,33,Laag,Slecht,Slecht,Gemiddeld
+Recruitment consultant,Jill Serra,F,Nederlands,Laag,Alleenstaand,Rechts,WO,Anders,Ongehuwd,Parttime,Appartement,Advanced,20,Hoog,Gemiddeld,Slecht,Gemiddeld
+Quality manager,Naomi Kramer,F,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,87,Hoog,Slecht,Goed,Gemiddeld
+Naval architect,Zara Cosman,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,WO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,86,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Warden/ranger,Benthe Arts,F,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,80,Gemiddeld,Goed,Gemiddeld,Gemiddeld

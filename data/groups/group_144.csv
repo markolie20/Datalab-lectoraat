@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Restaurant manager,Louise Steinmeiern,M,Portugees,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,44,Laag,Goed,Gemiddeld,Slecht
+Printmaker,Leah Huisman,F,Chinees,Laag,Samenwonend,Links,HAVO,Islamitisch,Weduwe/Weduwnaar,Parttime,Vrijstaand,Beginner,57,Gemiddeld,Slecht,Goed,Goed
+Jewellery designer,Nikki Mens-Roose,F,Pools,Laag,Samenwonend met kinderen,Rechts,WO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,78,Laag,Goed,Gemiddeld,Gemiddeld
+Set designer,Floortje Momberg-Marchal,M,Duits,Laag,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,71,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Fashion designer,Sten Thatcher,M,Marokkaans,Gemiddeld,Alleenstaand,Links,HBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,37,Laag,Gemiddeld,Goed,Gemiddeld
+Armed forces logistics/support/administrative officer,Dylano Jaceps,F,Marokkaans,Laag,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,96,Gemiddeld,Goed,Gemiddeld,Goed
+Event organiser,Anne Wijland,F,Bulgaars,Laag,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,62,Laag,Gemiddeld,Gemiddeld,Goed
+Learning disability nurse,Imke Bresé,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Studio,Expert,33,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, biomedical",Tijmen Martens,M,Syrisch,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Woonboot,Intermediate,91,Laag,Goed,Goed,Gemiddeld
+"Research officer, trade union",Bastiaan François,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,84,Gemiddeld,Gemiddeld,Goed,Goed
+"Therapist, sports",Pieter Ellis,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,35,Laag,Goed,Slecht,Gemiddeld
+Risk manager,Jesper van Cuijck-Weeldenburg,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Digibeet,97,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Ecologist,Maurits Carnotte,F,Nederlands,Laag,Samenwonend,Links,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,65,Laag,Gemiddeld,Goed,Gemiddeld
+Financial controller,Amir Prins,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Student,Appartement,Advanced,76,Hoog,Slecht,Gemiddeld,Slecht

@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Investment banker, operational",Philip van den Bergh,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,28,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Freight forwarder,Imran Nieuwstraten,F,Indonesisch,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,36,Laag,Slecht,Goed,Gemiddeld
+Youth worker,Fem Wouters,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,70,Laag,Gemiddeld,Goed,Goed
+Oceanographer,Jet van Wallaert,F,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Christelijk,Gescheiden,Zelfstandig,Appartement,Intermediate,71,Hoog,Slecht,Gemiddeld,Gemiddeld
+Environmental consultant,Guus Janssen,M,Indonesisch,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Intermediate,33,Laag,Goed,Goed,Slecht
+Retail banker,Amélie van der Pluijm-Ansems,M,Nederlands,Laag,Samenwonend,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Expert,65,Hoog,Goed,Gemiddeld,Goed
+Interpreter,Daniel van Suinvorde,F,Chinees,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,47,Gemiddeld,Goed,Slecht,Gemiddeld
+Field seismologist,Justin de Swart,F,Antilliaans,Laag,Alleenstaand met kinderen,Midden,MBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Expert,70,Gemiddeld,Slecht,Gemiddeld,Slecht
+Intelligence analyst,Jelte Lansink,F,Duits,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Woonboot,Intermediate,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Medical physicist,Levi Woudenberg,M,Marokkaans,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,69,Laag,Goed,Gemiddeld,Gemiddeld
+Immigration officer,Yinthe Teunissen-Vial,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,84,Hoog,Gemiddeld,Slecht,Gemiddeld
+Investment analyst,Sil Rek,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,84,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Careers adviser,Rik Huisman,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,26,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, manufacturing systems",Mia van der Heijden,F,Surinaams,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,98,Laag,Gemiddeld,Goed,Gemiddeld
+Theatre stage manager,Thijmen Ansems,F,Pools,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,27,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Landscape architect,Julian Stettyn,F,Eritrees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,59,Laag,Gemiddeld,Gemiddeld,Gemiddeld

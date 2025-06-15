@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Radio broadcast assistant,Jolie Driessen,M,Spaans,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Student,Appartement,Beginner,55,Laag,Gemiddeld,Gemiddeld,Goed
+Child psychotherapist,Valentijn Visser,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,20,Hoog,Gemiddeld,Gemiddeld,Goed
+"Psychologist, forensic",Mick Steenbeek,F,Eritrees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,31,Laag,Gemiddeld,Slecht,Gemiddeld
+"Chemist, analytical",Thomas Chrodtrud,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,31,Laag,Gemiddeld,Gemiddeld,Goed
+Medical laboratory scientific officer,Boaz van Hulten-van Ham,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Islamitisch,Gescheiden,Student,Appartement,Digibeet,27,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, civil (contracting)",Lotte Hendricks,F,Surinaams,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,33,Laag,Gemiddeld,Gemiddeld,Slecht
+"Scientist, audiological",Rens Beernink,M,Indiaas,Laag,Alleenstaand met kinderen,Rechts,HBO,Boeddhistisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,87,Laag,Goed,Slecht,Gemiddeld
+Network engineer,Robin Smeets,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,50,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Maintenance engineer,Berend van den Velden,M,Indiaas,Gemiddeld,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,97,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Architect,Mats Broeders,M,Spaans,Laag,Alleenstaand,Links,WO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,78,Laag,Slecht,Gemiddeld,Slecht
+Civil Service administrator,Lenn Blokland-van Beeck Beeckmans,M,Surinaams,Laag,Alleenstaand,Links,Basisonderwijs,Islamitisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,75,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Patent examiner,Tijmen van Evelingen-de Jager,M,Syrisch,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Expert,27,Laag,Goed,Goed,Gemiddeld
+Fast food restaurant manager,Dylan Gerritse,F,Irakees,Laag,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Advanced,20,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Engineering geologist,Fatima van den Berg,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Parttime,Appartement,Digibeet,93,Gemiddeld,Gemiddeld,Slecht,Goed
+Radio broadcast assistant,Michael Kok,F,Nederlands,Hoog,Samenwonend,Midden,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Expert,42,Laag,Gemiddeld,Slecht,Goed
+"Engineer, petroleum",Emma van Nes-Buijs,F,Indiaas,Hoog,Alleenstaand,Links,VMBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,68,Gemiddeld,Goed,Goed,Gemiddeld
+"Librarian, academic",Max van den Eerenbeemt,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Advanced,74,Laag,Gemiddeld,Goed,Gemiddeld

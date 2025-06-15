@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Research officer, trade union",Frederique Niermann,F,Pools,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,29,Hoog,Slecht,Gemiddeld,Goed
+"Scientist, research (maths)",Daan van Bunschoten,M,Turks,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Goed,Slecht,Goed
+"Doctor, general practice",Tyler Kruns,F,Nederlands,Hoog,Alleenstaand,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Woonboot,Advanced,97,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Transport planner,Sofie Zijlemans,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Islamitisch,Ongehuwd,Student,Appartement,Digibeet,74,Laag,Goed,Gemiddeld,Slecht
+Secretary/administrator,Tycho van der Meulen-de Keijzer,F,Pools,Laag,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Appartement,Beginner,20,Laag,Goed,Goed,Gemiddeld
+Health service manager,Lizzy Jaceps,F,Nederlands,Hoog,Samenwonend,Links,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,30,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+English as a second language teacher,Amina van Roijen,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Land/geomatics surveyor,Mette van Lucel,F,Marokkaans,Gemiddeld,Samenwonend,Links,VMBO,Joods,Ongehuwd,Werkloos,Appartement,Beginner,35,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Corporate treasurer,Jolijn Wildschut,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,96,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, agricultural",Mason Jans,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Anders,Gehuwd,Fulltime,Vrijstaand,Intermediate,50,Gemiddeld,Goed,Gemiddeld,Slecht
+Graphic designer,Bas Lemmens,M,Nederlands,Hoog,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,43,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Scientist, physiological",Maria Bekbergen,M,Afghaans,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Werkloos,Appartement,Digibeet,43,Laag,Gemiddeld,Slecht,Slecht
+Social researcher,Nout Walter,F,Spaans,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Student,Studio,Advanced,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Applications developer,Morris Weeldenburg,M,Italiaans,Hoog,Samenwonend,Links,VWO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,44,Laag,Goed,Goed,Goed
+"Exhibitions officer, museum/gallery",Casper Vertooren,M,Turks,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,96,Laag,Slecht,Goed,Goed
+Technical sales engineer,Sara Rousselet,F,Antilliaans,Hoog,Samenwonend met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,37,Laag,Slecht,Gemiddeld,Gemiddeld
+Veterinary surgeon,Mark van de Pol,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,64,Laag,Gemiddeld,Slecht,Goed
+"Psychotherapist, child",Pepijn Jdotte-den Haag,M,Surinaams,Laag,Alleenstaand,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Advanced,91,Laag,Goed,Slecht,Gemiddeld
+"Accountant, chartered public finance",Stan van der Meer,M,Surinaams,Gemiddeld,Samenwonend,Midden,MBO,Anders,Gehuwd,Gepensioneerd,Vrijstaand,Beginner,77,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Sport and exercise psychologist,Giel Oversteeg,F,Turks,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gescheiden,Student,Woonboot,Advanced,30,Gemiddeld,Goed,Slecht,Goed
+Haematologist,Esila Schulten,F,Pools,Laag,Samenwonend,Links,VWO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Teaching laboratory technician,Dylan de Boer-Goudriaan,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,83,Laag,Gemiddeld,Slecht,Gemiddeld
+Water quality scientist,Jade van Northeim-Kathagen,M,Pools,Hoog,Alleenstaand,Links,VMBO,Hindoeïstisch,Gescheiden,Student,Appartement,Advanced,95,Laag,Goed,Goed,Gemiddeld

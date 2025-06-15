@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Education administrator,Dina Spruyt,M,Marokkaans,Hoog,Samenwonend,Links,VWO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Editor, magazine features",Sebastiaan Aarden,M,Indiaas,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,96,Laag,Goed,Slecht,Slecht
+Telecommunications researcher,Boaz van Voorst-van Metz,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,68,Gemiddeld,Gemiddeld,Goed,Goed
+Production manager,Olivia Arens,M,Nederlands,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,94,Laag,Goed,Slecht,Slecht
+Cartographer,Victoria Koret-Van Bragt,M,Surinaams,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,30,Laag,Gemiddeld,Gemiddeld,Goed
+"Nurse, mental health",Sep Cant,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,VMBO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Digibeet,61,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Runner, broadcasting/film/video",Lotte Ernst,F,Surinaams,Hoog,Samenwonend met kinderen,Rechts,HAVO,Anders,Gescheiden,Fulltime,Appartement,Advanced,22,Laag,Slecht,Goed,Goed
+Diagnostic radiographer,Maya van Dam,F,Marokkaans,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,33,Laag,Slecht,Slecht,Gemiddeld
+Sales promotion account executive,Max van der Spaendonc,F,Nederlands,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,38,Laag,Goed,Gemiddeld,Slecht
+Chartered legal executive (England and Wales),Sam Zwijsen-Gepa van Bourgondië,F,Surinaams,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,83,Hoog,Goed,Goed,Gemiddeld
+Heritage manager,Joey van Beaumont,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,51,Laag,Goed,Gemiddeld,Gemiddeld
+"Horticulturist, amenity",Finn van Opper-Lotharingen-Blom,F,Antilliaans,Laag,Alleenstaand,Rechts,WO,Anders,Gehuwd,Gepensioneerd,Appartement,Advanced,81,Hoog,Slecht,Goed,Gemiddeld
+Broadcast presenter,Maxim van Arnsberg,F,Duits,Laag,Alleenstaand,Midden,VWO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,48,Laag,Goed,Slecht,Gemiddeld
+"Surveyor, building control",Hugo Sanders,M,Antilliaans,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,45,Laag,Slecht,Goed,Goed
+Civil Service administrator,Kay van Stralen,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,99,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Meteorologist,Kian Carnotte,F,Chinees,Hoog,Alleenstaand,Links,HBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,52,Gemiddeld,Slecht,Goed,Slecht
+Architectural technologist,Owen van Nimwegen-Cosman,F,Roemeens,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,47,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Retail merchandiser,Jack van Asten,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Anders,Gehuwd,Student,Rijtjeshuis,Intermediate,65,Laag,Gemiddeld,Goed,Gemiddeld
+Podiatrist,Bibi van Haspengouw Hesbaye,F,Eritrees,Hoog,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,19,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Artist,Twan Giselmeyer,F,Nederlands,Laag,Samenwonend,Midden,VWO,Hindoeïstisch,Gehuwd,Fulltime,Vrijstaand,Advanced,60,Laag,Goed,Goed,Slecht
+"Scientist, research (life sciences)",Rosa Kolster,M,Chinees,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Occupational hygienist,Joep van Bernicia,F,Bulgaars,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,69,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Editor, commissioning",Hendrik 's Gravensande,F,Bulgaars,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Gescheiden,Fulltime,Vrijstaand,Expert,18,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Insurance risk surveyor,Loïs van Bergen-van Hamaland,F,Afghaans,Gemiddeld,Alleenstaand,Links,HAVO,Hindoeïstisch,Gescheiden,Student,Appartement,Digibeet,60,Laag,Slecht,Gemiddeld,Slecht

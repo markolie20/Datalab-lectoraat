@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Research scientist (maths),Linn Koeman,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Further education lecturer,Ashley van Leeuwen,M,Surinaams,Hoog,Samenwonend,Midden,Basisonderwijs,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,53,Hoog,Goed,Gemiddeld,Goed
+Transport planner,Evie Bakker,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,59,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Scientist, water quality",Elisa Ansems-van der Lede,M,Nederlands,Hoog,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,50,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+English as a second language teacher,Kyano Osterhoudt,M,Portugees,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Forensic scientist,Fiene van Boven,M,Indonesisch,Laag,Samenwonend met kinderen,Midden,VWO,Boeddhistisch,Ongehuwd,Werkloos,Studio,Beginner,32,Laag,Slecht,Gemiddeld,Slecht
+Biomedical scientist,Jennifer van der Sande,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,39,Gemiddeld,Goed,Gemiddeld,Slecht
+"Investment banker, operational",Jade van Schweinfurt,M,Indiaas,Laag,Samenwonend,Links,MBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,87,Gemiddeld,Goed,Goed,Goed
+Herbalist,Frederique van Laon,F,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,39,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Psychologist, counselling",Youssef Aelftrud van Wessex,F,Nederlands,Laag,Alleenstaand,Midden,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,92,Gemiddeld,Goed,Gemiddeld,Slecht
+"Therapist, music",Yasmin de Mol,M,Turks,Laag,Samenwonend met kinderen,Links,HAVO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,98,Laag,Gemiddeld,Goed,Slecht
+"Radiographer, therapeutic",Nina Lankle-Lemmens,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Beginner,35,Laag,Slecht,Gemiddeld,Gemiddeld
+"Journalist, magazine",Liz Bouwhuisen,M,Syrisch,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,54,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Newspaper journalist,Danique Freshour-Mater,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,MBO,Joods,Gehuwd,Fulltime,Appartement,Intermediate,37,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Teacher, secondary school",Stella van Holland,M,Surinaams,Laag,Samenwonend met kinderen,Links,VWO,Boeddhistisch,Ongehuwd,Student,Appartement,Expert,36,Laag,Goed,Gemiddeld,Goed
+Chartered legal executive (England and Wales),Yinthe van Luin-Bertho,M,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,37,Hoog,Slecht,Slecht,Gemiddeld

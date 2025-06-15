@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Publishing copy,Roos Dachgelder,M,Chinees,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,98,Gemiddeld,Gemiddeld,Goed,Goed
+"Nurse, children's",Silke van Wijland,M,Syrisch,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,62,Laag,Slecht,Gemiddeld,Gemiddeld
+Sub,Charlotte Zuidweg,F,Nederlands,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,86,Hoog,Slecht,Gemiddeld,Gemiddeld
+Armed forces logistics/support/administrative officer,Lina Wever,F,Nederlands,Hoog,Samenwonend,Links,HBO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Expert,56,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, research (maths)",Zoë van Este,F,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Gehuwd,Student,Rijtjeshuis,Expert,72,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Psychologist, prison and probation services",Nathan Huel,F,Indiaas,Laag,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Zelfstandig,Studio,Beginner,80,Gemiddeld,Goed,Gemiddeld,Slecht
+Orthoptist,Mara Huberts,M,Indiaas,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Beginner,43,Laag,Slecht,Goed,Goed
+English as a second language teacher,Sofia Veenstra,F,Antilliaans,Hoog,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,32,Laag,Goed,Goed,Goed
+Environmental consultant,Cas van den Brink-Michiels,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Anders,Gehuwd,Werkloos,Studio,Intermediate,69,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Development worker, community",Pleun van 't Erve,F,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,88,Laag,Gemiddeld,Slecht,Gemiddeld
+Public librarian,Lois Kunen,M,Somalisch,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Gehuwd,Fulltime,Woonboot,Advanced,35,Laag,Slecht,Goed,Slecht
+"Engineer, manufacturing",Maya Mijsberg,M,Nederlands,Hoog,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Fulltime,Studio,Intermediate,88,Laag,Gemiddeld,Goed,Gemiddeld
+Merchant navy officer,Sofie Kirpenstein-Lips,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Werkloos,Appartement,Digibeet,24,Hoog,Gemiddeld,Gemiddeld,Slecht
+Dentist,Ilse van den Bergh-van den Nuwenhuysen,F,Marokkaans,Laag,Samenwonend,Midden,MBO,Joods,Ongehuwd,Student,Appartement,Beginner,83,Hoog,Goed,Gemiddeld,Slecht
+Futures trader,Alyssa Verbruggen,M,Turks,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,71,Hoog,Slecht,Slecht,Slecht

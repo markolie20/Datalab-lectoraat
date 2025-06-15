@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Youth worker,Jade Claesner,M,Marokkaans,Gemiddeld,Samenwonend,Midden,VWO,Hindoeïstisch,Gescheiden,Parttime,Twee-onder-een-kap,Expert,89,Laag,Gemiddeld,Goed,Goed
+Fitness centre manager,Luuk Zwijsen,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,99,Gemiddeld,Slecht,Slecht,Goed
+"Runner, broadcasting/film/video",Hanna Brugman,F,Nederlands,Gemiddeld,Samenwonend,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,42,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Presenter, broadcasting",Juul Houdijk,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,42,Gemiddeld,Goed,Slecht,Goed
+Museum/gallery exhibitions officer,Nynke Bosman,F,Chinees,Laag,Samenwonend met kinderen,Rechts,MBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Beginner,46,Gemiddeld,Gemiddeld,Goed,Goed
+Data processing manager,Aya Galenzone-van der Steen,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,63,Gemiddeld,Slecht,Goed,Goed
+Heritage manager,Hendrik van Metz,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,45,Laag,Goed,Gemiddeld,Slecht
+Passenger transport manager,Jayden Hoppenbrouwer,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Anders,Gescheiden,Fulltime,Vrijstaand,Beginner,50,Laag,Gemiddeld,Goed,Goed
+Pensions consultant,Ashley Corstiaens,F,Turks,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,80,Laag,Gemiddeld,Goed,Goed
+Social worker,Maartje van Schevinghuizen-Rackham,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Advanced,98,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, textile",Valentijn van Haeften-Konings,F,Nederlands,Laag,Samenwonend,Midden,VWO,Anders,Gescheiden,Fulltime,Appartement,Advanced,19,Hoog,Gemiddeld,Goed,Gemiddeld
+"Secretary, company",Merijn Rijcken,M,Chinees,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,61,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial manager,Bilal Vertoor,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Studio,Beginner,64,Hoog,Goed,Gemiddeld,Gemiddeld
+Chief Strategy Officer,Noor Veltman-Greij,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,68,Laag,Gemiddeld,Gemiddeld,Slecht
+"Buyer, retail",Liv Zevenboom-Schokman,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,84,Hoog,Slecht,Goed,Gemiddeld
+Electronics engineer,Adriana Hexspoor,M,Indonesisch,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Werkloos,Woonboot,Intermediate,64,Gemiddeld,Goed,Slecht,Gemiddeld
+Audiological scientist,Casper van Westfalen,F,Roemeens,Hoog,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,68,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Mechanical engineer,Jesper Kerkhof,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,90,Laag,Slecht,Gemiddeld,Gemiddeld

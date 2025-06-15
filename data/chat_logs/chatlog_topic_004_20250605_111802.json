@@ -1,0 +1,1192 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2023-10-23T00:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi allemaal! Wat vinden jullie van de plannen voor meer windmolens en zonneparken in de regio? Benieuwd naar jullie meningen!\n",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 1,
+    "timestamp": "2023-10-23T00:15:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ik ben er wel voor! 🤩 Maar waar precies dan? Niet in mijn achtertuin hoop ik! 😅",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 2,
+    "timestamp": "2023-10-23T00:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja top idee! 👍 Zolang het maar niet te veel kost! 😜",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 3,
+    "timestamp": "2023-10-23T00:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja, eens! 💯 Goed voor het milieu toch! 😇 Maar waar gaan ze die dingen neerzetten?! 🤔",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 4,
+    "timestamp": "2023-10-23T00:55:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👏 Zonnepanelen op daken lijkt me wel een goed idee! 🏡 Ofzo! 😎 Maar ik weet het ook niet hoor! 🤷‍♀️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 5,
+    "timestamp": "2023-10-23T07:40:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ik vind het prima, hoor! Groene energie is goed voor het milieu! Maar waar ze die dingen neerzetten... Als het maar niet in mijn buurt is!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 6,
+    "timestamp": "2023-10-23T07:45:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, helemaal mee eens! Groene energie is natuurlijk top! Maar ik wil ook geen windmolens of zonnepanelen voor mijn deur! Dat zou toch wat zijn!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 7,
+    "timestamp": "2023-10-23T07:50:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, helemaal waar! Ik ben ook voor groene energie! Maar ik wil het niet in mijn achtertuin, hoor! Stel je voor!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 8,
+    "timestamp": "2023-10-23T08:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Nou, ik ben het helemaal eens met jullie! Groene energie is hartstikke goed, maar ik wil ook geen windmolens of zonnepanelen in mijn buurt! Dat zou toch wat zijn!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 9,
+    "timestamp": "2023-10-23T08:15:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ik vind het allemaal prima, maar niet in mijn achtertuin.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 10,
+    "timestamp": "2023-10-23T08:20:00",
+    "sender": "Noëlle Ellis",
+    "text": "Het is allemaal prima, maar ik wil er niet op uitkijken vanuit mijn huis.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 11,
+    "timestamp": "2023-10-23T08:25:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ik ben het wel met Noëlle eens. Groene energie is belangrijk, maar ik wil ook geen windmolens of zonnepanelen direct voor mijn huis.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 12,
+    "timestamp": "2023-10-23T08:35:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Eens met Evi. Het is essentieel dat we kijken naar duurzame energie, maar de impact op de leefomgeving moet beperkt blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 13,
+    "timestamp": "2023-10-23T08:40:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, helemaal mee eens hoor! 👍 Groene energie is goed, maar niet ten koste van alles! 🙄 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 🏡 Dat zou toch wat zijn! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 14,
+    "timestamp": "2023-10-23T08:45:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad, @Jordy van Praagh. Er moet een balans zijn.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 15,
+    "timestamp": "2023-10-23T08:50:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg Ja, precies! 💯 Balans is belangrijk! En ik ben het ook helemaal eens met @Arthur van Dillen, groene energie is top, maar niet ten koste van alles! 😉 En niet in mijn achtertuin! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 16,
+    "timestamp": "2023-10-23T08:55:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, helemaal waar! 👍 Balans is belangrijk! En niet ten koste van de mooie uitzichten, hè! 😠 En inderdaad @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 17,
+    "timestamp": "2023-10-23T09:00:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg helemaal mee eens hoor! 👍 Balans is belangrijk! En niet ten koste van de mooie uitzichten! 😠 En inderdaad @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 🏡 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 18,
+    "timestamp": "2023-10-23T09:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "@Jordy van Praagh Precies. De esthetische waarde van de omgeving moet ook in acht worden genomen.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 19,
+    "timestamp": "2023-10-23T09:10:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "@Jordy van Praagh Inderdaad. Landschapsvervuiling is een reëel probleem.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 20,
+    "timestamp": "2023-10-23T09:15:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, helemaal waar! 👍 Landschapsvervuiling is inderdaad een probleem! 😠 Balans is belangrijk! En niet ten koste van de mooie uitzichten! 🏡 En inderdaad @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 😠 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 21,
+    "timestamp": "2023-10-23T09:25:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "@Jordy van Praagh Correct. De visuele impact van de infrastructuur moet minimaal zijn.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 22,
+    "timestamp": "2023-10-23T09:30:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, precies! 👍 Visuele impact moet minimaal zijn! 😠 En niet in mijn achtertuin! 🏡 Balans is belangrijk! 💯 En niet ten koste van de mooie uitzichten! 😠 En @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 🏡 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 23,
+    "timestamp": "2023-10-23T09:35:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, helemaal mee eens hoor! 👍 Visuele impact moet inderdaad minimaal zijn! 😠 En niet in mijn achtertuin! 🏡 Balans is belangrijk! 💯 En niet ten koste van de mooie uitzichten! 😠 En @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 🏡 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 😠 Vind het wel belangrijk dat het er komt, maar dan wel goed en niet ten koste van alles! 😜",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 24,
+    "timestamp": "2023-10-23T09:40:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Gerrit Borman-Haneberg, helemaal mee eens hoor! 👍 Visuele impact moet minimaal zijn! 😠 En niet in mijn achtertuin! 🏡 Balans is belangrijk! 💯 En niet ten koste van de mooie uitzichten! 😠 En @Arthur van Dillen, die dingen moeten niet in mijn achtertuin komen! 🏡 Ik wil ook geen windmolens of zonnepanelen voor mijn deur! 😠 Vind het wel belangrijk dat het er komt, maar dan wel goed en niet ten koste van alles! 😜",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 25,
+    "timestamp": "2023-10-23T09:45:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Eens met jullie! Groene energie is belangrijk, hoor! Maar dan wel graag zonder windmolens of zonnepanelen in de buurt! 😠 En al helemaal niet in mijn tuin! 🏡 Het moet wel mooi blijven, hè?",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 26,
+    "timestamp": "2023-10-23T09:50:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "@Daphne Uittenbosch. Correct, de impact op de omgeving moet minimaal zijn.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 27,
+    "timestamp": "2023-10-23T09:55:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "@Daphne Uittenbosch. Precies.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 28,
+    "timestamp": "2023-10-23T10:00:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ja man, groene energie is wel chill, maar die dingen moeten echt niet voor mn deur komen 🙄. Snap je.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 29,
+    "timestamp": "2023-10-23T10:15:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, groene energie is goed! Maar die windmolens en zonnepanelen moeten niet overal komen! En al helemaal niet voor mijn deur! Ik wil er niet op uitkijken, hoor! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 30,
+    "timestamp": "2023-10-23T10:20:00",
+    "sender": "Senna de Kale",
+    "text": "Ik ben het met Lukas eens. Die dingen moeten niet overal komen.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 31,
+    "timestamp": "2023-10-23T10:25:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer Verhagen en mevrouw de Kale, ik deel uw mening. Groene energie is wenselijk, maar de visuele impact op de omgeving moet minimaal blijven. Ik wil ook geen windmolens of zonnepanelen direct voor mijn appartement.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 32,
+    "timestamp": "2023-10-23T10:30:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja uhm, groene energie is wel oke hoor, maar niet als ik op die dingen moet uitkijken! Zonnepanelen of windmolens voor mn huis? Nee dankje! 😠 Ben het met Dave eens, moet wel mooi blijven!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 33,
+    "timestamp": "2023-10-23T10:35:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens met Isabelle! 💯 Groene energie is top, maar niet als ik er op uit moet kijken! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 34,
+    "timestamp": "2023-10-23T10:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja, helemaal mee eens Arthur! 💯 Groene energie is goed, maar niet als ik er op uit moet kijken! 😠 Wil geen windmolens of zonnepanelen voor de deur. Moet wel mooi blijven hier! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 35,
+    "timestamp": "2023-10-23T10:45:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, Isabelle. Zoiets wil ik ook niet voor de deur.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 36,
+    "timestamp": "2023-10-23T10:50:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa, ik snap jullie wel, groene energie is boeie, maar die dingen moeten echt niet voor je huis komen, toch? 😤 Vind t wel belangrijk, maar niet ten koste van alles, snap je? 💯💯💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 37,
+    "timestamp": "2023-10-23T10:55:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja precies Eliza! 💯 Snap ik helemaal, wil ook geen lelijke dingen voor mn deur! 🏡 Zonnepanelen en windmolens... nee dankje! 😠 Groene energie oke, maar niet ten koste van alles! 👍",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 38,
+    "timestamp": "2023-10-23T11:00:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa @Isabelle van Dongen-Stamrood, precies, snap t helemaal! 💯 Groene energie is goed, maar die dingen moeten echt niet lelijk zijn man. Windmolens en zonnepanelen voor je deur is no go! 😤😤😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 39,
+    "timestamp": "2023-10-23T11:05:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja, helemaal gelijk Eliza! 💯 Snap precies wat je bedoelt. Groene energie is prima, maar die dingen moeten er wel mooi uitzien, hè? 🏡 Anders wil ik het niet! 😠 Windmolens en zonnepanelen voor de deur.. nee dankje! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 40,
+    "timestamp": "2023-10-23T11:10:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja, Eliza, helemaal mee eens! 💯 Groene energie is oké, maar moet er wel mooi uitzien! 🏡 Anders vind ik het niks! 😠 Geen windmolens of zonnepanelen voor de deur! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 41,
+    "timestamp": "2023-10-23T11:15:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja klopt Eliza! 💯 Je snapt het helemaal! Groene energie is goed, maar niet ten koste van de mooie uitzichten! 🏡 Wil geen windmolens of zonnepanelen voor de deur, moet wel mooi blijven hier! 😠😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 42,
+    "timestamp": "2023-10-23T11:20:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa @Isabelle van Dongen-Stamrood, snap t helemaal! 💯💯💯 Groene energie is goed, maar die dingen moeten er niet uitzien als een puinhoop, toch? 😤 Windmolens en zonnepanelen voor je deur? Nee man, doe maar niet! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 43,
+    "timestamp": "2023-10-23T11:25:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja, klopt Eliza! 💯 Precies! Mooie uitzichten zijn belangrijk! 🏡 En geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is oke, maar niet als het lelijk is! 😤 Snap je!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 44,
+    "timestamp": "2023-10-23T11:35:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Eliza! 💯 Helemaal mee eens! 👍 Mooie uitzichten zijn belangrijk! 🏡 En geen windmolens of zonnepanelen voor de deur! 😠 Vind het ook belangrijk hoor, maar niet als het lelijk wordt! 😤 Groene energie oke, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 45,
+    "timestamp": "2023-10-23T11:40:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, ben het met jullie eens! 😠 Ik wil ook geen windmolens of zonnepanelen voor m'n huis! 🏡 Die dingen zijn niet mooi! Groene energie is goed, maar moet wel mooi blijven! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 46,
+    "timestamp": "2023-10-23T11:45:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, meneer Verhagen. Ik wil ook geen windmolens of zonnepanelen voor de deur.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 47,
+    "timestamp": "2023-10-23T11:50:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Senna! 👍 Groene energie is top! 💯 Maar wil ook geen molens of panelen voor mn deur! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 48,
+    "timestamp": "2023-10-23T11:55:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer van Dillen, ik deel uw mening. De visuele impact moet MINIMAAL zijn.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 49,
+    "timestamp": "2023-10-23T12:00:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, mijnheer Lorreijn. Het moet er wel mooi blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 50,
+    "timestamp": "2023-10-23T12:05:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Senna, helemaal mee eens! 👍 Wil ook geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is top, maar het moet wel mooi blijven hier! 🏡 Snap je! 💯 Anders vind ik het niks! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 51,
+    "timestamp": "2023-10-23T12:10:00",
+    "sender": "Senna de Kale",
+    "text": "Mevrouw van Dongen-Stamrood, helemaal mee eens. Mooi moet het wel blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 52,
+    "timestamp": "2023-10-23T12:15:00",
+    "sender": "Senna de Kale",
+    "text": "Precies. De omgeving moet wel leefbaar blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 53,
+    "timestamp": "2023-10-23T12:20:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Senna, helemaal gelijk! 👍 Precies! Mooi moet het wel blijven! 🏡 Wil ook geen lelijke dingen voor de deur! 😠 Vind het wel belangrijk hoor, maar niet ten koste van alles! 😤 Groene energie prima, maar niet als het uitzicht verpest! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 54,
+    "timestamp": "2023-10-23T12:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👍 Groene energie is goed, maar niet ten koste van alles! 💯 Geen windmolens of zonnepanelen voor mijn deur! 😠🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 55,
+    "timestamp": "2023-10-23T12:35:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Arthur! 💯 Ik wil ook geen windmolens of zonnepanelen voor m'n huis! 🏡 Anders is het niet mooi meer! 😠 Groene energie is wel goed, maar niet als het lelijk wordt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 56,
+    "timestamp": "2023-10-23T12:45:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Lukas! 💯 Helemaal mee eens! 👍 Vind ook dat het mooi moet blijven hier! 🏡 Anders wil ik het niet! 😠 Geen windmolens of zonnepanelen voor de deur! 😤 Groene energie is oké, maar niet ten koste van de mooie uitzichten! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 57,
+    "timestamp": "2023-10-23T12:55:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, ik snap jullie wel. Groene energie is prima, maar als het uitzicht verpest wordt, is het niks. En windmolens en zonnepanelen voor je deur...nee! 😠 Mooi moet het wel blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 58,
+    "timestamp": "2023-10-23T13:00:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad, Bibi, dat is precies wat ik bedoel. Het moet wel mooi blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 59,
+    "timestamp": "2023-10-23T13:05:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad Noëlle! 👍 Het moet wel mooi blijven hier! 🏡 Ik wil ook geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is prima, maar niet ten koste van de mooie uitzichten! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 60,
+    "timestamp": "2023-10-23T13:10:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Norah! 👍 Mooi moet het blijven! 🏡 Ik wil ook geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is goed, maar niet ten koste van alles! 💯 En al helemaal niet als het uitzicht verpest wordt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 61,
+    "timestamp": "2023-10-23T13:15:00",
+    "sender": "Noëlle Ellis",
+    "text": "Precies Morris. Het uitzicht is belangrijk.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 62,
+    "timestamp": "2023-10-23T13:20:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Noëlle! 👍 Helemaal mee eens! 💯 Mooi moet het wel blijven hier! 🏡 Wil ook geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is oke, maar niet als het uitzicht verpest! 😤 Snap je! 💯💯💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 63,
+    "timestamp": "2023-10-23T13:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja klopt! Mooi moet het blijven! 🏡 Anders ben ik er ook tegen! 😠 Windmolens en zonnepanelen voor de deur, nee bedankt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 64,
+    "timestamp": "2023-10-23T13:30:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Bibi! 👍 Helemaal gelijk! 💯 Mooi moet het wel blijven hier! 🏡 Geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is goed, maar niet als het uitzicht verpest! 😤 Anders wil ik het niet! 💯💯💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 65,
+    "timestamp": "2023-10-23T13:35:00",
+    "sender": "Norah Louws-Welf",
+    "text": "@Isabelle van Dongen-Stamrood Helemaal mee eens! 👍 Het moet mooi blijven hier! 🏡 Windmolens en zonnepanelen voor de deur? Nee! 😠 Groene energie prima, maar niet als het uitzicht verpest wordt! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 66,
+    "timestamp": "2023-10-23T13:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Norah! 👍 Precies! 💯 Helemaal mee eens! Mooi moet het blijven hier! 🏡 Geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is oke, maar niet als het uitzicht verpest wordt! 😤 Anders wil ik het niet! 💯💯💯 Echt niet!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 67,
+    "timestamp": "2023-10-23T13:45:00",
+    "sender": "Senna de Kale",
+    "text": "Mooi moet het blijven, mevrouw van Dongen-Stamrood.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 68,
+    "timestamp": "2023-10-23T13:50:00",
+    "sender": "Maja Stinis",
+    "text": "Eens Senna! 👍 Mooi moet het wel blijven! 🏡 Wil ook geen lelijke dingen voor de deur! 😠 Groene energie prima, maar niet ten koste van het uitzicht! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 69,
+    "timestamp": "2023-10-23T13:55:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, mevrouw Stinis.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 70,
+    "timestamp": "2023-10-23T14:05:00",
+    "sender": "Maja Stinis",
+    "text": "Eens Senna! 👍 Snap het helemaal! 💯 Mooi moet het wel blijven! 🏡 Wil ook geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is goed, maar niet als het uitzicht verpest wordt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 71,
+    "timestamp": "2023-10-23T14:10:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad, mevrouw Stinis! 👍 Mooi moet het wel blijven! 🏡 Windmolens en zonnepanelen voor de deur? Nee! 😠 Groene energie is prima, maar niet als het uitzicht verpest wordt! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 72,
+    "timestamp": "2023-10-23T14:15:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Norah! 💯 Helemaal gelijk! 👍 Vind ik ook! 🏡 Windmolens en zonnepanelen hoeven niet voor de deur! 😠 Groene energie is goed, maar niet als het lelijk wordt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 73,
+    "timestamp": "2023-10-23T14:25:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer Verhagen, ik ben het met u eens. De esthetiek is van groot belang. Het moet wel netjes blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 74,
+    "timestamp": "2023-10-23T14:30:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad, meneer Lorreijn. Esthetiek is belangrijk. De plannen moeten wel passen in het landschap.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 75,
+    "timestamp": "2023-10-23T14:35:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Mijnheer Borman-Haneberg, helemaal mee eens! 👍 Het moet passen in het landschap! 🏡 Windmolens en zonnepanelen voor de deur? Nee! 😠 Het uitzicht is belangrijk! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 76,
+    "timestamp": "2023-10-23T14:40:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad, Norah, ik ben het helemaal met je eens. Het moet wel passen in het landschap.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 77,
+    "timestamp": "2023-10-23T14:45:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mevrouw Ellis, ik ben het met u eens. Het is van belang dat de plannen voor groene energie passen binnen het landschap.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 78,
+    "timestamp": "2023-10-23T14:50:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, meneer Lorreijn! 💯 Mooi moet het wel blijven! 🏡 Ik wil geen windmolens of zonnepanelen voor de deur! 😠 Groene energie is oké, maar niet als het lelijk wordt! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 79,
+    "timestamp": "2023-10-23T14:55:00",
+    "sender": "Noëlle Ellis",
+    "text": "Mooi moet het wel blijven, inderdaad. En het landschap is belangrijk.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 80,
+    "timestamp": "2023-10-23T15:00:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Eens met u allen. De plannen moeten passen.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 81,
+    "timestamp": "2023-10-23T15:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De huidige plannen lijken geen rekening te houden met de bestaande landschapsstructuur. Dat is onacceptabel.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 82,
+    "timestamp": "2023-10-23T15:10:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Gerrit! 👍 Het moet wel passen in de omgeving! 🏡 Uitzicht is belangrijk! 💯 En die plannen... 😠 Lijkt nergens op! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 83,
+    "timestamp": "2023-10-23T15:15:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Precies! 👍 Weet je, ik snap dat groene energie belangrijk is, maar die plannen zijn echt om te huilen! 😭 Alsof ze niks geven om hoe het eruit ziet. 😠 Het moet wel mooi blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 84,
+    "timestamp": "2023-10-23T15:20:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De plannen moeten inderdaad worden aangepast. Er is geen rekening gehouden met de ruimtelijke ordening.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 85,
+    "timestamp": "2023-10-23T15:25:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ja, Gerrit, het is inderdaad belangrijk dat de plannen worden aangepast. Het landschap is voor mij ook heel belangrijk.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 86,
+    "timestamp": "2023-10-23T15:30:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, het is essentieel dat de plannen voor groene energie in harmonie zijn met het landschap. De esthetische waarde van onze omgeving is van groot belang. Het uitzicht moet behouden blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 87,
+    "timestamp": "2023-10-23T15:35:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Precies Luuk! 👍 Helemaal mee eens! 💯 Uitzicht is belangrijk! 🏡 Die plannen... 😠 Echt, alsof ze niks snappen van hoe het eruit moet zien! 😤 Groene energie is leuk en aardig, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 88,
+    "timestamp": "2023-10-23T15:40:00",
+    "sender": "Norah Louws-Welf",
+    "text": "@Morris Stuivenberg Helemaal mee eens! 👍 Die plannen zijn echt een aanfluiting! 😠 Het moet wel mooi blijven hier! 🏡 Uitzicht is belangrijk! 💯 Ik wil geen windmolens of zonnepanelen voor mijn deur! 😤 Groene energie prima, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 89,
+    "timestamp": "2023-10-23T15:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "@Norah Louws-Welf 👍 Helemaal waar! 💯 Die plannen zijn echt verschrikkelijk! 😠 Ik snap echt niet hoe ze zoiets kunnen bedenken! 😤 Het moet gewoon mooi blijven hier! 🏡 Uitzicht is heilig! 💯 Groene energie prima, maar niet ten koste van alles! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 90,
+    "timestamp": "2023-10-23T15:50:00",
+    "sender": "Norah Louws-Welf",
+    "text": "@Morris Stuivenberg Inderdaad! 👍 Die plannen zijn verschrikkelijk! 😠 Uitzicht is heilig! 💯 Ik wil het mooi houden hier! 🏡 Geen windmolens of zonnepanelen voor mijn deur! 😤 Groene energie prima, maar niet ten koste van alles! 💯💯💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 91,
+    "timestamp": "2023-10-23T15:55:00",
+    "sender": "Norah Louws-Welf",
+    "text": "@Morris Stuivenberg Absoluut! 👍 Die plannen zijn echt verschrikkelijk! 😠 Uitzicht is heilig! 💯 Ik wil het mooi houden! 🏡 Geen windmolens of zonnepanelen voor mijn deur! 😤 Groene energie prima, maar niet ten koste van alles! 💯💯💯 Het moet passen in het landschap!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 92,
+    "timestamp": "2023-10-23T16:00:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mevrouw Louws-Welf, ik sluit mij aan bij uw mening. Het uitzicht en de esthetiek zijn van cruciaal belang. De plannen moeten worden herzien zodat ze passen binnen het landschap.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 93,
+    "timestamp": "2023-10-23T16:25:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Meneer Lorreijn, ik ben het volledig met u eens. Het is inderdaad van cruciaal belang dat de plannen worden herzien. De esthetiek en het uitzicht moeten worden behouden! Het landschap verdient onze bescherming, vind ik.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 94,
+    "timestamp": "2023-10-23T16:30:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer Hendrikse, ik ben het geheel met u eens. De plannen dienen absoluut herzien te worden. Het landschap is van grote waarde.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 95,
+    "timestamp": "2023-10-23T16:35:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer Hendrikse heeft gelijk. Het landschap is van grote waarde en dient beschermd te worden. De plannen zoals ze er nu liggen, doen dit in mijn ogen niet.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 96,
+    "timestamp": "2023-10-23T16:40:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Mijnheer Lorreijn, u spreekt ware woorden. Het landschap is inderdaad van grote waarde en dient beschermd te worden. De huidige plannen lijken daar echter geen rekening mee te houden. Esthetiek is eveneens van groot belang. Ik hoop dat de verantwoordelijke instanties dit ter harte nemen!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 97,
+    "timestamp": "2023-10-23T16:50:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, heren, de landschappelijke inpassing van de plannen voor groene energie is van essentieel belang. Het zou jammer zijn als de esthetiek van onze omgeving verloren zou gaan. De huidige plannen lijken inderdaad tekort te schieten op dit punt. Ik hoop dat de verantwoordelijke personen hier zorgvuldig naar kijken en met betere voorstellen komen! De schoonheid van het landschap is immers van onschatbare waarde.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 98,
+    "timestamp": "2023-10-23T16:55:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mijnheer Hendrikse, ik ben het wederom met u eens. De huidige plannen zijn naar mijn mening onacceptabel. De esthetiek van het landschap moet ten allen tijde gewaarborgd blijven.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 99,
+    "timestamp": "2023-10-23T17:00:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Dave Lorreijn, helemaal mee eens! 👍 Het moet mooi blijven hier! 🏡 En die plannen... 😠 Ze letten toch nergens op! 😤 Groene energie prima, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 100,
+    "timestamp": "2023-10-23T17:05:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad! @Jordy van Praagh! 👍 Niet ten koste van alles! 😠 Mooi moet het blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 101,
+    "timestamp": "2023-10-23T17:10:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👍 Mooi moet het wel blijven! 🏡 Die plannen zijn echt niks! 😠 Groene energie prima, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 102,
+    "timestamp": "2023-10-23T17:15:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch helemaal mee eens! 👍 Niet ten koste van alles! 😠 Mooi moet het wel blijven! 🏡 Die plannen zijn echt niet goed! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 103,
+    "timestamp": "2023-10-23T17:20:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Helemaal mee eens @Jordy van Praagh! 👍 Niet ten koste van alles, inderdaad! 😠 Het moet wel mooi blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 104,
+    "timestamp": "2023-10-23T17:25:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch, jaaa! 👍 Helemaal mee eens! 💯 Niet ten koste van alles! 😠 Mooi moet het wel blijven! 🏡 Anders is het niks! 😤 Groene energie leuk en aardig, maar wel met je ogen open! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 105,
+    "timestamp": "2023-10-23T17:30:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Eens! 👍🏼 Niet ten koste van alles!! 😠 Mooi moet het wel blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 106,
+    "timestamp": "2023-10-23T17:35:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch, helemaal waar! 👍 We moeten gewoon lekker mooi blijven wonen! 🏡 Die plannen zijn echt niks! 😠 Groene energie is goed, maar niet als we er lelijker van worden! 😤 En dan die windmolens overal, verschrikkelijk! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 107,
+    "timestamp": "2023-10-23T17:45:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad! @Jordy van Praagh! 👍 Zeker waar! 😠 Het moet mooi blijven! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 108,
+    "timestamp": "2023-10-23T17:50:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch, jaaaaa! 👍 Precies! 💯 Mooi moet het blijven! 🏡 Anders wordt het niks! 😤 Die windmolens overal zijn echt een drama! 😠 Groene energie prima, maar niet als het uitzicht verpest wordt! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 109,
+    "timestamp": "2023-10-23T17:55:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch, jaaaaaa! 👍️ Mooi moet het blijven! 🏡️ Anders is het niks! 😠️ Die windmolens, verschrikkelijk! 😤️ Uitzicht is belangrijk! 💯️ Groene energie prima, maar niet zo! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 110,
+    "timestamp": "2023-10-23T18:00:00",
+    "sender": "Jordy van Praagh",
+    "text": "@Daphne Uittenbosch, ja! 👍️ Uitzicht is belangrijk! 🏡️ Die plannen zijn niks! 😠️ Groene energie leuk, maar niet zo! 😤️ Liever niet! 💯️ Die windmolens, brrr! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 111,
+    "timestamp": "2023-10-23T18:05:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Helemaal mee eens! 👍 Zeker! 😠 Mooi moet het blijven hier! 🏡 Windmolens... 😤 Nee! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 112,
+    "timestamp": "2023-10-23T18:10:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👍 Mooi moet het zeker blijven! 🏡 Windmolens... 😤 Nee! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 113,
+    "timestamp": "2023-10-23T18:15:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad! @Arthur van Dillen! 👍 Helemaal mee eens! 😠 Mooi moet het blijven! 🏡 Windmolens zijn echt vreselijk! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 114,
+    "timestamp": "2023-10-23T18:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja! 👍️ Mooi moet het blijven! 🏡️ Niks mis met groene energie, maar niet als het uitzicht weg is! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 115,
+    "timestamp": "2023-10-23T18:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Precies! 👍️ Zonde van het uitzicht! 🏡️ Groene energie prima, maar niet zo! 😠️ Windmolens, brrr! 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 116,
+    "timestamp": "2023-10-23T18:35:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👍️ Uitzicht is belangrijk! 🏡️ Die windmolens moeten weg! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 117,
+    "timestamp": "2023-10-23T18:40:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad! @Arthur van Dillen! 👍 Uitzicht is belangrijk! 🏡 Windmolens moeten weg! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 118,
+    "timestamp": "2023-10-23T18:45:00",
+    "sender": "Arthur van Dillen",
+    "text": "Uitzicht is zó belangrijk! 🏡 Windmolens moeten echt weg! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 119,
+    "timestamp": "2023-10-23T18:50:00",
+    "sender": "Jason Brievingh",
+    "text": "Ik vind het ook echt niks die plannen. Groene energie prima, maar niet ten koste van alles. Uitzicht is belangrijk, en die windmolens... nee!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 120,
+    "timestamp": "2023-10-23T18:55:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 👍 Uitzicht is alles! 🏡 Windmolens moeten weg! 😠 Echt niet mooi! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 121,
+    "timestamp": "2023-10-23T19:00:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens! Uitzicht is belangrijk! 🏡 Windmolens zijn echt lelijk! 😠 Liever niet!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 122,
+    "timestamp": "2023-10-23T19:05:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Eens! Uitzicht is key! 🏡 Windmolens no way! 😠 Die dingen zijn echt lelijk! 😤 Liever gewoon weg ermee! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 123,
+    "timestamp": "2023-10-23T19:10:00",
+    "sender": "Senna de Kale",
+    "text": "Uitzicht is inderdaad belangrijk. Die windmolens zijn geen gezicht.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 124,
+    "timestamp": "2023-10-23T19:15:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja, helemaal mee eens hoor! Uitzicht is belangrijk, en die windmolens...nee! 😠 Echt niet mooi! 🏡 Die plannen vind ik maar niks!! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 125,
+    "timestamp": "2023-10-23T19:20:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja, ik vind het ook niks die plannen!! 😠 Die windmolens zijn echt lelijk!! 😤 Uitzicht is toch wel belangrijk! 🏡 Ik snap dat groene energie goed is, maar zo vind ik het niks!! 💯 Liever niet! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 126,
+    "timestamp": "2023-10-23T19:25:00",
+    "sender": "Mia van Oosten",
+    "text": "Ik ben het met je eens Isa! 👍️ Uitzicht is belangrijk! 🏡️ Windmolens zijn echt lelijk! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 127,
+    "timestamp": "2023-10-23T19:30:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Precies Mia! Uitzicht is alles! Die windmolens zijn echt een ramp! 😠 Weg ermee! 🏡",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 128,
+    "timestamp": "2023-10-23T19:35:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Inderdaad Bibi, uitzicht is belangrijk. Die windmolens horen hier niet.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 129,
+    "timestamp": "2023-10-23T19:40:00",
+    "sender": "Kai van der Laar",
+    "text": "Ja man, precies! 👍️ Windmolens horen hier echt niet! 😠️ Weg ermee! 🏡️ Snap niet dat ze die dingen overal willen neerplempen! 😤️ Uitzicht is toch belangrijk! 💯️ En groene energie prima, maar niet zo! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 130,
+    "timestamp": "2023-10-23T19:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Kai! 👍️ Windmolens zijn echt geen gezicht, weg ermee! 😠️ Uitzicht is veel belangrijker! 🏡 Groene energie prima, maar niet ten koste van alles! 💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 131,
+    "timestamp": "2023-10-23T19:50:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja helemaal mee eens hoor! 😠 Vind die windmolens echt verschrikkelijk! 😤 En dan het uitzicht, dat is toch zo belangrijk! 🏡 Groene energie is goed, maar niet als we het uitzicht verpesten! 💯️ En die plannen, ik snap er niks van! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 132,
+    "timestamp": "2023-10-23T19:55:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, precies Isabelle! Snap er ook niks van! Uitzicht is toch het allerbelangrijkste! 😠 Die windmolens zijn gewoon lelijk! 🏡 Weg ermee!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 133,
+    "timestamp": "2023-10-23T20:00:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad. Uitzicht is belangrijk. Windmolens passen niet in het landschap.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 134,
+    "timestamp": "2023-10-23T20:05:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Helemaal mee eens Gerrit. Uitzicht is toch het belangrijkste. Die windmolens passen hier echt niet.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 135,
+    "timestamp": "2023-10-23T20:10:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, helemaal mee eens! Die windmolens zijn echt vreselijk! Uitzicht is belangrijk!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 136,
+    "timestamp": "2023-10-23T20:15:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, Lukas, helemaal mee eens! Uitzicht is echt het allerbelangrijkste. En die windmolens passen hier gewoon niet.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 137,
+    "timestamp": "2023-10-23T20:20:00",
+    "sender": "Jason Brievingh",
+    "text": "Eens! Uitzicht is inderdaad belangrijk. En die windmolens passen hier echt niet. Groene energie prima, maar niet ten koste van alles.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 138,
+    "timestamp": "2023-10-23T20:25:00",
+    "sender": "Marit Postma",
+    "text": "Ik ben het helemaal eens met wat Jason zegt! Groene energie is prima, maar niet ten koste van alles! Uitzicht is belangrijk!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 139,
+    "timestamp": "2023-10-23T20:30:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, Marit heeft gelijk! Groene energie is prima, maar niet als we daardoor het uitzicht verpesten! En die windmolens... nee, bedankt! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 140,
+    "timestamp": "2023-10-23T20:35:00",
+    "sender": "Marit Postma",
+    "text": "Juliette heeft helemaal gelijk! Uitzicht is toch belangrijk! Het moet wel mooi blijven allemaal! En die windmolens... nee!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 141,
+    "timestamp": "2023-10-23T20:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Marit heeft helemaal gelijk! Uitzicht is echt belangrijk! 🏡️ Groene energie goed idee, maar niet als het ten koste gaat van alles! 😠️ Die windmolens zijn echt lelijk! 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 142,
+    "timestamp": "2023-10-23T20:45:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, Isabelle. Het uitzicht is belangrijk.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 143,
+    "timestamp": "2023-10-23T20:50:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Inderdaad Senna, helemaal mee eens. Uitzicht is belangrijk en die windmolens zijn gewoon geen gezicht.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 144,
+    "timestamp": "2023-10-23T20:55:00",
+    "sender": "Maria Chotzen",
+    "text": "Inderdaad! Eens met Evi! Uitzicht is belangrijk! Die windmolens passen hier echt niet!",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 145,
+    "timestamp": "2023-10-23T21:00:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja Maria, helemaal mee eens. Uitzicht is belangrijk. Windmolens passen hier echt niet. Die plannen vind ik maar niks.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 146,
+    "timestamp": "2023-10-23T21:05:00",
+    "sender": "Mia van Oosten",
+    "text": "Inderdaad Adriana, helemaal mee eens! 👍️ Uitzicht is belangrijk. 🏡️ Windmolens zijn echt lelijk! 😠️ Die plannen vind ik niks! 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 147,
+    "timestamp": "2023-10-23T21:10:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja Mia, helemaal mee eens. Uitzicht is belangrijk. Windmolens zijn lelijk.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 148,
+    "timestamp": "2023-10-23T21:15:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Eens met Adriana en de rest hoor! 💯 Windmolens zijn echt lelijk, verpesten het uitzicht. 😤 Groene energie is wel goed, maar niet ten koste van alles. 🏡 Ik wil wel mooi uit mn raam kunnen kijken! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 149,
+    "timestamp": "2023-10-23T21:20:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Eens met Eliza! 🏡️ Uitzicht is belangrijk, zeker! 😠️ Ik wil ook mooi uit mn raam kunnen kijken! 💯️ Windmolens zijn echt lelijk, weg ermee! 😤️ Groene energie prima, maar niet zo! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 150,
+    "timestamp": "2023-10-23T21:25:00",
+    "sender": "Mia van Oosten",
+    "text": "Helemaal mee eens Isabelle! 👍️ Uitzicht is belangrijk! 🏡️ Windmolens zijn echt lelijk en die plannen vind ik niks! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 151,
+    "timestamp": "2023-10-23T21:30:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Helemaal mee eens Mia! Uitzicht is toch zo belangrijk! Windmolens zijn gewoon lelijk! 😠 Die plannen vind ik ook maar niks! 😤",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 152,
+    "timestamp": "2023-10-23T21:35:00",
+    "sender": "Kai van der Laar",
+    "text": "Nou, helemaal mee eens Norah! Uitzicht is belangrijk! 💯 Die windmolens zijn echt lelijk, verpesten alles! 😠 Groene energie prima, maar niet op deze manier! 🏡 Weg met die dingen! 😤 Die plannen zijn echt niks! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 153,
+    "timestamp": "2023-10-23T21:40:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja Kai, helemaal mee eens. Uitzicht is belangrijk. Windmolens zijn lelijk. Die plannen vind ik maar niks.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 154,
+    "timestamp": "2023-10-23T21:45:00",
+    "sender": "Kai van der Laar",
+    "text": "Adriana, ja man! 💯 Precies wat ik dacht! Uitzicht is heilig! 🏡 Windmolens zijn gewoon lelijk, verpesten alles! 😠 Die plannen zijn echt niks! 😤 Groene energie prima, maar niet ten koste van alles! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 155,
+    "timestamp": "2023-10-23T21:50:00",
+    "sender": "Noëlle Ellis",
+    "text": "Mijnheer Van der Laar, ik ben het met u eens. Het uitzicht is van groot belang. Die windmolens passen hier niet.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 156,
+    "timestamp": "2023-10-23T21:55:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Noëlle! 👍️ Vind die windmolens ook echt niks. 👎️ Groene energie is prima, maar niet ten koste van alles. Uitzicht is toch ook belangrijk! 🏡 En die plannen... 🙄",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 157,
+    "timestamp": "2023-10-23T22:00:00",
+    "sender": "Kai van der Laar",
+    "text": "Yo Morris! 💯 Mee eens man! Uitzicht is belangrijk, toch?! 🏡 Windmolens zijn gewoon lelijk, verpesten alles! 😠 Groene energie oké, maar niet zo! 😤 Die plannen... 🙄 Echt niks! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 158,
+    "timestamp": "2023-10-23T22:05:00",
+    "sender": "Kai van der Laar",
+    "text": "Ewa, Noëlle en Morris! 💯 Helemaal gelijk! Uitzicht is echt belangrijk! 🏡 Die windmolens zijn gewoon echt lelijk! 😠 Verpesten alles! 😤 Die plannen zijn echt niks! 😠 Groene energie is prima, maar niet als we ons uitzicht verneuken! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 159,
+    "timestamp": "2023-10-23T22:10:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ewa Kai! 💯 Precies man! Uitzicht is heilig, toch! 🏡 Windmolens zijn echt lelijk, verpesten alles. 😠 Groene energie is prima, maar niet op deze manier. 😤 Die plannen... 🙄 Echt niks! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 160,
+    "timestamp": "2023-10-23T22:15:00",
+    "sender": "Arthur van Dillen",
+    "text": "Uitzicht is belangrijk!! 🏡️ Die molens zijn echt lelijk! 😠️ Die plannen zijn niks! 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 161,
+    "timestamp": "2023-10-23T22:20:00",
+    "sender": "Maja Stinis",
+    "text": "Eens Arthur! Uitzicht is veel belangrijker! 😠 Die molens moeten weg! 😤 Groene energie oké, maar niet zo! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 162,
+    "timestamp": "2023-10-23T22:25:00",
+    "sender": "Kyara Oennen",
+    "text": "Ik ben het helemaal eens met de anderen! Het uitzicht is echt belangrijk! 🏡️ Ik wil geen windmolens in mijn omgeving! Die plannen zijn maar niks! 😠️ Groene energie is prima, maar niet ten koste van alles! 😤️ Maja Stinis, je spreekt de waarheid!💯",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 163,
+    "timestamp": "2023-10-23T22:30:00",
+    "sender": "Kyara Oennen",
+    "text": "Mee eens! 💯 Het uitzicht is echt belangrijk! 🏡️ Ik snap niet waarom ze die windmolens overal willen plaatsen! 😠️ Er zijn vast wel andere manieren om aan groene energie te komen. 😤️ Die plannen zijn echt waardeloos! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 164,
+    "timestamp": "2023-10-23T22:35:00",
+    "sender": "Jonas van Baalen",
+    "text": "Inderdaad Kyara, helemaal mee eens! 💯 Uitzicht is belangrijk! 🏡️ Windmolens zijn lelijk en die plannen zijn echt waardeloos! 😠️ Groene energie kan best, maar niet zo. 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 165,
+    "timestamp": "2023-10-23T22:40:00",
+    "sender": "Maja Stinis",
+    "text": "Jonas heeft gelijk! Uitzicht is topprioriteit! 😠 Die windmolens zijn echt lelijk! 😤 Groene energie prima, maar niet zo! 😠",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 166,
+    "timestamp": "2023-10-23T22:45:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Maja! 👍️ Uitzicht is belangrijk! 🏡️ Die molens zijn echt lelijk en die plannen zijn niks! 😠️ Groene energie kan anders! 😤️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 167,
+    "timestamp": "2023-10-23T22:50:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja Arthur! Helemaal mee eens! Uitzicht is zó belangrijk!! 🏡️ Die windmolens, vreselijk! 😠️ Die plannen... Nee! 😤️ Groene energie prima, maar niet op deze manier! 😠️",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 168,
+    "timestamp": "2023-10-23T22:55:00",
+    "sender": "Marit Postma",
+    "text": "Inderdaad, Isa! Helemaal mee eens!\n\nHet uitzicht is van groot belang! Die windmolens zijn echt niet mooi.",
+    "topic_id": "topic_004"
+  },
+  {
+    "id": 169,
+    "timestamp": "2023-10-23T23:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Marit! Uitzicht is belangrijk! 🏡️ Molens zijn echt lelijk! 😠️ Plannen zijn niks! 😤️",
+    "topic_id": "topic_004"
+  }
+]

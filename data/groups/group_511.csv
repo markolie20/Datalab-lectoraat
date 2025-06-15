@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Sound technician, broadcasting/film/video",Koen Post,M,Turks,Hoog,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,86,Laag,Gemiddeld,Gemiddeld,Goed
+"Teacher, secondary school",Johannes Schotte-van den Pol,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,49,Laag,Gemiddeld,Goed,Goed
+Advertising copywriter,Florian van Heusden,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Expert,60,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Doctor, general practice",Amina van Egisheim-Lensen,M,Bulgaars,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,29,Hoog,Goed,Gemiddeld,Gemiddeld
+"Pharmacist, community",Bas Leene,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Links,WO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,56,Laag,Gemiddeld,Goed,Goed
+Warden/ranger,Merle de Koning,F,Turks,Laag,Samenwonend met kinderen,Links,WO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,47,Gemiddeld,Goed,Goed,Gemiddeld
+Volunteer coordinator,Britt Dirksen,F,Bulgaars,Laag,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Studio,Digibeet,95,Hoog,Goed,Gemiddeld,Slecht
+Music tutor,Jesper Erhout,M,Turks,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,18,Laag,Goed,Slecht,Goed
+TEFL teacher,Ayden Vink,F,Bulgaars,Laag,Samenwonend,Rechts,WO,Anders,Gehuwd,Student,Rijtjeshuis,Intermediate,18,Laag,Slecht,Gemiddeld,Goed
+Biomedical engineer,Sofia de Gruson-le Gulcher,M,Spaans,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Zelfstandig,Appartement,Advanced,65,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Pepijn Wolffel,F,Portugees,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Digibeet,34,Laag,Gemiddeld,Goed,Goed
+"Administrator, charities/voluntary organisations",Evelien Veenstra,M,Chinees,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,69,Hoog,Goed,Goed,Goed
+Hydrogeologist,Lina Meyer,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,63,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Fitness centre manager,Matthias Willems,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gescheiden,Parttime,Appartement,Intermediate,81,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Bonds trader,Merijn van Limburg-Kas,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,24,Laag,Goed,Goed,Goed

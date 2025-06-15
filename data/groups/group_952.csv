@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, audiological",Timo Gervais,M,Pools,Laag,Samenwonend met kinderen,Links,MBO,Anders,Gehuwd,Fulltime,Appartement,Intermediate,27,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Accountant, chartered certified",Jake van Rossum,M,Indonesisch,Laag,Samenwonend,Midden,WO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Expert,40,Laag,Slecht,Gemiddeld,Gemiddeld
+"Psychologist, educational",Kayleigh Melet,M,Surinaams,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,34,Laag,Goed,Gemiddeld,Goed
+Health promotion specialist,Nadine Kosten-van der Stael,F,Turks,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Studio,Beginner,42,Laag,Goed,Goed,Slecht
+Electronics engineer,Mason Aarts,F,Italiaans,Laag,Samenwonend met kinderen,Midden,WO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,18,Laag,Gemiddeld,Gemiddeld,Slecht
+Herbalist,Victor van Daal,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,33,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, maintenance (IT)",Senna Oude Heer,F,Pools,Gemiddeld,Samenwonend,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,24,Hoog,Goed,Gemiddeld,Gemiddeld
+"Surveyor, building control",Aylin van Ginkel,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VWO,Anders,Gehuwd,Parttime,Rijtjeshuis,Expert,35,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Medical technical officer,Luka Spanhaak,M,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,41,Laag,Gemiddeld,Gemiddeld,Goed
+Housing manager/officer,Jurre Meijer,M,Nederlands,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,57,Gemiddeld,Gemiddeld,Goed,Slecht
+Set designer,Ibrahim Kamp,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,85,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Scientist, product/process development",Naomi Vaessen,F,Afghaans,Laag,Alleenstaand met kinderen,Links,MBO,Joods,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,70,Hoog,Goed,Goed,Gemiddeld
+"Engineer, building services",Yassin Gepa van Bourgondië,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,49,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Consulting civil engineer,Tirza Veenendaal,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,42,Gemiddeld,Slecht,Goed,Goed
+Adult nurse,Floor Estey,M,Surinaams,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Advanced,39,Laag,Slecht,Gemiddeld,Gemiddeld
+Oceanographer,Julie van Bovenen,M,Antilliaans,Laag,Samenwonend,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Advanced,21,Laag,Gemiddeld,Slecht,Gemiddeld
+Cytogeneticist,Aaliyah van Baalen-Weylant,F,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,60,Hoog,Slecht,Gemiddeld,Goed
+Emergency planning/management officer,Aaliyah Furda-Recer,M,Surinaams,Hoog,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,61,Gemiddeld,Gemiddeld,Slecht,Goed
+Product designer,Rayan Kuijpers-Berendse,F,Italiaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,77,Laag,Gemiddeld,Goed,Gemiddeld
+"Administrator, charities/voluntary organisations",Jayda Lensen,M,Turks,Hoog,Alleenstaand,Rechts,MBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,47,Gemiddeld,Slecht,Gemiddeld,Goed
+"Conservator, museum/gallery",Fenne Gervais,M,Spaans,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,94,Laag,Gemiddeld,Slecht,Goed
+"Psychotherapist, dance movement",Tycho Nieuwstraten,M,Eritrees,Laag,Alleenstaand,Rechts,WO,Hindoeïstisch,Gehuwd,Parttime,Woonboot,Intermediate,61,Laag,Gemiddeld,Goed,Goed
+Pension scheme manager,Dina Rippey-Spruyt,M,Syrisch,Hoog,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,36,Laag,Gemiddeld,Slecht,Gemiddeld
+Sports therapist,Elize Verkade-Schuurmans,F,Pools,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,32,Gemiddeld,Slecht,Goed,Gemiddeld

@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Biomedical engineer,Jolijn Kalman,M,Indiaas,Hoog,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Intermediate,93,Laag,Slecht,Gemiddeld,Gemiddeld
+IT trainer,Jonathan van 't Wel-Welf,F,Pools,Laag,Samenwonend,Rechts,VWO,Boeddhistisch,Gehuwd,Parttime,Appartement,Expert,60,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Education administrator,Joëlle Wouters,M,Pools,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Intermediate,21,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Armed forces training and education officer,Tristan Uphaus-Boer,F,Duits,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,87,Laag,Goed,Gemiddeld,Goed
+Optometrist,Kiki Timmerman,M,Turks,Hoog,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,80,Gemiddeld,Gemiddeld,Slecht,Slecht
+Printmaker,Julie Jurrijens,F,Bulgaars,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Woonboot,Advanced,19,Laag,Gemiddeld,Slecht,Goed
+"Administrator, charities/voluntary organisations",Tom van der Stael de Jonge,F,Roemeens,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,32,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Embryologist, clinical",Bastiaan Jans,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,28,Hoog,Gemiddeld,Gemiddeld,Slecht
+Local government officer,Mees van Breukeleveen-Kuiper,F,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,85,Hoog,Gemiddeld,Goed,Slecht
+Media planner,Mads Nek-van Breugel,M,Indonesisch,Laag,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,28,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Academic librarian,Willem Lorreijn-Zuijdveld,M,Marokkaans,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Vrijstaand,Beginner,80,Gemiddeld,Gemiddeld,Goed,Slecht
+Museum education officer,Karlijn van den Henst-Pieters,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Laag,Gemiddeld,Goed,Goed
+"Pharmacist, community",Jacob van Wallaert,M,Afghaans,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,97,Laag,Goed,Gemiddeld,Gemiddeld
+Bonds trader,Evy van de Noordmark,F,Eritrees,Laag,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,93,Gemiddeld,Goed,Gemiddeld,Goed
+"Teacher, music",Beau Lips,F,Surinaams,Gemiddeld,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,25,Gemiddeld,Goed,Goed,Goed
+"Therapist, occupational",Ayoub van der Schuijt-Mahieu,F,Marokkaans,Laag,Samenwonend met kinderen,Links,VWO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,67,Laag,Gemiddeld,Slecht,Slecht

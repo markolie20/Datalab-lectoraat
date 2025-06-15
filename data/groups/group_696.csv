@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Location manager,Mees van den Broek,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,76,Hoog,Goed,Goed,Gemiddeld
+Medical technical officer,Bibi Hoeks,F,Antilliaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Beginner,28,Laag,Goed,Goed,Goed
+Aeronautical engineer,Evie Kort,F,Nederlands,Laag,Samenwonend,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,22,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Copywriter, advertising",Inaya Beourgeois-Ooms,M,Nederlands,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,76,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Maintenance engineer,Youssef van Nus,M,Roemeens,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,38,Hoog,Gemiddeld,Goed,Gemiddeld
+"Biochemist, clinical","Ryan West-Francië, van",M,Indonesisch,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,93,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Conservation officer, nature",Valentijn Teunissen,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,29,Hoog,Gemiddeld,Goed,Slecht
+Marine scientist,Sofia Stettyn-Rackham,F,Duits,Laag,Alleenstaand met kinderen,Rechts,WO,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,35,Hoog,Gemiddeld,Goed,Goed
+Astronomer,Beau Brouwer-Laffray,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,95,Laag,Gemiddeld,Goed,Gemiddeld
+"Surveyor, rural practice",Jonathan Jonker-Spaan,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,36,Laag,Goed,Goed,Goed
+Water engineer,Esther Spreeuw,F,Nederlands,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,18,Gemiddeld,Goed,Gemiddeld,Goed
+"Production assistant, radio",Simon Koster-Rehorst,M,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,49,Hoog,Gemiddeld,Goed,Gemiddeld
+Health physicist,Annemijn van der Klein,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,74,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Development worker, international aid",Sam Vaessen,F,Marokkaans,Gemiddeld,Samenwonend,Rechts,WO,Joods,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,53,Hoog,Goed,Slecht,Slecht
+Government social research officer,Seth Bresse,M,Indiaas,Hoog,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,92,Gemiddeld,Slecht,Gemiddeld,Slecht
+Claims inspector/assessor,Nick Roose-Rehorst,M,Marokkaans,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,95,Hoog,Goed,Slecht,Gemiddeld
+Theatre stage manager,Esmée van Olst,M,Antilliaans,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Environmental health practitioner,Renske Suijker,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,94,Gemiddeld,Slecht,Goed,Gemiddeld
+Best boy,Quinn Bouhuizen,M,Pools,Hoog,Alleenstaand,Midden,WO,Christelijk,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Advanced,28,Hoog,Goed,Gemiddeld,Gemiddeld

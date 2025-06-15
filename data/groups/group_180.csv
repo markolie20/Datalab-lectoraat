@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Television floor manager,Fien de Boer,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Beginner,41,Laag,Gemiddeld,Slecht,Goed
+"Engineer, structural",Bastiaan van Bergen,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Editor, commissioning",Cornelis van Vliet-Jaceps,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Expert,69,Laag,Gemiddeld,Goed,Goed
+Special effects artist,Gijs Dirven,F,Nederlands,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,72,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Television production assistant,Lize Molenaar-Claassen,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,28,Gemiddeld,Goed,Gemiddeld,Slecht
+"Teacher, special educational needs",Mirte Rietveld-Lonen,F,Antilliaans,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,72,Gemiddeld,Goed,Slecht,Gemiddeld
+Medical laboratory scientific officer,Kayleigh Jansen,F,Chinees,Hoog,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,26,Laag,Goed,Gemiddeld,Gemiddeld
+Mental health nurse,Melle Jacobi,M,Turks,Hoog,Samenwonend,Links,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,28,Laag,Slecht,Gemiddeld,Gemiddeld
+"Surveyor, mining",Sam Rademaker,M,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,78,Gemiddeld,Slecht,Goed,Slecht
+Media planner,Jill Lamotte,F,Antilliaans,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,70,Laag,Gemiddeld,Gemiddeld,Goed
+Public affairs consultant,Felix van de Pavert,F,Surinaams,Laag,Alleenstaand,Midden,WO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Conservator, furniture",Vince Timmerman-Hazenveld,M,Afghaans,Laag,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Gescheiden,Parttime,Appartement,Advanced,34,Laag,Gemiddeld,Slecht,Goed
+"Administrator, local government",Jelle Schenk,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,27,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Therapist, music",Maja van Gastel,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,44,Hoog,Gemiddeld,Goed,Gemiddeld
+Retail buyer,Merijn van Eck-Scherms,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Student,Appartement,Digibeet,36,Laag,Slecht,Gemiddeld,Gemiddeld
+"Restaurant manager, fast food",Aaliyah Hulst,M,Indonesisch,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,88,Gemiddeld,Gemiddeld,Goed,Slecht
+"Engineer, production",Feline Wendt,F,Indiaas,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,93,Hoog,Gemiddeld,Goed,Goed
+Chiropractor,Nova Geldens,F,Indiaas,Hoog,Alleenstaand,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,79,Laag,Gemiddeld,Slecht,Gemiddeld
+Chief Technology Officer,Suze Gnodde,F,Indonesisch,Laag,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Digibeet,32,Laag,Goed,Gemiddeld,Slecht
+Forensic psychologist,Sil Meis,F,Indonesisch,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,50,Laag,Gemiddeld,Goed,Goed
+"Surveyor, insurance",Nina Gellemeyer,F,Pools,Laag,Alleenstaand,Midden,MBO,Hindoeïstisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,21,Laag,Gemiddeld,Gemiddeld,Goed
+Television production assistant,Yara Spier,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VWO,Christelijk,Gescheiden,Parttime,Twee-onder-een-kap,Beginner,20,Gemiddeld,Gemiddeld,Goed,Slecht
+Politician's assistant,Daniel van den Velden,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Joods,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,25,Laag,Goed,Goed,Gemiddeld
+Systems developer,Dana Verharen,F,Bulgaars,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,36,Laag,Gemiddeld,Goed,Gemiddeld

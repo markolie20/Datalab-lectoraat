@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, speech and language",Laura de Roo,F,Chinees,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,25,Gemiddeld,Goed,Goed,Gemiddeld
+Professor Emeritus,Berend David,F,Surinaams,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,64,Laag,Slecht,Goed,Goed
+"Nurse, mental health",Faye Rietveld,F,Pools,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,48,Hoog,Goed,Gemiddeld,Gemiddeld
+"Psychologist, prison and probation services",Lindsey Lind,F,Eritrees,Laag,Samenwonend,Links,HBO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Expert,34,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, research (maths)",Mika Kleibrink-Westermann,M,Marokkaans,Laag,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,48,Gemiddeld,Slecht,Gemiddeld,Slecht
+Occupational therapist,Siem Goedhart,M,Roemeens,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Beginner,90,Gemiddeld,Goed,Gemiddeld,Goed
+Civil Service fast streamer,Maria Maas-Kathagen,M,Nederlands,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,56,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Town planner,Jesse Romijn,M,Pools,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,74,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Textile designer,Vince van den Eijssel-Grondel,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,21,Laag,Slecht,Slecht,Gemiddeld
+Speech and language therapist,Jort Jorlink,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Expert,62,Laag,Slecht,Gemiddeld,Gemiddeld
+Community education officer,Zeynep Spreeuw,M,Turks,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,83,Laag,Slecht,Gemiddeld,Slecht
+"Teacher, secondary school",Luc van Salm-Simons,F,Nederlands,Hoog,Samenwonend,Midden,WO,Atheïstisch,Gehuwd,Parttime,Appartement,Advanced,59,Laag,Slecht,Goed,Goed
+"Investment banker, corporate",Seth le Briel,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gescheiden,Parttime,Studio,Intermediate,79,Gemiddeld,Goed,Slecht,Gemiddeld
+"Engineer, automotive",Jari van der Sande,M,Surinaams,Laag,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Intermediate,43,Gemiddeld,Goed,Slecht,Goed
+"Radiographer, diagnostic",Samuel Tielemans-Höning,F,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Zelfstandig,Appartement,Beginner,19,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Product/process development scientist,Anouk Verharen,F,Afghaans,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,84,Hoog,Goed,Gemiddeld,Gemiddeld
+Insurance risk surveyor,Jenna Schroeff,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,54,Gemiddeld,Goed,Slecht,Gemiddeld
+Graphic designer,Youssef Zaal,F,Chinees,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,73,Gemiddeld,Gemiddeld,Slecht,Goed
+Glass blower/designer,Chloë Wever,F,Antilliaans,Hoog,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,66,Hoog,Gemiddeld,Gemiddeld,Goed
+Charity fundraiser,Loïs de Beer,M,Indonesisch,Laag,Alleenstaand,Links,VMBO,Joods,Gescheiden,Zelfstandig,Appartement,Intermediate,69,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, technical sales",Rosa Jans,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Joods,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,62,Gemiddeld,Goed,Goed,Goed
+"Editor, film/video",Daniël Wagenvoort,F,Pools,Hoog,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,41,Laag,Gemiddeld,Gemiddeld,Slecht
+Primary school teacher,Kyara Grondel-van der Steen,F,Indonesisch,Gemiddeld,Alleenstaand,Links,HAVO,Joods,Gehuwd,Parttime,Appartement,Intermediate,42,Laag,Goed,Slecht,Slecht
+Theatre stage manager,Dani de Vries-Laffray,F,Afghaans,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,25,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

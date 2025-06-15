@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Adult nurse,Giovanni van de Veen,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Zelfstandig,Studio,Beginner,41,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Police officer,Joost Bronder,M,Somalisch,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Student,Vrijstaand,Advanced,35,Gemiddeld,Goed,Slecht,Goed
+"Investment banker, corporate",Nick van de Velden-Billung,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VWO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,36,Laag,Slecht,Gemiddeld,Gemiddeld
+Medical secretary,Jasmijn Govarts,M,Marokkaans,Hoog,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,46,Laag,Gemiddeld,Gemiddeld,Goed
+Occupational hygienist,Dani Spiker,M,Turks,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Digibeet,39,Laag,Gemiddeld,Gemiddeld,Slecht
+"Psychologist, clinical",Johanna de Bruin,F,Antilliaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Appartement,Advanced,81,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, electrical",Julia Sitters,M,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,VMBO,Joods,Gehuwd,Fulltime,Appartement,Expert,61,Laag,Gemiddeld,Goed,Goed
+Higher education lecturer,Vajèn van Dongen-van Evelingen,F,Chinees,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,28,Laag,Gemiddeld,Gemiddeld,Slecht
+Museum education officer,Saar Hagendoorn,M,Eritrees,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,19,Laag,Goed,Goed,Goed
+Administrator,Tycho Spruyt,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,WO,Anders,Gescheiden,Parttime,Vrijstaand,Beginner,70,Laag,Slecht,Gemiddeld,Gemiddeld
+Retail merchandiser,Joey Oostveen,M,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,94,Laag,Gemiddeld,Goed,Gemiddeld
+Holiday representative,Livia van Bernicia,M,Roemeens,Hoog,Alleenstaand,Midden,VMBO,Joods,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,67,Hoog,Slecht,Slecht,Gemiddeld
+Insurance claims handler,Sara Wunderink-van Oosten,F,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,HAVO,Anders,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Digibeet,79,Hoog,Gemiddeld,Goed,Goed
+"Administrator, education",Victor Broeshart,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Student,Vrijstaand,Beginner,42,Laag,Gemiddeld,Slecht,Goed
+Industrial/product designer,Daphne Kirpenstein,M,Chinees,Gemiddeld,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Student,Vrijstaand,Intermediate,51,Hoog,Goed,Gemiddeld,Goed
+Data scientist,Milo Broeshart,M,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,52,Gemiddeld,Slecht,Gemiddeld,Goed
+Meteorologist,Jurre Michiels,M,Duits,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Advanced,90,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Designer, graphic",Muhammed de Koning-Schipper,M,Afghaans,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Weduwe/Weduwnaar,Zelfstandig,Appartement,Digibeet,33,Laag,Gemiddeld,Goed,Gemiddeld
+"Buyer, industrial",Joep Frerichs,M,Indiaas,Laag,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Woonboot,Beginner,80,Laag,Goed,Goed,Gemiddeld
+Commissioning editor,Guusje Koster,M,Marokkaans,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,27,Laag,Slecht,Goed,Goed
+Child psychotherapist,Jayden Stange,M,Chinees,Gemiddeld,Samenwonend,Links,WO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Digibeet,33,Gemiddeld,Goed,Gemiddeld,Slecht
+"Solicitor, Scotland",Amber Köster,M,Bulgaars,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Vrijstaand,Beginner,22,Laag,Goed,Gemiddeld,Slecht
+Charity officer,Jolijn Rademaker,M,Italiaans,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,66,Hoog,Goed,Gemiddeld,Gemiddeld
+Mental health nurse,Mats Cadefau,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Hindoeïstisch,Gescheiden,Student,Rijtjeshuis,Expert,80,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered legal executive (England and Wales),Dean van Voorhout,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Gehuwd,Parttime,Vrijstaand,Digibeet,77,Laag,Goed,Gemiddeld,Slecht
+Armed forces training and education officer,Rens Goderts,F,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,60,Hoog,Goed,Gemiddeld,Gemiddeld
+Private music teacher,Feline Everde-Glasses,M,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Digibeet,40,Laag,Goed,Goed,Goed
+Technical author,Jill Persijn-van den Eerenbeemt,M,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,20,Laag,Gemiddeld,Goed,Goed
+Senior tax professional/tax inspector,Pepijn Hoedemakers,F,Duits,Laag,Alleenstaand,Rechts,HBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,24,Gemiddeld,Goed,Goed,Gemiddeld
+"Engineer, energy",Raf Schroeff,F,Pools,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,28,Laag,Gemiddeld,Slecht,Goed
+Homeopath,Philip Heerschop,F,Duits,Hoog,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,97,Laag,Gemiddeld,Goed,Gemiddeld
+Medical secretary,Ninthe Slagmolen,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,61,Laag,Gemiddeld,Gemiddeld,Goed
+Patent examiner,Cato Stoffelsz,M,Eritrees,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Gescheiden,Parttime,Appartement,Advanced,94,Hoog,Goed,Goed,Gemiddeld
+Higher education lecturer,Wesley van den Eijssel,M,Indiaas,Gemiddeld,Alleenstaand,Midden,HAVO,Anders,Gehuwd,Fulltime,Appartement,Intermediate,99,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Retail banker,Evy Gepa van Bourgondië,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,48,Hoog,Slecht,Gemiddeld,Gemiddeld

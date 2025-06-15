@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Editor, film/video",Willem van Roijen,F,Turks,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Student,Twee-onder-een-kap,Beginner,40,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Special effects artist,Lisanne van Noordeloos,M,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,33,Laag,Gemiddeld,Gemiddeld,Goed
+"Teacher, secondary school",Lisa François,F,Roemeens,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,24,Laag,Gemiddeld,Gemiddeld,Goed
+Freight forwarder,Liza van den Broek,M,Nederlands,Laag,Samenwonend,Links,WO,Atheïstisch,Gescheiden,Zelfstandig,Twee-onder-een-kap,Digibeet,87,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Systems developer,Fem van Ommeren,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Anders,Ongehuwd,Fulltime,Woonboot,Intermediate,58,Laag,Goed,Goed,Gemiddeld
+"Development worker, international aid",Job van der Meer,F,Indonesisch,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,35,Hoog,Slecht,Gemiddeld,Gemiddeld
+Logistics and distribution manager,Sanne Rouwhorst,M,Pools,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,45,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Race relations officer,Dana Dachgelt,M,Indiaas,Laag,Samenwonend,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,58,Hoog,Goed,Gemiddeld,Gemiddeld
+Community development worker,Sam Roosenboom-Boudewijns,F,Spaans,Hoog,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,26,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, drilling",Johannes Kof,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gescheiden,Werkloos,Vrijstaand,Beginner,39,Laag,Gemiddeld,Goed,Goed
+Commercial horticulturist,Lina van Beieren-Aarden,M,Chinees,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,40,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Television/film/video producer,Pleun van Oosten-Boetet,M,Indiaas,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,73,Hoog,Slecht,Gemiddeld,Goed
+Theatre stage manager,Jelte Ghoerle,M,Turks,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Woonboot,Beginner,49,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, education",Riley Sam-van Grondelle,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Joods,Weduwe/Weduwnaar,Fulltime,Studio,Digibeet,76,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Psychologist, prison and probation services",Sam Vierdag-Hulskes,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,VWO,Anders,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,45,Hoog,Gemiddeld,Gemiddeld,Goed
+Horticultural therapist,Job Passchiers,M,Chinees,Hoog,Alleenstaand,Rechts,VWO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,78,Gemiddeld,Slecht,Gemiddeld,Slecht

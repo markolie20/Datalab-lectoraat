@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Surgeon,Beau Nihoe,M,Surinaams,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Expert,79,Laag,Goed,Gemiddeld,Gemiddeld
+Quality manager,Niels Brands,F,Irakees,Hoog,Alleenstaand,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,40,Hoog,Goed,Goed,Gemiddeld
+Immigration officer,Loes van Wessex,F,Pools,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Gescheiden,Student,Woonboot,Beginner,62,Gemiddeld,Goed,Gemiddeld,Goed
+Academic librarian,Ties Spaan,M,Antilliaans,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Studio,Expert,48,Laag,Gemiddeld,Goed,Slecht
+IT sales professional,Ian van Wijland,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Atheïstisch,Gescheiden,Fulltime,Vrijstaand,Intermediate,94,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Public affairs consultant,Mirte Haack,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Anders,Ongehuwd,Fulltime,Vrijstaand,Intermediate,60,Hoog,Gemiddeld,Gemiddeld,Goed
+Hospital doctor,Mason Meijer,F,Pools,Laag,Alleenstaand,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Intermediate,83,Laag,Slecht,Gemiddeld,Gemiddeld
+Dentist,Elise Schellekens-Wolzak,F,Eritrees,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,23,Laag,Slecht,Goed,Gemiddeld
+Occupational psychologist,Megan Boeser,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Digibeet,57,Hoog,Goed,Slecht,Gemiddeld
+"Optician, dispensing",Rosa Bekbergen,F,Pools,Laag,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Beginner,23,Hoog,Slecht,Gemiddeld,Goed
+Careers adviser,Willem Govarts,M,Indiaas,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Advanced,68,Laag,Goed,Goed,Slecht
+"Administrator, Civil Service",Linn le Guellec,M,Pools,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Audiological scientist,Benthe van Oostendorp-Wooning,M,Marokkaans,Laag,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Student,Rijtjeshuis,Digibeet,90,Laag,Goed,Gemiddeld,Gemiddeld
+Optometrist,Mick van der Spaendonck-Jacquot,M,Chinees,Laag,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,77,Laag,Gemiddeld,Goed,Goed
+Air traffic controller,Meike Lorreijn,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Joods,Gescheiden,Fulltime,Appartement,Intermediate,32,Gemiddeld,Goed,Slecht,Gemiddeld
+Chiropractor,Isa de Roos,F,Nederlands,Hoog,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,47,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Manufacturing systems engineer,Ravi Hendriks,M,Bulgaars,Gemiddeld,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,66,Laag,Gemiddeld,Goed,Gemiddeld
+Soil scientist,Jade Lafleur,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,92,Laag,Slecht,Slecht,Gemiddeld
+Writer,Ilse Heribert van Laon,M,Nederlands,Hoog,Alleenstaand,Rechts,HBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Expert,92,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+IT sales professional,Mehmet Gellemeyer,F,Nederlands,Laag,Samenwonend,Midden,HBO,Atheïstisch,Gehuwd,Fulltime,Woonboot,Intermediate,18,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, production",Pepijn Bruynzeels,F,Bulgaars,Gemiddeld,Alleenstaand,Links,HBO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Advanced,95,Laag,Slecht,Slecht,Gemiddeld
+Location manager,Elias Amalrada,M,Spaans,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Anders,Gehuwd,Student,Appartement,Intermediate,24,Laag,Goed,Goed,Gemiddeld
+Sub,Jan Huberts,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Anders,Ongehuwd,Parttime,Studio,Beginner,69,Hoog,Slecht,Gemiddeld,Gemiddeld
+Publishing copy,Thijs Winters,F,Surinaams,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,64,Laag,Goed,Gemiddeld,Slecht

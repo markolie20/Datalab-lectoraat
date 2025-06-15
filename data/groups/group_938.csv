@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Advertising account planner,Melle Kleybrink,F,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Expert,45,Laag,Slecht,Slecht,Gemiddeld
+"Engineer, production",Vincent le Gallen,F,Italiaans,Laag,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,43,Laag,Gemiddeld,Gemiddeld,Slecht
+Museum education officer,Jet de Strigter,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,28,Hoog,Goed,Gemiddeld,Gemiddeld
+Housing manager/officer,Jonas Huurdeman,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Boeddhistisch,Gescheiden,Student,Rijtjeshuis,Beginner,98,Gemiddeld,Gemiddeld,Slecht,Goed
+Forensic psychologist,Guusje Elberts-van Saksen,M,Duits,Hoog,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Expert,30,Laag,Goed,Gemiddeld,Gemiddeld
+Games developer,Sophia van den Nieuwenhuijsen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,84,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Interior and spatial designer,Dani Berendse,M,Eritrees,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,38,Laag,Gemiddeld,Goed,Slecht
+Broadcast journalist,Hugo Corstiaens-de Leeuw,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Werkloos,Twee-onder-een-kap,Expert,56,Laag,Goed,Goed,Slecht
+Horticultural therapist,Ilse van der Velde,M,Somalisch,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Gepensioneerd,Vrijstaand,Intermediate,96,Hoog,Slecht,Goed,Gemiddeld
+Risk manager,Jill Jaceps,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,70,Gemiddeld,Gemiddeld,Goed,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Fabiënne Amalrada,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,95,Laag,Gemiddeld,Slecht,Gemiddeld
+"Therapist, sports",Bilal van Poppel,M,Turks,Gemiddeld,Samenwonend,Links,Basisonderwijs,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Digibeet,55,Laag,Goed,Slecht,Goed
+"Journalist, magazine",Kiki Scholten,F,Turks,Laag,Alleenstaand,Rechts,HBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,95,Laag,Gemiddeld,Goed,Gemiddeld
+Retail buyer,Saar Overdijk,M,Eritrees,Laag,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gescheiden,Parttime,Appartement,Advanced,33,Hoog,Goed,Gemiddeld,Gemiddeld
+Ophthalmologist,Isis van Praagh-Weerdenburg,F,Duits,Laag,Samenwonend met kinderen,Links,WO,Atheïstisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Advanced,35,Laag,Gemiddeld,Goed,Goed
+Radiation protection practitioner,Boaz Schroeff,M,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,23,Hoog,Goed,Gemiddeld,Gemiddeld
+Colour technologist,Aimée van de Kooij,M,Surinaams,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,25,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Health visitor,Mick van den Velden,M,Somalisch,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,74,Laag,Gemiddeld,Goed,Gemiddeld
+"Editor, commissioning",Anna Hazenveld,F,Turks,Laag,Samenwonend,Midden,HBO,Hindoeïstisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,49,Laag,Gemiddeld,Slecht,Gemiddeld
+Medical laboratory scientific officer,Olivia Jaceps,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,37,Laag,Goed,Slecht,Goed
+Paediatric nurse,Maja van der Loo,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Boeddhistisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,30,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Acupuncturist,Floris van Este,M,Pools,Hoog,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,81,Gemiddeld,Goed,Goed,Gemiddeld
+Technical sales engineer,Nick Zuijdveld,M,Antilliaans,Laag,Alleenstaand met kinderen,Midden,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Expert,63,Laag,Goed,Gemiddeld,Goed
+"Engineer, agricultural",Dean van de Darnau,F,Chinees,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,65,Laag,Gemiddeld,Goed,Gemiddeld

@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Contractor,Esther van Stralen,M,Antilliaans,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,60,Gemiddeld,Slecht,Gemiddeld,Slecht
+Tourism officer,Matthijs Jans,M,Surinaams,Laag,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,77,Laag,Gemiddeld,Slecht,Goed
+Publishing copy,Sophia Willemsen,M,Pools,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,52,Hoog,Gemiddeld,Gemiddeld,Slecht
+Human resources officer,Seth Vos,F,Antilliaans,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Advanced,48,Laag,Slecht,Slecht,Gemiddeld
+"Journalist, broadcasting",Olivier Koeman,F,Syrisch,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Advanced,60,Hoog,Slecht,Goed,Gemiddeld
+Firefighter,Lotte Kosten,M,Nederlands,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,36,Laag,Goed,Gemiddeld,Goed
+Teaching laboratory technician,David Slagmolen,M,Indiaas,Laag,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,60,Gemiddeld,Goed,Gemiddeld,Slecht
+"Designer, fashion/clothing",Joshua Texier,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,33,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Artist,Koen Jansen,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Advanced,34,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Animator,Imke Luitgardis van Neustrië,M,Surinaams,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,30,Laag,Goed,Gemiddeld,Gemiddeld
+"Psychologist, forensic",Maja Janssens,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,19,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Web designer,Sami Heribert van Laon,M,Marokkaans,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,29,Laag,Gemiddeld,Gemiddeld,Slecht
+Clinical research associate,Amelia Veenendaal-van Landen,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Studio,Advanced,59,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, music",Rafael van de Veen,F,Indonesisch,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,93,Laag,Goed,Goed,Slecht

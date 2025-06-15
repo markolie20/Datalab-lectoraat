@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, biomedical",Julius van Hagen,F,Turks,Laag,Alleenstaand,Links,WO,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,64,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Water quality scientist,Robin van Kasteelen,F,Surinaams,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,38,Laag,Gemiddeld,Goed,Gemiddeld
+Banker,Annemijn van Ham,M,Eritrees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Werkloos,Woonboot,Beginner,80,Gemiddeld,Goed,Goed,Goed
+Writer,Alicia Aelftrud van Wessex,M,Surinaams,Gemiddeld,Alleenstaand,Midden,VMBO,Boeddhistisch,Gehuwd,Fulltime,Vrijstaand,Beginner,45,Laag,Goed,Gemiddeld,Goed
+Product designer,Kevin Adriaense,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HBO,Boeddhistisch,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,52,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, agricultural",Maartje Boeser,F,Marokkaans,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,38,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Education officer, environmental",Vajèn Doesburg-van der Stael,M,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,18,Gemiddeld,Goed,Goed,Gemiddeld
+Research scientist (life sciences),Pippa Meeusen,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Werkloos,Appartement,Advanced,83,Laag,Slecht,Goed,Gemiddeld
+"Engineer, technical sales",Matthias Huel,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Engineering geologist,Mason Verhaar,M,Duits,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,95,Laag,Gemiddeld,Gemiddeld,Goed
+"Production assistant, radio",Nadine Vertooren,F,Duits,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,81,Hoog,Goed,Goed,Gemiddeld
+Recruitment consultant,Lisa Tielemans,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,32,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Copy,Maurits Unruoch Hunerik,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,WO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,61,Laag,Goed,Slecht,Slecht
+"Surveyor, building",Anouk van Bergen,M,Marokkaans,Hoog,Samenwonend,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Digibeet,34,Hoog,Goed,Goed,Gemiddeld

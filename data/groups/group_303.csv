@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Retail manager,Hamza Elsemulder-Massa,F,Italiaans,Hoog,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Expert,71,Hoog,Goed,Slecht,Gemiddeld
+"Administrator, arts",Ivy van Wickerode,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gescheiden,Student,Appartement,Expert,47,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Games developer,Michael van den Brand-Lansink,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,72,Gemiddeld,Goed,Gemiddeld,Slecht
+"Designer, graphic",Mia Lether-van Salm,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,47,Hoog,Slecht,Gemiddeld,Gemiddeld
+Barrister,Pepijn van der Avoirt,F,Marokkaans,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,30,Hoog,Goed,Goed,Slecht
+Archaeologist,Carlijn van Saksen,M,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,56,Laag,Goed,Gemiddeld,Gemiddeld
+Phytotherapist,Bilal Verhagen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,80,Gemiddeld,Slecht,Goed,Gemiddeld
+Public affairs consultant,Lieke Brisee,F,Turks,Laag,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Digibeet,26,Laag,Goed,Gemiddeld,Gemiddeld
+Personal assistant,Sven van de Brink,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,45,Hoog,Gemiddeld,Goed,Goed
+Amenity horticulturist,Mike van der Loo,F,Nederlands,Laag,Samenwonend,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,81,Laag,Goed,Slecht,Goed
+Research scientist (physical sciences),Amy Genefaas,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Islamitisch,Gescheiden,Parttime,Vrijstaand,Advanced,67,Laag,Gemiddeld,Slecht,Gemiddeld
+"Surveyor, planning and development",Jim de Gruijl,M,Turks,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,59,Laag,Goed,Slecht,Gemiddeld
+Furniture designer,Imke Peters,F,Nederlands,Hoog,Samenwonend,Links,MBO,Anders,Gehuwd,Fulltime,Appartement,Advanced,24,Hoog,Goed,Goed,Goed
+Academic librarian,Nathan van der Ven,M,Afghaans,Gemiddeld,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,27,Laag,Slecht,Slecht,Slecht
+Dietitian,Fiene van Liendert-Unruoch Hunerik,M,Syrisch,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,62,Laag,Slecht,Goed,Gemiddeld
+"Engineer, civil (consulting)",Victor van Grinsven,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Beginner,59,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Ophthalmologist,Imran van Wessex,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,96,Laag,Gemiddeld,Goed,Gemiddeld
+International aid/development worker,Elisabeth Erhout,F,Duits,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Digibeet,52,Gemiddeld,Goed,Slecht,Goed
+Actor,Hidde Fechant,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Gehuwd,Parttime,Studio,Advanced,79,Laag,Gemiddeld,Goed,Gemiddeld
+Operational researcher,Matthias van der Laan,F,Eritrees,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,62,Hoog,Slecht,Gemiddeld,Goed
+Catering manager,Hidde Weyland,M,Chinees,Gemiddeld,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,98,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Colour technologist,Jennifer van de Weterink,F,Indiaas,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Student,Woonboot,Digibeet,82,Laag,Goed,Gemiddeld,Goed
+Chemical engineer,Julius Recers,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld

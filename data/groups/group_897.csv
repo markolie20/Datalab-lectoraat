@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Ship broker,Adriana Zwart-van den Velden,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,75,Laag,Goed,Slecht,Gemiddeld
+Public librarian,Juliette Walsteijn-van Clootwijck,F,Roemeens,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,48,Laag,Gemiddeld,Goed,Goed
+Regulatory affairs officer,Tom van den Brand,M,Duits,Laag,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,32,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Fine artist,Liv Vierdag,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Intermediate,96,Laag,Gemiddeld,Gemiddeld,Goed
+Customer service manager,Cato Beekman,M,Pools,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Beginner,31,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Recruitment consultant,Jonas Oda,F,Somalisch,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Careers information officer,Ian Jorrisen,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,99,Laag,Gemiddeld,Gemiddeld,Goed
+"Teacher, early years/pre",Jason Uittenbosch-van Schevinghuizen,F,Irakees,Laag,Samenwonend,Links,VWO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,39,Laag,Goed,Slecht,Gemiddeld
+IT technical support officer,Victor Leguit,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Zelfstandig,Woonboot,Digibeet,49,Laag,Goed,Gemiddeld,Goed
+Biomedical scientist,Tom Timmerman-van Beeck Beeckmans,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,64,Hoog,Gemiddeld,Goed,Gemiddeld
+Public librarian,Vigo Stamrood,F,Surinaams,Laag,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,58,Gemiddeld,Gemiddeld,Goed,Slecht
+Ophthalmologist,Jelle van Rooij-Galenzone,M,Turks,Gemiddeld,Alleenstaand,Links,WO,Boeddhistisch,Ongehuwd,Zelfstandig,Appartement,Expert,39,Laag,Slecht,Gemiddeld,Gemiddeld
+Midwife,Joep van de Berg-van Munster,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Werkloos,Woonboot,Intermediate,18,Gemiddeld,Gemiddeld,Slecht,Slecht
+IT consultant,Faas Mater-Merkx,F,Indiaas,Hoog,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Digibeet,46,Laag,Goed,Gemiddeld,Slecht
+Theatre stage manager,Sem Goudriaan,M,Roemeens,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,29,Laag,Goed,Slecht,Slecht
+Catering manager,Tygo Huurdeman-Vertoor,M,Irakees,Hoog,Alleenstaand,Links,VMBO,Anders,Weduwe/Weduwnaar,Zelfstandig,Appartement,Intermediate,78,Gemiddeld,Goed,Gemiddeld,Slecht
+Product/process development scientist,Jurre Heijman,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,79,Hoog,Gemiddeld,Gemiddeld,Goed
+Speech and language therapist,Amelia Timmermans,F,Marokkaans,Laag,Alleenstaand,Rechts,HAVO,Joods,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,49,Laag,Goed,Goed,Slecht
+Marketing executive,Berat van Doorn,F,Syrisch,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,33,Laag,Slecht,Gemiddeld,Gemiddeld
+"Engineer, maintenance",Tristan Hanegraaff,F,Pools,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Student,Woonboot,Advanced,60,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Journalist, magazine",Rick Bartels,M,Syrisch,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Student,Appartement,Intermediate,56,Laag,Goed,Gemiddeld,Gemiddeld
+Freight forwarder,Mia Spruyt,F,Surinaams,Laag,Alleenstaand met kinderen,Rechts,MBO,Anders,Ongehuwd,Werkloos,Appartement,Digibeet,50,Laag,Goed,Gemiddeld,Goed
+Biomedical engineer,Mika Schotte,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,79,Laag,Slecht,Gemiddeld,Gemiddeld

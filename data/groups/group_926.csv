@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Archaeologist,Wesley Zijlemans,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,59,Laag,Goed,Gemiddeld,Slecht
+"Engineer, communications",Jens Hendriks-Ferran,M,Afghaans,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,92,Hoog,Slecht,Gemiddeld,Goed
+Government social research officer,Dina Massa,F,Marokkaans,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,84,Laag,Slecht,Gemiddeld,Goed
+Professor Emeritus,Benjamin Veenendaal,M,Chinees,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Advanced,62,Laag,Goed,Goed,Gemiddeld
+Ophthalmologist,Maud Cornelisz-van 't Wel,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,50,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Interpreter,Lois Smit-Maaswinkel,F,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Appartement,Advanced,45,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Tree surgeon,Tirza Fredriks,M,Turks,Hoog,Alleenstaand,Midden,VMBO,Boeddhistisch,Gehuwd,Parttime,Woonboot,Beginner,88,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Leisure centre manager,Fedde van der Ven,F,Nederlands,Laag,Samenwonend,Links,WO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,85,Gemiddeld,Slecht,Goed,Slecht
+Financial manager,Noud Lutterveld,M,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,38,Gemiddeld,Gemiddeld,Slecht,Goed
+"Development worker, international aid",Esmee van de Elzas,M,Marokkaans,Hoog,Alleenstaand met kinderen,Links,WO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,45,Hoog,Gemiddeld,Gemiddeld,Goed
+Consulting civil engineer,Sam Groote,F,Surinaams,Hoog,Samenwonend met kinderen,Midden,HAVO,Joods,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,88,Hoog,Goed,Goed,Goed
+"Engineer, automotive",Rosa van den Brand-Westerbeek,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Beginner,51,Gemiddeld,Slecht,Goed,Goed
+Garment/textile technologist,Lenn Brizee-Overdijk,M,Portugees,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,24,Gemiddeld,Goed,Slecht,Gemiddeld
+Horticultural therapist,Laura Amalrada-Blom,M,Afghaans,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,71,Laag,Gemiddeld,Gemiddeld,Goed
+Art therapist,Senna Verharen,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,88,Laag,Gemiddeld,Goed,Goed
+Customer service manager,Dina van Hulten-Wooning,M,Marokkaans,Hoog,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,73,Gemiddeld,Slecht,Gemiddeld,Goed
+Media buyer,Ayoub van Lucel,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Gescheiden,Gepensioneerd,Appartement,Advanced,88,Gemiddeld,Gemiddeld,Goed,Slecht
+Human resources officer,Lisanne Scuylenborchs-Mijsberg,F,Nederlands,Gemiddeld,Samenwonend,Links,Basisonderwijs,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Beginner,53,Laag,Slecht,Gemiddeld,Gemiddeld
+Publishing copy,Merle Reijers,F,Chinees,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,38,Laag,Goed,Goed,Goed
+"Education officer, environmental",Oscar de Bruijn-Konings,F,Indiaas,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Joods,Gehuwd,Zelfstandig,Rijtjeshuis,Digibeet,85,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Gaffer,Lucy Cant-Bertho,M,Indiaas,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,27,Laag,Goed,Goed,Goed
+"Horticulturist, amenity",Wessel Mansvelt,F,Bulgaars,Hoog,Samenwonend met kinderen,Rechts,HBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,49,Gemiddeld,Goed,Slecht,Goed
+"Production designer, theatre/television/film",Kian Veenstra,M,Italiaans,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,83,Hoog,Goed,Goed,Slecht

@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Fast food restaurant manager,Mees van Brenen-Bloemendaal,M,Turks,Laag,Alleenstaand,Links,WO,Christelijk,Gehuwd,Student,Appartement,Advanced,68,Laag,Goed,Gemiddeld,Goed
+Nutritional therapist,Lizzy Giselmeyer,M,Antilliaans,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,45,Laag,Gemiddeld,Slecht,Gemiddeld
+Insurance broker,Dean Jansse-Pratt,M,Pools,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,39,Laag,Slecht,Slecht,Goed
+Office manager,Aimée Lafleur,F,Afghaans,Laag,Alleenstaand,Midden,VMBO,Anders,Gehuwd,Werkloos,Twee-onder-een-kap,Expert,92,Laag,Slecht,Slecht,Gemiddeld
+"Designer, exhibition/display",Lara Hondeveld,F,Indiaas,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,27,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Set designer,Frederique Kalman,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,79,Laag,Goed,Gemiddeld,Gemiddeld
+Research scientist (maths),Jayson van Jumiège-Mathol,M,Chinees,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,27,Laag,Goed,Goed,Gemiddeld
+Diplomatic Services operational officer,Féline der Kijnder-Weijters,M,Chinees,Hoog,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Gehuwd,Parttime,Studio,Advanced,18,Gemiddeld,Slecht,Gemiddeld,Goed
+Paediatric nurse,Lukas Mulders,M,Indiaas,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,32,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Surveyor, minerals",Willem Dennenberg,M,Bulgaars,Hoog,Alleenstaand,Midden,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Intermediate,43,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, manufacturing systems",Ibrahim Martens,F,Nederlands,Laag,Samenwonend,Links,MBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,38,Hoog,Gemiddeld,Goed,Goed
+Translator,Senna van Schevinghuizen,M,Duits,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,30,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Accountant, chartered management",Sam Garret,F,Duits,Laag,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Gescheiden,Fulltime,Twee-onder-een-kap,Beginner,97,Laag,Gemiddeld,Slecht,Gemiddeld
+Financial risk analyst,Pien The Elder,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Expert,78,Hoog,Gemiddeld,Goed,Gemiddeld
+"Conservator, furniture",Hidde Brouwer-Leene,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,97,Laag,Goed,Slecht,Slecht
+"Surveyor, insurance",Sepp van Laar,F,Indiaas,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Student,Vrijstaand,Intermediate,40,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Television floor manager,Amelia Huisman,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Christelijk,Weduwe/Weduwnaar,Werkloos,Appartement,Digibeet,46,Laag,Goed,Gemiddeld,Gemiddeld
+Water quality scientist,Mark ter Waarbeek,F,Turks,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Beginner,93,Laag,Goed,Gemiddeld,Gemiddeld

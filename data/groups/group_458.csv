@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Risk analyst,James van der Linden-Lorreijn,F,Turks,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Gescheiden,Zelfstandig,Vrijstaand,Beginner,53,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Metallurgist,Fabian Scuylenborchs,F,Surinaams,Gemiddeld,Samenwonend,Midden,VWO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Intermediate,92,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chief Technology Officer,Lize Bertho,F,Turks,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gescheiden,Student,Twee-onder-een-kap,Beginner,18,Laag,Goed,Gemiddeld,Slecht
+"Therapist, speech and language",Gerrit van Bovene,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,53,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Mudlogger,Michelle Ooms,F,Turks,Hoog,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Werkloos,Appartement,Intermediate,59,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Human resources officer,Lenn Persijn,M,Turks,Laag,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,58,Hoog,Slecht,Slecht,Goed
+Landscape architect,Tijs Chevresson-Engels,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Intermediate,57,Laag,Goed,Gemiddeld,Gemiddeld
+Osteopath,Mare van Brunswijk,F,Duits,Hoog,Alleenstaand met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,50,Hoog,Goed,Gemiddeld,Goed
+"Psychologist, forensic",Wouter Lommert,F,Chinees,Gemiddeld,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,84,Gemiddeld,Goed,Slecht,Gemiddeld
+Pension scheme manager,Elisa Slagmolen,M,Somalisch,Hoog,Samenwonend met kinderen,Links,WO,Boeddhistisch,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,72,Laag,Gemiddeld,Goed,Goed
+Claims inspector/assessor,Dave van der Ploeg,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,38,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Administrator,Zakaria Persijn,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,41,Laag,Gemiddeld,Gemiddeld,Goed
+"Designer, textile",Kyan Heere,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Beginner,44,Laag,Gemiddeld,Goed,Gemiddeld
+"Therapist, horticultural",Nienke Uittenbosch,M,Turks,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,94,Laag,Goed,Gemiddeld,Gemiddeld

@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Market researcher,Fay Aelftrud van Wessex,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,32,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, marine",Tristan van Cuijck,M,Marokkaans,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,87,Laag,Goed,Goed,Goed
+Warden/ranger,Juul Bastiaense,M,Marokkaans,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,80,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Lawyer,Maya Loreal-Hoekstra,M,Pools,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,38,Laag,Goed,Gemiddeld,Gemiddeld
+Air broker,Sebastiaan Matthews,F,Marokkaans,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,90,Hoog,Goed,Slecht,Goed
+Dietitian,Boris Schatteleijn-van Dagsburg,M,Italiaans,Hoog,Samenwonend met kinderen,Links,HBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,51,Laag,Gemiddeld,Goed,Gemiddeld
+"Psychologist, educational",Robin van Goerle-van Breugel,M,Nederlands,Laag,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,85,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Dramatherapist,Amina Adriaensdr,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Joods,Gehuwd,Student,Rijtjeshuis,Digibeet,77,Hoog,Goed,Gemiddeld,Gemiddeld
+Advertising art director,Luka Aalts,M,Nederlands,Hoog,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,22,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered legal executive (England and Wales),Evie van Berkum,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Studio,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Aid worker,Wessel den Buytelaar-van Kuijc,F,Duits,Laag,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Advanced,78,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Research officer, trade union",Yara Rijntjes-Doorhof,M,Surinaams,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,41,Laag,Goed,Goed,Goed
+"Therapist, speech and language",Giovanni Adriaansen,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,31,Gemiddeld,Goed,Gemiddeld,Slecht
+Futures trader,Naomi Huisman,M,Somalisch,Gemiddeld,Alleenstaand,Rechts,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Beginner,45,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Drilling engineer,Emily Koning,F,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,35,Hoog,Gemiddeld,Gemiddeld,Goed

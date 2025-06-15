@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Communications engineer,Maria Brouwer-Bosch,M,Nederlands,Laag,Samenwonend,Rechts,WO,Anders,Weduwe/Weduwnaar,Parttime,Vrijstaand,Beginner,21,Laag,Gemiddeld,Goed,Goed
+Production manager,Sep Dekker,M,Chinees,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,56,Hoog,Goed,Goed,Goed
+"Scientist, forensic",Victor van Venrooy-Holthuis,F,Spaans,Laag,Alleenstaand,Rechts,VMBO,Boeddhistisch,Gehuwd,Parttime,Appartement,Intermediate,97,Laag,Goed,Slecht,Goed
+Cabin crew,Puk Kok,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Woonboot,Intermediate,50,Laag,Gemiddeld,Slecht,Goed
+"Runner, broadcasting/film/video",Tyler Kerkhof,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Beginner,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Farm manager,Dion van Haspengouw-Koeman,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,39,Laag,Goed,Gemiddeld,Slecht
+Toxicologist,Daniel Bud,F,Turks,Laag,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Digibeet,46,Gemiddeld,Slecht,Slecht,Gemiddeld
+Lawyer,Kay de Groot,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Laag,Goed,Gemiddeld,Slecht
+Associate Professor,Kim Kloppert,F,Nederlands,Hoog,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Advanced,28,Hoog,Goed,Goed,Gemiddeld
+Ceramics designer,Renske de Groot,F,Chinees,Laag,Alleenstaand,Midden,HAVO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,22,Laag,Goed,Slecht,Goed
+Fitness centre manager,Senn Broeshart,M,Antilliaans,Laag,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Appartement,Expert,61,Laag,Goed,Goed,Slecht
+"Programmer, multimedia",Pim van Arnsberg,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,58,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, ceramics/pottery",Bryan Spies-Kallen,M,Antilliaans,Laag,Samenwonend,Links,MBO,Anders,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,27,Laag,Gemiddeld,Slecht,Slecht
+Interior and spatial designer,Karlijn Vos-Zaal,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,35,Laag,Slecht,Gemiddeld,Slecht
+Leisure centre manager,Maartje van Verdun,M,Italiaans,Hoog,Alleenstaand,Rechts,HBO,Boeddhistisch,Gehuwd,Gepensioneerd,Studio,Intermediate,53,Gemiddeld,Gemiddeld,Slecht,Goed
+Communications engineer,Quinn Winnrich,M,Italiaans,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,20,Laag,Gemiddeld,Goed,Gemiddeld
+"Loss adjuster, chartered",Faas Uit de Willigen,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Expert,55,Laag,Goed,Goed,Gemiddeld
+Camera operator,Pien Jonker,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,34,Laag,Slecht,Gemiddeld,Goed
+IT technical support officer,Féline Sanders,F,Bulgaars,Laag,Samenwonend,Midden,HBO,Boeddhistisch,Gehuwd,Parttime,Appartement,Intermediate,71,Laag,Slecht,Gemiddeld,Slecht
+Personal assistant,Dex van Gils,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Appartement,Digibeet,31,Laag,Gemiddeld,Goed,Gemiddeld
+"Horticulturist, commercial",Pim van Grinsven-van Jumiège,M,Portugees,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,66,Laag,Slecht,Slecht,Gemiddeld
+Video editor,Valentijn Thatcher,F,Portugees,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Industrial/product designer,Tara Coret-Overdijk,M,Turks,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,76,Gemiddeld,Gemiddeld,Goed,Goed

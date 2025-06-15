@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Systems analyst,Lukas van Dillen,M,Eritrees,Hoog,Alleenstaand,Rechts,HAVO,Boeddhistisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,71,Laag,Goed,Gemiddeld,Gemiddeld
+Personnel officer,Renske de Vries,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,73,Hoog,Slecht,Gemiddeld,Goed
+Herbalist,Kick Hellevoort,M,Eritrees,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,91,Laag,Goed,Goed,Goed
+Housing manager/officer,Robin Lind-van Cuijck,F,Turks,Hoog,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Gepensioneerd,Vrijstaand,Expert,43,Laag,Goed,Goed,Gemiddeld
+Hydrologist,Lenn de Marduras,M,Antilliaans,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,82,Laag,Goed,Slecht,Gemiddeld
+Theatre stage manager,Timo Doornhem-Willemsen,M,Indonesisch,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,62,Laag,Gemiddeld,Gemiddeld,Goed
+Training and development officer,Esila de Hoogh,F,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Boeddhistisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,77,Hoog,Slecht,Slecht,Gemiddeld
+"Loss adjuster, chartered",Stef Heerkens,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,38,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Ranger/warden,Thomas Hazenveld,F,Indiaas,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,73,Laag,Gemiddeld,Slecht,Gemiddeld
+Agricultural consultant,Victoria de Haan,F,Roemeens,Laag,Alleenstaand,Midden,MBO,Boeddhistisch,Gehuwd,Student,Appartement,Beginner,68,Gemiddeld,Goed,Slecht,Gemiddeld
+Medical secretary,Chloë Dijkstra-de Heer,M,Roemeens,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Studio,Digibeet,98,Laag,Gemiddeld,Goed,Slecht
+"Scientist, research (medical)",Ryan van Breukeleveen,F,Turks,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,41,Laag,Gemiddeld,Goed,Gemiddeld
+Dentist,Sem Heymans,F,Duits,Hoog,Alleenstaand,Midden,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Studio,Beginner,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Geologist, wellsite",Rick van Kuijc-Spies,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,58,Laag,Gemiddeld,Slecht,Gemiddeld
+"Surveyor, building control",Teun van Duyvenvoorde-van Nederlotharingen,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,26,Laag,Slecht,Gemiddeld,Slecht
+"Education officer, museum",Yusuf de Marduras,F,Marokkaans,Hoog,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,29,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Sander van Voorhout,F,Portugees,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Gescheiden,Fulltime,Appartement,Beginner,76,Gemiddeld,Slecht,Goed,Gemiddeld
+Quantity surveyor,Quinn van de Weterink,F,Indiaas,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Beginner,71,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Civil engineer, consulting",Ayoub de Strigter,M,Marokkaans,Laag,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,40,Laag,Goed,Slecht,Gemiddeld
+Press photographer,Valerie de Backer-Puig,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,54,Gemiddeld,Slecht,Gemiddeld,Goed
+"Research officer, government",Brian Molenaar,M,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Student,Vrijstaand,Expert,67,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Optometrist,Loes Boeser,F,Surinaams,Laag,Alleenstaand met kinderen,Rechts,VMBO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,25,Laag,Goed,Gemiddeld,Slecht
+Environmental manager,Ivy Kunen,M,Italiaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,62,Gemiddeld,Gemiddeld,Goed,Slecht

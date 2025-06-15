@@ -1,0 +1,21 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Commercial art gallery manager,Noor Bezemer,F,Surinaams,Hoog,Samenwonend,Midden,HBO,Christelijk,Gescheiden,Parttime,Appartement,Beginner,56,Hoog,Gemiddeld,Gemiddeld,Goed
+"Programmer, applications",Valentijn Ghoerle,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Beginner,72,Laag,Slecht,Gemiddeld,Goed
+Warden/ranger,Victor van Vlaanderen-Versluijs,M,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Beginner,84,Hoog,Slecht,Gemiddeld,Goed
+Financial planner,Teun Remmers,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,49,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Data scientist,Naud van der Wal,M,Turks,Laag,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Digibeet,70,Laag,Gemiddeld,Slecht,Gemiddeld
+Merchant navy officer,Danique Heere,M,Indonesisch,Gemiddeld,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial risk analyst,Milou Michielsen,F,Chinees,Laag,Samenwonend,Links,HBO,Islamitisch,Gehuwd,Fulltime,Woonboot,Intermediate,49,Gemiddeld,Gemiddeld,Goed,Goed
+"Surveyor, hydrographic",Liza Giselmeyer-Wouters van Eijndhoven,M,Indiaas,Laag,Alleenstaand,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,65,Hoog,Gemiddeld,Gemiddeld,Goed
+Arboriculturist,Youssef Meyer,M,Indonesisch,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Digibeet,95,Laag,Gemiddeld,Slecht,Slecht
+Tree surgeon,Luka van de Leemput,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Police officer,Guus van der Laan,M,Duits,Hoog,Samenwonend,Midden,VMBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,46,Hoog,Goed,Gemiddeld,Gemiddeld
+Video editor,Rowan van Brunswijk-Bleijenberg,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,71,Gemiddeld,Gemiddeld,Goed,Slecht
+"Engineer, manufacturing",Emir Hak,M,Surinaams,Laag,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,51,Laag,Gemiddeld,Goed,Gemiddeld
+"Programmer, systems",Bjorn Mangel-van Velthoven,F,Irakees,Laag,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,78,Laag,Gemiddeld,Goed,Goed
+Forensic psychologist,Iris van den Brink,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,59,Hoog,Gemiddeld,Slecht,Goed
+Chemical engineer,Lizz Perck,M,Antilliaans,Laag,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,61,Laag,Goed,Goed,Gemiddeld
+Automotive engineer,Sep Verheuvel-van Baalen,F,Surinaams,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chief Technology Officer,Yinthe 's Gravensande-Keltenie,M,Pools,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Student,Appartement,Beginner,95,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Sports administrator,Wessel van Schevinghuizen,F,Indonesisch,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,79,Gemiddeld,Goed,Slecht,Gemiddeld
+Chiropodist,Faye Roukes,M,Indonesisch,Laag,Alleenstaand,Links,WO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld

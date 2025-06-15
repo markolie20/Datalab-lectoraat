@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Information officer,Brian de Swart,M,Pools,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Beginner,88,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Research officer, trade union",Evelien van der Pluijm,M,Nederlands,Laag,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,70,Laag,Goed,Goed,Gemiddeld
+"Therapist, occupational",Jason Winters,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,21,Hoog,Slecht,Slecht,Gemiddeld
+"Producer, radio",Bjorn van Rijnsbergen,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Beginner,23,Laag,Slecht,Gemiddeld,Gemiddeld
+IT technical support officer,Guus van Kuijc van Malsen,M,Marokkaans,Laag,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,68,Hoog,Goed,Gemiddeld,Goed
+Insurance underwriter,Esmee van Wijk,M,Spaans,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,84,Gemiddeld,Goed,Goed,Gemiddeld
+Dispensing optician,Youssef Mercks,F,Bulgaars,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Gepensioneerd,Studio,Beginner,60,Hoog,Gemiddeld,Slecht,Gemiddeld
+Armed forces logistics/support/administrative officer,Hamza Bud,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Anders,Gescheiden,Fulltime,Vrijstaand,Beginner,87,Laag,Gemiddeld,Slecht,Gemiddeld
+"Psychologist, educational",Finn Sitters,M,Marokkaans,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,83,Laag,Goed,Gemiddeld,Gemiddeld
+Commissioning editor,Tom Recers,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,18,Laag,Gemiddeld,Gemiddeld,Slecht
+Banker,Sterre Saxo-Blom,M,Nederlands,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,54,Laag,Goed,Slecht,Goed
+"Clinical scientist, histocompatibility and immunogenetics",Vera Perkins-Wolffel,M,Turks,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Intermediate,28,Laag,Gemiddeld,Goed,Slecht
+Photographer,Muhammed Woutersz,M,Portugees,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,81,Gemiddeld,Goed,Goed,Goed
+Higher education lecturer,Wessel Moenen-van Verdun,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,79,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Volunteer coordinator,Isa Heribert van Laon,F,Roemeens,Laag,Samenwonend,Midden,WO,Joods,Ongehuwd,Fulltime,Vrijstaand,Digibeet,78,Laag,Gemiddeld,Gemiddeld,Slecht
+Ship broker,Jip Brouwer,F,Syrisch,Hoog,Samenwonend,Links,VMBO,Boeddhistisch,Gescheiden,Fulltime,Vrijstaand,Intermediate,59,Laag,Gemiddeld,Gemiddeld,Goed

@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Mental health nurse,Riley van Enschot,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,30,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Air broker,Mathijs Goderts,M,Duits,Hoog,Samenwonend met kinderen,Rechts,WO,Atheïstisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,33,Hoog,Gemiddeld,Slecht,Gemiddeld
+Water engineer,Giovanni van der Heijden,M,Turks,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,65,Gemiddeld,Goed,Slecht,Slecht
+Sports administrator,Dave van Bernicia,M,Somalisch,Gemiddeld,Alleenstaand,Midden,WO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,25,Laag,Gemiddeld,Goed,Goed
+"Chemist, analytical",Tristan Thout,M,Duits,Laag,Samenwonend,Links,WO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,43,Laag,Gemiddeld,Goed,Goed
+"Optician, dispensing",Isa Glasses,F,Turks,Gemiddeld,Alleenstaand,Links,WO,Anders,Gehuwd,Zelfstandig,Appartement,Beginner,43,Hoog,Slecht,Gemiddeld,Gemiddeld
+Control and instrumentation engineer,Sami Brandon,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,38,Gemiddeld,Slecht,Slecht,Slecht
+Bonds trader,Ian Brievingh,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Gehuwd,Werkloos,Appartement,Beginner,92,Hoog,Goed,Gemiddeld,Slecht
+Media buyer,Maaike Coreth von und zu Coredo und Starkenberg,F,Afghaans,Hoog,Samenwonend,Links,HAVO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Expert,98,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Press sub,Joël Strijker,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HAVO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,79,Laag,Goed,Gemiddeld,Gemiddeld
+Television camera operator,Vajèn Heerkens,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,24,Laag,Goed,Slecht,Gemiddeld
+"Journalist, magazine",Lois van den Brink,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,WO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,53,Laag,Gemiddeld,Slecht,Gemiddeld
+"Teacher, early years/pre",Meike Winters,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,36,Hoog,Gemiddeld,Goed,Goed
+Barista,Berat van Parijs,F,Surinaams,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,26,Laag,Gemiddeld,Goed,Gemiddeld
+TEFL teacher,Bas van Mook,F,Turks,Laag,Alleenstaand,Rechts,HAVO,Anders,Ongehuwd,Parttime,Vrijstaand,Intermediate,19,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

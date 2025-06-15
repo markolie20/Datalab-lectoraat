@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Primary school teacher,Cornelia Recer,F,Surinaams,Laag,Alleenstaand,Links,VWO,Joods,Ongehuwd,Zelfstandig,Woonboot,Beginner,78,Hoog,Goed,Gemiddeld,Slecht
+Health and safety adviser,Dean van den Corput,M,Duits,Hoog,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,83,Laag,Gemiddeld,Gemiddeld,Goed
+"Administrator, local government",Joy Rijntjes,M,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,22,Laag,Goed,Gemiddeld,Slecht
+Commercial art gallery manager,Esther van Nimwegen,F,Turks,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Werkloos,Woonboot,Beginner,37,Hoog,Slecht,Gemiddeld,Gemiddeld
+Research scientist (medical),Livia Suijker,F,Pools,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,92,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, chemical",Teun Berendse,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,89,Laag,Slecht,Goed,Gemiddeld
+"Engineer, civil (contracting)",Dina van der Lede,M,Antilliaans,Hoog,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,63,Laag,Gemiddeld,Goed,Slecht
+Financial manager,Hailey Hemma van Allemanië,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,90,Laag,Slecht,Goed,Gemiddeld
+"Loss adjuster, chartered",Meike de Hoogh-Symons,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,23,Laag,Gemiddeld,Slecht,Slecht
+"Clinical scientist, histocompatibility and immunogenetics",Luna Kok,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,48,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

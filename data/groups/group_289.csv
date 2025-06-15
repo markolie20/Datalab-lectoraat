@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Electronics engineer,Imran de Roos,F,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Advanced,25,Laag,Gemiddeld,Goed,Gemiddeld
+Scientific laboratory technician,Noor van Jumiège-Bernaards,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Beginner,43,Laag,Gemiddeld,Goed,Gemiddeld
+"Surveyor, hydrographic",Lisanne van Herstal,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Student,Appartement,Intermediate,67,Laag,Gemiddeld,Gemiddeld,Slecht
+Cabin crew,Mette de Kok,F,Chinees,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,18,Laag,Slecht,Goed,Gemiddeld
+"Therapist, occupational",Eva van den Wittenboer,M,Nederlands,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,66,Hoog,Gemiddeld,Gemiddeld,Slecht
+Engineering geologist,Luna Charon,F,Irakees,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,32,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Restaurant manager,Ruben Momberg-Louws,F,Bulgaars,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Intermediate,61,Hoog,Gemiddeld,Gemiddeld,Slecht
+Applications developer,Elisa Broek,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,53,Laag,Goed,Gemiddeld,Goed
+"Editor, film/video",Fien van Venrooy-Geldens,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,38,Hoog,Goed,Gemiddeld,Gemiddeld
+Health visitor,Bradley van Beek,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,67,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, communications",Kyan Mudden,F,Nederlands,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,39,Laag,Slecht,Gemiddeld,Gemiddeld
+"Clinical scientist, histocompatibility and immunogenetics",Isis Pratt,F,Indiaas,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,19,Laag,Slecht,Gemiddeld,Slecht
+Industrial buyer,Bradley van Amstel,F,Marokkaans,Gemiddeld,Alleenstaand,Links,WO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Advanced,61,Gemiddeld,Goed,Gemiddeld,Goed
+Insurance risk surveyor,Rosa Elbertse,M,Spaans,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,34,Gemiddeld,Gemiddeld,Goed,Goed
+"Programmer, multimedia",Kyara Drysdale-de Vrome,F,Marokkaans,Laag,Alleenstaand,Links,Basisonderwijs,Hindoeïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Goed
+Publishing copy,Ecrin van Berkel,F,Eritrees,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,72,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Research scientist (life sciences),Dana de Jager-van de Elzas,M,Eritrees,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,59,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, land/geomatics",Joëlle Huberts,M,Irakees,Laag,Samenwonend,Midden,VWO,Joods,Gehuwd,Parttime,Appartement,Advanced,62,Gemiddeld,Gemiddeld,Goed,Gemiddeld

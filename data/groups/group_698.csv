@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Geophysicist/field seismologist,Adriana Driessen-Haack,M,Irakees,Laag,Alleenstaand met kinderen,Midden,MBO,Anders,Ongehuwd,Fulltime,Studio,Intermediate,34,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, research (physical sciences)",Zoey Vaessen-Prinsen,F,Antilliaans,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,37,Laag,Goed,Goed,Goed
+"Surveyor, minerals",Collin van de Greef-Weijland,M,Nederlands,Hoog,Samenwonend,Midden,WO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,26,Hoog,Goed,Goed,Gemiddeld
+Building surveyor,Zoë van Heusden-de Backer,M,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,53,Gemiddeld,Goed,Goed,Gemiddeld
+"Designer, blown glass/stained glass",Renske Michiels,M,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Digibeet,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Therapeutic radiographer,Dean Voortman,F,Marokkaans,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,37,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Oncologist,Anouk Vallenduuk,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Teaching laboratory technician,Olivia Oda,F,Turks,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,22,Hoog,Goed,Gemiddeld,Goed
+Community education officer,Milo Salet,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Advanced,33,Laag,Goed,Goed,Goed
+Systems analyst,Floortje Texier,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Parttime,Twee-onder-een-kap,Digibeet,33,Gemiddeld,Slecht,Goed,Gemiddeld
+Field seismologist,Senna Soos,M,Indonesisch,Laag,Alleenstaand,Links,WO,Islamitisch,Gescheiden,Werkloos,Appartement,Intermediate,70,Hoog,Goed,Slecht,Gemiddeld
+Training and development officer,Renske van den Hoek,M,Nederlands,Hoog,Samenwonend met kinderen,Links,WO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,61,Laag,Slecht,Gemiddeld,Gemiddeld
+Magazine features editor,Nathan van Buuren,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Expert,55,Gemiddeld,Goed,Slecht,Gemiddeld
+Furniture conservator/restorer,Amina Poncelet,F,Afghaans,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,65,Hoog,Goed,Gemiddeld,Goed
+Energy manager,Zoë Janssen,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Woonboot,Digibeet,43,Laag,Gemiddeld,Slecht,Goed
+Sales promotion account executive,Elin Aschman,M,Eritrees,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Anders,Gehuwd,Gepensioneerd,Appartement,Beginner,96,Gemiddeld,Slecht,Gemiddeld,Slecht
+Tree surgeon,Alex Prinsen-Loep,F,Surinaams,Hoog,Alleenstaand,Links,HBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,56,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Psychiatrist,Daphne Timmermans-Sestig,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,59,Gemiddeld,Slecht,Slecht,Gemiddeld
+Sports development officer,Lise van den Oever,F,Chinees,Gemiddeld,Alleenstaand,Links,WO,Atheïstisch,Gescheiden,Parttime,Appartement,Beginner,99,Gemiddeld,Slecht,Goed,Gemiddeld

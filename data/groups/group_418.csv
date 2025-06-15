@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Administrator,Pim Blom,F,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,42,Gemiddeld,Gemiddeld,Goed,Goed
+Technical author,Sterre Weylant,F,Chinees,Laag,Samenwonend,Links,HBO,Boeddhistisch,Gehuwd,Parttime,Appartement,Advanced,64,Laag,Slecht,Goed,Goed
+"Surveyor, insurance",Laura Wolfswinkel,F,Syrisch,Laag,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,99,Laag,Goed,Gemiddeld,Gemiddeld
+Recruitment consultant,Rosalie Kleibrink,F,Pools,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,70,Gemiddeld,Gemiddeld,Goed,Goed
+"Teacher, secondary school",Ayden Aarts,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Joods,Ongehuwd,Fulltime,Vrijstaand,Intermediate,76,Laag,Gemiddeld,Goed,Goed
+Public librarian,Rafael Verda,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Expert,71,Laag,Gemiddeld,Gemiddeld,Goed
+Environmental education officer,Julian Duivenvoorden,F,Indonesisch,Laag,Samenwonend,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,79,Gemiddeld,Goed,Slecht,Gemiddeld
+Warden/ranger,Angelina van Geenen,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Studio,Intermediate,81,Laag,Gemiddeld,Slecht,Gemiddeld
+Ergonomist,Morris Beernink,F,Somalisch,Laag,Samenwonend,Rechts,MBO,Anders,Gehuwd,Parttime,Woonboot,Intermediate,48,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Futures trader,Jente Walsteijn,M,Somalisch,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Anders,Ongehuwd,Fulltime,Appartement,Advanced,68,Hoog,Goed,Goed,Gemiddeld
+Multimedia specialist,Noud de Koning,F,Eritrees,Laag,Samenwonend,Midden,HBO,Joods,Gescheiden,Werkloos,Twee-onder-een-kap,Expert,44,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Jewellery designer,Pim van Wijland,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Joods,Ongehuwd,Fulltime,Woonboot,Advanced,53,Laag,Goed,Gemiddeld,Goed
+Recruitment consultant,Myrthe Zuijdveld,F,Turks,Gemiddeld,Alleenstaand,Links,HBO,Anders,Ongehuwd,Student,Twee-onder-een-kap,Advanced,56,Gemiddeld,Slecht,Gemiddeld,Goed
+Barrister's clerk,Finn van Veen,F,Marokkaans,Laag,Samenwonend,Links,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Expert,60,Hoog,Slecht,Gemiddeld,Slecht
+"Editor, film/video",Merijn de Roo,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,97,Laag,Slecht,Goed,Slecht
+Oncologist,Phileine Molenaar-Ridder,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Expert,33,Laag,Gemiddeld,Goed,Gemiddeld
+Management consultant,Imke Ariens,F,Afghaans,Gemiddeld,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,28,Laag,Goed,Slecht,Gemiddeld
+Manufacturing engineer,Stefan Oda,F,Irakees,Laag,Samenwonend,Links,VMBO,Christelijk,Weduwe/Weduwnaar,Student,Twee-onder-een-kap,Advanced,62,Gemiddeld,Gemiddeld,Slecht,Slecht
+Air broker,Mathijs van Kempen-Adriaansen,M,Somalisch,Laag,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,26,Laag,Gemiddeld,Gemiddeld,Goed
+Counselling psychologist,Jim Puig-Arnold,M,Marokkaans,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,20,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Curator,Sofia Versluijs,F,Somalisch,Hoog,Samenwonend,Rechts,HBO,Anders,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,95,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Animator,Stijn van 't Houteveen-Genefaas,M,Eritrees,Laag,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Advanced,23,Hoog,Gemiddeld,Gemiddeld,Slecht

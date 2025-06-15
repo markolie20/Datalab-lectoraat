@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tour manager,Seth van der Heijden,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,MBO,Anders,Gehuwd,Parttime,Appartement,Beginner,71,Laag,Goed,Gemiddeld,Slecht
+"Optician, dispensing",Sepp die Bont-van Luin,F,Syrisch,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,94,Laag,Goed,Gemiddeld,Slecht
+Visual merchandiser,Lana Bernaards-den Buytelaar,M,Duits,Laag,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Student,Rijtjeshuis,Expert,92,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Health physicist,Nathan Kuit,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,99,Gemiddeld,Goed,Slecht,Gemiddeld
+"Accountant, chartered management",Philip Duivenvoorden-van Geffen,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,44,Laag,Goed,Goed,Slecht
+Marine scientist,Collin Rubben,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Anders,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Intermediate,49,Hoog,Slecht,Slecht,Gemiddeld
+Dispensing optician,Olivia van den Eerenbeemt,M,Syrisch,Gemiddeld,Samenwonend met kinderen,Links,MBO,Anders,Gehuwd,Student,Rijtjeshuis,Advanced,68,Gemiddeld,Gemiddeld,Goed,Goed
+Air cabin crew,Arie Groenendaal,F,Duits,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Expert,37,Gemiddeld,Goed,Gemiddeld,Slecht
+Occupational hygienist,Saar van der Horst,M,Italiaans,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,68,Laag,Slecht,Goed,Goed
+Printmaker,Senna Bartels-Hakker,M,Surinaams,Laag,Samenwonend,Rechts,MBO,Anders,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,57,Hoog,Slecht,Gemiddeld,Goed
+Probation officer,Wesley van Ham-Duivenvoorden,M,Chinees,Hoog,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,76,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, electrical",Lena Cant,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Advanced,83,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Clinical research associate,Dirk Françoise-de Keijzer,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,98,Laag,Slecht,Gemiddeld,Goed
+Customer service manager,Jasper Room,F,Marokkaans,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,19,Laag,Gemiddeld,Gemiddeld,Goed

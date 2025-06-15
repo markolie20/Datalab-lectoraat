@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Patent examiner,Aron van Asten-Dircken,F,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Anders,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,49,Laag,Gemiddeld,Gemiddeld,Goed
+Editorial assistant,Amy Versluijs,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,MBO,Anders,Gescheiden,Parttime,Appartement,Intermediate,20,Laag,Slecht,Goed,Gemiddeld
+Optometrist,Dylano Dachgelt-van Engelen,M,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,33,Laag,Gemiddeld,Gemiddeld,Slecht
+"Psychologist, clinical",Selena Chotzen,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,69,Laag,Gemiddeld,Goed,Goed
+Rural practice surveyor,Azra van de Kooij,F,Duits,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,90,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Chief Marketing Officer,Robin Coret-Coredo-Momberg,F,Chinees,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Studio,Intermediate,69,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Nature conservation officer,Rafael Jonkman,M,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, building control",Robin Everts,F,Turks,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,72,Laag,Gemiddeld,Slecht,Gemiddeld
+Product designer,Mette Sestig,M,Indiaas,Gemiddeld,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,97,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Seismic interpreter,Kyano Janse-Borman,M,Irakees,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,58,Hoog,Gemiddeld,Goed,Gemiddeld
+"Administrator, sports",Sebastiaan van der Velden-Lamotte,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,48,Laag,Goed,Goed,Gemiddeld
+Naval architect,Bibi Wolters,F,Spaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Hindoeïstisch,Ongehuwd,Student,Appartement,Intermediate,61,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Television floor manager,Sami Galenzone,M,Chinees,Hoog,Samenwonend,Rechts,HBO,Christelijk,Gescheiden,Parttime,Woonboot,Digibeet,90,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Educational psychologist,Saar van der Noot,M,Portugees,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,21,Hoog,Gemiddeld,Gemiddeld,Slecht
+Race relations officer,Sarah Maas-Oda,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,32,Hoog,Goed,Gemiddeld,Goed
+Purchasing manager,Amy van Maaren-Huberts,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,32,Laag,Gemiddeld,Slecht,Goed
+Microbiologist,Luka Lagerweij,M,Somalisch,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,27,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Telecommunications researcher,Femke Moenen,F,Portugees,Gemiddeld,Samenwonend met kinderen,Links,HBO,Islamitisch,Gescheiden,Gepensioneerd,Woonboot,Beginner,28,Hoog,Goed,Gemiddeld,Gemiddeld
+Graphic designer,Elif Jones,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Digibeet,96,Laag,Goed,Gemiddeld,Slecht
+Fisheries officer,Isa van den Nieuwenhuijsen,F,Marokkaans,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,39,Laag,Slecht,Goed,Goed
+Location manager,Lot Klomp Jan-Koret,M,Nederlands,Hoog,Samenwonend,Midden,WO,Atheïstisch,Gescheiden,Werkloos,Appartement,Intermediate,45,Gemiddeld,Slecht,Gemiddeld,Goed
+Music therapist,Loïs Strijker,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Expert,57,Laag,Gemiddeld,Goed,Gemiddeld
+Electrical engineer,Luc de Keijzer,F,Marokkaans,Laag,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,62,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Medical technical officer,Felix Westermann,M,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,34,Laag,Goed,Goed,Gemiddeld
+Leisure centre manager,Fabiënne Boeser,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,59,Gemiddeld,Gemiddeld,Goed,Goed
+Contractor,Zeynep Heerschop-Bezemer,M,Irakees,Hoog,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,73,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, communications",Isabella van Kusen,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,68,Hoog,Gemiddeld,Goed,Gemiddeld
+Marketing executive,Sophia van Engeland,F,Roemeens,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,40,Laag,Goed,Goed,Gemiddeld
+"Scientist, research (life sciences)",Gerrit van Vlaanderen,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,98,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Administrator, local government",Aimée van Landen,F,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Boeddhistisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,68,Laag,Goed,Slecht,Goed
+Archaeologist,Sofie van de Pol,M,Spaans,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,25,Hoog,Gemiddeld,Slecht,Goed
+Engineering geologist,Bibi Furda-van Wickerode,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,24,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Landscape architect,Jesse van den Wittenboer-van Bruchem,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,98,Laag,Gemiddeld,Slecht,Gemiddeld
+Advice worker,Yusuf Bezemer-Boeser,F,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,WO,Anders,Gescheiden,Zelfstandig,Vrijstaand,Intermediate,68,Hoog,Slecht,Gemiddeld,Slecht

@@ -1,0 +1,115 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2023-10-23T09:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi allemaal! Wat vinden jullie van die plannen voor een nieuw parkeerterrein aan de rand van het dorp? Goed idee of juist niet? Ben benieuwd naar jullie meningen!",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 1,
+    "timestamp": "2023-10-23T09:02:00",
+    "sender": "Arthur van Dillen",
+    "text": "Nou, ik vind het wel een goed idee! 🚗 Meer parkeerplekken is nooit verkeerd, toch?! 🤩",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 2,
+    "timestamp": "2023-10-23T09:05:00",
+    "sender": "Fatima el Amrani",
+    "text": "Ik snap het nut ervan, maar komt het niet pal naast het speelveldje? Dat zou ik echt jammer vinden voor de kinderen 😕",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 3,
+    "timestamp": "2023-10-23T09:08:00",
+    "sender": "Koen de Boer",
+    "text": "Daar heb je een goed punt Fatima. Spelen is belangrijk. Maar eerlijk gezegd vind ik het soms echt zoeken naar een parkeerplek als ik thuiskom van werk... 😓",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 4,
+    "timestamp": "2023-10-23T09:11:00",
+    "sender": "Linda Janssen",
+    "text": "Wat ik me afvraag: wordt het een open terrein of een parkeergarage? Want als het open wordt, dan kijk ik straks tegen auto's aan vanuit mijn keukenraam. 😐",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 5,
+    "timestamp": "2023-10-23T09:13:00",
+    "sender": "Peter Groenveld",
+    "text": "Ik heb gelezen dat het een groen parkeerterrein wordt met bomen ertussen. Dat zou wel schelen qua aanzicht en hitte in de zomer 🌳🌳",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 6,
+    "timestamp": "2023-10-23T09:16:00",
+    "sender": "Arthur van Dillen",
+    "text": "Een groen terrein klinkt wel als een mooie middenweg. Maar betekent dat ook minder plekken dan oorspronkelijk gepland?",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 7,
+    "timestamp": "2023-10-23T09:18:00",
+    "sender": "Koen de Boer",
+    "text": "Ja, volgens de gemeentepagina worden het 45 plekken i.p.v. 60. Minder, maar wel groener en beter ingepast. 🌱",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 8,
+    "timestamp": "2023-10-23T09:22:00",
+    "sender": "Fatima el Amrani",
+    "text": "Zolang het speelveld blijft en er geen extra verkeersdruk komt in de straat, kan ik er wel mee leven.",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 9,
+    "timestamp": "2023-10-23T09:25:00",
+    "sender": "Linda Janssen",
+    "text": "Misschien moeten we de gemeente vragen of ze een maquette of visualisatie willen delen. Dan weten we tenminste waar we aan toe zijn.",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 10,
+    "timestamp": "2023-10-23T09:28:00",
+    "sender": "Peter Groenveld",
+    "text": "Goed idee Linda. En misschien kunnen we ook meedenken over de inrichting? Bankjes? Groene hagen? 🌼",
+    "topic_id": "topic_002"
+  },
+  {
+    "id": 11,
+    "timestamp": "2023-10-23T09:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Laten we dat zeker voorstellen. Als we samenkomen met wat suggesties, staat de gemeente daar vaak wel voor open. 💬",
+    "topic_id": "topic_002"
+  },
+
+{
+  "id": 12,
+  "timestamp": "2023-10-23T09:32:00",
+  "sender": "Koen de Boer",
+  "text": "Ik vind het ook belangrijk dat we als buurt betrokken worden bij dit soort plannen. Het gaat tenslotte om onze leefomgeving! 🏡",
+  "topic_id": "topic_002"
+},
+{
+  "id": 13,
+  "timestamp": "2023-10-23T09:35:00",
+  "sender": "Fatima el Amrani",
+  "text": "Precies Koen! En misschien kunnen we ook vragen of er een groenstrook komt tussen het parkeerterrein en het speelveldje? Dat zou het voor de kinderen veiliger maken.",
+  "topic_id": "topic_002"
+},
+{
+        "id": 14,
+        "timestamp": "2023-10-23T09:38:00",
+        "sender": "Linda Janssen",
+        "text": "Dat is een goed idee Fatima! Een groenstrook zou ook helpen om het zicht te beperken. Laten we dat zeker meenemen in onze suggesties.",
+        "topic_id": "topic_002"
+    },
+    {
+        "id": 15,
+        "timestamp": "2023-10-23T09:40:00",
+        "sender": "Peter Groenveld",
+        "text": "Ik ben blij dat we dit bespreken. Het is belangrijk dat we als buurt samen optrekken en onze stem laten horen! 💪",
+        "topic_id": "topic_002"
+    }
+    ]

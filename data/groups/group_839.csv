@@ -1,0 +1,21 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Magazine journalist,Mette van Bovene-Broeckx,M,Surinaams,Hoog,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gescheiden,Werkloos,Appartement,Advanced,79,Laag,Gemiddeld,Goed,Goed
+Oncologist,Evy Blees,M,Indiaas,Laag,Samenwonend met kinderen,Midden,HBO,Hindoeïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,37,Gemiddeld,Goed,Slecht,Gemiddeld
+Dancer,Quinty Potters-Lucas,M,Nederlands,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,81,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Museum/gallery exhibitions officer,Lucy van der Veen,F,Indonesisch,Gemiddeld,Samenwonend,Rechts,HAVO,Anders,Gescheiden,Fulltime,Appartement,Intermediate,95,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical research associate,Tijn van Poppel,F,Pools,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Student,Twee-onder-een-kap,Beginner,45,Gemiddeld,Goed,Gemiddeld,Slecht
+Child psychotherapist,Mare Jonker-van Oostendorp,F,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Gescheiden,Zelfstandig,Twee-onder-een-kap,Intermediate,89,Laag,Gemiddeld,Gemiddeld,Goed
+Recruitment consultant,Zara Courtier-Woudenberg,F,Duits,Laag,Alleenstaand,Links,WO,Anders,Ongehuwd,Parttime,Vrijstaand,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Occupational psychologist,Jim van Ochten-Glasses,F,Chinees,Laag,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,37,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Paramedic,"Isabella Bourgondië, van",M,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Expert,74,Hoog,Slecht,Gemiddeld,Slecht
+Psychotherapist,Naomi van den Nyeuwenhuysen,F,Marokkaans,Laag,Samenwonend,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Appartement,Digibeet,39,Laag,Slecht,Gemiddeld,Gemiddeld
+Environmental manager,Lieve Otto-Chotzen,M,Roemeens,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,25,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Producer, radio",Romy Kathagen,F,Duits,Laag,Samenwonend met kinderen,Midden,VMBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Appartement,Advanced,86,Hoog,Goed,Gemiddeld,Gemiddeld
+Haematologist,Liam van den Henst,M,Surinaams,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,54,Laag,Slecht,Goed,Slecht
+Geophysical data processor,Mia de Heer,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Zelfstandig,Appartement,Beginner,80,Laag,Goed,Gemiddeld,Gemiddeld
+Hotel manager,Lisa Nijman,F,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,72,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Merchant navy officer,Roos Weyland-van der Loo,F,Pools,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,95,Gemiddeld,Slecht,Slecht,Goed
+Corporate treasurer,Aaliyah Tammerijn-de Pauw,F,Irakees,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,53,Laag,Goed,Gemiddeld,Gemiddeld
+Site engineer,Jan Hermans,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Intermediate,82,Laag,Gemiddeld,Goed,Goed
+Systems developer,Aaliyah van der Velden,F,Antilliaans,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Gehuwd,Student,Twee-onder-een-kap,Intermediate,81,Laag,Gemiddeld,Goed,Gemiddeld
+"Production assistant, radio",Nora van der Horst,F,Italiaans,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,94,Gemiddeld,Goed,Gemiddeld,Gemiddeld

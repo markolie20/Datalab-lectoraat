@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Special effects artist,Mohamed Bresé,F,Afghaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,65,Gemiddeld,Slecht,Goed,Gemiddeld
+Geochemist,Colin Kortman,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Digibeet,75,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Engineer, drilling",Adam Lonen,F,Afghaans,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Digibeet,21,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Audiological scientist,Brian Goudriaan,F,Nederlands,Laag,Samenwonend,Links,VWO,Boeddhistisch,Gehuwd,Fulltime,Vrijstaand,Advanced,49,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Designer, furniture",Elif de Boer,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,74,Hoog,Goed,Gemiddeld,Goed
+Primary school teacher,Floor Dubois,M,Indiaas,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,40,Gemiddeld,Gemiddeld,Goed,Slecht
+Estate agent,Danique van de Elzas,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Student,Vrijstaand,Beginner,62,Laag,Goed,Slecht,Slecht
+Fish farm manager,Frederique Mol,M,Syrisch,Laag,Alleenstaand,Midden,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Beginner,72,Laag,Slecht,Goed,Slecht
+IT trainer,Lynn van Soest,F,Surinaams,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,32,Gemiddeld,Gemiddeld,Goed,Slecht
+Politician's assistant,Danique Lucas,M,Pools,Gemiddeld,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,96,Laag,Gemiddeld,Goed,Gemiddeld

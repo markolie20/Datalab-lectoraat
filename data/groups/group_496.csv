@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Contractor,Sterre van Dam,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Digibeet,43,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Research officer, government",Yfke van den Bosch,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,67,Laag,Slecht,Gemiddeld,Gemiddeld
+Public affairs consultant,Giel Vrancken,F,Marokkaans,Hoog,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,19,Hoog,Slecht,Goed,Gemiddeld
+"Conservation officer, historic buildings",Elena Zwijsen,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,58,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Clinical scientist, histocompatibility and immunogenetics",Bas Weylant,F,Duits,Gemiddeld,Samenwonend,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,56,Laag,Gemiddeld,Goed,Slecht
+Further education lecturer,Tijmen van Orleans,F,Turks,Laag,Samenwonend met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,92,Hoog,Goed,Goed,Goed
+Stage manager,Melle Marceron,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,WO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,87,Laag,Gemiddeld,Goed,Slecht
+Chartered public finance accountant,Ties de Heer,F,Pools,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Beginner,92,Laag,Gemiddeld,Gemiddeld,Goed
+Event organiser,Britt de Gruijl,M,Duits,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,51,Laag,Goed,Gemiddeld,Goed
+IT trainer,Carlijn Huisman,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,98,Laag,Goed,Goed,Slecht
+Environmental education officer,Raf Bastiaense-van Este,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Intermediate,62,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, communications",Sil Nijman-Spanhaak,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Anders,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,33,Laag,Gemiddeld,Goed,Goed
+Best boy,Nienke de Bruin,M,Nederlands,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,52,Laag,Gemiddeld,Gemiddeld,Goed
+Press sub,Maarten van de Velde-van Maasgouw,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Boeddhistisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,34,Laag,Gemiddeld,Goed,Goed
+English as a second language teacher,Nadia Belpere-Postma,M,Indonesisch,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,61,Laag,Goed,Gemiddeld,Gemiddeld
+Engineering geologist,Yfke Wildschut,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Expert,98,Gemiddeld,Gemiddeld,Goed,Slecht

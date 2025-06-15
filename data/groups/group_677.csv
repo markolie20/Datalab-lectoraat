@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Web designer,Zeynep Jansen,F,Portugees,Laag,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,73,Laag,Gemiddeld,Gemiddeld,Goed
+Network engineer,Jesse Mathol,M,Pools,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Copy,Jules Kloppert,F,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,31,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Trade mark attorney,Bram Doesburg,F,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Gescheiden,Werkloos,Studio,Digibeet,93,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Bonds trader,Sophia Koning,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Intermediate,45,Hoog,Gemiddeld,Slecht,Goed
+"Journalist, broadcasting",Yasmine Broeshart,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,51,Laag,Gemiddeld,Slecht,Goed
+Firefighter,Floortje de Hoog,F,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,44,Hoog,Slecht,Slecht,Gemiddeld
+Restaurant manager,Mees Kuipers,M,Nederlands,Laag,Alleenstaand,Rechts,WO,Christelijk,Gescheiden,Gepensioneerd,Vrijstaand,Advanced,27,Laag,Goed,Goed,Slecht
+Personal assistant,Catharina van Haeften,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Joods,Gehuwd,Parttime,Rijtjeshuis,Intermediate,18,Gemiddeld,Slecht,Slecht,Goed
+Politician's assistant,Ibrahim Corstiaens-van de Noordmark,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,71,Hoog,Slecht,Goed,Gemiddeld
+Engineering geologist,Dana Oosterhout,M,Pools,Laag,Samenwonend met kinderen,Rechts,WO,Joods,Ongehuwd,Fulltime,Vrijstaand,Beginner,94,Laag,Goed,Gemiddeld,Slecht
+"Engineer, drilling",Ian Zevenboom,F,Nederlands,Hoog,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,89,Laag,Goed,Gemiddeld,Gemiddeld
+Television floor manager,Victoria van Loon,F,Chinees,Hoog,Samenwonend met kinderen,Rechts,MBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Advanced,48,Laag,Goed,Goed,Slecht
+Press photographer,Floortje Bruynzeels,M,Turks,Hoog,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,62,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Child psychotherapist,Noëlle van der Mast,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Atheïstisch,Weduwe/Weduwnaar,Parttime,Vrijstaand,Advanced,62,Gemiddeld,Goed,Goed,Gemiddeld
+"Engineer, electronics",Sami Korsman-Koster,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,45,Laag,Slecht,Slecht,Slecht
+Operational investment banker,Koen Zijlmans-Oemencs,F,Afghaans,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,57,Hoog,Gemiddeld,Goed,Gemiddeld
+Geographical information systems officer,Dex Carnotte,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Expert,64,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

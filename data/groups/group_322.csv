@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Garment/textile technologist,Owen VI,F,Marokkaans,Laag,Samenwonend,Rechts,MBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Studio,Beginner,29,Hoog,Goed,Slecht,Gemiddeld
+Land/geomatics surveyor,Naud van Spreuwel,F,Chinees,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,91,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, ceramics/pottery",Norah Nollee,F,Irakees,Gemiddeld,Alleenstaand,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,70,Laag,Goed,Goed,Gemiddeld
+Clinical molecular geneticist,Stella Koret,M,Italiaans,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,48,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Musician,Amber Broekhoven,M,Surinaams,Laag,Samenwonend met kinderen,Midden,VWO,Anders,Ongehuwd,Fulltime,Appartement,Expert,62,Laag,Goed,Gemiddeld,Gemiddeld
+Lexicographer,Chris van Ooste,F,Spaans,Hoog,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,18,Laag,Gemiddeld,Goed,Goed
+"Surveyor, hydrographic",Eva Pieters van der Maes,F,Nederlands,Hoog,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,76,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Animal nutritionist,Hendrik Everde,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Vrijstaand,Intermediate,96,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, mining",Ize van Landen,F,Spaans,Gemiddeld,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,79,Laag,Gemiddeld,Slecht,Goed
+Communications engineer,Melle Bloemendaal-Willems,M,Syrisch,Laag,Samenwonend,Links,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,69,Gemiddeld,Gemiddeld,Slecht,Goed
+Industrial buyer,Imke van Emmelen,F,Antilliaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,22,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Aeronautical engineer,Selina van Dijk,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Anders,Ongehuwd,Werkloos,Woonboot,Advanced,82,Laag,Goed,Slecht,Gemiddeld
+Fine artist,Kate Chevresson-Merckx,F,Roemeens,Gemiddeld,Samenwonend,Rechts,VWO,Anders,Ongehuwd,Zelfstandig,Appartement,Expert,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, research (physical sciences)",Fabiënne Lensen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Anders,Gescheiden,Fulltime,Appartement,Advanced,96,Gemiddeld,Gemiddeld,Goed,Gemiddeld

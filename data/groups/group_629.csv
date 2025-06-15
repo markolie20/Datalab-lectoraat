@@ -1,0 +1,27 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Audiological scientist,Anna Garret,M,Indiaas,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,66,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Ambulance person,Sem van Wickerode,M,Portugees,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Expert,24,Gemiddeld,Gemiddeld,Goed,Goed
+"Surveyor, rural practice",Emir Beijring,F,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Atheïstisch,Gehuwd,Zelfstandig,Woonboot,Advanced,61,Laag,Slecht,Gemiddeld,Slecht
+Minerals surveyor,Emma Niermann,F,Nederlands,Laag,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Laag,Gemiddeld,Goed,Gemiddeld
+Osteopath,Sebastiaan Koeman-Coret-Coredo,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Joods,Gehuwd,Parttime,Vrijstaand,Beginner,70,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Proofreader,Helena van Beeck,F,Portugees,Gemiddeld,Alleenstaand,Links,WO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Advanced,40,Laag,Slecht,Gemiddeld,Goed
+Armed forces training and education officer,Aiden Cant,M,Marokkaans,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,55,Laag,Gemiddeld,Goed,Gemiddeld
+Learning disability nurse,Colin van den Henst,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,96,Laag,Goed,Gemiddeld,Gemiddeld
+Immunologist,Hanna van den Assem,F,Nederlands,Laag,Samenwonend,Links,VMBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Studio,Advanced,21,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Volunteer coordinator,Emily Timmermans,F,Indonesisch,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,77,Laag,Goed,Gemiddeld,Gemiddeld
+Animal technologist,Yusuf Elsenaar,M,Duits,Hoog,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Student,Vrijstaand,Intermediate,80,Laag,Goed,Goed,Gemiddeld
+Amenity horticulturist,Robin Doyle,M,Eritrees,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Student,Appartement,Advanced,54,Hoog,Gemiddeld,Gemiddeld,Goed
+"Conservator, museum/gallery",Tobias Bresé-Doyle,F,Nederlands,Laag,Samenwonend,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Student,Appartement,Expert,95,Hoog,Gemiddeld,Slecht,Slecht
+Careers adviser,Zoey Spiker-Appelman,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,22,Gemiddeld,Goed,Goed,Gemiddeld
+Clinical psychologist,Mirte Luboch-Pieters,F,Surinaams,Laag,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Advanced,53,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Doctor, hospital",Sofie Doyle,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,MBO,Joods,Ongehuwd,Student,Rijtjeshuis,Intermediate,46,Laag,Gemiddeld,Gemiddeld,Goed
+Engineering geologist,Jim Hanegraaff-Krabbe,F,Eritrees,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,67,Gemiddeld,Goed,Slecht,Gemiddeld
+"Research officer, trade union",Leah Kortman-van de Pol,M,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,18,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, commercial/residential",Fabian Lathrope-Govarts,F,Portugees,Hoog,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Beginner,42,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+IT consultant,Alyssa Eelman-van Poppel,F,Indonesisch,Laag,Samenwonend,Midden,VMBO,Joods,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,88,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Quarry manager,Chris Winters-Totwiller,M,Pools,Gemiddeld,Samenwonend,Links,HBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Beginner,81,Laag,Goed,Goed,Slecht
+Marketing executive,Cornelis de Haan,M,Marokkaans,Hoog,Alleenstaand met kinderen,Links,WO,Joods,Ongehuwd,Parttime,Appartement,Intermediate,90,Laag,Goed,Goed,Gemiddeld
+Clinical cytogeneticist,Puk le Gulcher,M,Turks,Gemiddeld,Samenwonend,Rechts,HBO,Anders,Gehuwd,Parttime,Vrijstaand,Intermediate,36,Gemiddeld,Slecht,Gemiddeld,Goed
+Data processing manager,Bart Spruyt-van der Pluijm,M,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,27,Gemiddeld,Gemiddeld,Goed,Slecht
+Farm manager,Muhammed Backer,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,24,Laag,Gemiddeld,Gemiddeld,Goed
+Sports development officer,Nisa Sanders,M,Indonesisch,Laag,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,85,Gemiddeld,Gemiddeld,Goed,Gemiddeld

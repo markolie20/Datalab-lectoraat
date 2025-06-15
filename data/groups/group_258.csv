@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Teacher, primary school",Hanna Bökenkamp-Bave,F,Nederlands,Laag,Alleenstaand,Links,MBO,Anders,Gescheiden,Fulltime,Appartement,Advanced,46,Laag,Slecht,Goed,Gemiddeld
+"Designer, graphic",Marinus Serra,M,Marokkaans,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,19,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Cytogeneticist,Adam van Klaarwater,M,Antilliaans,Hoog,Alleenstaand,Midden,Basisonderwijs,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,33,Hoog,Gemiddeld,Goed,Gemiddeld
+Materials engineer,Giel Wutke,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Ambulance person,Raf van de Wiel,F,Roemeens,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,63,Laag,Gemiddeld,Gemiddeld,Slecht
+Quarry manager,Tijn van Dijk,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,59,Laag,Goed,Slecht,Slecht
+Medical secretary,Victoria Hoelen-de Strigter,F,Indiaas,Laag,Alleenstaand,Links,MBO,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Intermediate,19,Laag,Slecht,Goed,Slecht
+Warden/ranger,Imran Heinrichs-Stamrood,M,Indiaas,Laag,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,89,Gemiddeld,Gemiddeld,Goed,Goed
+Technical author,Wout van Amstel-Schroeff,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Woonboot,Intermediate,62,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Pilot, airline",Boris Michielsen,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,87,Laag,Gemiddeld,Slecht,Gemiddeld
+Print production planner,Beau van Liendert,M,Indonesisch,Laag,Samenwonend,Links,HAVO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,37,Hoog,Gemiddeld,Goed,Goed
+"Engineer, materials",Imke van Verdun,M,Irakees,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,73,Hoog,Slecht,Goed,Slecht
+Audiological scientist,Danique Kok,F,Pools,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Werkloos,Twee-onder-een-kap,Beginner,26,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Science writer,Dion Steenbeek,F,Indiaas,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,66,Hoog,Goed,Gemiddeld,Goed
+"Optician, dispensing",Job van de Wiel,F,Nederlands,Laag,Samenwonend,Midden,HBO,Anders,Gescheiden,Parttime,Rijtjeshuis,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Goed
+"Education officer, community",Quinn Bosch-Janssens,M,Nederlands,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,53,Hoog,Slecht,Goed,Gemiddeld
+Production engineer,Elias van der Veiver,M,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Gehuwd,Student,Studio,Advanced,21,Laag,Gemiddeld,Gemiddeld,Gemiddeld

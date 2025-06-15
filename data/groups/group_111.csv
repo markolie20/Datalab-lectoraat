@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Hotel manager,Melissa Jochems,M,Antilliaans,Laag,Alleenstaand,Rechts,VMBO,Anders,Ongehuwd,Zelfstandig,Appartement,Digibeet,18,Hoog,Goed,Slecht,Slecht
+Ranger/warden,Ties Verda,M,Antilliaans,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,68,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Orthoptist,Joey Wagenvoort-van der Berg,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Insurance account manager,Dylano van Landen,M,Nederlands,Laag,Samenwonend,Links,HBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial risk analyst,Rayan van den Eijssel-Coreth von und zu Coredo und Starkenberg,F,Indonesisch,Laag,Alleenstaand met kinderen,Midden,HAVO,Anders,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,68,Gemiddeld,Goed,Goed,Goed
+"Producer, radio",Fiene van den Henst,M,Chinees,Laag,Samenwonend,Rechts,WO,Boeddhistisch,Gescheiden,Zelfstandig,Appartement,Digibeet,32,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, maintenance (IT)",Aimée van Geenen,F,Bulgaars,Hoog,Samenwonend met kinderen,Rechts,VWO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,78,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Primary school teacher,Finn Dachgelder,F,Turks,Gemiddeld,Samenwonend,Links,VWO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Advanced,86,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Astronomer,Feline le Briel,M,Surinaams,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,78,Laag,Goed,Gemiddeld,Gemiddeld
+Facilities manager,Ayden Schuurmans,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,59,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Barrister,Amber van Leuven,M,Surinaams,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Beginner,59,Laag,Goed,Goed,Slecht
+Retail buyer,Wouter van Ommeren,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,34,Laag,Goed,Gemiddeld,Gemiddeld
+Oncologist,Isa Nieuwstraten,F,Surinaams,Hoog,Samenwonend,Midden,MBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,88,Gemiddeld,Gemiddeld,Gemiddeld,Goed

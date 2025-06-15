@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Pension scheme manager,Demi Beijring,F,Marokkaans,Hoog,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,39,Laag,Slecht,Gemiddeld,Gemiddeld
+Herbalist,Milou Uphuis,F,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,84,Laag,Slecht,Gemiddeld,Gemiddeld
+Health visitor,Damian Heere,M,Irakees,Hoog,Samenwonend met kinderen,Links,HAVO,Joods,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,78,Gemiddeld,Gemiddeld,Slecht,Slecht
+Toxicologist,Senna Vaessen,M,Turks,Hoog,Samenwonend,Midden,HBO,Anders,Gehuwd,Parttime,Vrijstaand,Beginner,87,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Lexicographer,Esila Kriens,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Expert,37,Hoog,Gemiddeld,Goed,Goed
+Training and development officer,Jet van Jumiège,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,42,Laag,Gemiddeld,Goed,Gemiddeld
+Office manager,Chloë Kathagen,F,Chinees,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,61,Hoog,Slecht,Gemiddeld,Gemiddeld
+Fish farm manager,Roos van Baalen,M,Duits,Laag,Samenwonend met kinderen,Rechts,VWO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,41,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Designer, exhibition/display",Naud Lucas-Aarden,F,Duits,Laag,Alleenstaand,Links,VMBO,Hindoeïstisch,Ongehuwd,Parttime,Studio,Intermediate,71,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Secondary school teacher,Annemijn de Plantard,M,Indonesisch,Laag,Samenwonend,Midden,VWO,Hindoeïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,44,Gemiddeld,Slecht,Gemiddeld,Goed
+Best boy,Ella Uphaus,F,Nederlands,Laag,Alleenstaand,Links,MBO,Joods,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,50,Laag,Goed,Goed,Gemiddeld

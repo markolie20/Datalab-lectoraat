@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Naval architect,Lieke Steinmeiern-de Graaf,F,Pools,Gemiddeld,Samenwonend,Midden,WO,Boeddhistisch,Gescheiden,Zelfstandig,Vrijstaand,Expert,80,Laag,Gemiddeld,Gemiddeld,Goed
+Paediatric nurse,Giovanni van Limburg,M,Bulgaars,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,44,Laag,Gemiddeld,Slecht,Gemiddeld
+"Physicist, medical",Maria Stook-Broeshart,M,Turks,Laag,Alleenstaand met kinderen,Rechts,VWO,Boeddhistisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,80,Gemiddeld,Goed,Goed,Slecht
+"Scientist, biomedical",Imran van Ooyen,F,Pools,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Digibeet,80,Hoog,Goed,Gemiddeld,Gemiddeld
+"Designer, jewellery",Maud de Plantard,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Beginner,44,Hoog,Gemiddeld,Gemiddeld,Slecht
+Retail merchandiser,Elize Joosten-van Liendert,F,Nederlands,Gemiddeld,Samenwonend,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,34,Laag,Slecht,Slecht,Goed
+"Doctor, hospital",Lukas de Swart,F,Nederlands,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,41,Hoog,Gemiddeld,Goed,Gemiddeld
+Nature conservation officer,Fabian van de Elzas,M,Nederlands,Laag,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Advanced,28,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Mudlogger,Dex Aschman-Roessink,F,Nederlands,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,33,Laag,Gemiddeld,Gemiddeld,Slecht
+"Psychologist, counselling",Amina Spreeuw,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Fulltime,Studio,Beginner,44,Hoog,Gemiddeld,Goed,Gemiddeld
+Manufacturing engineer,Nisa de Beer-Pieters van der Maes,F,Eritrees,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Parttime,Appartement,Beginner,87,Laag,Goed,Gemiddeld,Goed
+Race relations officer,Wessel Roukes-van den Bergh,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,89,Gemiddeld,Goed,Goed,Slecht
+"Scientist, physiological",Tom Adelaar,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Expert,49,Laag,Goed,Gemiddeld,Gemiddeld
+Chartered loss adjuster,Maya Genefaas,F,Pools,Laag,Samenwonend,Rechts,WO,Anders,Ongehuwd,Fulltime,Vrijstaand,Advanced,88,Hoog,Gemiddeld,Slecht,Slecht
+Water quality scientist,Floor van Jumiège-van der Pol,F,Turks,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,23,Laag,Gemiddeld,Goed,Goed
+Haematologist,Faas Boudewijns,M,Turks,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,50,Laag,Gemiddeld,Goed,Gemiddeld
+Oncologist,Mika Wipstrik,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Studio,Beginner,89,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Animal nutritionist,Evi Zijlemans,F,Nederlands,Hoog,Alleenstaand,Links,WO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Beginner,51,Gemiddeld,Goed,Goed,Gemiddeld
+Radio producer,Linde Jonker,M,Somalisch,Laag,Samenwonend,Rechts,MBO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,96,Laag,Goed,Goed,Gemiddeld
+Information officer,Ben Lage,M,Syrisch,Laag,Samenwonend,Links,HAVO,Anders,Ongehuwd,Gepensioneerd,Woonboot,Beginner,27,Laag,Gemiddeld,Goed,Gemiddeld
+Herbalist,Tijn van Rooij,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,57,Gemiddeld,Gemiddeld,Goed,Slecht
+Management consultant,Kevin Bronder,M,Pools,Laag,Samenwonend,Midden,WO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,20,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Materials engineer,Justin van Dijk-van Salmen,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Vrijstaand,Expert,26,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, sports",Michelle Meyer-van Hamaland,F,Eritrees,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld

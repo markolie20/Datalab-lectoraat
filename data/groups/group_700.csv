@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Furniture conservator/restorer,Amin Holthuis,F,Nederlands,Hoog,Alleenstaand,Links,MBO,Joods,Weduwe/Weduwnaar,Student,Vrijstaand,Intermediate,64,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Production designer, theatre/television/film",Floortje Meeusen,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Student,Vrijstaand,Advanced,87,Laag,Gemiddeld,Slecht,Gemiddeld
+Facilities manager,Alyssa Lutterveld,F,Marokkaans,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,52,Laag,Goed,Gemiddeld,Slecht
+Travel agency manager,Hannah van Orleans,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,19,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Administrator,Marinus van Bruchem,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,51,Laag,Slecht,Goed,Goed
+Control and instrumentation engineer,Evelien Meeusen,M,Roemeens,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,92,Laag,Gemiddeld,Goed,Goed
+Police officer,Liza Moensendijk-de Pauw,M,Chinees,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Expert,96,Laag,Gemiddeld,Gemiddeld,Slecht
+Petroleum engineer,James Doyle,M,Portugees,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,95,Hoog,Gemiddeld,Goed,Slecht
+Operational researcher,Juul Unruoch Hunerik,M,Duits,Laag,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,20,Laag,Gemiddeld,Gemiddeld,Goed
+Estate manager/land agent,Alicia Gerritse,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Joods,Ongehuwd,Student,Rijtjeshuis,Intermediate,25,Laag,Slecht,Gemiddeld,Slecht
+Insurance claims handler,Jake Noordijk-van Noort,F,Italiaans,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Expert,64,Gemiddeld,Slecht,Gemiddeld,Slecht
+Museum/gallery curator,Maya Berends,F,Nederlands,Hoog,Samenwonend met kinderen,Links,VWO,Christelijk,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,98,Laag,Slecht,Gemiddeld,Gemiddeld
+Audiological scientist,Sanne Smits,M,Antilliaans,Laag,Samenwonend,Links,MBO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,48,Gemiddeld,Goed,Goed,Gemiddeld
+"Solicitor, Scotland",Pim Doorhof-Scherms,M,Indonesisch,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,50,Laag,Gemiddeld,Gemiddeld,Slecht
+Food technologist,Loek Vastenhouw-Neuzerling,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Werkloos,Appartement,Advanced,85,Laag,Goed,Gemiddeld,Goed
+Aid worker,Wessel Ariens,F,Duits,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,80,Laag,Gemiddeld,Goed,Gemiddeld
+Financial trader,Tijmen Schuurmans,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,23,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical embryologist,Fenna Bruynzeels,F,Pools,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Joods,Ongehuwd,Gepensioneerd,Studio,Intermediate,31,Laag,Goed,Goed,Gemiddeld
+"Designer, jewellery",Mart Molen,M,Nederlands,Laag,Samenwonend,Links,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,26,Gemiddeld,Goed,Goed,Gemiddeld
+Chief Operating Officer,Thijs Neuzerling-Glasses,M,Nederlands,Laag,Alleenstaand,Midden,VWO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,80,Hoog,Gemiddeld,Goed,Goed
+"Engineer, chemical",Lex Dachgelder-van Voorst,F,Pools,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,93,Gemiddeld,Goed,Gemiddeld,Goed
+Mechanical engineer,Vera van Straaten,M,Irakees,Hoog,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,43,Laag,Gemiddeld,Goed,Gemiddeld
+Sales executive,Selina le Briel,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Digibeet,77,Gemiddeld,Slecht,Gemiddeld,Goed
+Writer,Duuk Roessink-Ligtvoet,M,Pools,Laag,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Appartement,Beginner,20,Laag,Slecht,Gemiddeld,Gemiddeld
+Minerals surveyor,Daan Uphuis,M,Indiaas,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,62,Laag,Gemiddeld,Gemiddeld,Goed

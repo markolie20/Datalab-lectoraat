@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Mining engineer,Liza Takkelenburg-Brandon,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Parttime,Rijtjeshuis,Beginner,78,Hoog,Goed,Goed,Gemiddeld
+Psychiatrist,Lukas Hemma van Allemanië-Rademaker,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,77,Laag,Gemiddeld,Gemiddeld,Goed
+Pensions consultant,Micha Hanegraaff,M,Nederlands,Hoog,Alleenstaand,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,55,Laag,Goed,Gemiddeld,Goed
+Neurosurgeon,Joey van Hagen-Godfrey van Alemannië,F,Surinaams,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,48,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Airline pilot,Ella Chotzen-Schatteleijn,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,42,Gemiddeld,Goed,Slecht,Gemiddeld
+Equality and diversity officer,Nova Vink,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Beginner,27,Laag,Gemiddeld,Slecht,Goed
+Special educational needs teacher,Victoria van den Brand,M,Nederlands,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,30,Gemiddeld,Slecht,Slecht,Goed
+Immunologist,Kick Simons,M,Surinaams,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,71,Hoog,Slecht,Goed,Goed
+Special effects artist,Tyler Dekker,F,Somalisch,Laag,Alleenstaand met kinderen,Rechts,MBO,Anders,Gescheiden,Fulltime,Appartement,Beginner,74,Hoog,Gemiddeld,Gemiddeld,Slecht
+Aeronautical engineer,Ilse David-Huls,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Boeddhistisch,Gehuwd,Student,Appartement,Beginner,53,Laag,Slecht,Gemiddeld,Gemiddeld
+Fish farm manager,Seth de Mol,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,WO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,75,Laag,Goed,Gemiddeld,Gemiddeld
+"Psychologist, clinical",Julia Bökenkamp,M,Pools,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,23,Laag,Gemiddeld,Goed,Slecht
+"Engineer, land",Tristan Kleijse,F,Turks,Laag,Samenwonend met kinderen,Links,HBO,Joods,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Advanced,48,Laag,Gemiddeld,Goed,Slecht
+Health visitor,Evelien van Formbach,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Anders,Gehuwd,Werkloos,Appartement,Advanced,86,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Stage manager,Jules Elsemulder,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Laag,Slecht,Slecht,Gemiddeld
+"Designer, fashion/clothing",Berat van der Heyden,F,Nederlands,Hoog,Alleenstaand,Links,VWO,Boeddhistisch,Ongehuwd,Parttime,Studio,Advanced,58,Laag,Goed,Slecht,Gemiddeld

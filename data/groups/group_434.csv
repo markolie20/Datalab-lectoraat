@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Make,Sander van den Bosch-Schrant,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Beginner,27,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Musician,Bram Pison,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,37,Laag,Goed,Gemiddeld,Slecht
+Insurance broker,Bas Phillipsen-Ulrich,M,Chinees,Laag,Samenwonend,Midden,VWO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,92,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Public relations account executive,Pleun Doornhem,M,Nederlands,Laag,Samenwonend,Midden,HBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,54,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Writer,Evy Winnrich,F,Indonesisch,Hoog,Samenwonend,Rechts,HBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,83,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Training and development officer,Tobias van Kuijc van Malsen,M,Chinees,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,43,Laag,Slecht,Gemiddeld,Gemiddeld
+Television production assistant,Phileine van Loon,M,Turks,Laag,Alleenstaand met kinderen,Rechts,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,78,Hoog,Gemiddeld,Gemiddeld,Goed
+Magazine features editor,Sara Gruijl-Marchand,F,Duits,Hoog,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,95,Hoog,Goed,Gemiddeld,Goed
+Clothing/textile technologist,Jurre Jansen,F,Nederlands,Hoog,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gehuwd,Parttime,Appartement,Advanced,49,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Secretary/administrator,Ibrahim de Kale,M,Duits,Laag,Alleenstaand,Links,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,67,Laag,Slecht,Gemiddeld,Goed
+Personnel officer,Jelte Terry,F,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Beginner,99,Laag,Goed,Goed,Gemiddeld
+Electronics engineer,Hanna van Henegouwen,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,99,Hoog,Goed,Gemiddeld,Gemiddeld

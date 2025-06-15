@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Senior tax professional/tax inspector,Abel Barents-Visser,F,Marokkaans,Laag,Samenwonend,Links,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,57,Gemiddeld,Slecht,Goed,Gemiddeld
+Curator,Levi Moensendijk,F,Bulgaars,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,44,Laag,Slecht,Gemiddeld,Gemiddeld
+Health visitor,Nienke Labado-Koster,M,Duits,Hoog,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,36,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Industrial buyer,Janna Blees,M,Eritrees,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Digibeet,26,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, television/film/video",Jet van Duvenvoirde-Goderts,F,Eritrees,Laag,Samenwonend,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,51,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Geophysicist/field seismologist,Florian van Dokkum,F,Indiaas,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,36,Laag,Slecht,Gemiddeld,Gemiddeld
+Theatre director,Jay van Luin-Hondeveld,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Anders,Gehuwd,Fulltime,Appartement,Digibeet,21,Laag,Gemiddeld,Gemiddeld,Goed
+Museum education officer,Puck Bertho,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,97,Laag,Gemiddeld,Goed,Gemiddeld
+Chief Marketing Officer,Jay van de Biezenbos,M,Nederlands,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,32,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Youth worker,Adriana van Susa,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Beginner,35,Laag,Gemiddeld,Goed,Goed
+"Biochemist, clinical",Nick Korstman-Sprong,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Joods,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,77,Laag,Goed,Goed,Goed
+Firefighter,Sep van Spreeuwel-Lankle,M,Marokkaans,Hoog,Alleenstaand,Links,HAVO,Christelijk,Gescheiden,Werkloos,Appartement,Beginner,58,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, structural",Ayden van der Heyden,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Student,Appartement,Intermediate,86,Laag,Goed,Gemiddeld,Goed
+"Therapist, speech and language",Jelle Bronder,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,57,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Therapist, speech and language",Vajèn Hermans-Duivenvoorden,M,Nederlands,Hoog,Alleenstaand,Rechts,HAVO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,87,Laag,Gemiddeld,Goed,Gemiddeld
+"Designer, exhibition/display",Victor van 't Houteveen,M,Antilliaans,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,72,Laag,Gemiddeld,Goed,Gemiddeld
+Social researcher,Sterre Reimes,M,Pools,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,77,Hoog,Gemiddeld,Goed,Gemiddeld
+Consulting civil engineer,Selena Luster,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,79,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Conservation officer, nature",Joshua Dircken-van Bunschoten,F,Somalisch,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Werkloos,Woonboot,Advanced,27,Laag,Gemiddeld,Goed,Gemiddeld
+Mechanical engineer,Lorenzo Ramaker,M,Turks,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Werkloos,Vrijstaand,Intermediate,58,Laag,Goed,Gemiddeld,Gemiddeld
+"Lecturer, higher education",Bart van Wijk,F,Turks,Laag,Samenwonend met kinderen,Midden,HAVO,Anders,Gehuwd,Parttime,Woonboot,Expert,86,Laag,Goed,Gemiddeld,Slecht
+"Librarian, public",Pleun van Limburg,M,Portugees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,24,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Tax inspector,Kick Hexspoor,F,Pools,Laag,Alleenstaand,Midden,VMBO,Anders,Weduwe/Weduwnaar,Student,Rijtjeshuis,Expert,66,Laag,Gemiddeld,Goed,Goed
+Secretary/administrator,Jasper Scardino,F,Turks,Gemiddeld,Samenwonend,Links,Basisonderwijs,Anders,Ongehuwd,Parttime,Appartement,Intermediate,75,Laag,Goed,Goed,Slecht
+Futures trader,Duuk van Egisheim,M,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,97,Laag,Slecht,Gemiddeld,Gemiddeld
+Archaeologist,Lieve Hendrikse,M,Surinaams,Hoog,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,41,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Pilot, airline",Dion Ernst,F,Irakees,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Beginner,76,Gemiddeld,Slecht,Goed,Slecht
+"Development worker, community",Daphne Remmers,M,Indonesisch,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,86,Hoog,Gemiddeld,Goed,Goed
+"Nurse, children's",Maxim Janse-Uphuis,F,Marokkaans,Laag,Samenwonend,Rechts,HBO,Joods,Gehuwd,Parttime,Rijtjeshuis,Digibeet,52,Gemiddeld,Gemiddeld,Goed,Goed
+Health and safety inspector,Sander Cant,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,32,Hoog,Slecht,Goed,Slecht
+Artist,Maaike van Jumiège,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,34,Laag,Goed,Goed,Goed
+"Scientist, audiological",Giovanni van Gils,M,Duits,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,99,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, clinical",Imke van Geffen-Sterkman,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VWO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,48,Gemiddeld,Gemiddeld,Goed,Slecht
+Communications engineer,Oscar van Engeland-van den Bergh,F,Nederlands,Hoog,Alleenstaand,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,38,Laag,Slecht,Gemiddeld,Gemiddeld
+"Biochemist, clinical",Mick Serra,M,Indonesisch,Laag,Samenwonend,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,44,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

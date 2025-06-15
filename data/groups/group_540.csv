@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Best boy,Yasmine Kleibrink,M,Turks,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,81,Laag,Goed,Slecht,Slecht
+"Scientist, forensic",Demi Booden,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,84,Laag,Gemiddeld,Slecht,Gemiddeld
+Housing manager/officer,Willem van Beieren-Cornelisz,M,Antilliaans,Gemiddeld,Samenwonend,Rechts,HBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,64,Hoog,Slecht,Gemiddeld,Slecht
+Management consultant,Yassin de Bruijn,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,58,Laag,Gemiddeld,Slecht,Gemiddeld
+"Accountant, chartered public finance",Mathijs van Liendert-van de Darnau,M,Nederlands,Gemiddeld,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,25,Laag,Gemiddeld,Goed,Slecht
+Chief Executive Officer,Jacob Aertsz,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,51,Hoog,Gemiddeld,Slecht,Goed
+Freight forwarder,Helena Everts,M,Indonesisch,Laag,Samenwonend met kinderen,Midden,HAVO,Hindoeïstisch,Gescheiden,Werkloos,Appartement,Expert,90,Gemiddeld,Slecht,Gemiddeld,Goed
+"Designer, ceramics/pottery",Berat van Voorhout,F,Surinaams,Hoog,Alleenstaand,Links,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,47,Laag,Goed,Gemiddeld,Gemiddeld
+Furniture designer,Ashley Blonk,M,Afghaans,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,52,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety adviser,Mehmet David,F,Indiaas,Laag,Samenwonend met kinderen,Links,MBO,Joods,Ongehuwd,Student,Vrijstaand,Expert,51,Laag,Gemiddeld,Goed,Gemiddeld
+"Buyer, retail",Suze Welf,M,Indiaas,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,46,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Early years teacher,James Opmans,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,63,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Engineer, agricultural",Isis Hendriks,F,Afghaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Boeddhistisch,Weduwe/Weduwnaar,Parttime,Twee-onder-een-kap,Advanced,54,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Airline pilot,Vincent Knoers,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,WO,Joods,Gescheiden,Fulltime,Woonboot,Expert,35,Gemiddeld,Slecht,Gemiddeld,Slecht
+Industrial buyer,Elizabeth Koret,M,Nederlands,Laag,Samenwonend,Midden,WO,Joods,Gescheiden,Parttime,Appartement,Advanced,81,Laag,Gemiddeld,Gemiddeld,Goed
+Research scientist (medical),Laura van 't Riet,M,Turks,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Digibeet,48,Gemiddeld,Gemiddeld,Goed,Goed
+Dentist,Tim Kronenberg,F,Pools,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,60,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Quarry manager,Valentijn Lonen,F,Turks,Hoog,Alleenstaand,Links,HBO,Joods,Ongehuwd,Fulltime,Vrijstaand,Advanced,69,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, music",Teun van Stralen,M,Indiaas,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Studio,Advanced,73,Hoog,Slecht,Slecht,Gemiddeld
+Psychiatric nurse,Fien van Roijen,F,Syrisch,Hoog,Samenwonend,Links,VWO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Advanced,96,Laag,Gemiddeld,Gemiddeld,Goed
+"Education officer, community",Lucas Bouwhuisen,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,68,Gemiddeld,Gemiddeld,Goed,Slecht
+Personal assistant,Rik van Gent,M,Spaans,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,98,Laag,Gemiddeld,Gemiddeld,Slecht
+Claims inspector/assessor,Leah Wolzak,M,Turks,Hoog,Alleenstaand,Rechts,MBO,Joods,Gehuwd,Fulltime,Appartement,Advanced,66,Gemiddeld,Goed,Goed,Slecht
+Proofreader,Aiden Nek,F,Duits,Laag,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,69,Laag,Slecht,Gemiddeld,Gemiddeld

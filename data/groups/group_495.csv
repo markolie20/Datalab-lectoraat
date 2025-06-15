@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+TEFL teacher,Amina Bleijenberg,F,Marokkaans,Laag,Samenwonend met kinderen,Links,VWO,Joods,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,45,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Conservation officer, historic buildings",Maaike Wolfswinkel,M,Antilliaans,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,29,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Neurosurgeon,Tara Verda,F,Nederlands,Laag,Alleenstaand,Midden,VWO,Atheïstisch,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,60,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Print production planner,Ryan le Gallen-Flink,F,Roemeens,Laag,Samenwonend,Links,MBO,Hindoeïstisch,Ongehuwd,Parttime,Vrijstaand,Advanced,53,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, technical sales",Michelle Hermans,M,Nederlands,Hoog,Samenwonend,Links,HBO,Anders,Ongehuwd,Parttime,Vrijstaand,Beginner,33,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Occupational therapist,Juul Nieuwstraten,F,Portugees,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Digibeet,68,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Administrator, local government",Brent Vandenbergh-Eckhardt,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Appartement,Intermediate,75,Hoog,Goed,Gemiddeld,Goed
+"Psychotherapist, dance movement",Yusuf van Heusden,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Digibeet,44,Gemiddeld,Slecht,Slecht,Slecht
+"Investment banker, corporate",Yfke Bernaards,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,40,Gemiddeld,Slecht,Slecht,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Lenn Lamore-Ooms,F,Turks,Laag,Samenwonend,Links,WO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,64,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Farm manager,Lotte Cornelisz,F,Nederlands,Hoog,Alleenstaand,Links,VMBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Advanced,36,Laag,Slecht,Goed,Slecht
+Recruitment consultant,Mette Kloppert,F,Pools,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Gescheiden,Parttime,Woonboot,Digibeet,53,Laag,Gemiddeld,Gemiddeld,Goed
+Clinical biochemist,Kim Freshour,M,Indiaas,Laag,Samenwonend,Links,HAVO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Beginner,69,Laag,Gemiddeld,Gemiddeld,Slecht
+Best boy,Aya van Beieren-van den Nieuwenhuijsen,M,Indonesisch,Laag,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Student,Studio,Beginner,91,Gemiddeld,Goed,Gemiddeld,Goed
+Veterinary surgeon,Elize Werdes,M,Duits,Gemiddeld,Alleenstaand,Midden,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Beginner,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Felix Ponci,F,Surinaams,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Student,Rijtjeshuis,Digibeet,88,Laag,Gemiddeld,Goed,Goed
+Site engineer,Noah van Dokkum,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HAVO,Anders,Gehuwd,Student,Twee-onder-een-kap,Intermediate,68,Laag,Gemiddeld,Slecht,Goed
+Music therapist,Beau Spiker-van Bentheim,F,Eritrees,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,62,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Engineer, maintenance (IT)",Megan Meyer,M,Duits,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Expert,72,Laag,Gemiddeld,Goed,Goed
+Curator,Berat Mosley-Koeman,M,Syrisch,Gemiddeld,Samenwonend,Links,VWO,Atheïstisch,Gehuwd,Parttime,Studio,Digibeet,55,Laag,Slecht,Gemiddeld,Goed
+"Therapist, art",Thomas Meeusen,F,Pools,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Fulltime,Woonboot,Advanced,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered certified accountant,Morris van de Coterlet,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,WO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Advanced,78,Hoog,Gemiddeld,Goed,Gemiddeld
+Insurance underwriter,Faye Tielemans-van Vermandois,M,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,87,Laag,Slecht,Gemiddeld,Goed

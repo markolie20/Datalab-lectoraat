@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Journalist, newspaper",Ruben van Bentheim,M,Pools,Hoog,Samenwonend,Midden,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,41,Hoog,Gemiddeld,Goed,Slecht
+Financial adviser,Rowan Stange,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,93,Laag,Goed,Gemiddeld,Goed
+"Accountant, chartered",Luca Schatteleijn-Wagenvoort,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,36,Laag,Slecht,Gemiddeld,Goed
+"Designer, textile",Feline van Berkel,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,70,Laag,Goed,Goed,Gemiddeld
+Quantity surveyor,Jake Wutke-van de Elzas,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Beginner,55,Gemiddeld,Goed,Slecht,Slecht
+Health and safety inspector,Pepijn Wijland-Greij,M,Turks,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Student,Studio,Beginner,65,Hoog,Gemiddeld,Goed,Goed
+Financial adviser,Anouk van Ginkel,M,Nederlands,Hoog,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,23,Gemiddeld,Gemiddeld,Slecht,Goed
+"Scientist, research (maths)",Vince van Haeften,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,24,Hoog,Slecht,Goed,Slecht
+"Therapist, horticultural",Dave van Voorst,M,Chinees,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,60,Gemiddeld,Slecht,Gemiddeld,Slecht
+Copy,Louise van den Berg,F,Marokkaans,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Digibeet,90,Gemiddeld,Goed,Slecht,Goed
+"Surveyor, insurance",Ilse de Wit,M,Somalisch,Gemiddeld,Alleenstaand met kinderen,Links,VWO,Christelijk,Gehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,39,Gemiddeld,Goed,Slecht,Goed
+Hospital doctor,Bart Verbeek,M,Portugees,Laag,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,36,Laag,Slecht,Goed,Gemiddeld
+Financial risk analyst,Niek Grondel,M,Nederlands,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,34,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Teacher, secondary school",Sophia de Bruin,M,Antilliaans,Laag,Alleenstaand,Links,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Laag,Gemiddeld,Gemiddeld,Goed
+Holiday representative,Hailey Vaessen,M,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,VWO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,24,Gemiddeld,Slecht,Gemiddeld,Slecht
+Air broker,Hendrik van Rheineck,F,Syrisch,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,48,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Copywriter, advertising",Emir Uphaus,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,WO,Joods,Gehuwd,Parttime,Rijtjeshuis,Advanced,51,Laag,Goed,Goed,Slecht
+Food technologist,Marit Bruynzeels-van Voorhout,F,Turks,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Intermediate,30,Gemiddeld,Gemiddeld,Goed,Slecht
+Corporate investment banker,Florian Schipper-Muijs,M,Marokkaans,Hoog,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,48,Laag,Slecht,Gemiddeld,Goed
+"Psychologist, sport and exercise",Sienna van Gorp,F,Indiaas,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,29,Laag,Goed,Gemiddeld,Gemiddeld
+"Scientist, physiological",Bram Hekker,F,Syrisch,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,72,Laag,Goed,Gemiddeld,Slecht
+Data scientist,Tobias Frerichs,F,Bulgaars,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Student,Appartement,Advanced,95,Laag,Gemiddeld,Gemiddeld,Goed
+Chief of Staff,Lara de Vos,M,Afghaans,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,88,Laag,Gemiddeld,Gemiddeld,Goed
+Public librarian,Lars van de Wal,M,Irakees,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,22,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Sports administrator,Lucas Perck,M,Chinees,Laag,Alleenstaand met kinderen,Midden,VWO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,41,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

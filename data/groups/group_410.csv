@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Teaching laboratory technician,Lise van Schweinfurt,M,Spaans,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,24,Gemiddeld,Gemiddeld,Goed,Slecht
+Clothing/textile technologist,Sami van den Berg,F,Duits,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Digibeet,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Print production planner,Hidde van Duivenvoorde,M,Indiaas,Hoog,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,24,Laag,Slecht,Gemiddeld,Gemiddeld
+Musician,David Adriaensdr,F,Indonesisch,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Student,Woonboot,Advanced,55,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Chemist, analytical",Marinus Knoers,F,Duits,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,57,Laag,Goed,Slecht,Goed
+Oncologist,Luc Arnold,M,Indiaas,Gemiddeld,Alleenstaand,Links,VWO,Boeddhistisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,49,Laag,Gemiddeld,Goed,Gemiddeld
+Horticultural therapist,Jay de Gruson,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,51,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Lexicographer,Suze Eckhardt,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,48,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Structural engineer,Elize Kirpenstein,F,Roemeens,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Student,Appartement,Beginner,22,Laag,Goed,Goed,Slecht
+Magazine journalist,Bram Wright,M,Roemeens,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Gehuwd,Zelfstandig,Vrijstaand,Advanced,73,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Restaurant manager,Tygo Kosten,F,Pools,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,58,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Armed forces technical officer,Jesse Bolkesteijn-den Haag,M,Surinaams,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Beginner,67,Gemiddeld,Goed,Gemiddeld,Slecht
+"Loss adjuster, chartered",Laurens van Duyvenvoorde-Romijn,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,94,Gemiddeld,Gemiddeld,Goed,Goed
+Conference centre manager,Benjamin van Praagh-van Dam,F,Syrisch,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Joods,Gescheiden,Fulltime,Woonboot,Intermediate,66,Hoog,Goed,Gemiddeld,Gemiddeld

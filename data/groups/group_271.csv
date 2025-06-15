@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Learning disability nurse,Ben Hazenveld,F,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Studio,Intermediate,97,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Emergency planning/management officer,Lars Mansveld,F,Syrisch,Hoog,Alleenstaand,Midden,WO,Joods,Ongehuwd,Fulltime,Vrijstaand,Expert,55,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Hotel manager,Lily van Luinenburg,F,Antilliaans,Laag,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Studio,Digibeet,45,Laag,Slecht,Goed,Slecht
+"Therapist, nutritional",Jasmijn Hellevoort,F,Irakees,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,77,Gemiddeld,Gemiddeld,Goed,Goed
+Toxicologist,Benthe Hak,M,Irakees,Hoog,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,40,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Consulting civil engineer,Esmée Palman-van Susa,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,95,Gemiddeld,Slecht,Goed,Gemiddeld
+Armed forces operational officer,Annemijn Blom,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,78,Laag,Slecht,Gemiddeld,Goed
+Commissioning editor,Jake de Haas,M,Duits,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,33,Laag,Goed,Gemiddeld,Gemiddeld
+Telecommunications researcher,Lucas van Formbach,F,Nederlands,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,63,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Field seismologist,Frederique Coret-Coredo,M,Chinees,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Beginner,90,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Merchant navy officer,Rowan Vandenbergh,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,57,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Public librarian,Maaike Muijs,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,51,Hoog,Gemiddeld,Gemiddeld,Goed
+Firefighter,Laurens Kuipers,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Gescheiden,Parttime,Twee-onder-een-kap,Digibeet,82,Hoog,Slecht,Gemiddeld,Slecht
+Photographer,Jolie de Jong-van Hagen,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Zelfstandig,Appartement,Beginner,60,Gemiddeld,Gemiddeld,Slecht,Goed
+Television camera operator,Hidde Gruijl,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,18,Laag,Slecht,Gemiddeld,Gemiddeld
+"Programmer, systems",Sil Stettyn,F,Syrisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Advanced,46,Gemiddeld,Gemiddeld,Goed,Goed
+Best boy,Luca Labado,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,WO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,22,Hoog,Gemiddeld,Gemiddeld,Goed

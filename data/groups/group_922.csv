@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Television camera operator,Aaron van den Oever,F,Afghaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,92,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Buyer, retail",Annemijn van Arnsberg,F,Surinaams,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,79,Laag,Gemiddeld,Slecht,Goed
+"Engineer, maintenance (IT)",Bradley de Ruiter,M,Bulgaars,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,51,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Product manager,Sara Bud,M,Indonesisch,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,60,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Dance movement psychotherapist,Milou van Roijen,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Student,Vrijstaand,Beginner,20,Gemiddeld,Slecht,Goed,Slecht
+Recruitment consultant,Stella Pons-van Alenburg,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,19,Laag,Gemiddeld,Gemiddeld,Goed
+"Restaurant manager, fast food",Elizabeth Michielsen-Spreeuw,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Studio,Expert,70,Laag,Slecht,Gemiddeld,Gemiddeld
+"Designer, jewellery",Kyra Oostveen,M,Chinees,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,26,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Company secretary,Silke van der Lede,F,Antilliaans,Laag,Samenwonend,Midden,WO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,68,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Camera operator,Nadia Aelftrud van Wessex-Broeshart,F,Indiaas,Hoog,Alleenstaand,Rechts,VMBO,Atheïstisch,Gescheiden,Zelfstandig,Woonboot,Intermediate,33,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, mining",Loes Bruggeman,M,Surinaams,Laag,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,36,Laag,Gemiddeld,Gemiddeld,Goed

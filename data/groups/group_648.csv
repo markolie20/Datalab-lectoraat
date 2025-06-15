@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Social research officer, government",Lauren Woutersz,M,Marokkaans,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,90,Laag,Gemiddeld,Goed,Slecht
+Paediatric nurse,Yinthe Dachgeldt,M,Antilliaans,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,25,Hoog,Gemiddeld,Gemiddeld,Goed
+Clinical research associate,Nick Ellis,M,Spaans,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,36,Laag,Goed,Gemiddeld,Gemiddeld
+Secretary/administrator,Lukas van Rijthoven,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Parttime,Studio,Beginner,65,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Designer, textile",Amélie Stamrood,F,Bulgaars,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,97,Laag,Gemiddeld,Slecht,Goed
+Estate agent,Lindsey van der Sloot,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Joods,Ongehuwd,Fulltime,Appartement,Beginner,76,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Human resources officer,Jasmijn de Keijser,M,Roemeens,Laag,Alleenstaand,Midden,WO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,86,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, drama",Nout van Cuijck,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,18,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Audiological scientist,Ecrin Postma,M,Irakees,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,88,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, product/process development",Kyan van Salm,F,Nederlands,Gemiddeld,Alleenstaand,Links,VWO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,64,Laag,Goed,Slecht,Slecht
+"Education officer, museum",Lena Coolen,M,Nederlands,Laag,Samenwonend,Links,VWO,Anders,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,65,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Immunologist,Megan Draaisma,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Hindoeïstisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,54,Hoog,Goed,Gemiddeld,Goed
+Ambulance person,Jesse Hulst,M,Surinaams,Hoog,Samenwonend,Links,MBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,45,Gemiddeld,Slecht,Slecht,Slecht
+"Surveyor, rural practice",Daphne Brugman,M,Pools,Hoog,Alleenstaand met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Student,Rijtjeshuis,Intermediate,59,Laag,Gemiddeld,Gemiddeld,Goed
+Phytotherapist,Evy Ketel,F,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Islamitisch,Gehuwd,Student,Vrijstaand,Expert,70,Laag,Gemiddeld,Gemiddeld,Slecht
+Chief of Staff,Joep Doornhem-Boetet,F,Indiaas,Hoog,Samenwonend,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,42,Laag,Gemiddeld,Gemiddeld,Goed
+Community education officer,Valerie van der Smeede-Steinmeiern,F,Indiaas,Laag,Alleenstaand,Links,HBO,Anders,Gescheiden,Werkloos,Appartement,Expert,91,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Land,Esmee van Doorn,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,92,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Theatre manager,Olivier Jansse,F,Afghaans,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,56,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Radiographer, therapeutic",Hendrik Pieters,M,Nederlands,Laag,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,94,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Film/video editor,Benjamin van Haarlem,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,57,Laag,Gemiddeld,Slecht,Slecht
+Textile designer,Indy de Beer,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Legal secretary,Fabian Smit-Berends,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Gescheiden,Student,Twee-onder-een-kap,Expert,24,Hoog,Gemiddeld,Goed,Gemiddeld
+"Journalist, magazine",Tess Paillet,M,Surinaams,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Woonboot,Advanced,73,Gemiddeld,Gemiddeld,Goed,Goed
+Event organiser,Jacob Persijn,F,Turks,Gemiddeld,Samenwonend,Rechts,MBO,Hindoeïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,83,Laag,Goed,Gemiddeld,Gemiddeld
