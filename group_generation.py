@@ -7,7 +7,6 @@ import random
 import pandas as pd
 from faker import Faker
 from faker.providers import DynamicProvider
-from dotenv import load_dotenv
 
 def create_weighted_provider(elements, weights):
     """
@@ -61,6 +60,22 @@ def generate_dynamic_providers(faker_instance):
             ['Digibeet', 'Beginner', 'Intermediate', 'Advanced', 'Expert'],
             [10, 30, 30, 20, 10]
         ),
+        'Income': create_weighted_provider(
+            ['Laag', 'Gemiddeld', 'Hoog'],
+            [50, 30, 20]
+        ),
+        'Health': create_weighted_provider(
+            ['Slecht', 'Gemiddeld', 'Goed'],
+            [20, 50, 30]
+        ),
+        'Social_Interaction': create_weighted_provider(
+            ['Slecht', 'Gemiddeld', 'Goed'],
+            [20, 50, 30]
+        ),
+        'Dutch_reading_and_writing_skills': create_weighted_provider(
+            ['Slecht', 'Gemiddeld', 'Goed'],
+            [20, 50, 30]
+        )
     }
 
     for provider_name, elements in providers.items():
@@ -93,6 +108,10 @@ def generate_people(faker_instance, num_people):
             'housing_type': faker_instance.housing_type(),
             'technology_proficiency': faker_instance.technology_proficiency(),
             'age': faker_instance.age_provider(),
+            'Income': faker_instance.Income(),
+            'Health': faker_instance.Health(),
+            'Social_Interaction': faker_instance.Social_Interaction(),
+            'Dutch_reading_and_writing_skills': faker_instance.Dutch_reading_and_writing_skills()
         })
         people.append(person)
     return pd.DataFrame(people)
