@@ -1,0 +1,21 @@
+# Core packages
+numpy
+pandas
+tqdm
+scikit-learn
+
+# NLP and Transformers
+transformers
+torch
+
+# NLTK for stopwords etc.
+nltk
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Optional: needed for full tokenizer/model support
+sentencepiece
+accelerate
