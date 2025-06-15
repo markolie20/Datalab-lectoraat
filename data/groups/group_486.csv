@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chiropractor,Jennifer van der Steen,F,Pools,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Intermediate,19,Hoog,Slecht,Gemiddeld,Gemiddeld
+Licensed conveyancer,Thijmen Rouwhorst,M,Duits,Laag,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,90,Gemiddeld,Slecht,Goed,Goed
+Estate manager/land agent,Mustafa de Keijzer-Bos,M,Indonesisch,Laag,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,97,Hoog,Gemiddeld,Gemiddeld,Goed
+"Designer, jewellery",Janne de Wit,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,42,Hoog,Gemiddeld,Slecht,Goed
+Biomedical scientist,Joël Meijer,F,Afghaans,Laag,Alleenstaand,Rechts,VWO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,73,Hoog,Gemiddeld,Slecht,Gemiddeld
+Amenity horticulturist,Livia Muijs,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,22,Gemiddeld,Goed,Goed,Gemiddeld
+Restaurant manager,Sophia Olthof,F,Irakees,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,34,Gemiddeld,Goed,Goed,Goed
+Warehouse manager,Elin Stook,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,88,Laag,Goed,Gemiddeld,Gemiddeld
+Diplomatic Services operational officer,Femke van der Leek,F,Pools,Gemiddeld,Samenwonend met kinderen,Links,WO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,19,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Paediatric nurse,Liza Roukes,F,Indonesisch,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Expert,47,Laag,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, building",Jordy Potters,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Advanced,94,Hoog,Gemiddeld,Slecht,Slecht

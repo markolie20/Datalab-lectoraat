@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Human resources officer,Milan de Wit,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,96,Hoog,Gemiddeld,Slecht,Gemiddeld
+Maintenance engineer,Stijn Claassen,M,Bulgaars,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,29,Gemiddeld,Gemiddeld,Goed,Goed
+Database administrator,Cato Hermans-Gervais,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,45,Laag,Goed,Gemiddeld,Gemiddeld
+Location manager,Esmée Postma-van Voorhout,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,63,Gemiddeld,Goed,Goed,Gemiddeld
+Government social research officer,Twan van den Eijssel,F,Chinees,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,92,Hoog,Slecht,Gemiddeld,Gemiddeld
+Medical sales representative,Philip van Haeften,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,65,Laag,Gemiddeld,Goed,Gemiddeld
+Data processing manager,Jack van de Ven,F,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Islamitisch,Ongehuwd,Student,Appartement,Beginner,87,Laag,Goed,Gemiddeld,Goed
+Quality manager,Loïs Kalman,M,Afghaans,Hoog,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gehuwd,Student,Studio,Intermediate,85,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Special educational needs teacher,Hugo Schrik,F,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,88,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Commissioning editor,Alex van Salm,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,99,Laag,Gemiddeld,Goed,Gemiddeld
+"Sales professional, IT",Valerie Ferran,F,Indonesisch,Laag,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,75,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, manufacturing",Esther Ouwerkerk,F,Spaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,61,Hoog,Slecht,Goed,Slecht
+Water engineer,Josephine van der Wal,M,Duits,Hoog,Alleenstaand,Midden,HBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,67,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Geographical information systems officer,Dewi Noordijk,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,HBO,Hindoeïstisch,Gescheiden,Zelfstandig,Studio,Beginner,38,Hoog,Slecht,Gemiddeld,Goed
+Broadcast engineer,Lieke Smit-de Korte,M,Syrisch,Laag,Alleenstaand,Rechts,VWO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,29,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Oncologist,Elizabeth van Goerle,F,Turks,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,60,Laag,Slecht,Gemiddeld,Gemiddeld
+Estate agent,Sara Schwartsbach,M,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,33,Hoog,Slecht,Gemiddeld,Goed
+"Buyer, retail",Xavi van Rijnsbergen,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Studio,Beginner,67,Laag,Goed,Goed,Slecht
+English as a second language teacher,Cornelis le Briel,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,47,Gemiddeld,Gemiddeld,Goed,Goed
+Press sub,Jack Rijn-Rubben,F,Turks,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Expert,68,Hoog,Gemiddeld,Goed,Gemiddeld
+Engineering geologist,Jaylinn van Geffen,M,Indonesisch,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Parttime,Vrijstaand,Intermediate,78,Laag,Slecht,Gemiddeld,Gemiddeld
+"Presenter, broadcasting",Rens van Waas-van 't Erve,F,Roemeens,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Appartement,Digibeet,61,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

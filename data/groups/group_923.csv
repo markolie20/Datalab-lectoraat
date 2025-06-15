@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Horticulturist, commercial",Pien de Korte-ter Waarbeek,M,Pools,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Werkloos,Studio,Beginner,56,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Immigration officer,Marinus Cornelisz,M,Marokkaans,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,22,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Engineer, technical sales",Chloë Roosenboom,F,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,61,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Optician, dispensing",Mustafa de Marduras,M,Syrisch,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,57,Hoog,Goed,Goed,Goed
+Banker,Benthe Bave,F,Marokkaans,Hoog,Samenwonend,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Woonboot,Intermediate,29,Gemiddeld,Goed,Gemiddeld,Slecht
+Museum/gallery conservator,Dion Thomas,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,82,Laag,Gemiddeld,Slecht,Goed
+"Exhibitions officer, museum/gallery",Nynke de Backer-de Boer,M,Italiaans,Gemiddeld,Alleenstaand,Midden,WO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,67,Laag,Gemiddeld,Slecht,Goed
+Speech and language therapist,Matthijs Godfrey van Alemannië,F,Nederlands,Hoog,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Appartement,Beginner,54,Laag,Gemiddeld,Goed,Goed
+Retail merchandiser,Lizzy Nek,F,Surinaams,Laag,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,54,Laag,Gemiddeld,Goed,Slecht
+Location manager,Jari van Buuren,F,Syrisch,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Parttime,Appartement,Beginner,74,Hoog,Gemiddeld,Goed,Goed
+Lobbyist,Bo Riem,F,Turks,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,61,Hoog,Gemiddeld,Slecht,Gemiddeld
+Animal technologist,Sofie van de Pavert,F,Portugees,Laag,Alleenstaand met kinderen,Rechts,WO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,77,Laag,Slecht,Gemiddeld,Gemiddeld
+Charity fundraiser,Jet Goyaerts van Waderle-Neuzerling,M,Bulgaars,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Homeopath,Kaylee van den Nuwenhuijzen,M,Duits,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,88,Laag,Gemiddeld,Goed,Goed

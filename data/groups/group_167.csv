@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, horticultural",Maria Billung,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,80,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Museum/gallery conservator,Fedde Fremie,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Digibeet,88,Laag,Goed,Gemiddeld,Slecht
+Recruitment consultant,Nathan van Clootwijck,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Expert,25,Hoog,Goed,Gemiddeld,Gemiddeld
+Veterinary surgeon,Sam Hekker,F,Pools,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Gescheiden,Student,Studio,Beginner,18,Laag,Slecht,Goed,Goed
+Tour manager,Mehmet van Embden,F,Marokkaans,Gemiddeld,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,91,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, physiological",Sophia Geerts,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Digibeet,67,Laag,Gemiddeld,Goed,Slecht
+"Engineer, biomedical",Rayan van Baalen,F,Bulgaars,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,65,Laag,Gemiddeld,Goed,Gemiddeld
+Systems developer,Amir van Dokkum,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,49,Laag,Gemiddeld,Goed,Gemiddeld
+Clinical biochemist,Damian van de Eerenbeemt-de Grunt,M,Nederlands,Laag,Alleenstaand,Links,VWO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,63,Laag,Slecht,Gemiddeld,Gemiddeld
+Personnel officer,Alicia Mercks,M,Marokkaans,Gemiddeld,Alleenstaand,Links,WO,Anders,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,38,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

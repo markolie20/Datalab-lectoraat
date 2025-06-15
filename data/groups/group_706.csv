@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, occupational",Amber Everts,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,84,Laag,Goed,Gemiddeld,Gemiddeld
+Holiday representative,Emma Vallenduuk,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Anders,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,60,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Therapist, drama",Sophie Hoppenbrouwer,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gescheiden,Student,Appartement,Advanced,18,Laag,Gemiddeld,Slecht,Goed
+Radio producer,Guusje Höning-van Este,F,Duits,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,58,Laag,Gemiddeld,Gemiddeld,Goed
+Retail banker,Alyssa van der Heyden,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Beginner,72,Laag,Slecht,Gemiddeld,Goed
+Personal assistant,Arie Groenendaal,F,Nederlands,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Digibeet,54,Gemiddeld,Goed,Goed,Goed
+"Runner, broadcasting/film/video",Yasmine Pauwels-Kruns,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,55,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Psychotherapist, child",Tyler van der Pol,F,Chinees,Laag,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Mental health nurse,Yusuf Verbruggen,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,96,Laag,Goed,Slecht,Goed
+Ophthalmologist,Loek van der Veiver,M,Syrisch,Laag,Alleenstaand,Links,HBO,Joods,Gehuwd,Fulltime,Appartement,Expert,36,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Designer, textile",Louise Stamrood,M,Antilliaans,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,43,Laag,Goed,Gemiddeld,Goed
+Pharmacologist,Lana Jones-Lieshout,F,Spaans,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,26,Laag,Goed,Goed,Gemiddeld
+Public house manager,Loes Schilt,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,69,Gemiddeld,Goed,Goed,Slecht
+Chartered management accountant,Benjamin Bleijenberg-Cornelisse,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,40,Laag,Gemiddeld,Gemiddeld,Slecht
+Police officer,Indy Persijn-van der Strigt,M,Afghaans,Gemiddeld,Alleenstaand,Midden,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Advanced,66,Laag,Gemiddeld,Goed,Slecht
+Leisure centre manager,Laura van Rooij,M,Indonesisch,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,26,Hoog,Gemiddeld,Slecht,Slecht
+"Lecturer, further education",Sterre Meijer,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Student,Appartement,Beginner,58,Hoog,Slecht,Goed,Goed
+Insurance account manager,Ravi Janse-Mercks,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,84,Hoog,Goed,Gemiddeld,Slecht

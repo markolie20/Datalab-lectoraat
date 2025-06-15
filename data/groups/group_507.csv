@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Location manager,Bjorn Rademaker,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Beginner,40,Laag,Goed,Goed,Gemiddeld
+"Designer, graphic",Jay le Luc-Wendt,M,Indiaas,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (physical sciences),Adam Hagendoorn,M,Indonesisch,Hoog,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Werkloos,Studio,Digibeet,33,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dramatherapist,Hannah van Gent,M,Syrisch,Laag,Samenwonend met kinderen,Midden,HAVO,Joods,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,34,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Arts administrator,Evie van Duyvenvoorde,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Hindoeïstisch,Gehuwd,Fulltime,Vrijstaand,Beginner,53,Laag,Gemiddeld,Goed,Slecht
+Mechanical engineer,Vincent Scardino,M,Spaans,Laag,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Expert,98,Laag,Goed,Goed,Goed
+Advice worker,Ali de Beer,F,Antilliaans,Laag,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Fulltime,Woonboot,Beginner,38,Laag,Gemiddeld,Goed,Slecht
+Ergonomist,Aya Hoeks,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,79,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Equities trader,Stefan van Leuven-Huijbrechts,M,Duits,Gemiddeld,Samenwonend,Rechts,WO,Joods,Ongehuwd,Werkloos,Studio,Intermediate,44,Laag,Slecht,Gemiddeld,Goed
+Lawyer,Faas Ketting,F,Nederlands,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,20,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, television/film set",Joy van de Velden,M,Nederlands,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,76,Laag,Goed,Gemiddeld,Gemiddeld

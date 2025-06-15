@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Wellsite geologist,Valerie van der Hoeven-Scherms,F,Turks,Hoog,Alleenstaand,Rechts,VWO,Islamitisch,Gehuwd,Student,Twee-onder-een-kap,Beginner,79,Laag,Goed,Goed,Goed
+Pension scheme manager,Melle van Bunschoten,M,Indiaas,Laag,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Parttime,Vrijstaand,Advanced,60,Gemiddeld,Slecht,Slecht,Goed
+Forensic psychologist,Iris van Bergen,M,Duits,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,46,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Animal nutritionist,Ecrin van Dam,F,Turks,Hoog,Alleenstaand,Links,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,39,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Firefighter,Emma Phillipsen-van Salmen,M,Chinees,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,52,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Pilot, airline",Dion Louws,F,Chinees,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,80,Laag,Gemiddeld,Gemiddeld,Slecht
+Actuary,Ise Boddaugh,M,Somalisch,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,23,Laag,Slecht,Gemiddeld,Goed
+Quarry manager,Berat Knoers,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Laag,Gemiddeld,Slecht,Goed
+Community development worker,Mike van Embden,M,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Gehuwd,Zelfstandig,Appartement,Beginner,42,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (life sciences),Stijn Lage,M,Surinaams,Laag,Samenwonend,Midden,WO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Advanced,76,Laag,Gemiddeld,Goed,Gemiddeld
+Learning mentor,Nout Mol,M,Indiaas,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,99,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Advertising account executive,Suze Belpere,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,36,Laag,Slecht,Slecht,Gemiddeld
+Automotive engineer,Liz Walter,F,Pools,Laag,Samenwonend met kinderen,Midden,WO,Boeddhistisch,Ongehuwd,Student,Woonboot,Digibeet,69,Laag,Gemiddeld,Gemiddeld,Slecht
+"Nurse, mental health",Damian Hakker-de Reede,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,30,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Orthoptist,Amélie Kleijse,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,23,Laag,Goed,Goed,Gemiddeld
+Games developer,Ian van der Spaendonc-van Ginkel,F,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,41,Gemiddeld,Slecht,Goed,Goed
+"Radiographer, therapeutic",Jill Ligtvoet,F,Chinees,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,26,Laag,Goed,Gemiddeld,Gemiddeld
+Health promotion specialist,Alyssa Jurrijens-Kuiper,F,Surinaams,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,43,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Environmental health practitioner,Siem Hekker,M,Indiaas,Laag,Alleenstaand,Links,HAVO,Joods,Gehuwd,Werkloos,Vrijstaand,Beginner,70,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, mining",Emir van der Meulen,F,Indonesisch,Laag,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Student,Vrijstaand,Intermediate,72,Laag,Goed,Slecht,Slecht
+"Engineer, site",Naud de Graaf,M,Roemeens,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Gaffer,Inaya van den Nyeuwenhuysen,F,Surinaams,Laag,Alleenstaand,Midden,WO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,90,Hoog,Goed,Gemiddeld,Goed

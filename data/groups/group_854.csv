@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Editor, magazine features",Tom van Loon,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,99,Laag,Goed,Goed,Gemiddeld
+IT technical support officer,Helena Knoers,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Digibeet,38,Laag,Goed,Gemiddeld,Slecht
+Ophthalmologist,Elizabeth Kuijpers,F,Duits,Laag,Alleenstaand met kinderen,Rechts,HAVO,Anders,Gescheiden,Student,Vrijstaand,Intermediate,43,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Accountant, chartered management",Saar van Arkel,F,Somalisch,Gemiddeld,Alleenstaand,Midden,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,60,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Community pharmacist,Felix François,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Woonboot,Advanced,83,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, forensic",Julian Claassen,F,Indiaas,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical biochemist,Jaylinn Bökenkamp-van Velzen,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,82,Laag,Slecht,Gemiddeld,Gemiddeld
+Geographical information systems officer,Teun Hoes-Engels,F,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,47,Laag,Gemiddeld,Slecht,Goed
+Clinical molecular geneticist,Nathan Momberg,F,Irakees,Hoog,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,75,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Science writer,Mare van Nes-Meeusen,F,Indonesisch,Laag,Alleenstaand,Midden,VWO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,78,Gemiddeld,Goed,Slecht,Gemiddeld

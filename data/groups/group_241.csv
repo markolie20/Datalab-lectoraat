@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Educational psychologist,Maria Corstiaens-Adriaense,M,Somalisch,Hoog,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,22,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Clinical molecular geneticist,Marit Hulst,M,Marokkaans,Laag,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Intermediate,40,Hoog,Goed,Gemiddeld,Gemiddeld
+Drilling engineer,Hailey Gellemeyer,F,Indiaas,Hoog,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,45,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Armed forces technical officer,Luca Post,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,47,Gemiddeld,Goed,Slecht,Gemiddeld
+Speech and language therapist,Amina Huijben-van Hoevel en van Zwindrecht,M,Spaans,Laag,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,46,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Museum/gallery conservator,Lizz van Boulogne-Fredriks,M,Somalisch,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Anders,Ongehuwd,Student,Woonboot,Beginner,83,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Illustrator,Noud Bastiaense,F,Turks,Gemiddeld,Samenwonend,Links,MBO,Joods,Gehuwd,Gepensioneerd,Appartement,Intermediate,72,Hoog,Gemiddeld,Goed,Slecht
+Music therapist,Ian van Hostaden,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,90,Laag,Gemiddeld,Goed,Goed
+Counselling psychologist,Julian van Susa,F,Surinaams,Hoog,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Fulltime,Studio,Advanced,86,Laag,Gemiddeld,Goed,Goed
+Quarry manager,Amina van de Biezenbos,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Expert,22,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Theatre stage manager,Alexander Lutterveld-van Duivenvoorde,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,29,Laag,Slecht,Gemiddeld,Gemiddeld
+"Conservator, furniture",Rick van Kempen,F,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Digibeet,29,Laag,Gemiddeld,Gemiddeld,Goed
+"Administrator, education",Silke Willems,M,Roemeens,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,33,Gemiddeld,Goed,Goed,Gemiddeld
+Educational psychologist,Nova van Asten-Erhout,M,Irakees,Laag,Samenwonend,Midden,HBO,Atheïstisch,Gescheiden,Student,Rijtjeshuis,Advanced,65,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Set designer,Ravi van der Veiver,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Expert,69,Laag,Gemiddeld,Goed,Gemiddeld
+Community development worker,Azra Honing-Lage,M,Bulgaars,Hoog,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,83,Gemiddeld,Gemiddeld,Slecht,Goed

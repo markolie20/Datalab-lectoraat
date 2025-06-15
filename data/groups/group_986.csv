@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Regulatory affairs officer,Mathijs Breugelensis-van der Veen,F,Indiaas,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Expert,44,Laag,Goed,Goed,Goed
+Ophthalmologist,Floris Weijters-Stuivenberg,M,Afghaans,Laag,Samenwonend,Rechts,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,97,Laag,Goed,Gemiddeld,Goed
+Clinical research associate,Oscar Neuzerling,M,Surinaams,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,44,Laag,Gemiddeld,Slecht,Gemiddeld
+Chief of Staff,Tess van Brenen,F,Syrisch,Hoog,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Goed,Goed
+Health visitor,Alex van der Smeede,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Joods,Gescheiden,Fulltime,Woonboot,Beginner,21,Gemiddeld,Goed,Slecht,Gemiddeld
+Dentist,Zakaria van Nimwegen-Zaal,M,Duits,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,51,Laag,Goed,Slecht,Gemiddeld
+English as a foreign language teacher,Iris Weylant,F,Somalisch,Laag,Samenwonend,Rechts,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,75,Laag,Gemiddeld,Gemiddeld,Slecht
+"Production designer, theatre/television/film",Rik Boudewijns,F,Surinaams,Laag,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,59,Laag,Slecht,Goed,Gemiddeld
+"Programme researcher, broadcasting/film/video",Sten Merkx-van Egisheim,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,60,Gemiddeld,Gemiddeld,Slecht,Goed
+"Buyer, retail",Maarten van Leeuwen,F,Afghaans,Hoog,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Student,Appartement,Beginner,66,Gemiddeld,Goed,Gemiddeld,Goed
+Tax inspector,Annabel Zijlmans,M,Afghaans,Hoog,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,54,Hoog,Slecht,Slecht,Slecht
+"Designer, textile",Jet Post,M,Marokkaans,Hoog,Samenwonend,Rechts,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,30,Gemiddeld,Slecht,Goed,Goed
+Financial manager,Tom Huisman-Heyne,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,37,Hoog,Gemiddeld,Goed,Gemiddeld
+Advertising art director,Megan Meis,M,Surinaams,Hoog,Samenwonend,Rechts,VWO,Boeddhistisch,Gescheiden,Student,Twee-onder-een-kap,Intermediate,22,Hoog,Goed,Goed,Gemiddeld
+Editorial assistant,Jade van Straaten,M,Spaans,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,64,Hoog,Slecht,Gemiddeld,Slecht
+Interior and spatial designer,Noud van den Eerenbeemt,M,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Anders,Ongehuwd,Student,Appartement,Beginner,44,Hoog,Gemiddeld,Gemiddeld,Goed
+Systems developer,Kevin van Riet,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Digibeet,62,Laag,Gemiddeld,Goed,Goed
+Sub,Annabel de Jong-van Brunswijk,F,Spaans,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Student,Appartement,Intermediate,83,Laag,Goed,Gemiddeld,Slecht
+Industrial/product designer,Jolijn Pieters van der Maes,M,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Digibeet,54,Laag,Gemiddeld,Gemiddeld,Goed
+Ergonomist,Sylvie Elbertse,F,Turks,Laag,Samenwonend met kinderen,Links,WO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,23,Gemiddeld,Goed,Gemiddeld,Slecht
+Pharmacologist,Daan van den Velden-van de Klashorst,M,Chinees,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,46,Laag,Goed,Goed,Gemiddeld
+"Engineer, control and instrumentation",Quinten van den Broek,F,Portugees,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,83,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Civil Service fast streamer,Milo Wijland,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,92,Laag,Slecht,Gemiddeld,Slecht
+Dealer,Ben de Nijs,F,Antilliaans,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,20,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Teacher, music",Lana Tins,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Expert,33,Laag,Slecht,Gemiddeld,Slecht
+Dramatherapist,Dina van der Hoeven,M,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,69,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Accountant, chartered certified",Sofie van Breukelveen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,73,Gemiddeld,Goed,Goed,Goed
+Air cabin crew,Sylvie le Luc,M,Nederlands,Hoog,Samenwonend,Midden,HBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Beginner,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Paramedic,Merijn van Rossum-Mater,F,Antilliaans,Laag,Samenwonend,Links,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Studio,Intermediate,54,Laag,Gemiddeld,Gemiddeld,Goed
+Multimedia programmer,Leah Coolen,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,65,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Veterinary surgeon,Sem Schuylenborch,F,Afghaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,33,Laag,Slecht,Gemiddeld,Goed
+Solicitor,Marinus Keijzer,M,Antilliaans,Laag,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,75,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, therapeutic",Jip Dircken,F,Chinees,Hoog,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Beginner,51,Laag,Gemiddeld,Gemiddeld,Goed
+Television production assistant,Amina van Olst-The Elder,M,Roemeens,Gemiddeld,Samenwonend,Rechts,MBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,77,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Therapist, occupational",Evi van Beek,F,Surinaams,Gemiddeld,Alleenstaand,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,49,Gemiddeld,Goed,Gemiddeld,Gemiddeld

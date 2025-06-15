@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Corporate treasurer,Laura Coenen,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Parttime,Appartement,Advanced,88,Laag,Slecht,Goed,Gemiddeld
+"Geneticist, molecular",Ali Heerkens,M,Portugees,Gemiddeld,Samenwonend,Links,HBO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,79,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Hospital doctor,Tirza Oosterhout,F,Eritrees,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Digibeet,23,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Waste management officer,Job Oostveen,F,Indiaas,Laag,Samenwonend,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,47,Gemiddeld,Goed,Slecht,Gemiddeld
+Animal nutritionist,Brian Huijzing,F,Marokkaans,Laag,Samenwonend,Midden,Basisonderwijs,Joods,Ongehuwd,Werkloos,Appartement,Expert,94,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Emergency planning/management officer,Rafael Woutersz,F,Nederlands,Laag,Alleenstaand,Midden,HBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,56,Laag,Gemiddeld,Gemiddeld,Goed
+Physiotherapist,Nout Heinrichs,M,Duits,Hoog,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,39,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Sound technician, broadcasting/film/video",Jamie Hak,M,Syrisch,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Digibeet,86,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Mental health nurse,Mark Marceron,M,Turks,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Advanced,21,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Investment banker, corporate",Puck Boers,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,71,Hoog,Goed,Gemiddeld,Gemiddeld
+Town planner,Owen le Matelot,F,Marokkaans,Gemiddeld,Samenwonend,Midden,WO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,28,Laag,Gemiddeld,Gemiddeld,Gemiddeld

@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Dramatherapist,Jelte Geerts,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,27,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Water engineer,Ella Kronenberg,F,Bulgaars,Hoog,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,93,Gemiddeld,Gemiddeld,Goed,Slecht
+Manufacturing systems engineer,Stefan Mol,M,Nederlands,Laag,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Fulltime,Studio,Advanced,42,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Planning and development surveyor,Nina Vergeer,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Digibeet,59,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Education officer, environmental",Mustafa Bouhuizen,M,Eritrees,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Joods,Gehuwd,Gepensioneerd,Appartement,Intermediate,38,Hoog,Gemiddeld,Slecht,Slecht
+"Engineer, manufacturing systems",Fenna van der Plas-Kuijpers,M,Pools,Laag,Alleenstaand,Rechts,WO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,60,Laag,Slecht,Gemiddeld,Slecht
+"Education officer, museum",Fabiënne Huijzing-Spanhaak,M,Indonesisch,Laag,Samenwonend,Midden,HAVO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,58,Hoog,Slecht,Goed,Goed
+Government social research officer,Mirte Krabbe,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,66,Laag,Slecht,Gemiddeld,Slecht
+Careers adviser,Jolie Sarneel,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,32,Hoog,Goed,Gemiddeld,Gemiddeld
+Community education officer,Merle Kleijse,F,Indonesisch,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Beginner,48,Laag,Goed,Goed,Gemiddeld
+Learning mentor,Sanne Rutten-Friehus,M,Eritrees,Laag,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,73,Hoog,Goed,Slecht,Gemiddeld
+Homeopath,Isabella Heerkens,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,22,Gemiddeld,Goed,Gemiddeld,Slecht
+Chiropodist,Jonas Adelaar,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Studio,Intermediate,72,Laag,Gemiddeld,Gemiddeld,Goed
+Interior and spatial designer,Bibi Dries,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,98,Laag,Goed,Slecht,Gemiddeld
+Clinical research associate,Amir Meijer,F,Antilliaans,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,41,Hoog,Slecht,Goed,Goed
+"Engineer, biomedical",Rik Gnodde,F,Irakees,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,29,Gemiddeld,Gemiddeld,Goed,Gemiddeld

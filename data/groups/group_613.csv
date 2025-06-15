@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Fashion designer,Job Mater,F,Marokkaans,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,68,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Rural practice surveyor,Elisabeth Maas,F,Indiaas,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,78,Laag,Goed,Goed,Gemiddeld
+Applications developer,Ties Fortuyn,M,Marokkaans,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,50,Hoog,Slecht,Goed,Gemiddeld
+Educational psychologist,Zakaria Jonker,M,Syrisch,Laag,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,83,Laag,Gemiddeld,Slecht,Gemiddeld
+Community development worker,Britt Kalman,M,Indonesisch,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,25,Hoog,Goed,Gemiddeld,Goed
+Secretary/administrator,Esila Perkins-Helmerhorst,F,Chinees,Laag,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,51,Hoog,Goed,Goed,Slecht
+"Solicitor, Scotland",Tobias Vaessen,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,95,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Arboriculturist,Demi van Gastel,M,Portugees,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Beginner,68,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Government social research officer,Bente Veltman-Mulders,F,Turks,Hoog,Alleenstaand met kinderen,Links,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,30,Hoog,Gemiddeld,Gemiddeld,Goed
+Video editor,Daphne Speijer,M,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,80,Laag,Slecht,Gemiddeld,Gemiddeld
+Financial planner,Stan de Bont-van Amstel,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,69,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (physical sciences),Jasper Langevoort,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,86,Laag,Slecht,Slecht,Gemiddeld
+"Programmer, applications",Nina Hoes,F,Roemeens,Gemiddeld,Samenwonend,Rechts,WO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,34,Gemiddeld,Goed,Slecht,Goed
+"Engineer, energy",Sem Heribert van Laon,F,Duits,Hoog,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,71,Laag,Goed,Goed,Slecht
+Academic librarian,Wouter Hulshouts,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Digibeet,79,Laag,Gemiddeld,Slecht,Gemiddeld
+Police officer,Nout Rotteveel,F,Bulgaars,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,51,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Furniture conservator/restorer,Jordy Doesburg,M,Surinaams,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,88,Hoog,Gemiddeld,Goed,Slecht
+"Scientist, water quality",Emily Mahieu,F,Chinees,Hoog,Samenwonend met kinderen,Rechts,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,23,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Television floor manager,Rick Jonkman,F,Nederlands,Hoog,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Appartement,Advanced,20,Laag,Gemiddeld,Goed,Gemiddeld
+Radio broadcast assistant,Ninthe Wolters,F,Italiaans,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,77,Laag,Gemiddeld,Goed,Gemiddeld
+Police officer,Maja Paillet,M,Turks,Laag,Samenwonend met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,23,Gemiddeld,Slecht,Gemiddeld,Slecht
+Applications developer,Mart Scholten,M,Eritrees,Laag,Alleenstaand,Rechts,VMBO,Boeddhistisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,91,Laag,Gemiddeld,Gemiddeld,Gemiddeld

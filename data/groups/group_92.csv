@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, research (life sciences)",Benthe Martel,F,Turks,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,80,Laag,Goed,Gemiddeld,Gemiddeld
+"Clinical scientist, histocompatibility and immunogenetics",Finn Lafleur,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,39,Laag,Gemiddeld,Goed,Goed
+"Designer, exhibition/display",Sterre Loep,M,Somalisch,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Studio,Intermediate,67,Gemiddeld,Gemiddeld,Goed,Goed
+"Radiographer, therapeutic",Aimée Huijben,M,Nederlands,Hoog,Samenwonend,Midden,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,28,Gemiddeld,Gemiddeld,Slecht,Goed
+Professor Emeritus,Rayan Hulskes,F,Nederlands,Hoog,Alleenstaand,Rechts,HBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,41,Laag,Goed,Gemiddeld,Slecht
+Management consultant,Jim Ridder,F,Surinaams,Hoog,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Intermediate,35,Gemiddeld,Goed,Goed,Goed
+Outdoor activities/education manager,Fien Wilmont,M,Nederlands,Hoog,Samenwonend,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,57,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Broadcast engineer,Evie Korstman,M,Antilliaans,Hoog,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Learning disability nurse,Aron Blom-de Kale,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gescheiden,Zelfstandig,Vrijstaand,Beginner,27,Laag,Slecht,Gemiddeld,Goed
+Wellsite geologist,Damian Dachgelt,F,Turks,Gemiddeld,Alleenstaand,Links,VWO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,46,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (medical),Bryan Wooning,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Vrijstaand,Expert,63,Laag,Gemiddeld,Gemiddeld,Slecht
+Consulting civil engineer,Eline Slingerland-Geneart,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Anders,Gescheiden,Gepensioneerd,Rijtjeshuis,Advanced,44,Laag,Goed,Gemiddeld,Gemiddeld
+Information officer,Aaliyah Hulskes,M,Marokkaans,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,81,Hoog,Goed,Goed,Slecht
+"Surveyor, hydrographic",Dina Jekel,M,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Expert,20,Laag,Gemiddeld,Gemiddeld,Goed
+Photographer,Fabian van Oirschot,M,Portugees,Laag,Samenwonend met kinderen,Midden,VMBO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Advanced,77,Hoog,Gemiddeld,Goed,Gemiddeld

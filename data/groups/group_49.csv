@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Advertising art director,Dylan van Olst,M,Chinees,Gemiddeld,Alleenstaand,Rechts,WO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,87,Laag,Slecht,Gemiddeld,Gemiddeld
+"Buyer, industrial",Lucy Arent-Grondel,F,Nederlands,Hoog,Samenwonend,Midden,WO,Anders,Gehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,29,Laag,Gemiddeld,Goed,Slecht
+Occupational hygienist,Puck Elbertse-Broeshart,F,Turks,Hoog,Samenwonend met kinderen,Links,VWO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,65,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Podiatrist,Guusje van den Brink,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Advanced,81,Hoog,Gemiddeld,Goed,Gemiddeld
+Tax adviser,Janne Tamsma,M,Duits,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,82,Hoog,Goed,Gemiddeld,Gemiddeld
+"Administrator, sports",Kayleigh van Leuven,M,Surinaams,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,97,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Teacher, adult education",Merle Doesburg-van Parijs,M,Turks,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Expert,47,Laag,Goed,Gemiddeld,Goed
+Brewing technologist,Tijmen van Ooste,F,Surinaams,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,18,Laag,Slecht,Gemiddeld,Goed
+Interior and spatial designer,Jayda van Hulten,M,Roemeens,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,79,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Special effects artist,Selena van Breukelveen,F,Turks,Hoog,Samenwonend met kinderen,Midden,MBO,Anders,Ongehuwd,Zelfstandig,Woonboot,Beginner,28,Hoog,Gemiddeld,Goed,Gemiddeld
+Theatre director,Saar van de Klashorst,M,Surinaams,Hoog,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,23,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Psychologist, forensic",Nina Brands,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Digibeet,67,Gemiddeld,Gemiddeld,Slecht,Goed
+"Engineer, automotive",Guus Bernaards-Marchand,M,Eritrees,Laag,Samenwonend,Rechts,MBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Intermediate,28,Hoog,Slecht,Gemiddeld,Goed
+Biomedical engineer,Quinty Rotteveel,M,Marokkaans,Gemiddeld,Samenwonend,Midden,WO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,59,Laag,Gemiddeld,Goed,Goed
+"Chemist, analytical",Florian Berendse-Huijs,M,Nederlands,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,21,Hoog,Goed,Slecht,Goed

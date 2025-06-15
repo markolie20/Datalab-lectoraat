@@ -1,0 +1,34 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tax inspector,Rowan den Buytelaar,F,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,99,Gemiddeld,Slecht,Gemiddeld,Slecht
+"Sales professional, IT",Evi van Noort,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Zelfstandig,Vrijstaand,Expert,44,Laag,Goed,Gemiddeld,Slecht
+Nature conservation officer,Vincent Hollander,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Gescheiden,Werkloos,Appartement,Expert,88,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Forensic psychologist,Fenne Smits,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,38,Laag,Slecht,Slecht,Goed
+Logistics and distribution manager,Berend Spies-van Ginneke,F,Duits,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,76,Laag,Gemiddeld,Gemiddeld,Goed
+Nature conservation officer,Youssef Recer,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, planning and development",Eliza van den Nuwenhijsen-Luitgardis van Neustrië,M,Indiaas,Gemiddeld,Samenwonend,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Studio,Beginner,93,Laag,Goed,Slecht,Gemiddeld
+"Psychologist, sport and exercise",Fedde Steinmeiern,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,78,Gemiddeld,Slecht,Gemiddeld,Goed
+"Engineer, energy",Femke Recer-van Breugel,F,Turks,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,52,Laag,Goed,Goed,Gemiddeld
+"Optician, dispensing",Jasmijn van Oosten,M,Portugees,Laag,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,44,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Engineer, land",Duuk van Northeim,M,Turks,Hoog,Samenwonend met kinderen,Rechts,WO,Joods,Ongehuwd,Parttime,Woonboot,Beginner,33,Gemiddeld,Slecht,Slecht,Gemiddeld
+Computer games developer,Maarten Welf,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,46,Hoog,Gemiddeld,Gemiddeld,Goed
+Chartered accountant,Merijn van der Brink-Lommert,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,66,Gemiddeld,Slecht,Goed,Goed
+"Therapist, speech and language",Kay Brands,F,Turks,Laag,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Student,Woonboot,Beginner,72,Laag,Goed,Gemiddeld,Goed
+Mudlogger,Casper Buijs,M,Indiaas,Laag,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Beginner,65,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Historic buildings inspector/conservation officer,Bart Fechant,M,Italiaans,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Parttime,Appartement,Expert,73,Laag,Gemiddeld,Slecht,Goed
+Television camera operator,Lynn Strijker,M,Indonesisch,Laag,Alleenstaand,Midden,WO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,88,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Therapist, art",Pim Kok-van Goerle,M,Syrisch,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,62,Laag,Goed,Goed,Slecht
+Dancer,Fiene Kathagen,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,Basisonderwijs,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,91,Laag,Goed,Goed,Goed
+Geophysicist/field seismologist,Justin van Dagsburg,M,Turks,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Intermediate,95,Laag,Gemiddeld,Slecht,Gemiddeld
+Interior and spatial designer,Jasper Evers,F,Turks,Laag,Alleenstaand met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,69,Laag,Slecht,Gemiddeld,Gemiddeld
+"Psychologist, occupational",Jens van de Leemput,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Joods,Weduwe/Weduwnaar,Fulltime,Studio,Intermediate,68,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Horticulturist, amenity",Kyra van der Horst,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Woonboot,Advanced,73,Gemiddeld,Gemiddeld,Goed,Goed
+Volunteer coordinator,Lise Koeman,M,Pools,Laag,Alleenstaand met kinderen,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,30,Gemiddeld,Goed,Gemiddeld,Goed
+"Engineer, electrical",Lisanne Huberts,F,Surinaams,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Gepensioneerd,Studio,Beginner,20,Hoog,Gemiddeld,Goed,Goed
+Chiropodist,Jason Otto,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,45,Hoog,Goed,Gemiddeld,Gemiddeld
+Industrial buyer,Noor Spier,F,Eritrees,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,94,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Phytotherapist,Benthe Osterhoudt,M,Chinees,Gemiddeld,Alleenstaand,Links,WO,Joods,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,54,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Interior and spatial designer,Fedde van Rheineck,M,Roemeens,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,52,Laag,Goed,Gemiddeld,Gemiddeld
+"Surveyor, planning and development",Fay Chotzen,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,43,Laag,Slecht,Goed,Goed
+Chemical engineer,Owen Steenbeek,M,Nederlands,Hoog,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,68,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Sport and exercise psychologist,Marijn Scherms,F,Indonesisch,Hoog,Alleenstaand met kinderen,Links,VWO,Anders,Ongehuwd,Parttime,Appartement,Intermediate,57,Laag,Gemiddeld,Slecht,Gemiddeld
+"Production designer, theatre/television/film",Bibi van der Horst,F,Duits,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Digibeet,94,Laag,Slecht,Gemiddeld,Gemiddeld

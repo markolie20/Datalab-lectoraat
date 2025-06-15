@@ -1,0 +1,22 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Operational researcher,Tycho Vegt,F,Surinaams,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Studio,Digibeet,83,Laag,Gemiddeld,Slecht,Goed
+Regulatory affairs officer,Stijn Galenzone,M,Somalisch,Hoog,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,24,Laag,Slecht,Gemiddeld,Goed
+Cabin crew,Jasper Luster,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,19,Hoog,Slecht,Slecht,Goed
+"Designer, blown glass/stained glass",Roan Hulskes,M,Turks,Hoog,Samenwonend,Links,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,43,Laag,Gemiddeld,Goed,Gemiddeld
+Animator,Wouter Merkx,F,Surinaams,Laag,Samenwonend,Rechts,HBO,Anders,Ongehuwd,Werkloos,Appartement,Digibeet,19,Laag,Goed,Slecht,Goed
+Banker,"Louise West-Francië, van",F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,VWO,Christelijk,Gehuwd,Parttime,Appartement,Advanced,24,Laag,Gemiddeld,Goed,Slecht
+"Psychotherapist, child",Leah Weerdenburg,M,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,40,Laag,Goed,Slecht,Gemiddeld
+Financial trader,Eline van Rossum,M,Roemeens,Laag,Samenwonend met kinderen,Rechts,MBO,Anders,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,22,Hoog,Goed,Slecht,Slecht
+"Surveyor, building",Helena van Kempen,F,Pools,Laag,Samenwonend,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Gepensioneerd,Vrijstaand,Beginner,31,Hoog,Slecht,Slecht,Gemiddeld
+Health visitor,Chloé Sterkman,M,Marokkaans,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,70,Laag,Slecht,Gemiddeld,Gemiddeld
+Water engineer,Ayoub Schokman,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Beginner,51,Gemiddeld,Goed,Gemiddeld,Slecht
+Systems developer,Levi van den Brand,M,Indiaas,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,23,Hoog,Goed,Goed,Gemiddeld
+"Engineer, site",Wouter van der Heijden,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Anders,Weduwe/Weduwnaar,Zelfstandig,Appartement,Digibeet,84,Hoog,Gemiddeld,Goed,Goed
+Claims inspector/assessor,Loes van der Linden,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Expert,28,Laag,Gemiddeld,Goed,Gemiddeld
+Economist,Luke Bolkesteijn,M,Duits,Laag,Alleenstaand,Links,HAVO,Anders,Gehuwd,Parttime,Twee-onder-een-kap,Intermediate,70,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Scientist, research (medical)",Cornelia van Geest,F,Syrisch,Hoog,Samenwonend met kinderen,Rechts,Basisonderwijs,Anders,Ongehuwd,Fulltime,Studio,Beginner,68,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Teacher, primary school",Valerie Jekel,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Joods,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,52,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Designer, television/film set",Finn de Koning,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,30,Hoog,Goed,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Collin Aalts,F,Chinees,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,66,Gemiddeld,Gemiddeld,Goed,Slecht
+Chiropractor,Jack Doyle,M,Pools,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Joods,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,91,Laag,Slecht,Gemiddeld,Gemiddeld
+Chief of Staff,Fem Krabbe,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,38,Gemiddeld,Goed,Goed,Gemiddeld

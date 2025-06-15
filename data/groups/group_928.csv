@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Furniture designer,Dion van Voorhout,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,91,Laag,Goed,Slecht,Slecht
+"Surveyor, building control",Tess Jonker,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Woonboot,Intermediate,27,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Investment banker, corporate",Senna van der Klijn,F,Indonesisch,Hoog,Alleenstaand,Links,Basisonderwijs,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,45,Laag,Goed,Goed,Goed
+Furniture conservator/restorer,Milo Bellemans-Verbeeck,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,34,Laag,Goed,Goed,Gemiddeld
+Proofreader,Evelien van der Loo,F,Duits,Laag,Samenwonend,Midden,VWO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,20,Laag,Goed,Gemiddeld,Slecht
+Pensions consultant,Indy van Breukeleveen-van Dalem,F,Duits,Laag,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Fulltime,Vrijstaand,Expert,40,Laag,Gemiddeld,Gemiddeld,Goed
+Conference centre manager,Lars Dekker,M,Chinees,Laag,Alleenstaand,Rechts,WO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,35,Laag,Gemiddeld,Gemiddeld,Goed
+Oceanographer,Annabel Olthof,F,Pools,Hoog,Alleenstaand,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,75,Laag,Gemiddeld,Slecht,Goed
+Press sub,Joy Takkelenburg,M,Roemeens,Gemiddeld,Samenwonend,Links,VWO,Boeddhistisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,59,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Furniture designer,Lieve Room,F,Portugees,Gemiddeld,Samenwonend,Rechts,VWO,Hindoeïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,58,Laag,Slecht,Goed,Gemiddeld
+"Research officer, political party",Liza Walsteijn,F,Nederlands,Laag,Alleenstaand,Midden,HBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,28,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Lexicographer,Karlijn Driessen,M,Indiaas,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Digibeet,94,Laag,Goed,Gemiddeld,Gemiddeld

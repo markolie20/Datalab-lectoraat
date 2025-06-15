@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+IT sales professional,Anne van Hoevel en van Zwindrecht,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,43,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Risk manager,Bram Claesdr,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,92,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, rural practice",Aylin Westerburg,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Advanced,23,Gemiddeld,Goed,Slecht,Slecht
+Information officer,Alexander van den Brink,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,81,Gemiddeld,Gemiddeld,Goed,Slecht
+Secretary/administrator,Yinthe Mudden,M,Italiaans,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Digibeet,70,Hoog,Gemiddeld,Gemiddeld,Slecht
+Aeronautical engineer,Jinthe Mathurin,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,97,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Customer service manager,Yasmin Cornelisse,F,Pools,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Vrijstaand,Beginner,90,Gemiddeld,Slecht,Goed,Gemiddeld
+"Education officer, museum",Bradley Aarden,M,Roemeens,Hoog,Samenwonend met kinderen,Rechts,HBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,24,Laag,Goed,Slecht,Slecht
+Radio broadcast assistant,Fatima Jacobs,M,Surinaams,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,56,Hoog,Goed,Slecht,Gemiddeld
+Theme park manager,Luke van 't Erve,F,Surinaams,Hoog,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,76,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Tax adviser,Kim van Zwaben-Heerkens,F,Syrisch,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,23,Laag,Gemiddeld,Slecht,Gemiddeld
+Clinical biochemist,Julian van Parijs,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Boeddhistisch,Gehuwd,Student,Rijtjeshuis,Expert,72,Laag,Slecht,Gemiddeld,Gemiddeld
+"Therapist, nutritional",Timo van der Hoeven-van der Horst,M,Nederlands,Laag,Alleenstaand,Links,HBO,Joods,Ongehuwd,Gepensioneerd,Appartement,Intermediate,37,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Education officer, museum",Aaron Gellemeyer,F,Chinees,Gemiddeld,Alleenstaand,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,40,Laag,Goed,Gemiddeld,Slecht
+"Nurse, children's",Thomas van Bovenen,M,Somalisch,Laag,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,98,Laag,Goed,Gemiddeld,Gemiddeld
+Occupational hygienist,Lukas Fortuyn,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,38,Hoog,Goed,Slecht,Goed

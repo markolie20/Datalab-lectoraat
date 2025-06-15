@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Mining engineer,Esmee Boddaugh,M,Nederlands,Laag,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Fulltime,Woonboot,Intermediate,23,Hoog,Slecht,Gemiddeld,Goed
+Teaching laboratory technician,Lex van de Weterink,F,Surinaams,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,99,Laag,Goed,Gemiddeld,Goed
+"Teacher, music",Berat Leguit-Willems van Lier,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,44,Hoog,Goed,Goed,Gemiddeld
+"Scientist, clinical (histocompatibility and immunogenetics)",Willem Wright,M,Surinaams,Laag,Alleenstaand met kinderen,Midden,WO,Anders,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,37,Gemiddeld,Goed,Goed,Goed
+"Teacher, adult education",Dani Huls-Helmerhorst,F,Marokkaans,Gemiddeld,Alleenstaand,Rechts,WO,Islamitisch,Gehuwd,Student,Studio,Expert,76,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, energy",Jayden Wouters van Eijndhoven-Koning,M,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,86,Laag,Gemiddeld,Gemiddeld,Goed
+"Editor, commissioning",Catharina Zeemans,F,Turks,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,42,Laag,Gemiddeld,Goed,Goed
+Charity officer,Jurre Cornelissen,M,Roemeens,Hoog,Samenwonend,Links,MBO,Anders,Ongehuwd,Gepensioneerd,Vrijstaand,Expert,27,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Administrator, education",Mads van Henegouwen,F,Pools,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,40,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, technical sales",Johanna Schellekens,F,Indonesisch,Laag,Alleenstaand,Midden,WO,Christelijk,Gescheiden,Student,Rijtjeshuis,Digibeet,45,Gemiddeld,Goed,Gemiddeld,Slecht
+Accommodation manager,Roos van de Velden,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Intermediate,85,Laag,Gemiddeld,Goed,Goed
+"Editor, film/video",Lucy Boers-de Hoog,M,Afghaans,Laag,Samenwonend,Midden,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Advanced,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Mining engineer,Zoey van Hoevel en van Zwindrecht,M,Italiaans,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Islamitisch,Gehuwd,Student,Rijtjeshuis,Digibeet,63,Laag,Gemiddeld,Goed,Slecht
+"Designer, jewellery",Ryan Haselaar,M,Indonesisch,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,75,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+IT technical support officer,Micha Honing-van Gorp,M,Indonesisch,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,21,Laag,Goed,Goed,Gemiddeld
+Waste management officer,Dani Recers-Kort,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,81,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Quantity surveyor,Isabel Wilcken-Perkins,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,93,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Horticultural therapist,Brent Meyer,M,Surinaams,Laag,Alleenstaand met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,48,Hoog,Gemiddeld,Slecht,Gemiddeld
+Meteorologist,Lucas Dubois,F,Spaans,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,33,Hoog,Gemiddeld,Gemiddeld,Slecht
+Market researcher,Emir van der Laarse,F,Roemeens,Hoog,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Studio,Expert,77,Laag,Gemiddeld,Slecht,Gemiddeld
+Race relations officer,Adriana Woudenberg-Wolfswinkel,M,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,77,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Minerals surveyor,Sander Heymans-Zeemans,F,Turks,Laag,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Fulltime,Studio,Intermediate,61,Laag,Goed,Gemiddeld,Goed
+Naval architect,Noa Pasman,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,76,Laag,Goed,Gemiddeld,Goed

@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Psychologist, forensic",Victor Greij,M,Chinees,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,58,Laag,Goed,Gemiddeld,Gemiddeld
+Barrister,Fatima Wolfsdr,F,Indiaas,Laag,Samenwonend met kinderen,Rechts,WO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,71,Laag,Goed,Goed,Gemiddeld
+Chartered loss adjuster,Milo Mansvelt,M,Turks,Laag,Samenwonend met kinderen,Links,VWO,Joods,Gehuwd,Fulltime,Woonboot,Digibeet,81,Laag,Goed,Gemiddeld,Goed
+Technical brewer,Lucy Bresse,M,Indonesisch,Hoog,Alleenstaand,Rechts,WO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,74,Laag,Gemiddeld,Gemiddeld,Goed
+"Therapist, music",Ivy Uittenbosch-Simons,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,47,Laag,Gemiddeld,Goed,Gemiddeld
+Financial planner,Noor Alpaidis-van Rossum,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,88,Laag,Gemiddeld,Goed,Gemiddeld
+Product designer,Mathijs Draaisma,F,Nederlands,Hoog,Samenwonend,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,54,Hoog,Slecht,Goed,Goed
+Senior tax professional/tax inspector,Lotte van de Biesenbos,F,Pools,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,29,Laag,Gemiddeld,Slecht,Slecht
+"Surveyor, quantity",Jaylinn van Opper-Lotharingen,F,Pools,Laag,Alleenstaand,Links,VMBO,Joods,Gescheiden,Student,Rijtjeshuis,Beginner,68,Gemiddeld,Goed,Goed,Slecht
+Financial planner,Simon Kamper,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Student,Vrijstaand,Beginner,62,Laag,Slecht,Gemiddeld,Gemiddeld
+Planning and development surveyor,Vigo van Praagh-Uittenbosch,F,Spaans,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,82,Gemiddeld,Goed,Slecht,Gemiddeld
+"Embryologist, clinical",Jamie Schrik,F,Eritrees,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,78,Laag,Goed,Goed,Goed
+Farm manager,Lena Hermans,F,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,68,Laag,Slecht,Slecht,Gemiddeld
+Drilling engineer,Jayson van Kuijc van Malsen,M,Nederlands,Laag,Alleenstaand,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,85,Hoog,Goed,Slecht,Gemiddeld
+Public house manager,Mirthe van der Leek,F,Nederlands,Laag,Samenwonend,Midden,HBO,Joods,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,59,Hoog,Gemiddeld,Goed,Slecht
+Horticultural therapist,Vera Matthews,F,Pools,Laag,Samenwonend met kinderen,Links,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Studio,Advanced,34,Laag,Goed,Slecht,Gemiddeld

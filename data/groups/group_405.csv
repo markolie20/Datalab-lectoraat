@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Further education lecturer,Thijmen Doornhem,M,Bulgaars,Gemiddeld,Samenwonend,Midden,VMBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,84,Laag,Slecht,Goed,Gemiddeld
+Agricultural consultant,Nora Scholten,F,Afghaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Advanced,65,Laag,Gemiddeld,Goed,Gemiddeld
+Adult guidance worker,Zoey Draaisma,F,Surinaams,Laag,Samenwonend met kinderen,Links,VWO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,18,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Careers adviser,Kai Hanegraaff,F,Nederlands,Laag,Samenwonend,Links,MBO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,38,Laag,Goed,Slecht,Goed
+Insurance account manager,Maxim Vierdag,M,Marokkaans,Laag,Samenwonend,Links,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,90,Laag,Goed,Slecht,Goed
+Environmental consultant,Jamie Doesburg,M,Turks,Laag,Samenwonend,Links,WO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,22,Laag,Gemiddeld,Goed,Gemiddeld
+Multimedia specialist,Jolijn Elsenaar,F,Marokkaans,Hoog,Samenwonend,Links,VMBO,Atheïstisch,Gescheiden,Parttime,Twee-onder-een-kap,Beginner,44,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Artist,Nikki van der Linden,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Appartement,Expert,91,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Merchant navy officer,Naud van der Loo-Brands,F,Afghaans,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,33,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Biochemist, clinical",Jolijn van Oudewater-Maas,M,Nederlands,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,46,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Civil engineer, consulting",Max Kleybrink,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,Basisonderwijs,Islamitisch,Weduwe/Weduwnaar,Parttime,Studio,Advanced,35,Laag,Goed,Gemiddeld,Gemiddeld
+Financial risk analyst,Yassin Coret,M,Pools,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,57,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Broadcast journalist,Lieke Alpaidis,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,26,Laag,Gemiddeld,Goed,Gemiddeld
+"Teacher, adult education",Evelien le Guellec,M,Indonesisch,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Zelfstandig,Appartement,Expert,33,Laag,Slecht,Goed,Gemiddeld
+Training and development officer,Veerle Ariens,M,Somalisch,Hoog,Samenwonend,Links,VMBO,Hindoeïstisch,Ongehuwd,Parttime,Vrijstaand,Advanced,45,Hoog,Slecht,Gemiddeld,Goed
+Medical sales representative,Jim Bave,M,Syrisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,24,Laag,Slecht,Goed,Gemiddeld
+Town planner,Maxim Everts,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,20,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Outdoor activities/education manager,Hugo Dijkstra,M,Bulgaars,Hoog,Samenwonend met kinderen,Links,WO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Beginner,82,Laag,Goed,Gemiddeld,Slecht
+Sports coach,Julius Puig,M,Surinaams,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,75,Laag,Gemiddeld,Gemiddeld,Goed
+Sales executive,Jayda Koster-Gerrits,M,Indonesisch,Laag,Alleenstaand met kinderen,Midden,VMBO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Expert,80,Gemiddeld,Gemiddeld,Goed,Goed
+"Journalist, newspaper",Dirk Kallen,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Anders,Gescheiden,Zelfstandig,Appartement,Beginner,30,Laag,Gemiddeld,Gemiddeld,Goed
+Air traffic controller,Ali Hollander-Schiffer,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Digibeet,68,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Accounting technician,Lukas der Kijnder,M,Antilliaans,Hoog,Samenwonend,Midden,HAVO,Hindoeïstisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,95,Gemiddeld,Goed,Goed,Gemiddeld
+"Doctor, general practice",Johannes Roodesteijn,F,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Digibeet,83,Laag,Goed,Slecht,Slecht
+Fisheries officer,Wouter Dekker-Höning,M,Portugees,Laag,Alleenstaand,Links,Basisonderwijs,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Beginner,92,Laag,Goed,Gemiddeld,Gemiddeld
+"Journalist, magazine",Maaike Borman,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Boeddhistisch,Ongehuwd,Student,Rijtjeshuis,Digibeet,50,Laag,Gemiddeld,Slecht,Gemiddeld
+Product designer,Matthijs Hulshouts,F,Surinaams,Laag,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,37,Laag,Gemiddeld,Slecht,Goed
+Recycling officer,Liza van Engeland-Weijland,M,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Hindoeïstisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,30,Gemiddeld,Slecht,Gemiddeld,Goed
+Medical physicist,Casper Wever,F,Surinaams,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,42,Laag,Goed,Gemiddeld,Gemiddeld
+Environmental manager,Jack Kof-Schipper,M,Marokkaans,Laag,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,29,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Trade mark attorney,Victoria Ligtvoet,F,Roemeens,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Student,Vrijstaand,Advanced,18,Laag,Goed,Goed,Goed
+Chiropractor,Ian Bave,M,Marokkaans,Gemiddeld,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Parttime,Studio,Beginner,73,Gemiddeld,Slecht,Slecht,Slecht
+Chartered legal executive (England and Wales),Jaylinn Overeem,M,Turks,Laag,Samenwonend,Links,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,25,Laag,Goed,Gemiddeld,Gemiddeld
+Immigration officer,Juliette Moensendijk,F,Turks,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Joods,Gehuwd,Zelfstandig,Appartement,Advanced,28,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, site",Seth van Drenthe-Kathagen,M,Pools,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,52,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

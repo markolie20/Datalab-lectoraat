@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Writer,Kian Heerschop-van de Kooij,F,Marokkaans,Laag,Samenwonend,Midden,VWO,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,83,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Futures trader,Zoë Smeets-Koret,M,Surinaams,Gemiddeld,Samenwonend,Links,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Advanced,18,Hoog,Gemiddeld,Gemiddeld,Goed
+Textile designer,Nynke van 't Houteveen,F,Syrisch,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,99,Laag,Goed,Gemiddeld,Goed
+Waste management officer,Maarten Jansen-Dachgeldt,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,57,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical research associate,Ben Jekel,F,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Student,Rijtjeshuis,Expert,18,Laag,Goed,Slecht,Goed
+Fashion designer,Lieve van Mook,F,Syrisch,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,96,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Toxicologist,Alex Ulrich-Goudriaan,F,Irakees,Gemiddeld,Samenwonend,Links,WO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,86,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Conservator, furniture",Dean Strijker,M,Nederlands,Hoog,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,81,Laag,Gemiddeld,Goed,Slecht
+"Scientist, marine",Lauren Jorrisen,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Beginner,34,Laag,Goed,Gemiddeld,Goed
+Private music teacher,Mia Berendse,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,26,Laag,Gemiddeld,Goed,Gemiddeld
+Phytotherapist,Silke van Leeuwen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gescheiden,Gepensioneerd,Appartement,Beginner,51,Gemiddeld,Goed,Goed,Slecht
+Science writer,Jonathan Kruns,F,Nederlands,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,98,Laag,Goed,Goed,Gemiddeld
+"Accountant, chartered certified",Hailey de Bruyn,F,Chinees,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Parttime,Appartement,Expert,41,Gemiddeld,Slecht,Slecht,Slecht
+"Librarian, public",Vince van Opper-Lotharingen-Smits,F,Nederlands,Gemiddeld,Alleenstaand,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,53,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Print production planner,Thomas Dachgeldt-Peeters,M,Irakees,Gemiddeld,Samenwonend met kinderen,Links,MBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,97,Laag,Goed,Goed,Goed
+"Scientist, research (physical sciences)",Giovanni Heinrichs-van Salmen,M,Turks,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Parttime,Studio,Beginner,25,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Web designer,Tirza Loep,M,Turks,Laag,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,58,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Sports administrator,Jayson de Backer-van Duivenvoorde,M,Duits,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,92,Laag,Gemiddeld,Gemiddeld,Slecht
+Contractor,Amin Otto-Smits,F,Somalisch,Laag,Alleenstaand,Midden,VWO,Hindoeïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,93,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Biochemist, clinical",Lizz van Buuren-Bos,F,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,79,Laag,Gemiddeld,Gemiddeld,Goed
+Probation officer,Jelte Mulders,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,60,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Buyer, industrial",Jayda Thout-ter Waarbeek,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,95,Laag,Goed,Gemiddeld,Goed
+Occupational psychologist,Finn Hondeveld,F,Turks,Laag,Alleenstaand,Links,HBO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Expert,66,Gemiddeld,Gemiddeld,Slecht,Goed
+Rural practice surveyor,Mohamed Jeggij,M,Bulgaars,Laag,Alleenstaand,Midden,HBO,Hindoeïstisch,Ongehuwd,Parttime,Woonboot,Digibeet,55,Gemiddeld,Goed,Gemiddeld,Goed
+Industrial buyer,Damian Ouwel,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Expert,33,Gemiddeld,Slecht,Goed,Goed
+Tourism officer,Giel Geneart-Kramer,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,61,Hoog,Goed,Goed,Goed
+Tax adviser,Jan Segerszoen,F,Irakees,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,50,Laag,Gemiddeld,Goed,Goed
+Investment analyst,Luke le Guellec,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Appartement,Expert,68,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Doctor, general practice",Ninthe Walter,M,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,49,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Civil engineer, consulting",Brent van Dam,F,Indiaas,Hoog,Samenwonend,Rechts,HAVO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Printmaker,Colin van Susa,M,Pools,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,24,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Media buyer,Sander van de Weterink,M,Nederlands,Laag,Samenwonend,Links,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,91,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Site engineer,Myrthe Salet,F,Antilliaans,Hoog,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Student,Vrijstaand,Beginner,72,Laag,Goed,Gemiddeld,Goed
+Comptroller,Bente Timmermans,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,62,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Commercial horticulturist,Maryam de Bock,F,Turks,Hoog,Alleenstaand,Rechts,MBO,Hindoeïstisch,Gescheiden,Gepensioneerd,Appartement,Advanced,37,Gemiddeld,Gemiddeld,Goed,Gemiddeld

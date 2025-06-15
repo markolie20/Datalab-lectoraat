@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tree surgeon,Julie Huls,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Expert,96,Gemiddeld,Gemiddeld,Goed,Slecht
+"Surveyor, building",Julie van Limburg-Pierson,F,Duits,Laag,Alleenstaand met kinderen,Links,MBO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,47,Laag,Gemiddeld,Goed,Slecht
+Corporate treasurer,Melissa Wouters van Eijndhoven,F,Chinees,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,87,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Proofreader,Mia Scheer,M,Bulgaars,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,23,Gemiddeld,Goed,Slecht,Goed
+"Runner, broadcasting/film/video",Bastiaan Demmendaal,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,25,Hoog,Slecht,Slecht,Gemiddeld
+Systems developer,Dean Jansen,M,Roemeens,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,38,Hoog,Goed,Gemiddeld,Gemiddeld
+"Psychologist, forensic",Cornelia Brouwer,M,Pools,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,72,Gemiddeld,Slecht,Gemiddeld,Slecht
+Radiation protection practitioner,Joep ter Waarbeek,M,Pools,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Digibeet,26,Laag,Goed,Goed,Goed
+Chief Operating Officer,Elize Meijer-Klerks,F,Chinees,Laag,Samenwonend,Rechts,WO,Boeddhistisch,Gehuwd,Werkloos,Rijtjeshuis,Beginner,39,Hoog,Gemiddeld,Goed,Slecht
+Clinical embryologist,Bas Slingerland,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,WO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,94,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Public relations account executive,Mette Erhout,M,Afghaans,Laag,Samenwonend,Links,HAVO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,83,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dealer,Johanna van Bergen-Gerritsen,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Advanced,42,Laag,Goed,Slecht,Gemiddeld
+Theatre director,Chloé Kleybrink,F,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,40,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Comptroller,Kai Hemma van Allemanië-Bosch,M,Surinaams,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Aeronautical engineer,Annemijn Passchiers,F,Turks,Gemiddeld,Samenwonend,Rechts,HAVO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,62,Gemiddeld,Goed,Gemiddeld,Goed
+Hydrologist,Bilal Rouwhorst,F,Marokkaans,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,26,Hoog,Gemiddeld,Slecht,Slecht
+Hydrologist,Mohamed Jaceps,F,Marokkaans,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,53,Laag,Slecht,Gemiddeld,Slecht
+Print production planner,Nout Huberts,F,Turks,Hoog,Alleenstaand,Links,HBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Goed,Goed
+Risk manager,Yusuf Brisee-Berends,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Joods,Gehuwd,Fulltime,Appartement,Beginner,91,Laag,Goed,Goed,Gemiddeld

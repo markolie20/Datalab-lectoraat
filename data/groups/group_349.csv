@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Applications developer,Sanne Hofman,M,Roemeens,Hoog,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,99,Laag,Gemiddeld,Goed,Goed
+Occupational psychologist,Duuk Oda,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,82,Gemiddeld,Goed,Gemiddeld,Slecht
+Occupational therapist,Bibi Weeldenburg,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,97,Laag,Gemiddeld,Gemiddeld,Slecht
+Personal assistant,Mika Bouthoorn,M,Turks,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,50,Gemiddeld,Goed,Goed,Gemiddeld
+"Engineer, drilling",Brent Cornelisse,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,82,Hoog,Gemiddeld,Goed,Goed
+"Civil engineer, consulting",Oscar Molegraaf,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,32,Gemiddeld,Slecht,Goed,Slecht
+Make,Stan van der Velden-Gepa van Bourgondië,F,Syrisch,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,94,Gemiddeld,Goed,Goed,Gemiddeld
+Electronics engineer,Thom Winters-VI,M,Indonesisch,Laag,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,66,Laag,Slecht,Gemiddeld,Gemiddeld
+Maintenance engineer,Matthias van de Eerenbeemt-Schakelaar,M,Chinees,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,84,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Education officer, environmental",Rosa van Ooyen-van Dooren,M,Turks,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,99,Laag,Goed,Goed,Gemiddeld
+Petroleum engineer,Sander van Bentheim,F,Eritrees,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,56,Hoog,Goed,Goed,Gemiddeld
+"Biochemist, clinical",Suze Voortman,M,Pools,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,73,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Immigration officer,Robin Kremer-Bierstraten,F,Eritrees,Laag,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,24,Laag,Goed,Gemiddeld,Gemiddeld
+Phytotherapist,Damian Cornelisse-Tamsma,M,Turks,Laag,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,45,Laag,Goed,Slecht,Gemiddeld
+Insurance risk surveyor,Tom de Hoog-Pasman,M,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,73,Laag,Gemiddeld,Slecht,Slecht
+Financial controller,Chloé Weylant-van der Horst,M,Roemeens,Gemiddeld,Samenwonend,Links,WO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,52,Laag,Goed,Goed,Gemiddeld
+"Doctor, hospital",Sam Remmers,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Anders,Gehuwd,Fulltime,Appartement,Intermediate,65,Laag,Goed,Gemiddeld,Gemiddeld
+Theme park manager,Iris François,M,Turks,Gemiddeld,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,25,Laag,Gemiddeld,Goed,Gemiddeld

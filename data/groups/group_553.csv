@@ -1,0 +1,32 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Stage manager,Ilse Tammerijn,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,55,Gemiddeld,Goed,Goed,Gemiddeld
+"Psychologist, occupational",Johannes Zeldenrust,F,Nederlands,Hoog,Samenwonend,Links,HAVO,Joods,Ongehuwd,Fulltime,Vrijstaand,Intermediate,34,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Operations geologist,Julie Molenaar,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Advanced,48,Hoog,Gemiddeld,Goed,Slecht
+"Psychologist, counselling",Nisa Lether-Jorrisen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gehuwd,Student,Woonboot,Intermediate,22,Gemiddeld,Goed,Goed,Goed
+"Lecturer, higher education",Jort van de Ven,M,Roemeens,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Joods,Gescheiden,Parttime,Appartement,Intermediate,38,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Theatre manager,Jason Klein,F,Eritrees,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Woonboot,Beginner,53,Laag,Goed,Goed,Goed
+Psychiatric nurse,Kiki Bökenkamp,F,Irakees,Laag,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Parttime,Woonboot,Beginner,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Retail manager,Noor Butselaar,F,Turks,Gemiddeld,Samenwonend,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,24,Gemiddeld,Goed,Goed,Slecht
+Emergency planning/management officer,Tijmen Jansen-van Dam,F,Chinees,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,80,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Market researcher,Lizz van der Linden,F,Irakees,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,81,Laag,Goed,Slecht,Gemiddeld
+Patent examiner,Fabiënne Ernst,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,25,Laag,Goed,Goed,Gemiddeld
+Accommodation manager,Fem van Tours,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Student,Appartement,Intermediate,20,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Tourism officer,Pieter van Gorp-Pons,M,Antilliaans,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,82,Gemiddeld,Goed,Gemiddeld,Goed
+"Engineer, aeronautical",Sophie Van Bragt-Veenstra,M,Nederlands,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,85,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Presenter, broadcasting",Norah van Susa,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Student,Vrijstaand,Beginner,43,Laag,Goed,Slecht,Gemiddeld
+Charity fundraiser,Maarten Bosman,M,Duits,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Advanced,64,Laag,Slecht,Gemiddeld,Slecht
+Tour manager,Selena van de Elzas-Hekker,F,Marokkaans,Laag,Samenwonend,Links,VWO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,88,Laag,Gemiddeld,Goed,Goed
+Customer service manager,Hidde van Rossum,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Parttime,Woonboot,Intermediate,79,Gemiddeld,Goed,Goed,Goed
+Immunologist,Kiki Brouwer,F,Surinaams,Laag,Samenwonend,Links,VMBO,Christelijk,Gescheiden,Student,Appartement,Beginner,80,Hoog,Gemiddeld,Gemiddeld,Goed
+"Psychologist, clinical",Jay Wolters-van den Broek,M,Turks,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,74,Laag,Goed,Slecht,Gemiddeld
+Meteorologist,Vera Jansse-van Bovenen,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Expert,49,Laag,Slecht,Gemiddeld,Gemiddeld
+Medical laboratory scientific officer,Wessel de Haas-Boers,M,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,41,Laag,Gemiddeld,Slecht,Gemiddeld
+Learning disability nurse,Pien Bakker-Meyer,F,Spaans,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,56,Laag,Gemiddeld,Goed,Slecht
+"Therapist, speech and language",Fenna Meis,F,Surinaams,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Beginner,30,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Social worker,Jelte Pison,F,Italiaans,Hoog,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Advanced,78,Hoog,Goed,Gemiddeld,Goed
+"Geologist, wellsite",Lina Hanegraaff,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Expert,88,Gemiddeld,Goed,Slecht,Goed
+"Biochemist, clinical",Thijmen Joosten,F,Syrisch,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,35,Laag,Goed,Gemiddeld,Gemiddeld
+Sports coach,Annabel Scherms,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,63,Laag,Goed,Gemiddeld,Gemiddeld
+"Designer, ceramics/pottery",Willem van Geenen,F,Chinees,Hoog,Samenwonend met kinderen,Rechts,HAVO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,73,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Records manager,Rick Blewanus,M,Eritrees,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Digibeet,89,Laag,Goed,Goed,Goed
+Translator,Bradley Sas-Ligtvoet,M,Italiaans,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Beginner,49,Laag,Gemiddeld,Goed,Gemiddeld

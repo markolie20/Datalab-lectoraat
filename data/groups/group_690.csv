@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Designer, exhibition/display",Siem de Grote-Bolkesteijn,F,Nederlands,Laag,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Expert,49,Laag,Goed,Gemiddeld,Goed
+Senior tax professional/tax inspector,Emily Heijmans,M,Bulgaars,Laag,Samenwonend met kinderen,Rechts,HBO,Boeddhistisch,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Beginner,49,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Multimedia programmer,Pieter Eijkelboom,F,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,42,Laag,Gemiddeld,Gemiddeld,Goed
+"Designer, fashion/clothing",Kaylee Lambregt-Le Marec,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Gescheiden,Fulltime,Appartement,Advanced,45,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, structural",Kay Wilson,M,Chinees,Hoog,Alleenstaand,Links,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,26,Laag,Goed,Gemiddeld,Slecht
+Haematologist,Sam Bellemans,F,Irakees,Laag,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Parttime,Vrijstaand,Expert,47,Laag,Gemiddeld,Goed,Goed
+Haematologist,Job Schenk,F,Duits,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Gescheiden,Zelfstandig,Twee-onder-een-kap,Advanced,22,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Therapeutic radiographer,Lotte Martens,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Lecturer, further education",Tobias Genefaas,M,Syrisch,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,79,Laag,Goed,Gemiddeld,Gemiddeld
+Banker,Silke Höning-le Floch,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,WO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,72,Gemiddeld,Slecht,Slecht,Gemiddeld
+Furniture conservator/restorer,Tygo van Stralen,F,Bulgaars,Gemiddeld,Alleenstaand,Links,VMBO,Anders,Ongehuwd,Parttime,Appartement,Digibeet,97,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Health service manager,Damian Vrancken-Weeldenburg,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Advanced,37,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Associate Professor,Kim van Vliet,M,Surinaams,Laag,Alleenstaand,Rechts,Basisonderwijs,Atheïstisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,87,Gemiddeld,Gemiddeld,Slecht,Slecht
+Toxicologist,Mason Slingerland,M,Surinaams,Hoog,Alleenstaand met kinderen,Links,VMBO,Anders,Gehuwd,Gepensioneerd,Appartement,Beginner,37,Gemiddeld,Gemiddeld,Goed,Goed
+Information officer,Nynke Kruns-van den Nyeuwenhuysen,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Expert,62,Laag,Goed,Gemiddeld,Gemiddeld
+Health visitor,Jacob van Suinvorde,F,Spaans,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,94,Laag,Goed,Goed,Gemiddeld
+"Surveyor, land/geomatics",Stella Timmerman,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Advanced,66,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Nutritional therapist,Fiene Reijers,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,WO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,52,Gemiddeld,Slecht,Goed,Gemiddeld
+Arts development officer,Nout Weyland,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gescheiden,Student,Vrijstaand,Advanced,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld

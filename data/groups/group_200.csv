@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Clinical molecular geneticist,Amira Weylant-Heijmen,F,Chinees,Laag,Samenwonend met kinderen,Midden,VWO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,92,Hoog,Goed,Gemiddeld,Goed
+Hotel manager,Stef Boddaugh-Butselaar,M,Turks,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,60,Laag,Goed,Gemiddeld,Gemiddeld
+Adult nurse,Michelle Molegraaf,M,Nederlands,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Student,Appartement,Beginner,51,Laag,Slecht,Slecht,Goed
+Historic buildings inspector/conservation officer,Roos Recer,F,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,45,Laag,Gemiddeld,Gemiddeld,Goed
+Publishing rights manager,Luc Verheuvel-Jansse,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Woonboot,Digibeet,73,Laag,Goed,Slecht,Gemiddeld
+Media planner,Vince Lether-van den Velden,M,Nederlands,Hoog,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,78,Gemiddeld,Goed,Gemiddeld,Goed
+Licensed conveyancer,Iris Lether,F,Duits,Gemiddeld,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Zelfstandig,Studio,Advanced,31,Laag,Slecht,Gemiddeld,Goed
+Financial risk analyst,Mirthe Holthuis-de Gruijter,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,35,Laag,Slecht,Goed,Slecht
+Surgeon,Olivia van Formbach,F,Afghaans,Hoog,Samenwonend,Links,HAVO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Expert,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Occupational therapist,Anouk Vignon,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,MBO,Anders,Gescheiden,Zelfstandig,Vrijstaand,Intermediate,53,Gemiddeld,Goed,Gemiddeld,Goed
+Restaurant manager,Daniël Nedermeijer-Huijbrechts,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Digibeet,53,Gemiddeld,Goed,Slecht,Gemiddeld
+Network engineer,Vajèn Rijntjes,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,59,Laag,Goed,Goed,Gemiddeld
+Higher education careers adviser,Luc van de Pol,M,Turks,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,94,Gemiddeld,Slecht,Gemiddeld,Slecht
+Garment/textile technologist,Mohammed van Orleans,M,Indonesisch,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,78,Laag,Goed,Goed,Slecht
+Environmental consultant,Joep van der Horst,F,Indonesisch,Hoog,Alleenstaand met kinderen,Midden,Basisonderwijs,Anders,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,86,Laag,Goed,Slecht,Gemiddeld
+"Scientist, marine",Josephine Otte-Meyer,F,Eritrees,Laag,Samenwonend,Links,WO,Anders,Ongehuwd,Parttime,Studio,Beginner,76,Laag,Gemiddeld,Gemiddeld,Goed
+Financial planner,Victoria Smeets,M,Eritrees,Gemiddeld,Samenwonend,Rechts,MBO,Hindoeïstisch,Ongehuwd,Student,Twee-onder-een-kap,Digibeet,57,Laag,Gemiddeld,Goed,Gemiddeld
+Archaeologist,Ruben Schulten,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,45,Hoog,Goed,Goed,Gemiddeld
+"Runner, broadcasting/film/video",Benthe Doesburg,M,Turks,Gemiddeld,Samenwonend,Links,MBO,Joods,Ongehuwd,Parttime,Appartement,Advanced,29,Laag,Gemiddeld,Goed,Slecht
+Retail manager,Amira Furda,M,Indiaas,Hoog,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,35,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Diagnostic radiographer,Tyler de Swart,F,Turks,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Beginner,85,Laag,Slecht,Gemiddeld,Goed
+Photographer,Elias Room,F,Pools,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Expert,69,Laag,Gemiddeld,Goed,Gemiddeld
+"Surveyor, planning and development",Dion van den Henst,F,Turks,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Gescheiden,Werkloos,Appartement,Beginner,62,Gemiddeld,Slecht,Gemiddeld,Goed
+"Copywriter, advertising",Berend van Allemanië,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,88,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Film/video editor,Kate Wouters van Eijndhoven,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,28,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

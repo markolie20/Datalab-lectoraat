@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, research (life sciences)",Eliza Strik,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,19,Laag,Gemiddeld,Goed,Gemiddeld
+Counsellor,Loïs Wolzak,M,Indonesisch,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,98,Laag,Gemiddeld,Gemiddeld,Slecht
+Musician,Mila van de Darnau,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,47,Laag,Gemiddeld,Slecht,Goed
+"Engineer, electrical",Sarah Gervais,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,70,Hoog,Gemiddeld,Goed,Goed
+Industrial buyer,Samuel Wilcken,M,Chinees,Laag,Samenwonend met kinderen,Links,VWO,Christelijk,Gehuwd,Fulltime,Woonboot,Intermediate,89,Laag,Goed,Gemiddeld,Gemiddeld
+Chief Financial Officer,Nick Knuf,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Beginner,61,Laag,Goed,Slecht,Gemiddeld
+Technical author,Adriana van der Mast,F,Surinaams,Gemiddeld,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,36,Laag,Goed,Goed,Gemiddeld
+Advertising account executive,Zoë de Grote,F,Somalisch,Laag,Alleenstaand,Rechts,WO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,90,Hoog,Goed,Goed,Goed
+Technical sales engineer,Dex Ulrich,F,Pools,Laag,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,69,Gemiddeld,Goed,Gemiddeld,Slecht
+Waste management officer,Milan Broeshart,F,Spaans,Gemiddeld,Alleenstaand met kinderen,Links,WO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Expert,66,Laag,Goed,Gemiddeld,Gemiddeld
+Electronics engineer,Vincent van Rossum,M,Irakees,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Studio,Digibeet,98,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Engineering geologist,Dirk van de Greef,M,Nederlands,Hoog,Samenwonend,Midden,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,87,Laag,Gemiddeld,Gemiddeld,Goed
+Chief Executive Officer,Louise Kof,M,Italiaans,Hoog,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,30,Hoog,Goed,Gemiddeld,Gemiddeld
+"Journalist, broadcasting",Kevin Thomas,F,Portugees,Hoog,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,96,Laag,Slecht,Goed,Slecht
+Games developer,Job Hazenveld,M,Pools,Gemiddeld,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Intermediate,27,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Research scientist (maths),Fedde Lemmens,F,Turks,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,74,Gemiddeld,Goed,Goed,Gemiddeld
+Physiological scientist,Berend Muller,F,Bulgaars,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,35,Hoog,Gemiddeld,Gemiddeld,Goed

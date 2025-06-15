@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Administrator, arts",Abel van Beaumont,F,Somalisch,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,66,Gemiddeld,Goed,Gemiddeld,Slecht
+Transport planner,Lieke Wunderink,F,Marokkaans,Hoog,Samenwonend,Rechts,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,73,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Archivist,Myrthe Rackham,M,Afghaans,Hoog,Samenwonend met kinderen,Rechts,VWO,Anders,Ongehuwd,Fulltime,Vrijstaand,Beginner,73,Hoog,Goed,Goed,Gemiddeld
+Publishing rights manager,Milan van Dongen-Koret,F,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,29,Hoog,Goed,Slecht,Slecht
+Best boy,Amelia Feenstra,F,Chinees,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,20,Hoog,Gemiddeld,Gemiddeld,Goed
+Theatre manager,Sara Corstiaens,M,Duits,Gemiddeld,Samenwonend met kinderen,Links,WO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Digibeet,87,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Risk manager,Gijs Tillmanno,F,Duits,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,80,Hoog,Gemiddeld,Goed,Gemiddeld
+Biomedical scientist,Fem Arts,M,Indonesisch,Hoog,Alleenstaand,Links,WO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,21,Laag,Goed,Goed,Gemiddeld
+Magazine journalist,Lot Horrocks-Bakker,F,Surinaams,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,36,Gemiddeld,Goed,Gemiddeld,Slecht
+"Buyer, retail",Victor Ernst-Fortuyn,M,Eritrees,Laag,Samenwonend,Rechts,VMBO,Joods,Ongehuwd,Parttime,Appartement,Beginner,39,Laag,Slecht,Gemiddeld,Gemiddeld
+Environmental consultant,Cornelis Lafleur,F,Afghaans,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,97,Laag,Gemiddeld,Goed,Gemiddeld
+Exercise physiologist,Stan Willemsen-van den Heuvel,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Digibeet,71,Hoog,Slecht,Gemiddeld,Goed
+"Engineer, drilling",Raf van de Plas,F,Indonesisch,Hoog,Alleenstaand,Links,WO,Joods,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,32,Laag,Goed,Slecht,Goed
+Publishing copy,Alicia Le Grand,F,Pools,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,32,Hoog,Slecht,Gemiddeld,Gemiddeld
+Press sub,Lenn Hendriks,M,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Joods,Ongehuwd,Student,Appartement,Expert,67,Hoog,Goed,Slecht,Gemiddeld
+Fish farm manager,James Billung,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,82,Hoog,Slecht,Gemiddeld,Gemiddeld

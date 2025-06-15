@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Production assistant, radio",Mirte Neuteboom,F,Turks,Laag,Alleenstaand,Midden,VMBO,Hindoeïstisch,Gescheiden,Zelfstandig,Studio,Beginner,41,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Production designer, theatre/television/film",Ella Manne,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,99,Laag,Slecht,Goed,Gemiddeld
+Rural practice surveyor,Jason Bos-Werdes,M,Turks,Hoog,Samenwonend met kinderen,Midden,VMBO,Anders,Gescheiden,Fulltime,Appartement,Beginner,53,Hoog,Slecht,Gemiddeld,Gemiddeld
+Operational researcher,Lana van Wallaert,M,Nederlands,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,52,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Public librarian,Elin van der Brink,F,Bulgaars,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Parttime,Appartement,Digibeet,94,Laag,Slecht,Slecht,Slecht
+"Runner, broadcasting/film/video",Annabel Maas,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Studio,Advanced,59,Laag,Gemiddeld,Goed,Gemiddeld
+IT sales professional,Jari Westermann-Stichter,M,Marokkaans,Gemiddeld,Samenwonend,Midden,HBO,Christelijk,Gescheiden,Gepensioneerd,Woonboot,Expert,24,Hoog,Gemiddeld,Goed,Gemiddeld
+Set designer,Fleur Arnold-Scheer,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Anders,Gehuwd,Gepensioneerd,Appartement,Intermediate,47,Laag,Gemiddeld,Slecht,Goed
+"Accountant, chartered management",Eva van den Nieuwenhuijsen,F,Turks,Laag,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,59,Hoog,Goed,Gemiddeld,Slecht
+"Programmer, applications",Saar Ellis,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,55,Laag,Goed,Gemiddeld,Goed
+"Conservation officer, historic buildings",Nout Scuylenborchs-Engels,M,Spaans,Gemiddeld,Samenwonend met kinderen,Links,WO,Joods,Ongehuwd,Zelfstandig,Woonboot,Digibeet,52,Laag,Slecht,Gemiddeld,Goed
+Museum education officer,Lenn van den Brand,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,66,Laag,Slecht,Gemiddeld,Gemiddeld
+Petroleum engineer,Evy van de Velde,M,Nederlands,Laag,Samenwonend,Rechts,WO,Atheïstisch,Gescheiden,Fulltime,Appartement,Advanced,21,Laag,Slecht,Gemiddeld,Goed

@@ -1,0 +1,19 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Air traffic controller,Roan Gnodde,F,Nederlands,Laag,Alleenstaand,Links,WO,Hindoeïstisch,Weduwe/Weduwnaar,Gepensioneerd,Twee-onder-een-kap,Beginner,70,Hoog,Goed,Goed,Gemiddeld
+Administrator,Imran van Duyvenvoorde-van Bovenen,M,Surinaams,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,79,Gemiddeld,Goed,Goed,Gemiddeld
+"Administrator, education",Simon Oude Heer-le Briel,M,Nederlands,Gemiddeld,Samenwonend,Midden,WO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,60,Gemiddeld,Slecht,Gemiddeld,Slecht
+Hospital doctor,Amelia van Ommeren,M,Antilliaans,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,90,Laag,Slecht,Goed,Gemiddeld
+"Librarian, public",Saar de Vroege,F,Eritrees,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,96,Laag,Slecht,Goed,Gemiddeld
+Broadcast engineer,Nadine van de Velden,F,Turks,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,99,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Building surveyor,Amelia Schwartsbach,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Joods,Gehuwd,Zelfstandig,Appartement,Expert,80,Gemiddeld,Gemiddeld,Goed,Slecht
+"Surveyor, commercial/residential",Lily Spanhaak,M,Nederlands,Laag,Samenwonend,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,61,Hoog,Goed,Goed,Gemiddeld
+"Engineer, petroleum",Stijn Peronne,M,Nederlands,Hoog,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Werkloos,Appartement,Beginner,87,Laag,Goed,Goed,Gemiddeld
+Curator,Max Kamp-Bresse,M,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,44,Hoog,Goed,Goed,Gemiddeld
+Trade mark attorney,Suus Poncelet-Kremer,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Beginner,96,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Production assistant, television",Jasmijn Fortuyn-Verda,F,Turks,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,24,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Education officer, environmental",Maud van Este,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,29,Gemiddeld,Gemiddeld,Goed,Slecht
+Pathologist,Azra Stange-Vos,M,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,48,Laag,Gemiddeld,Goed,Goed
+"Designer, jewellery",Elisa Chotzen,F,Marokkaans,Laag,Alleenstaand,Links,MBO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Advanced,47,Laag,Gemiddeld,Slecht,Goed
+Forest/woodland manager,Simon Rippey,F,Irakees,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Student,Woonboot,Beginner,42,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Publishing rights manager,Sophie Chotzen,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,57,Gemiddeld,Goed,Slecht,Goed
+"Engineer, broadcasting (operations)",Job Karels,F,Somalisch,Gemiddeld,Samenwonend,Links,HBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,91,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

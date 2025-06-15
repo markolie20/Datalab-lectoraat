@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Senior tax professional/tax inspector,Robin van Tuijl-Dachgelt,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,29,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Ophthalmologist,Amber van Parijs-van der Pol,F,Indiaas,Hoog,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gescheiden,Parttime,Appartement,Intermediate,52,Laag,Gemiddeld,Gemiddeld,Goed
+Drilling engineer,Lise Schuurmans-Uittenbosch,F,Irakees,Laag,Samenwonend,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Cabin crew,Pippa Freshour-Fechant,M,Syrisch,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,80,Laag,Gemiddeld,Gemiddeld,Slecht
+"Education officer, community",Lily Borman,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,57,Laag,Slecht,Gemiddeld,Gemiddeld
+Corporate treasurer,Jolijn Cammel,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Laag,Goed,Slecht,Slecht
+Child psychotherapist,Beau Willems-de Jode Vastraedsd,M,Indiaas,Hoog,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,98,Gemiddeld,Goed,Slecht,Goed
+Theatre stage manager,Amy Loep,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,39,Laag,Goed,Goed,Goed
+Medical physicist,Sterre Smeets-Aeije,F,Eritrees,Laag,Alleenstaand,Midden,HAVO,Joods,Gescheiden,Student,Rijtjeshuis,Expert,67,Hoog,Gemiddeld,Gemiddeld,Slecht
+Graphic designer,Jort van de Pol,F,Nederlands,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,90,Laag,Gemiddeld,Slecht,Gemiddeld

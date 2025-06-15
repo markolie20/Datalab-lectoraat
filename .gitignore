@@ -140,6 +140,9 @@ venv.bak/
 .spyderproject
 .spyproject
 
+# Models
+/*.safetensors
+
 # Rope project settings
 .ropeproject
 
@@ -169,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+#trained_models/
+bartsummarizer/
+flant5summarizer/
+longformersummarizer/
+longt5summarizer/
+pegasussummarizer/
+t5summarizer/

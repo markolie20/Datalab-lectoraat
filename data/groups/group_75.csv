@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Social worker,Dion Velderman,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Beginner,62,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Chartered loss adjuster,Philip Stettyn,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Beginner,47,Gemiddeld,Slecht,Goed,Goed
+Air cabin crew,Elena van Velzen,F,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Links,Basisonderwijs,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,21,Gemiddeld,Goed,Slecht,Gemiddeld
+Civil Service administrator,Jake Kuiper,F,Roemeens,Gemiddeld,Samenwonend,Links,HBO,Joods,Gehuwd,Parttime,Appartement,Intermediate,43,Laag,Goed,Gemiddeld,Slecht
+"Engineer, chemical",Julius Kok,F,Eritrees,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Appartement,Digibeet,93,Laag,Gemiddeld,Goed,Slecht
+Emergency planning/management officer,Cato van Duyvenvoorde,M,Marokkaans,Hoog,Samenwonend met kinderen,Midden,MBO,Anders,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,20,Hoog,Goed,Goed,Goed
+Purchasing manager,Ecrin Dubois,F,Irakees,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,56,Gemiddeld,Gemiddeld,Slecht,Goed
+Sports coach,Willem Verboom,M,Afghaans,Laag,Alleenstaand met kinderen,Links,MBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dancer,Kyano de Werd,M,Nederlands,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,98,Hoog,Gemiddeld,Gemiddeld,Goed
+Field trials officer,Jinthe van Duivenvoorde,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Public affairs consultant,Cas Breugelensis-van de Wiel,F,Portugees,Laag,Samenwonend met kinderen,Midden,HBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,85,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Therapeutic radiographer,Maria van der Stael,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Student,Woonboot,Intermediate,91,Gemiddeld,Goed,Gemiddeld,Goed
+Product designer,Jayden Bouhuizen,F,Spaans,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,63,Hoog,Gemiddeld,Goed,Gemiddeld
+"Radiographer, diagnostic",Quinn Aalts-de Roos,F,Turks,Laag,Alleenstaand met kinderen,Links,HBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Expert,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Sales professional, IT",Marinus Groote,M,Surinaams,Laag,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,36,Hoog,Gemiddeld,Gemiddeld,Slecht

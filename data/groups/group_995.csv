@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Civil Service administrator,Fenne Pieters,M,Irakees,Hoog,Samenwonend,Links,HBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,67,Hoog,Slecht,Gemiddeld,Gemiddeld
+Manufacturing engineer,Senn Zeemans,M,Chinees,Hoog,Samenwonend,Links,HBO,Christelijk,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,40,Hoog,Goed,Gemiddeld,Gemiddeld
+Ceramics designer,Lize van Beaumont,F,Turks,Hoog,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Solicitor,Jim Janssen-Pastoors,M,Indonesisch,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,33,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Programme researcher, broadcasting/film/video",Fleur Fremie,M,Marokkaans,Hoog,Alleenstaand,Links,WO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,31,Laag,Gemiddeld,Goed,Gemiddeld
+Surgeon,Dana Bud,M,Nederlands,Hoog,Alleenstaand,Midden,VWO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,76,Gemiddeld,Goed,Slecht,Goed
+General practice doctor,Kate Rubben,F,Antilliaans,Laag,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Student,Appartement,Beginner,92,Laag,Gemiddeld,Gemiddeld,Slecht
+Consulting civil engineer,Stef Uphus,F,Pools,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,79,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Hotel manager,Stef Smith,M,Afghaans,Laag,Alleenstaand met kinderen,Links,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,83,Gemiddeld,Gemiddeld,Goed,Slecht
+"Scientist, biomedical",Mustafa Langevoort,M,Somalisch,Hoog,Alleenstaand met kinderen,Links,MBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,96,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Pharmacist, community",Elizabeth Mahieu-van Geest,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,38,Gemiddeld,Goed,Slecht,Gemiddeld
+"Surveyor, hydrographic",Zoë Wilmont,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,19,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Therapist, sports",Jake Adriaensdr,M,Antilliaans,Hoog,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Geologist, wellsite",Muhammed van den Brink,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,94,Laag,Goed,Gemiddeld,Gemiddeld
+Theatre stage manager,Sarah Geerts,M,Nederlands,Hoog,Alleenstaand,Links,VMBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,38,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Market researcher,Colin van der Klijn-van het Heerenveen,M,Turks,Hoog,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Legal secretary,Lily Stichter-Huijs,F,Pools,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,49,Laag,Gemiddeld,Slecht,Gemiddeld
+Consulting civil engineer,Hannah Geerts,F,Indiaas,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Digibeet,83,Gemiddeld,Slecht,Goed,Gemiddeld
+"Lecturer, further education",Collin Postma-Mathol,M,Afghaans,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Woonboot,Digibeet,29,Laag,Gemiddeld,Goed,Slecht
+Research scientist (medical),Yara Bronder-Jansen,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,44,Laag,Gemiddeld,Gemiddeld,Slecht
+Sport and exercise psychologist,Mart van Gent,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Anders,Ongehuwd,Zelfstandig,Vrijstaand,Digibeet,77,Laag,Gemiddeld,Goed,Slecht
+"Engineer, civil (contracting)",Dave Verhoeven,M,Afghaans,Laag,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,60,Laag,Gemiddeld,Slecht,Goed
+Environmental education officer,Bilal Rubben-Wolzak,M,Nederlands,Gemiddeld,Samenwonend,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Appartement,Advanced,59,Gemiddeld,Slecht,Slecht,Goed
+Osteopath,Nisa Ernst,F,Irakees,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Vrijstaand,Advanced,98,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, building control",Quinn de Koning,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,83,Gemiddeld,Goed,Goed,Gemiddeld
+Advertising account executive,Sjoerd Zeldenrust,F,Indiaas,Hoog,Samenwonend met kinderen,Midden,WO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,53,Laag,Gemiddeld,Slecht,Gemiddeld
+Chartered management accountant,Jonathan Michielsen,F,Bulgaars,Laag,Samenwonend,Links,MBO,Hindoeïstisch,Gehuwd,Zelfstandig,Appartement,Advanced,59,Laag,Goed,Gemiddeld,Gemiddeld
+"Editor, commissioning",Jens Zijlemans,M,Marokkaans,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,67,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, building",Linn de Korte-Heijmans,F,Bulgaars,Gemiddeld,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,63,Laag,Goed,Gemiddeld,Gemiddeld
+Regulatory affairs officer,Pleun van Hagen-van Oostendorp,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Anders,Gehuwd,Fulltime,Appartement,Beginner,25,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Paramedic,Joep Wouters-Cornelissen,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,VWO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,18,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Secondary school teacher,Michael van der Heyden,F,Chinees,Hoog,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,99,Laag,Goed,Gemiddeld,Goed
+"Administrator, Civil Service",Lenn van Oostendorp,F,Nederlands,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,23,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Financial risk analyst,Fedde van der Heijden,F,Turks,Hoog,Samenwonend met kinderen,Rechts,HAVO,Joods,Ongehuwd,Fulltime,Studio,Intermediate,38,Gemiddeld,Goed,Gemiddeld,Goed

@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, speech and language",Stefan Sas,M,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,67,Hoog,Gemiddeld,Gemiddeld,Goed
+Theatre stage manager,Jaylinn Kamp-Roodesteijn,M,Chinees,Gemiddeld,Alleenstaand,Rechts,Basisonderwijs,Boeddhistisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,67,Laag,Gemiddeld,Goed,Slecht
+Herbalist,Mara van de Berg,F,Indonesisch,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,25,Laag,Gemiddeld,Goed,Gemiddeld
+"Sound technician, broadcasting/film/video",Koen Slaetsdochter,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,WO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,67,Gemiddeld,Goed,Goed,Gemiddeld
+"Loss adjuster, chartered",Sil van Laon,M,Marokkaans,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,27,Laag,Goed,Gemiddeld,Goed
+Accommodation manager,Wout de Boer,M,Bulgaars,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,34,Laag,Goed,Goed,Goed
+Furniture conservator/restorer,Jenna van Luyssel,M,Nederlands,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Expert,68,Laag,Goed,Goed,Goed
+"Lecturer, higher education",Cato van de Brink,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,88,Gemiddeld,Slecht,Goed,Slecht
+Records manager,Berat van Noordeloos,F,Pools,Laag,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Expert,48,Laag,Slecht,Goed,Gemiddeld
+Automotive engineer,Kayleigh van de Kooij,F,Syrisch,Laag,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Student,Rijtjeshuis,Expert,32,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical molecular geneticist,Kick Wildschut,M,Pools,Laag,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,95,Gemiddeld,Goed,Goed,Goed
+Environmental manager,Mohamed Dries,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,58,Laag,Gemiddeld,Goed,Slecht
+Warehouse manager,Maartje le Gulcher-Gnodde,F,Antilliaans,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,23,Gemiddeld,Slecht,Gemiddeld,Goed
+Electrical engineer,James Totwiller,M,Bulgaars,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Gescheiden,Fulltime,Appartement,Advanced,59,Laag,Gemiddeld,Goed,Gemiddeld
+Theme park manager,Riley Oemencs,M,Somalisch,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,36,Hoog,Gemiddeld,Goed,Gemiddeld
+Associate Professor,Suze Groote,M,Pools,Hoog,Alleenstaand,Links,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,30,Hoog,Goed,Gemiddeld,Goed
+"Merchandiser, retail",Iris Mijsberg,M,Indonesisch,Hoog,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,46,Hoog,Gemiddeld,Goed,Slecht
+Network engineer,Emir Kunen-Furda,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Gehuwd,Parttime,Appartement,Advanced,82,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Logistics and distribution manager,Jay van den Brand,M,Pools,Laag,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,64,Laag,Gemiddeld,Goed,Gemiddeld
+Public affairs consultant,Ise Muijs,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,92,Hoog,Goed,Gemiddeld,Gemiddeld
+Financial adviser,Puk Rek,M,Nederlands,Laag,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,66,Hoog,Gemiddeld,Goed,Goed
+Film/video editor,Joey van Boulogne-van der Kaay,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,81,Gemiddeld,Goed,Slecht,Goed
+Computer games developer,Selena van Bernicia,F,Surinaams,Hoog,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Student,Appartement,Advanced,28,Hoog,Gemiddeld,Goed,Slecht
+Further education lecturer,Cornelis Labado,F,Somalisch,Laag,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Student,Appartement,Intermediate,99,Laag,Slecht,Slecht,Gemiddeld

@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Field seismologist,Liv Garret-Stettyn,F,Chinees,Laag,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,53,Laag,Slecht,Goed,Goed
+"Programmer, applications",Ninthe Bud-Fechant,M,Spaans,Laag,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,85,Hoog,Gemiddeld,Slecht,Goed
+Exercise physiologist,Sten Brandt-van Boven,M,Irakees,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Beginner,62,Laag,Gemiddeld,Gemiddeld,Goed
+Company secretary,Frederique Groen-Bastiaanse,M,Marokkaans,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,25,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Teacher, early years/pre",Daniël Scheer,F,Indiaas,Laag,Samenwonend,Midden,VMBO,Anders,Gehuwd,Student,Twee-onder-een-kap,Intermediate,55,Laag,Gemiddeld,Gemiddeld,Goed
+"Administrator, Civil Service",Luke Schotte,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Anders,Weduwe/Weduwnaar,Parttime,Appartement,Digibeet,56,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Public relations officer,Jules Mol,F,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Twee-onder-een-kap,Intermediate,36,Laag,Gemiddeld,Slecht,Slecht
+"Surveyor, quantity",Raf Sterkman,M,Turks,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,22,Laag,Goed,Gemiddeld,Goed
+Oceanographer,Emma de Swart,F,Duits,Laag,Samenwonend,Rechts,VWO,Islamitisch,Ongehuwd,Student,Appartement,Expert,72,Laag,Gemiddeld,Gemiddeld,Slecht
+Police officer,Bente Heere,M,Portugees,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,32,Laag,Gemiddeld,Gemiddeld,Goed
+General practice doctor,Lara Kronenberg,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Anders,Ongehuwd,Student,Vrijstaand,Beginner,63,Hoog,Goed,Gemiddeld,Gemiddeld
+"Designer, exhibition/display",Madelief Vallenduuk-van den Nuwenhuijzen,F,Surinaams,Gemiddeld,Alleenstaand,Midden,HAVO,Atheïstisch,Gescheiden,Fulltime,Appartement,Digibeet,42,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Geophysical data processor,Noëlle Meis,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,75,Laag,Goed,Gemiddeld,Goed
+"Education officer, museum",Zakaria Lorreijn,M,Somalisch,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,39,Hoog,Gemiddeld,Goed,Gemiddeld

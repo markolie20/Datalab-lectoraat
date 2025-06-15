@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Armed forces training and education officer,Julian van den Velden,M,Indonesisch,Laag,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,69,Laag,Goed,Gemiddeld,Gemiddeld
+"Accountant, chartered management",Madelief Beijring,M,Marokkaans,Laag,Samenwonend,Rechts,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Intermediate,27,Laag,Goed,Slecht,Goed
+"Engineer, civil (consulting)",Rowan de Plantard,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,73,Hoog,Goed,Goed,Gemiddeld
+Archivist,Elisa van Mare,F,Surinaams,Hoog,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,42,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Lexicographer,Maria Amalrada,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,57,Hoog,Slecht,Gemiddeld,Slecht
+Archaeologist,Amy Ouwel-Kort,F,Spaans,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,49,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Administrator, Civil Service",Alicia Hermans,F,Indonesisch,Hoog,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,34,Gemiddeld,Slecht,Slecht,Slecht
+"Scientist, marine",Esmée Oversteeg-Dijkstra,F,Eritrees,Hoog,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,65,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Acupuncturist,Helena van Rijnsbergen,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,41,Laag,Gemiddeld,Slecht,Slecht
+Product designer,Lize Jansse,F,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,28,Laag,Goed,Goed,Goed
+Curator,Thijs Hoes,M,Turks,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,60,Gemiddeld,Slecht,Gemiddeld,Goed
+"Surveyor, minerals",Britt Chrodtrud,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,22,Gemiddeld,Goed,Slecht,Gemiddeld

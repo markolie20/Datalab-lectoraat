@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Civil Service fast streamer,Sofia Knoers,M,Marokkaans,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,24,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Engineer, chemical",Bastiaan den Haag,M,Irakees,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Studio,Beginner,55,Laag,Slecht,Gemiddeld,Gemiddeld
+Pathologist,Mads Sanders,M,Antilliaans,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Beginner,56,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Chief Executive Officer,Mustafa van Arnsberg,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Intermediate,28,Laag,Goed,Gemiddeld,Gemiddeld
+Dance movement psychotherapist,Jasmijn Aertsz,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,88,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial/residential surveyor,Lola Jochems,M,Indonesisch,Laag,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,75,Laag,Gemiddeld,Gemiddeld,Slecht
+Telecommunications researcher,Lindsey Scuylenborchs-Kunen,M,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Gehuwd,Fulltime,Appartement,Digibeet,22,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Solicitor, Scotland",Loïs Pratt,F,Surinaams,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Advanced,25,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Hydrographic surveyor,Jurre van Dokkum,F,Bulgaars,Gemiddeld,Samenwonend,Midden,MBO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,19,Laag,Gemiddeld,Gemiddeld,Goed
+"Accountant, chartered",Merel Manne-Stoffelsz,F,Turks,Laag,Samenwonend,Links,HAVO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,73,Laag,Gemiddeld,Goed,Goed
+"Sound technician, broadcasting/film/video",Bente Prinsen,F,Antilliaans,Hoog,Alleenstaand met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Advanced,62,Laag,Slecht,Goed,Gemiddeld
+English as a second language teacher,Dex Doyle-Pierson,M,Pools,Gemiddeld,Alleenstaand,Links,WO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,56,Gemiddeld,Goed,Gemiddeld,Goed
+Clinical psychologist,Louise van Dongen,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,99,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, mining",Fiene Berends,M,Indiaas,Laag,Alleenstaand,Rechts,MBO,Joods,Ongehuwd,Parttime,Appartement,Beginner,41,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Ergonomist,Britt van den Berg,M,Indonesisch,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Digibeet,82,Laag,Slecht,Slecht,Slecht
+Child psychotherapist,Anna van der Mast-van Luyssel,M,Duits,Hoog,Samenwonend,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,32,Laag,Goed,Gemiddeld,Goed
+"Scientist, biomedical",Ashley Volcke,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Laag,Gemiddeld,Slecht,Gemiddeld
+"Presenter, broadcasting",Gerrit van Eck,M,Nederlands,Laag,Alleenstaand,Links,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,63,Laag,Goed,Slecht,Gemiddeld
+Immunologist,Guus Willems van Lier,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,85,Hoog,Gemiddeld,Gemiddeld,Slecht
+Seismic interpreter,Liz Wipstrik,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Advanced,46,Laag,Goed,Goed,Goed
+Waste management officer,Roos Hermans,F,Spaans,Laag,Samenwonend,Midden,HBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,63,Laag,Goed,Gemiddeld,Slecht
+"Biochemist, clinical",Wessel van Dongen,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,79,Laag,Slecht,Slecht,Goed

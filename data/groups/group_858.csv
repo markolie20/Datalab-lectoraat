@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Scientific laboratory technician,Imke Miner-van Boulogne,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Anders,Gescheiden,Fulltime,Appartement,Advanced,84,Laag,Gemiddeld,Gemiddeld,Slecht
+Broadcast journalist,Zoë Mens,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,69,Gemiddeld,Goed,Gemiddeld,Goed
+"Accountant, chartered certified",Finn Uit de Willigen-Schuylenborch,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,49,Laag,Goed,Gemiddeld,Goed
+Arts development officer,Kaylee van den Velde,F,Indonesisch,Hoog,Alleenstaand,Midden,Basisonderwijs,Joods,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,69,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Advertising copywriter,Ella van Veen-Kuiper,M,Marokkaans,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,57,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Sports administrator,Sep Kloppert,F,Eritrees,Laag,Samenwonend,Midden,WO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,61,Laag,Gemiddeld,Slecht,Gemiddeld
+"Scientist, product/process development",Bo van den Bosch-Arens,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Student,Twee-onder-een-kap,Intermediate,95,Laag,Gemiddeld,Goed,Goed
+Restaurant manager,Beau Verheuvel,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Anders,Ongehuwd,Fulltime,Vrijstaand,Intermediate,95,Laag,Goed,Goed,Gemiddeld
+Advertising account planner,Fedde Brands-Spanhaak,M,Chinees,Laag,Samenwonend met kinderen,Links,HBO,Anders,Gescheiden,Parttime,Vrijstaand,Advanced,44,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Investment banker, operational",Samuel Langevoort,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,VMBO,Boeddhistisch,Ongehuwd,Student,Appartement,Intermediate,57,Laag,Goed,Slecht,Goed
+"Engineer, petroleum",Leon van Dillen,M,Marokkaans,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Expert,60,Gemiddeld,Goed,Goed,Gemiddeld
+Financial planner,Joëlle van Saksen,M,Duits,Laag,Samenwonend,Links,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,68,Hoog,Slecht,Gemiddeld,Gemiddeld
+Human resources officer,Janne Jonkman,M,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Anders,Gescheiden,Parttime,Woonboot,Beginner,74,Gemiddeld,Goed,Gemiddeld,Goed
+Geophysicist/field seismologist,Rik Fremie,F,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,98,Gemiddeld,Slecht,Gemiddeld,Goed

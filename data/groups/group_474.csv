@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Claims inspector/assessor,Charlotte van den Oever-van Praagh,M,Turks,Laag,Alleenstaand met kinderen,Rechts,WO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Advanced,25,Gemiddeld,Gemiddeld,Goed,Slecht
+IT sales professional,Yasmine Höning,M,Nederlands,Laag,Alleenstaand,Links,WO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,81,Gemiddeld,Goed,Gemiddeld,Goed
+"Therapist, sports",Joost Thout,M,Turks,Hoog,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,92,Hoog,Gemiddeld,Goed,Slecht
+"Designer, industrial/product",Liam van Gent,F,Italiaans,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,78,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Journalist, magazine",Jinthe van Eck,F,Chinees,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Gehuwd,Student,Appartement,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Journalist, newspaper",Jet Blees-Engels,M,Indiaas,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Comptroller,Timo Matthews,M,Roemeens,Laag,Alleenstaand,Links,HBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Advanced,53,Laag,Gemiddeld,Goed,Goed
+"Editor, magazine features",Michael van der Brink-de Hoogh,M,Chinees,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,70,Laag,Slecht,Gemiddeld,Slecht
+Health promotion specialist,Jordy Lind,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,19,Laag,Gemiddeld,Goed,Goed
+Best boy,Jasmijn van de Greef-van Dillen,M,Portugees,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gescheiden,Werkloos,Appartement,Intermediate,60,Hoog,Goed,Goed,Goed
+Lawyer,Thijn François,F,Antilliaans,Gemiddeld,Samenwonend,Rechts,HAVO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,48,Laag,Slecht,Gemiddeld,Gemiddeld

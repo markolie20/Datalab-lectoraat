@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Freight forwarder,Aiden Chotzen,M,Antilliaans,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Intermediate,45,Gemiddeld,Slecht,Goed,Gemiddeld
+Jewellery designer,Aylin van Nes,F,Afghaans,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,50,Gemiddeld,Slecht,Slecht,Goed
+Astronomer,Jan Schilt,F,Duits,Hoog,Samenwonend,Links,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,94,Gemiddeld,Goed,Slecht,Gemiddeld
+Accounting technician,Merijn van der Avoirt,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,WO,Joods,Gehuwd,Fulltime,Twee-onder-een-kap,Digibeet,97,Laag,Slecht,Gemiddeld,Gemiddeld
+Financial risk analyst,Anna van Luxemburg,F,Roemeens,Hoog,Samenwonend,Midden,HBO,Hindoeïstisch,Gescheiden,Fulltime,Vrijstaand,Digibeet,45,Hoog,Gemiddeld,Gemiddeld,Goed
+Further education lecturer,Jasmijn Vergeer,M,Marokkaans,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,84,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Scientist, biomedical",Sebastiaan van de Ven,M,Roemeens,Laag,Samenwonend met kinderen,Midden,VWO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,50,Gemiddeld,Goed,Slecht,Gemiddeld
+Corporate treasurer,Kate Claassen,F,Nederlands,Hoog,Alleenstaand,Links,MBO,Anders,Ongehuwd,Zelfstandig,Appartement,Advanced,74,Hoog,Gemiddeld,Goed,Gemiddeld
+Charity officer,Esmée Doesburg,M,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Anders,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,81,Laag,Gemiddeld,Goed,Goed
+Television camera operator,Anna de Heer,M,Indonesisch,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,90,Laag,Gemiddeld,Slecht,Goed
+Health and safety adviser,Jort Rousselet,M,Somalisch,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Beginner,99,Laag,Goed,Goed,Goed

@@ -1,0 +1,21 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Merchant navy officer,Rick Hehl,M,Bulgaars,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,88,Gemiddeld,Gemiddeld,Slecht,Slecht
+"Journalist, newspaper",Jan Nek,M,Indiaas,Hoog,Samenwonend,Rechts,WO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,29,Laag,Goed,Gemiddeld,Goed
+Ergonomist,Dylan Noordijk,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gescheiden,Zelfstandig,Woonboot,Beginner,77,Laag,Slecht,Goed,Goed
+Quality manager,Lukas van Beek,F,Somalisch,Gemiddeld,Alleenstaand,Rechts,WO,Atheïstisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Beginner,94,Laag,Gemiddeld,Slecht,Slecht
+"Civil engineer, contracting",Evie van Duivenvoorde-Saxo,M,Turks,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,36,Gemiddeld,Goed,Goed,Goed
+Teaching laboratory technician,Michael Buijs,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,91,Hoog,Gemiddeld,Slecht,Gemiddeld
+Retail manager,Yasmine van Wijk,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Joods,Gehuwd,Gepensioneerd,Vrijstaand,Advanced,26,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Tour manager,Berat Dijkman,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,45,Gemiddeld,Goed,Slecht,Goed
+"Exhibitions officer, museum/gallery",Lisanne Zaal-Garret,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Hindoeïstisch,Ongehuwd,Fulltime,Studio,Beginner,49,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Broadcast journalist,Helena Salet,M,Eritrees,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Studio,Beginner,44,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Sports therapist,Sam van Geenen,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Joods,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,65,Laag,Goed,Gemiddeld,Slecht
+"Engineer, control and instrumentation",Nathan de Bruijn,F,Indonesisch,Hoog,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,87,Laag,Slecht,Gemiddeld,Gemiddeld
+"Engineer, land",Lucas Heere,M,Turks,Hoog,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Advanced,36,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Surveyor, commercial/residential",Mart Soos,F,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,75,Hoog,Goed,Slecht,Goed
+Civil Service administrator,Lucy Scheer,F,Indiaas,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,56,Laag,Goed,Slecht,Gemiddeld
+Technical author,Elin Hakker,M,Eritrees,Hoog,Samenwonend met kinderen,Rechts,HBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Expert,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+English as a second language teacher,Jordy van Beieren,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,62,Laag,Gemiddeld,Slecht,Gemiddeld
+"Conservation officer, historic buildings",Lukas Adryaens-Elsemulder,M,Bulgaars,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,46,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Secretary/administrator,Rafael Brandon,F,Irakees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,96,Laag,Gemiddeld,Slecht,Goed
+Psychotherapist,Arthur Schokman,M,Indonesisch,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Beginner,60,Laag,Gemiddeld,Goed,Goed

@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tourism officer,Marit van Velzen,F,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Woonboot,Advanced,49,Laag,Gemiddeld,Slecht,Gemiddeld
+Consulting civil engineer,Loek Boetet,F,Eritrees,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,47,Laag,Gemiddeld,Gemiddeld,Goed
+Quantity surveyor,Levi Stuivenberg,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,47,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Health service manager,Quinty Oennen,M,Antilliaans,Hoog,Alleenstaand,Links,WO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Beginner,73,Gemiddeld,Gemiddeld,Slecht,Slecht
+Geophysical data processor,Jet Werdes-van Rijnsbergen,M,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Anders,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Expert,81,Laag,Slecht,Goed,Gemiddeld
+Herpetologist,Inaya Van Bragt-Honing,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,82,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Scientific laboratory technician,Sara Simons,M,Chinees,Laag,Samenwonend met kinderen,Midden,WO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,97,Laag,Slecht,Gemiddeld,Goed
+"Loss adjuster, chartered",Sterre Knoers,F,Chinees,Hoog,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,50,Gemiddeld,Slecht,Gemiddeld,Slecht
+Fast food restaurant manager,Julie Schatteleijn,F,Turks,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,54,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Site engineer,Youssef Everts,F,Turks,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,86,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, electronics",Lisa Bresse,M,Bulgaars,Hoog,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,36,Laag,Gemiddeld,Goed,Gemiddeld
+Forensic psychologist,Roos Marchal,M,Surinaams,Gemiddeld,Samenwonend,Links,WO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,22,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Games developer,Sepp Veenstra-Lind,M,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,HAVO,Anders,Gescheiden,Fulltime,Appartement,Intermediate,91,Gemiddeld,Goed,Slecht,Gemiddeld
+"Scientist, water quality",Senna Wijland,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,71,Hoog,Gemiddeld,Goed,Gemiddeld
+Insurance claims handler,Bas van Baalen,F,Marokkaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,31,Laag,Gemiddeld,Gemiddeld,Slecht
+Publishing copy,Fiene Smit,M,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,76,Laag,Goed,Goed,Gemiddeld
+Medical physicist,Elisa Mudden-den Haag,F,Somalisch,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,97,Laag,Gemiddeld,Gemiddeld,Slecht
+Health and safety adviser,Daphne van der Maes,F,Afghaans,Hoog,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Water engineer,Levi Molenaar-Rackham,F,Chinees,Gemiddeld,Alleenstaand,Midden,VWO,Anders,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,84,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Accountant, chartered management",Liz Borman,M,Bulgaars,Laag,Samenwonend,Rechts,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,54,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Scientist, physiological",Rosa de Roo,F,Surinaams,Hoog,Alleenstaand met kinderen,Midden,MBO,Anders,Ongehuwd,Student,Appartement,Intermediate,61,Laag,Goed,Goed,Slecht
+Clinical research associate,Joris Paillet,F,Marokkaans,Laag,Samenwonend,Rechts,Basisonderwijs,Joods,Gehuwd,Werkloos,Studio,Intermediate,30,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety inspector,Hidde Spanhaak,F,Turks,Hoog,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,71,Laag,Slecht,Goed,Gemiddeld
+Midwife,Dylano Schenkel,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Digibeet,57,Laag,Slecht,Goed,Goed

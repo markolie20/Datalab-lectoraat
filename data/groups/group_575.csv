@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Hotel manager,Isis Smit,F,Marokkaans,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Studio,Intermediate,23,Gemiddeld,Gemiddeld,Goed,Slecht
+Medical secretary,Thijn Meijer-de Nijs,F,Indonesisch,Laag,Alleenstaand,Links,WO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,98,Hoog,Gemiddeld,Goed,Slecht
+"Education officer, museum",Amin Bastiaense,F,Turks,Laag,Alleenstaand,Links,MBO,Anders,Ongehuwd,Parttime,Appartement,Intermediate,71,Laag,Gemiddeld,Slecht,Goed
+Health and safety adviser,Julian Doesburg,M,Portugees,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Digibeet,60,Gemiddeld,Gemiddeld,Slecht,Slecht
+Mechanical engineer,Nadia van Rheineck,F,Irakees,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,32,Gemiddeld,Slecht,Goed,Goed
+"Designer, furniture",Mohammed Wigman,M,Chinees,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Expert,84,Laag,Slecht,Gemiddeld,Gemiddeld
+"Designer, interior/spatial",Jack Mathurin,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,63,Laag,Gemiddeld,Goed,Goed
+"Conservation officer, historic buildings",Oscar de Groot,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Anders,Gescheiden,Werkloos,Woonboot,Beginner,35,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Manufacturing systems engineer,Elisa van Mook,F,Somalisch,Hoog,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,39,Gemiddeld,Gemiddeld,Slecht,Slecht
+Tax inspector,Carlijn Bouthoorn,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,77,Laag,Goed,Goed,Slecht
+"Engineer, maintenance",Sara Wooning,M,Nederlands,Hoog,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,62,Hoog,Goed,Slecht,Gemiddeld
+Aeronautical engineer,Kate Noordijk-Cosman,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,WO,Atheïstisch,Gescheiden,Fulltime,Appartement,Expert,19,Gemiddeld,Goed,Goed,Gemiddeld
+Energy manager,Merel van Wallaert,F,Chinees,Gemiddeld,Samenwonend,Links,VWO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,84,Laag,Goed,Slecht,Slecht
+Estate agent,Wessel Michielsen-van Embden,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Parttime,Appartement,Advanced,89,Hoog,Gemiddeld,Goed,Gemiddeld

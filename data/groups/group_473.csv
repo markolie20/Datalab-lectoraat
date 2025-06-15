@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Aid worker,Youssef de Beer,M,Chinees,Laag,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Fulltime,Studio,Intermediate,49,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Fish farm manager,Kevin Rouwenhorst-Oennen,M,Roemeens,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Gescheiden,Fulltime,Vrijstaand,Beginner,33,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Youth worker,Evie Helmerhorst,M,Somalisch,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,31,Laag,Gemiddeld,Slecht,Slecht
+Retail manager,Esmee VI-van Venrooy,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,59,Hoog,Slecht,Gemiddeld,Gemiddeld
+Medical technical officer,Leon Fremie,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,39,Laag,Gemiddeld,Slecht,Goed
+"Therapist, occupational",Loïs Rijn,M,Syrisch,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Beginner,88,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, structural",Elisabeth van Noordeloos,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,28,Gemiddeld,Slecht,Goed,Gemiddeld
+Magazine journalist,Lenn Olthof-Carnotte,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Woonboot,Beginner,80,Laag,Gemiddeld,Goed,Slecht
+Advice worker,Elize van der Pol,M,Antilliaans,Hoog,Alleenstaand,Links,HBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,49,Laag,Goed,Slecht,Gemiddeld
+"Engineer, structural",Evelien Garret,M,Nederlands,Hoog,Alleenstaand,Midden,VWO,Hindoeïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,83,Hoog,Slecht,Gemiddeld,Slecht
+Chartered legal executive (England and Wales),"Faas Werl-Arnsberg, van-Klerks",M,Duits,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,47,Laag,Goed,Goed,Gemiddeld

@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Local government officer,Meike Nedermeijer-van Mispelen,F,Roemeens,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Zelfstandig,Vrijstaand,Advanced,87,Hoog,Slecht,Gemiddeld,Gemiddeld
+Make,Esther van der Maath-de Jong,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,63,Laag,Slecht,Slecht,Gemiddeld
+Paediatric nurse,Senn Mulders-van Henegouwen,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,59,Gemiddeld,Goed,Goed,Goed
+"Librarian, public",Mare Beourgeois,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,98,Laag,Slecht,Gemiddeld,Slecht
+"Psychologist, occupational",Tess van Gent,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Appartement,Beginner,87,Laag,Goed,Goed,Gemiddeld
+"Scientist, research (physical sciences)",Jesper van den Berg,F,Turks,Laag,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Intermediate,60,Laag,Gemiddeld,Slecht,Gemiddeld
+Personnel officer,Puk Pieters van der Maes,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,63,Laag,Slecht,Slecht,Gemiddeld
+Statistician,Bastiaan Heerschop-Kleijse,M,Turks,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,82,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Training and development officer,Nisa Saxo,F,Antilliaans,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,37,Hoog,Goed,Gemiddeld,Gemiddeld
+Tree surgeon,Mehmet Le Marec,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,51,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Midwife,Maryam van den Assem,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Boeddhistisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,47,Hoog,Gemiddeld,Goed,Gemiddeld
+Training and development officer,Bente Perck,M,Turks,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Intermediate,38,Gemiddeld,Goed,Gemiddeld,Goed

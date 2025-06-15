@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Accommodation manager,Dylan le Briel,F,Pools,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Student,Twee-onder-een-kap,Beginner,64,Laag,Gemiddeld,Gemiddeld,Goed
+Art therapist,Puk Doesburg,F,Nederlands,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Expert,79,Laag,Slecht,Gemiddeld,Goed
+Psychotherapist,Jamie van Dam,M,Indiaas,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Studio,Expert,32,Gemiddeld,Goed,Goed,Slecht
+"Lighting technician, broadcasting/film/video",Ryan Geerling-van Dokkum,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,37,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, drama",Thomas Vertooren,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Advanced,20,Laag,Slecht,Gemiddeld,Goed
+Clothing/textile technologist,Rik Miner,M,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Land,Benthe Mens,F,Pools,Hoog,Alleenstaand met kinderen,Rechts,MBO,Boeddhistisch,Gehuwd,Parttime,Woonboot,Beginner,48,Laag,Slecht,Goed,Slecht
+Horticultural therapist,Ninthe Oemencs,F,Afghaans,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,36,Hoog,Gemiddeld,Gemiddeld,Slecht
+Press photographer,Niek Labado,F,Syrisch,Laag,Samenwonend,Rechts,HBO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,89,Laag,Goed,Slecht,Slecht
+Pension scheme manager,Ivan Mathurin,F,Turks,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Advanced,32,Laag,Goed,Gemiddeld,Slecht

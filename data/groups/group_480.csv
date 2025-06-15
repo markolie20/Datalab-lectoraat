@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Financial controller,Fabiënne van den Berg,M,Antilliaans,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,48,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Surgeon,Yasmine Gervais,F,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,88,Laag,Gemiddeld,Gemiddeld,Slecht
+Retail manager,Joey Huberts-Zijlemans,M,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Digibeet,72,Laag,Gemiddeld,Goed,Gemiddeld
+Product/process development scientist,Sepp van Wickerode,M,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,75,Gemiddeld,Gemiddeld,Slecht,Slecht
+Geographical information systems officer,Eva Saxo,M,Spaans,Laag,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Intermediate,84,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Accountant, chartered certified",Kiki van Vlaanderen-Koeman,M,Chinees,Hoog,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Intermediate,44,Laag,Goed,Goed,Goed
+Chartered loss adjuster,Mees van Wickerode-Wendt,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,26,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Publishing copy,Jayden Kloppert,F,Chinees,Hoog,Samenwonend met kinderen,Rechts,HBO,Anders,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,38,Gemiddeld,Goed,Goed,Gemiddeld
+"Scientist, biomedical",Yfke Krabbe,F,Marokkaans,Hoog,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,78,Laag,Goed,Goed,Goed
+Toxicologist,Jolijn de Vroege,F,Afghaans,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,27,Gemiddeld,Slecht,Gemiddeld,Goed
+"Runner, broadcasting/film/video",Alyssa de Keijser,F,Chinees,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,41,Hoog,Gemiddeld,Goed,Goed
+"Investment banker, corporate",Keano Osterhoudt,M,Afghaans,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,47,Laag,Slecht,Gemiddeld,Gemiddeld
+"Editor, film/video",Yara Boers,F,Afghaans,Hoog,Alleenstaand,Rechts,HAVO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,20,Laag,Slecht,Gemiddeld,Goed
+"Engineer, manufacturing systems",Beau de Nijs,M,Indonesisch,Hoog,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,81,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Teaching laboratory technician,Mara de Groot,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Digibeet,62,Laag,Slecht,Goed,Slecht

@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Licensed conveyancer,Cas Rijcken-van Veen,M,Surinaams,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Digibeet,42,Gemiddeld,Goed,Gemiddeld,Goed
+Make,Cornelis van der Smeede,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,26,Laag,Goed,Goed,Gemiddeld
+Tax inspector,Phileine Zuidweg,F,Nederlands,Hoog,Samenwonend,Midden,Basisonderwijs,Boeddhistisch,Ongehuwd,Parttime,Vrijstaand,Beginner,43,Gemiddeld,Goed,Gemiddeld,Goed
+Horticultural therapist,Louise Ligtvoet,M,Antilliaans,Gemiddeld,Samenwonend,Links,MBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Intermediate,32,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Legal secretary,David Jones,F,Marokkaans,Hoog,Samenwonend,Midden,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,28,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Web designer,Hanna Zijlmans,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,25,Gemiddeld,Slecht,Gemiddeld,Goed
+Hospital pharmacist,Dex de Reede-Opmans,M,Duits,Gemiddeld,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,56,Hoog,Slecht,Gemiddeld,Gemiddeld
+Health promotion specialist,Florian van der Loo-Versluijs,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,85,Hoog,Gemiddeld,Gemiddeld,Slecht
+Museum education officer,Melle Schuylenborch,M,Afghaans,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Advanced,22,Hoog,Goed,Gemiddeld,Gemiddeld
+Solicitor,Tyler Willemsen,F,Nederlands,Laag,Samenwonend,Midden,WO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Pensions consultant,Tygo van Es,M,Bulgaars,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gescheiden,Werkloos,Appartement,Advanced,23,Laag,Gemiddeld,Goed,Gemiddeld
+"Production assistant, radio",Thijs Engels,M,Chinees,Hoog,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,61,Hoog,Slecht,Goed,Gemiddeld
+Actor,Daan Carnotte,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gehuwd,Student,Vrijstaand,Expert,41,Laag,Goed,Goed,Gemiddeld
+Museum/gallery conservator,Juul Terry,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,WO,Islamitisch,Gescheiden,Parttime,Appartement,Intermediate,63,Gemiddeld,Gemiddeld,Goed,Goed
+Counselling psychologist,Benthe Wolzak,F,Eritrees,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,41,Laag,Goed,Gemiddeld,Goed
+Physiotherapist,Kyan van Breukelveen,F,Chinees,Hoog,Samenwonend,Rechts,WO,Atheïstisch,Ongehuwd,Fulltime,Studio,Beginner,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Production designer, theatre/television/film",Wesley van Mare,F,Chinees,Laag,Samenwonend,Links,VWO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,69,Gemiddeld,Slecht,Slecht,Goed
+Engineering geologist,Maartje van Gelder,M,Indonesisch,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,72,Hoog,Gemiddeld,Goed,Goed
+Land,Janna Meis,F,Syrisch,Gemiddeld,Alleenstaand,Links,HAVO,Atheïstisch,Gescheiden,Fulltime,Woonboot,Beginner,78,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Adult nurse,Julie Bezemer-Sas,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,75,Gemiddeld,Goed,Slecht,Goed
+"Designer, textile",Daan van den Bergh,M,Duits,Laag,Alleenstaand,Links,MBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,87,Gemiddeld,Slecht,Goed,Gemiddeld
+Exercise physiologist,Sepp Pons,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,VWO,Hindoeïstisch,Weduwe/Weduwnaar,Zelfstandig,Appartement,Beginner,46,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Engineering geologist,Nina Geldens,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,28,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Public house manager,Faye le Gallen-Koster,M,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,73,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Psychiatric nurse,Ceylin van Maaren,F,Nederlands,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,42,Laag,Gemiddeld,Gemiddeld,Slecht
+"Nurse, children's",Daniël Lether-Jones,F,Indiaas,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,72,Hoog,Slecht,Goed,Gemiddeld
+Volunteer coordinator,Maxim Weyland-Postma,M,Surinaams,Laag,Samenwonend,Links,VMBO,Joods,Gescheiden,Zelfstandig,Appartement,Beginner,46,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Dispensing optician,Senn Galenzone-Wolfsdr,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Digibeet,91,Laag,Gemiddeld,Slecht,Goed
+Medical sales representative,Luna van Amstel,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Advanced,40,Hoog,Slecht,Slecht,Gemiddeld
+"Lecturer, further education",Marijn Rousselet,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Expert,74,Laag,Slecht,Goed,Goed
+Rural practice surveyor,Anne Fechant,F,Portugees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,63,Gemiddeld,Slecht,Gemiddeld,Slecht
+Environmental education officer,Micha Jaceps,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,83,Laag,Slecht,Gemiddeld,Goed
+"Editor, commissioning",Eliza van Praagh-Broeshart,F,Roemeens,Hoog,Samenwonend,Links,WO,Christelijk,Gehuwd,Zelfstandig,Appartement,Expert,57,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Firefighter,Mike van Es,M,Nederlands,Hoog,Alleenstaand,Rechts,WO,Boeddhistisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Expert,42,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Politician's assistant,Amin Wilmont,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Anders,Gescheiden,Fulltime,Appartement,Advanced,28,Hoog,Slecht,Goed,Gemiddeld
+Charity fundraiser,Anne Kleybrink,F,Somalisch,Laag,Samenwonend met kinderen,Midden,VWO,Islamitisch,Ongehuwd,Werkloos,Woonboot,Beginner,92,Laag,Goed,Goed,Gemiddeld
+Dancer,Teun van Schevinghuizen,M,Duits,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Advanced,54,Laag,Gemiddeld,Goed,Goed
+"Research officer, government",Kai Freshour-Mathieu,M,Duits,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,64,Hoog,Goed,Gemiddeld,Goed
+Horticultural therapist,Cornelis van Dillen,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Expert,78,Laag,Gemiddeld,Slecht,Gemiddeld
+"Civil engineer, contracting",Zeynep Bastiaanse,F,Surinaams,Laag,Samenwonend met kinderen,Midden,MBO,Anders,Gehuwd,Parttime,Rijtjeshuis,Beginner,73,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, therapeutic",Riley Adriaensdr,M,Duits,Gemiddeld,Samenwonend,Links,VMBO,Anders,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Beginner,62,Gemiddeld,Gemiddeld,Goed,Slecht
+Fast food restaurant manager,Elizabeth van de Ven,M,Irakees,Gemiddeld,Samenwonend,Links,VMBO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,62,Laag,Slecht,Gemiddeld,Goed
+Fashion designer,Lindsey de Kale,F,Turks,Hoog,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,18,Hoog,Slecht,Goed,Slecht
+Government social research officer,Fabiënne Rippey,M,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Studio,Expert,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Retail banker,Guusje Geneart,F,Duits,Laag,Alleenstaand met kinderen,Midden,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Hoog,Gemiddeld,Slecht,Gemiddeld
+Risk manager,Leah van de Leemput-Mosley,F,Duits,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Gescheiden,Werkloos,Rijtjeshuis,Beginner,88,Hoog,Goed,Gemiddeld,Gemiddeld
+Metallurgist,Nienke Velderman,F,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Digibeet,84,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Pension scheme manager,Lara Coret-Coredo-Tuithof,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,63,Laag,Goed,Slecht,Goed
+"Sales professional, IT",Elisa van der Horst,M,Surinaams,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,59,Hoog,Goed,Slecht,Gemiddeld
+"Surveyor, mining",Elena van Wickerode,M,Nederlands,Hoog,Alleenstaand,Rechts,VWO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,50,Gemiddeld,Goed,Goed,Slecht
+Medical sales representative,Keano van der Flaas,F,Turks,Hoog,Samenwonend met kinderen,Midden,HBO,Joods,Gescheiden,Fulltime,Twee-onder-een-kap,Advanced,55,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Metallurgist,Nisa van Ghoerle,M,Afghaans,Hoog,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,37,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Doctor, hospital",Ilse van der Laan,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,36,Gemiddeld,Slecht,Gemiddeld,Goed
+"Psychologist, forensic",Zakaria van de Ven,F,Nederlands,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gescheiden,Student,Vrijstaand,Beginner,39,Laag,Gemiddeld,Goed,Gemiddeld
+"Editor, film/video",Evy Roose,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,84,Laag,Gemiddeld,Goed,Gemiddeld
+Web designer,Jolie Remmers,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,90,Gemiddeld,Goed,Gemiddeld,Goed
+Technical sales engineer,Youssef Blewanus,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,66,Laag,Gemiddeld,Gemiddeld,Gemiddeld

@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Psychologist, clinical",Kyra Latier,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,72,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Professor Emeritus,Vincent Roodesteijn-de Keijzer,M,Surinaams,Laag,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,66,Hoog,Slecht,Gemiddeld,Goed
+Animator,Cas Willems van Lier,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,66,Laag,Goed,Gemiddeld,Goed
+Fitness centre manager,Dylan Kleybrink,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,60,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Microbiologist,Janna van der Heijden,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Appartement,Intermediate,58,Laag,Goed,Gemiddeld,Goed
+Statistician,Sami Elsenaar,F,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,81,Hoog,Goed,Gemiddeld,Gemiddeld
+Osteopath,Colin Mudden,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Gescheiden,Zelfstandig,Appartement,Advanced,86,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Surveyor, quantity",Mila van der Schuijt,F,Marokkaans,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,64,Gemiddeld,Gemiddeld,Slecht,Goed
+Public relations account executive,Willem de Groot,M,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Advanced,24,Hoog,Goed,Gemiddeld,Goed
+Operations geologist,Brian Beekman,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Beginner,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, drama",Jim Genefaas-Jochems,F,Nederlands,Laag,Alleenstaand,Midden,WO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,95,Laag,Slecht,Gemiddeld,Gemiddeld
+Music tutor,Elisabeth Dircken,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,72,Gemiddeld,Goed,Goed,Slecht
+Psychotherapist,Fenna Vial,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Parttime,Appartement,Beginner,75,Laag,Slecht,Slecht,Gemiddeld
+Games developer,Fay die Pelser,F,Antilliaans,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Intermediate,92,Gemiddeld,Slecht,Gemiddeld,Slecht

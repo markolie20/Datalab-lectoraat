@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Dancer,Evi van den Velden,F,Italiaans,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,80,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Facilities manager,Noortje Blaak-Freshour,F,Nederlands,Laag,Samenwonend,Rechts,WO,Islamitisch,Gehuwd,Werkloos,Appartement,Beginner,30,Gemiddeld,Goed,Gemiddeld,Slecht
+Armed forces training and education officer,Siem van 't Riet-Walsteijn,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,60,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Customer service manager,Lily Rousselet,M,Turks,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, art",Aaliyah Mathieu,F,Nederlands,Gemiddeld,Alleenstaand,Links,VWO,Boeddhistisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,20,Laag,Goed,Goed,Gemiddeld
+"Scientist, research (medical)",Maurits Leguit,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Anders,Gescheiden,Student,Twee-onder-een-kap,Intermediate,75,Laag,Gemiddeld,Slecht,Slecht
+Secondary school teacher,Kian Verhoeven,F,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,45,Laag,Gemiddeld,Gemiddeld,Slecht
+"Conservation officer, nature",Charlotte van Noordeloos,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,WO,Joods,Gehuwd,Parttime,Appartement,Beginner,42,Laag,Slecht,Gemiddeld,Gemiddeld
+Cytogeneticist,Brent van Eck,M,Chinees,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,81,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Administrator, local government",Azra Geneart,M,Italiaans,Hoog,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,93,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Agricultural consultant,Olivier Bolkesteijn,M,Chinees,Laag,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,59,Hoog,Slecht,Slecht,Gemiddeld
+"Education officer, community",Eva Verheuvel,M,Pools,Gemiddeld,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,76,Laag,Slecht,Gemiddeld,Goed
+Planning and development surveyor,Stella van Doorn-Giselmeyer,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,71,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Waste management officer,Rik Nieuwstraten,M,Duits,Hoog,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,62,Laag,Gemiddeld,Goed,Gemiddeld
+"Development worker, international aid",Ibrahim Wendt,F,Nederlands,Laag,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Student,Studio,Intermediate,64,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Heritage manager,Stan Kisman-Schuylenborch,F,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,38,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, audiological",Jonas van Haarlem,F,Nederlands,Laag,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Student,Appartement,Beginner,58,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Phytotherapist,Kiki Berends-Feenstra,F,Turks,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,51,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Television/film/video producer,Suus de Kok,F,Nederlands,Laag,Samenwonend,Links,HAVO,Anders,Gehuwd,Parttime,Appartement,Intermediate,67,Laag,Goed,Goed,Goed
+Hospital pharmacist,Beau Dircken-Neuzerling,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HAVO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Advanced,74,Laag,Gemiddeld,Slecht,Gemiddeld
+Furniture designer,Senna van Opper-Lotharingen,F,Nederlands,Laag,Alleenstaand met kinderen,Links,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,34,Hoog,Goed,Slecht,Goed
+Fisheries officer,Giovanni van Tours,M,Turks,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Woonboot,Advanced,97,Gemiddeld,Goed,Goed,Gemiddeld

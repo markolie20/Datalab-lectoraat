@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Designer, industrial/product",Anna van der Zijl,M,Marokkaans,Laag,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Beginner,25,Laag,Goed,Gemiddeld,Gemiddeld
+Call centre manager,Emily Broekhoven,M,Eritrees,Gemiddeld,Samenwonend,Midden,VWO,Islamitisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,92,Hoog,Gemiddeld,Goed,Gemiddeld
+"Buyer, retail",Maaike van Soest,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,94,Hoog,Gemiddeld,Slecht,Slecht
+Music therapist,Danique Phillipsen,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Zelfstandig,Woonboot,Beginner,61,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Rural practice surveyor,Philip Lommert,F,Bulgaars,Laag,Samenwonend met kinderen,Rechts,VMBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,89,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Ergonomist,Vincent van Leeuwen,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HAVO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,38,Laag,Gemiddeld,Goed,Gemiddeld
+"Production assistant, radio",Louise van Engeland-Veenendaal,M,Chinees,Hoog,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,96,Laag,Goed,Goed,Gemiddeld
+Holiday representative,Jayson Dekker,M,Spaans,Laag,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Student,Rijtjeshuis,Intermediate,89,Laag,Goed,Slecht,Gemiddeld
+Hydrographic surveyor,Janna Huijzing,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Digibeet,85,Gemiddeld,Slecht,Gemiddeld,Goed
+Amenity horticulturist,Pim Blees,F,Nederlands,Laag,Alleenstaand,Rechts,HBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,20,Hoog,Goed,Gemiddeld,Gemiddeld
+Best boy,Kyan van de Leemput-Arent,M,Afghaans,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,68,Laag,Slecht,Gemiddeld,Gemiddeld
+Air traffic controller,Brian van 't Houteveen-Goudriaan,M,Surinaams,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,29,Laag,Gemiddeld,Goed,Gemiddeld
+Advertising copywriter,Amina de Keijser-Claesner,F,Nederlands,Laag,Alleenstaand,Links,MBO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,65,Laag,Goed,Gemiddeld,Gemiddeld
+Pensions consultant,Nova Martens,M,Indiaas,Laag,Samenwonend,Links,HAVO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Digibeet,97,Laag,Slecht,Gemiddeld,Gemiddeld
+"Physicist, medical",Féline Geertsen-Vrancken,M,Chinees,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,84,Hoog,Goed,Slecht,Gemiddeld
+"Therapist, occupational",Thijmen Willemsen,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,35,Hoog,Gemiddeld,Goed,Slecht
+"Psychologist, occupational",Milo van de Ven,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,37,Laag,Goed,Slecht,Goed
+"Engineer, aeronautical",Sam Dirven,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,90,Hoog,Gemiddeld,Goed,Slecht
+Proofreader,Joep van Wijland,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Studio,Beginner,47,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Horticultural consultant,Fien van den Henst,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, horticultural",Anouk Janssens,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Joods,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,94,Hoog,Goed,Slecht,Slecht
+"Surveyor, commercial/residential",Tristan van der Schuijt-Langevoort,F,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Anders,Gehuwd,Fulltime,Appartement,Expert,85,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Fish farm manager,Dave Bernaards,F,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Hindoeïstisch,Gehuwd,Parttime,Studio,Expert,67,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Insurance broker,Matthijs Dennenberg-Winnrich,M,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,89,Gemiddeld,Gemiddeld,Slecht,Goed

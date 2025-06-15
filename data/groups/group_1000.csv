@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Doctor, general practice",Karlijn Oda,F,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Hindoeïstisch,Gehuwd,Zelfstandig,Vrijstaand,Advanced,32,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Marine scientist,Keano van Rijnsbergen,F,Irakees,Laag,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,72,Hoog,Goed,Gemiddeld,Slecht
+Make,Dina Peterse-van Wel,M,Antilliaans,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,63,Laag,Slecht,Goed,Gemiddeld
+"Engineer, water",Adam Louws,M,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Student,Appartement,Digibeet,24,Laag,Gemiddeld,Goed,Slecht
+Diagnostic radiographer,Nora Beekman-Pastoors,M,Syrisch,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,72,Gemiddeld,Gemiddeld,Goed,Slecht
+Research scientist (maths),Luke van der Leek,M,Chinees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,80,Laag,Slecht,Goed,Gemiddeld
+Community education officer,Luka van der Klijn-Wildschut,M,Afghaans,Laag,Alleenstaand,Midden,VWO,Joods,Ongehuwd,Parttime,Vrijstaand,Beginner,44,Laag,Gemiddeld,Gemiddeld,Goed
+English as a second language teacher,Maryam Rippey,F,Indonesisch,Laag,Samenwonend,Midden,HAVO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,20,Laag,Slecht,Gemiddeld,Gemiddeld
+Colour technologist,Lise Potters,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Joods,Ongehuwd,Fulltime,Appartement,Advanced,19,Laag,Slecht,Gemiddeld,Gemiddeld
+Electronics engineer,Mads Woutersz,M,Chinees,Hoog,Samenwonend,Links,MBO,Joods,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,81,Gemiddeld,Goed,Slecht,Goed
+Therapeutic radiographer,Sami van Ginkel,F,Irakees,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Werkloos,Woonboot,Beginner,83,Gemiddeld,Gemiddeld,Goed,Slecht
+"Therapist, speech and language",Alicia Billung-van Noort,M,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Gemiddeld,Goed,Slecht,Goed

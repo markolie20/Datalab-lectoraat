@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Electronics engineer,Nova Moet-Genefaas,M,Roemeens,Laag,Alleenstaand,Midden,WO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,69,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Minerals surveyor,Fien van der Mast,M,Somalisch,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Digibeet,72,Laag,Goed,Goed,Gemiddeld
+Estate manager/land agent,Robin van Riet,F,Irakees,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,79,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Geneticist, molecular",Jesper Spaan-Passchiers,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gescheiden,Werkloos,Appartement,Beginner,77,Laag,Gemiddeld,Goed,Gemiddeld
+Volunteer coordinator,David Brisee,M,Antilliaans,Laag,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Intermediate,93,Hoog,Goed,Gemiddeld,Slecht
+Community development worker,Milo van Voorst,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,87,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Psychotherapist, dance movement",Mirte Ansems,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,33,Laag,Gemiddeld,Gemiddeld,Goed
+Lexicographer,Ties Mansvelt,F,Nederlands,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Student,Appartement,Beginner,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, furniture",Victor de Grunt-Stange,M,Eritrees,Hoog,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,86,Hoog,Goed,Gemiddeld,Gemiddeld
+"Physicist, medical",Aaliyah Oemencs-Koster,F,Irakees,Gemiddeld,Alleenstaand,Rechts,HAVO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,46,Gemiddeld,Goed,Gemiddeld,Slecht
+"Pilot, airline",Stef Schrant,M,Marokkaans,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,95,Gemiddeld,Goed,Goed,Gemiddeld

@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Lecturer, higher education",Jente van Geffen,M,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,45,Laag,Gemiddeld,Gemiddeld,Goed
+Hotel manager,Sander Otto,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,WO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Advanced,68,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Records manager,Jason Boer,F,Portugees,Hoog,Alleenstaand,Midden,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Cabin crew,Sanne Huijzing,F,Surinaams,Hoog,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,80,Hoog,Gemiddeld,Gemiddeld,Slecht
+Furniture designer,Milan Arts-Buijs,M,Roemeens,Hoog,Alleenstaand,Links,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,44,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Geographical information systems officer,Puk Wutke,F,Turks,Hoog,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,46,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Engineer, manufacturing",Catharina de Bruin,M,Marokkaans,Laag,Samenwonend met kinderen,Links,VMBO,Joods,Ongehuwd,Zelfstandig,Appartement,Digibeet,36,Hoog,Gemiddeld,Goed,Goed
+Ceramics designer,Ninthe van Arnsberg,F,Chinees,Laag,Alleenstaand,Midden,MBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Beginner,25,Laag,Goed,Slecht,Gemiddeld
+Stage manager,Sanne Bronder,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,94,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Volunteer coordinator,Thijs Groenendaal-Jekel,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Beginner,91,Laag,Gemiddeld,Goed,Slecht
+"Librarian, academic",Isabelle Peeters,M,Turks,Gemiddeld,Alleenstaand,Midden,WO,Islamitisch,Gescheiden,Gepensioneerd,Appartement,Advanced,94,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Architect,Dewi Verheuvel,F,Chinees,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,51,Laag,Goed,Gemiddeld,Slecht

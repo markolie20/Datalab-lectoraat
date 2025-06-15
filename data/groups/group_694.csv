@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Occupational hygienist,Vigo Mansvelt,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,38,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Comptroller,Sander Oda,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,54,Laag,Gemiddeld,Goed,Goed
+Secretary/administrator,Liz Brugman,M,Duits,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,58,Laag,Goed,Gemiddeld,Goed
+"Accountant, chartered",Kayleigh van Gils,F,Turks,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,41,Laag,Gemiddeld,Goed,Slecht
+Radio producer,Jorn van der Schuijt,F,Pools,Gemiddeld,Alleenstaand,Rechts,WO,Anders,Gehuwd,Gepensioneerd,Appartement,Beginner,76,Laag,Gemiddeld,Goed,Gemiddeld
+Patent examiner,Jayda van den Heuvel,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Advanced,80,Gemiddeld,Slecht,Slecht,Slecht
+Farm manager,Isa Wouters-Terry,M,Nederlands,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,95,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, land",Amy van Ginneke,M,Indiaas,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Gescheiden,Zelfstandig,Vrijstaand,Beginner,91,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Sport and exercise psychologist,Amy Rubben-Boers,F,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,54,Laag,Gemiddeld,Gemiddeld,Slecht
+Advertising account planner,Julie van de Noordmark,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Joods,Ongehuwd,Gepensioneerd,Appartement,Expert,37,Hoog,Gemiddeld,Goed,Gemiddeld
+Bookseller,Aya Bosch,F,Indonesisch,Laag,Samenwonend,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,51,Laag,Slecht,Gemiddeld,Goed
+Mechanical engineer,Vince Jacobs,M,Surinaams,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Parttime,Appartement,Advanced,56,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Patent attorney,Yinthe Ferran,F,Turks,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,24,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Social researcher,Ayoub Lamotte,F,Marokkaans,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,99,Hoog,Gemiddeld,Gemiddeld,Goed

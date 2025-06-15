@@ -1,0 +1,34 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Stage manager,Matthijs Dirksen,F,Chinees,Laag,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,72,Gemiddeld,Slecht,Goed,Goed
+Claims inspector/assessor,Michelle van der Horst,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,48,Laag,Goed,Gemiddeld,Gemiddeld
+"Designer, multimedia",Siem van den Bosch,F,Nederlands,Hoog,Alleenstaand,Midden,WO,Islamitisch,Ongehuwd,Parttime,Woonboot,Advanced,70,Laag,Gemiddeld,Slecht,Slecht
+Facilities manager,Tobias van de Pavert,M,Nederlands,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,36,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Technical brewer,Lina Waltrade Walderade-de Gruijl,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Expert,61,Hoog,Gemiddeld,Goed,Slecht
+Merchant navy officer,Kyano de Vos,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Joods,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Production assistant, television",Johannes Thatcher-Romijn,F,Nederlands,Laag,Samenwonend,Links,HAVO,Anders,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,72,Laag,Gemiddeld,Gemiddeld,Slecht
+Chartered management accountant,Maaike Geertsen,M,Surinaams,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Advanced,71,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Call centre manager,Catharina Spanhaak,F,Nederlands,Laag,Samenwonend,Midden,VWO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,67,Laag,Gemiddeld,Gemiddeld,Goed
+"Nurse, children's",Milan de Hoogh,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Christelijk,Gescheiden,Gepensioneerd,Woonboot,Intermediate,72,Laag,Gemiddeld,Goed,Gemiddeld
+Armed forces logistics/support/administrative officer,Tim van Metz,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,82,Laag,Goed,Gemiddeld,Slecht
+Records manager,Thom Luster-van der Laarse,M,Surinaams,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Digibeet,92,Laag,Goed,Slecht,Goed
+Research scientist (maths),Tijn Doornhem-van Kusen,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,48,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Optometrist,Nynke Die Bont,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,89,Laag,Slecht,Slecht,Gemiddeld
+Television floor manager,Ashley Verhagen,M,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,60,Gemiddeld,Gemiddeld,Goed,Slecht
+Special educational needs teacher,Bryan Huls,M,Surinaams,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Werkloos,Woonboot,Intermediate,56,Laag,Gemiddeld,Slecht,Gemiddeld
+"Designer, blown glass/stained glass",Nadia van den Wittenboer-Eckhardt,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,22,Hoog,Slecht,Slecht,Goed
+Higher education careers adviser,Jorn van der Velden-Lambregt,M,Bulgaars,Laag,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Student,Twee-onder-een-kap,Intermediate,99,Laag,Goed,Goed,Gemiddeld
+Neurosurgeon,Boris Spruyt,M,Antilliaans,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Digibeet,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Meteorologist,Xavi Timmermans,F,Turks,Laag,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Studio,Intermediate,65,Laag,Gemiddeld,Gemiddeld,Goed
+Equities trader,Megan Rubben,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Expert,46,Laag,Gemiddeld,Goed,Goed
+General practice doctor,Valentijn van Dalem,M,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Anders,Weduwe/Weduwnaar,Student,Appartement,Intermediate,38,Gemiddeld,Goed,Gemiddeld,Goed
+Publishing copy,Stefan Huel,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,37,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Magazine journalist,Thijs Broek,M,Irakees,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Beginner,82,Gemiddeld,Goed,Slecht,Goed
+Holiday representative,Zoë van de Klashorst,M,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,86,Laag,Gemiddeld,Gemiddeld,Slecht
+Barista,Luka Hofman,M,Indiaas,Laag,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Advanced,85,Laag,Gemiddeld,Gemiddeld,Goed
+Recruitment consultant,Boaz Kwaadland-Overeem,M,Marokkaans,Hoog,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,31,Hoog,Goed,Gemiddeld,Gemiddeld
+Theme park manager,Esther van Jumiège,F,Surinaams,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,59,Hoog,Gemiddeld,Gemiddeld,Goed
+Lexicographer,Evelien Lutterveld,M,Antilliaans,Laag,Samenwonend met kinderen,Links,VMBO,Joods,Gescheiden,Student,Rijtjeshuis,Expert,19,Laag,Slecht,Gemiddeld,Gemiddeld
+"Designer, jewellery",Zara van Schweinfurt-Cornelissen,F,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,90,Hoog,Gemiddeld,Gemiddeld,Slecht
+Industrial/product designer,Kaylee Smit-van Dooren,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Studio,Expert,78,Hoog,Goed,Gemiddeld,Gemiddeld
+Furniture conservator/restorer,Jill Huberts,M,Portugees,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Parttime,Studio,Intermediate,46,Laag,Gemiddeld,Gemiddeld,Goed
+"Scientist, research (life sciences)",Mika van Laarhoven,M,Antilliaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Student,Appartement,Beginner,91,Gemiddeld,Gemiddeld,Goed,Gemiddeld

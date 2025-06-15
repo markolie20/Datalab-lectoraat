@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Energy manager,Lina Rietveld,M,Antilliaans,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,76,Laag,Goed,Gemiddeld,Goed
+"Production designer, theatre/television/film",Brent van der Schuijt,F,Antilliaans,Laag,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,41,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Psychotherapist, dance movement",Sepp van der Lede-van de Elzas,M,Nederlands,Laag,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Student,Appartement,Expert,29,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+IT consultant,Hanna Ligtvoet,M,Turks,Laag,Alleenstaand met kinderen,Rechts,MBO,Joods,Gescheiden,Fulltime,Appartement,Intermediate,89,Hoog,Goed,Gemiddeld,Gemiddeld
+"Administrator, Civil Service",Amy van Breugel-van Ochten,M,Antilliaans,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Hindoeïstisch,Gehuwd,Student,Rijtjeshuis,Expert,57,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Animal technologist,Elise de Smit,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,35,Gemiddeld,Goed,Goed,Gemiddeld
+Herbalist,Owen Stuivenberg,M,Marokkaans,Gemiddeld,Samenwonend,Midden,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,60,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Graphic designer,Rowan Kok,M,Indonesisch,Laag,Samenwonend met kinderen,Links,VWO,Boeddhistisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,37,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Radiographer, diagnostic",Livia Horrocks-Dachgelder,F,Syrisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,82,Hoog,Gemiddeld,Slecht,Gemiddeld
+Occupational therapist,Noor Verheij-Cosman,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,27,Laag,Goed,Gemiddeld,Gemiddeld
+Nature conservation officer,Wouter Boer,M,Somalisch,Gemiddeld,Alleenstaand,Midden,HAVO,Anders,Ongehuwd,Fulltime,Vrijstaand,Beginner,55,Hoog,Goed,Goed,Gemiddeld
+Actuary,Kevin Gervais-Hakker,M,Irakees,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Student,Twee-onder-een-kap,Expert,18,Laag,Goed,Gemiddeld,Gemiddeld

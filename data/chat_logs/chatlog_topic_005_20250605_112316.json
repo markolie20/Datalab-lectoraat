@@ -1,0 +1,1164 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2023-10-23T00:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi allemaal! Ik ben benieuwd wat jullie vinden van de huidige stand van het onderwijs in onze gemeente. Wat zouden we volgens jullie kunnen verbeteren?\n",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 1,
+    "timestamp": "2023-10-23T00:10:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ik vind dat er meer aandacht moet komen voor praktische vaardigheden! 💪 Niet alleen maar boeken en theorie.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 2,
+    "timestamp": "2023-10-23T00:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! Meer praktijk is top! 💯 Alsof je alleen maar leert over fietsen zonder ooit te fietsen. 🙄",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 3,
+    "timestamp": "2023-10-23T00:45:00",
+    "sender": "Arthur van Dillen",
+    "text": "Precies! Meer praktijklessen! 🤩 En minder huiswerk! 😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 4,
+    "timestamp": "2023-10-23T07:05:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemorgen! Ik ben het helemaal met Arthur eens! Meer praktijk is heel erg belangrijk! Kinderen moeten leren door te doen! En minder huiswerk, dat scheelt ook een hoop stress!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 5,
+    "timestamp": "2023-10-23T07:15:00",
+    "sender": "Juliette de Keijser",
+    "text": "Mee eens! Praktijk is cruciaal! En die berg huiswerk moet echt minder! Die arme kinderen! Ze hebben toch ook een leven?!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 6,
+    "timestamp": "2023-10-23T07:55:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, helemaal mee eens! Praktijk is echt essentieel! En minder huiswerk, ja! Die kinderen moeten ook kunnen spelen! En uitrusten! Dat is ook belangrijk!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 7,
+    "timestamp": "2023-10-23T08:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemorgen. Ik ben het grotendeels eens met de behoefte aan meer praktijkgericht onderwijs. De huidige focus op theorie is niet altijd effectief.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 8,
+    "timestamp": "2023-10-23T08:10:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemorgen! Ik ben het eens met Gerrit. Meer praktijkgericht onderwijs is inderdaad belangrijk! De theorie is soms wat te abstract!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 9,
+    "timestamp": "2023-10-23T08:15:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemorgen allemaal! 👋 Ben het eens met Norah! Die theorie is soms echt saai en abstract! Meer praktijk zou top zijn! 🤩",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 10,
+    "timestamp": "2023-10-23T08:20:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemorgen! Inderdaad Jordy! Meer praktijk zou een goede aanvulling zijn! De theorie is soms erg lastig te volgen!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 11,
+    "timestamp": "2023-10-23T08:30:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemorgen allemaal! Ik ben het eens met Norah en Gerrit. De theorie is soms erg abstract, dat herken ik wel. Meer praktijkgerichte lessen lijkt me een goede ontwikkeling.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 12,
+    "timestamp": "2023-10-23T08:35:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemorgen! Eens met Evi. Praktijkgericht onderwijs is belangrijk!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 13,
+    "timestamp": "2023-10-23T08:45:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemorgen Daphne! Helemaal mee eens! Praktijkgericht onderwijs is belangrijk! Veel belangrijker dan al die saaie theorie!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 14,
+    "timestamp": "2023-10-23T08:50:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemorgen! 👋 Juliette, helemaal mee eens! Meer praktijk is echt nodig! En minder huiswerk! Die kinderen moeten ook kunnen spelen! 🤩",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 15,
+    "timestamp": "2023-10-23T08:55:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemorgen! 👋 Ik vind dat Jordy gelijk heeft! Meer praktijk is inderdaad nodig! Minder huiswerk ook! Die kinderen moeten ook kind kunnen zijn!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 16,
+    "timestamp": "2023-10-23T09:00:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemorgen Maria! Helemaal mee eens! Minder huiswerk is zeker een goed idee!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 17,
+    "timestamp": "2023-10-23T09:05:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemorgen allemaal. Sluit me aan bij Daphne, meer praktijkgericht onderwijs lijkt me een prima idee. Dat is een stuk nuttiger dan alleen maar die boeken.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 18,
+    "timestamp": "2023-10-23T09:10:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemorgen Jason! 👋 Helemaal mee eens! Meer praktijk is echt nodig! Die boeken zijn soms zo saai! En minder huiswerk natuurlijk! 😉",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 19,
+    "timestamp": "2023-10-23T09:15:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemorgen Jordy! 👋 Ik ben het helemaal met je eens. Meer praktijk is inderdaad nodig. Die kinderen moeten ook kunnen spelen! En minder huiswerk, dat is heel belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 20,
+    "timestamp": "2023-10-23T09:20:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemorgen Evi! Inderdaad, minder huiswerk is ook belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 21,
+    "timestamp": "2023-10-23T09:25:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemorgen Daphne! Ben het met je eens. Minder huiswerk zou zeker helpen, maar ik denk dat we ook moeten kijken naar de inhoud van de lessen. Niet alles wat in die boeken staat is even relevant.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 22,
+    "timestamp": "2023-10-23T09:30:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemorgen iedereen. Ik vind ook dat er gekeken moet worden naar de kwaliteit van de leraren. Goede leraren maken het verschil, ongeacht of er praktijk- of theorielessen gegeven worden. Daar moet meer in geïnvesteerd worden.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 23,
+    "timestamp": "2023-10-23T09:35:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemorgen. Mee eens met Jason. Kwaliteit van de leerkrachten is essentieel.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 24,
+    "timestamp": "2023-10-23T09:40:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemorgen Gerrit! 👋 Helemaal mee eens! Kwaliteit van de leraren is super belangrijk! En minder huiswerk!!! 😉",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 25,
+    "timestamp": "2023-10-23T09:45:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemorgen Jordy! 👋 Eens, goede leraren zijn cruciaal, en die boeken zijn inderdaad niet altijd even boeiend. Investeer in goede leraren én in betere lesmethodes.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 26,
+    "timestamp": "2023-10-23T09:50:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemorgen! Inderdaad Jason! De kwaliteit van de leerkrachten is van essentieel belang! Daar moet inderdaad meer in geïnvesteerd worden!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 27,
+    "timestamp": "2023-10-23T09:55:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemorgen Norah! 👋 Inderdaad, goede leraren zijn heel belangrijk! En minder huiswerk!!! 😉 Dat is ook belangrijk!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 28,
+    "timestamp": "2023-10-23T10:00:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Morgen allemaal,\n\nJordy, helemaal gelijk! Minder huiswerk echt! Die kinderen zitten al de hele dag op school. En goeie leraren zijn belangrijk, dat klopt ook. Moeten ze meer betalen!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 29,
+    "timestamp": "2023-10-23T10:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Morgen! 🙋‍♀️ Inderdaad Isabelle, minder huiswerk! En goede leraren, daar ben ik het helemaal mee eens! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 30,
+    "timestamp": "2023-10-23T10:10:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemorgen! Arthur, helemaal mee eens! Minder huiswerk is inderdaad nodig! En goede leraren zijn van groot belang! Daar moet zeker meer in worden geïnvesteerd!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 31,
+    "timestamp": "2023-10-23T10:15:00",
+    "sender": "Arthur van Dillen",
+    "text": "Goedemorgen! 👋 Minder huiswerk is echt nodig! En goede leraren zijn super belangrijk! 💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 32,
+    "timestamp": "2023-10-23T10:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Goedemorgen! 👋 Eens! Minder huiswerk en betere leraren! 👍 En misschien wat meer leuke dingen op school?! 🎉",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 33,
+    "timestamp": "2023-10-23T10:25:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemorgen. Minder huiswerk en betere leraren zijn inderdaad belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 34,
+    "timestamp": "2023-10-23T10:30:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Morgen Gerrit. Minder huiswerk ja. Maar leraren. Ik weet het niet hoor. Goede leraren zijn duur! En dan? Dan hebben we nog steeds niks. Meer praktijk! En minder van die saaie boeken!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 35,
+    "timestamp": "2023-10-23T10:35:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemorgen Isabelle! Minder huiswerk is inderdaad een goede zaak! Maar goede leraren zijn ook essentieel! Daar moet zeker in worden geïnvesteerd!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 36,
+    "timestamp": "2023-10-23T10:40:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemorgen. Ik sluit me aan bij de opmerkingen over minder huiswerk. Dat lijkt mij een goede zaak.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 37,
+    "timestamp": "2023-10-23T10:45:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemorgen. Minder huiswerk is een goed begin, maar ik denk dat we ook moeten kijken naar de manier waarop kinderen les krijgen. Praktijkgericht leren is belangrijk, maar de basis moet wel goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 38,
+    "timestamp": "2023-10-23T10:50:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemorgen. Noëlle heeft een punt. De basis moet goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 39,
+    "timestamp": "2023-10-23T10:55:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemorgen. Inderdaad Gerrit, de basis is belangrijk, maar het moet wel leuk blijven voor de kinderen.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 40,
+    "timestamp": "2023-10-23T11:00:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemorgen. Inderdaad, de basis is belangrijk. Maar minder huiswerk zou ook goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 41,
+    "timestamp": "2023-10-23T11:05:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Yo Senna! Minder huiswerk sowieso! Maar de basis is ook belangrijk, right?🤔 Moet gewoon chill zijn op school, geen stress 💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 42,
+    "timestamp": "2023-10-23T11:10:00",
+    "sender": "Lukas Verhagen",
+    "text": "Goedemorgen allemaal!\n\nIk weet het niet hoor, die jeugd van tegenwoordig. Minder huiswerk, ja. Maar de basis moet wel goed zijn, vind ik. Anders leren ze niks. En die Eliza, \"chill zijn op school\"... Pff!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 43,
+    "timestamp": "2023-10-23T11:20:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Morgen Lukas. Jeugd van tegenwoordig? Pfff! En die chill school. Ja, minder huiswerk en goeie leraren. Meer praktijk! Die boeken zijn saai.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 44,
+    "timestamp": "2023-10-23T11:30:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Isabelle, chill toch! 🤣 Minder huiswerk is top, maar die leraren moeten ook gewoon ff snappen hoe ze kids motiveren man. Die boeken zijn echt saai, laten we eerlijk zijn. Meer praktijk is de key!🔑💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 45,
+    "timestamp": "2023-10-23T11:35:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Morgen Eliza. Snappen hoe ze kids motiveren? Ja! Dat is wat ik zeg! Die boeken zijn echt saai! Meer praktijk! Precies!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 46,
+    "timestamp": "2023-10-23T11:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Morgen Eliza! Precies! Meer praktijk. En die leraren moeten de kinderen snappen. Anders leren ze niks. Ik vind dat ze ook naar de ouders moeten luisteren! We weten toch wat het beste is voor onze kinderen? Minder van die boeken en meer actie!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 47,
+    "timestamp": "2023-10-23T11:50:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemorgen. Inderdaad Isabelle, meer praktijk is nodig.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 48,
+    "timestamp": "2023-10-23T11:55:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Minder huiswerk is goed. En inderdaad meer praktijk. Goeie leraren is ook belangrijk. Maar die boeken zijn zo saai!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 49,
+    "timestamp": "2023-10-23T12:00:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Bibi, precies wat ik zeg! Die boeken zijn echt kut. Minder huiswerk, meer praktijk en die leraren moeten gewoon chill zijn en snappen wat kids willen. 💯🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 50,
+    "timestamp": "2023-10-23T12:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Morgen! 👋 Eliza heeft gelijk! 💯 Die boeken zijn echt saai! Minder huiswerk en meer praktijk is de key! 🎉 En leraren moeten chill zijn! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 51,
+    "timestamp": "2023-10-23T12:10:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens Arthur! Die boeken zijn KUT en saai. Meer praktijk is de KEY! En die leraren moeten ff wakker worden.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 52,
+    "timestamp": "2023-10-23T12:15:00",
+    "sender": "Arthur van Dillen",
+    "text": "Morgen! 👋 Inderdaad Bibi! 💯 Die boeken zijn echt saai! Minder huiswerk en meer praktijk! 🎉 Leraren moeten chill zijn! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 53,
+    "timestamp": "2023-10-23T12:30:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemorgen. Arthur heeft gelijk. Minder huiswerk en meer praktijk is goed.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 54,
+    "timestamp": "2023-10-23T12:35:00",
+    "sender": "Lukas Verhagen",
+    "text": "Goedemorgen.\n\nMinder huiswerk, dat is misschien wel goed. Maar die basis, die moet wel goed zijn. Anders leren ze niks. En die Senna, die moet ook opletten.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 55,
+    "timestamp": "2023-10-23T12:40:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemorgen. Lukas heeft gelijk. De basis moet goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 56,
+    "timestamp": "2023-10-23T12:45:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Lukas, chill man! 🤣 Minder huiswerk is top, maar die basis moet ook gewoon kloppen. En Senna, check m'n vorige bericht! We zijn het eens, toch? Minder huiswerk, meer praktijk, en die leraren moeten gewoon ff snappen wat kids willen!🔥💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 57,
+    "timestamp": "2023-10-23T12:50:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemorgen. Eliza heeft gelijk. Minder huiswerk en meer praktijk is nodig. De basis moet ook kloppen.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 58,
+    "timestamp": "2023-10-23T12:55:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemorgen allemaal! Minder huiswerk is prima! Maar die basis moet goed zijn hoor! Anders leer je niks! En die praktijk, ja, dat is ook belangrijk!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 59,
+    "timestamp": "2023-10-23T13:05:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Juliette! Chill, minder huiswerk is top, maar die basis moet inderdaad kloppen! 💯 Practijk is de key, maar we moeten die leraren ook ff wakker schudden! 😴🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 60,
+    "timestamp": "2023-10-23T13:10:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ey Eliza! Helemaal mee eens! Minder huiswerk, meer praktijk, en die leraren moeten niet zo saai zijn. Moeten gewoon ff wakker worden en kids snappen!💯🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 61,
+    "timestamp": "2023-10-23T13:15:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ey Bibi, helemaal eens! 💯 Die boeken zijn echt saai! Minder huiswerk is top, meer praktijk! En die leraren moeten gewoon ff de kids snappen, toch? 🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 62,
+    "timestamp": "2023-10-23T13:20:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemorgen.\nMinder huiswerk, akkoord. Maar de basis moet wel degelijk goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 63,
+    "timestamp": "2023-10-23T13:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens Gerrit! Minder huiswerk, meer praktijk en die leraren moeten gewoon ff wakker worden! De basis MOET goed zijn, maar die boeken zijn echt saai!\n💯🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 64,
+    "timestamp": "2023-10-23T13:30:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Jup, precies! Minder huiswerk, meer praktijk! En die leraren moeten gewoon ff LEUK zijn! Die boeken zijn echt saai! 💯🔥",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 65,
+    "timestamp": "2023-10-23T13:35:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Bibi!💯🔥 Precies wat ik zeg! Minder huiswerk, meer praktijk en die leraren moeten gewoon ff LEUK zijn! Die boeken zijn echt saai!🤯😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 66,
+    "timestamp": "2023-10-23T13:40:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ey Bibi!💯🔥 Precies! Minder huiswerk, meer praktijk, en die leraren moeten gewoon ff LEUK zijn! Die boeken zijn echt saai!🤯😴 We moeten die kids gewoon motiveren man!💯🔥 En die basis moet wel goed zijn, dat is waar!🤝",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 67,
+    "timestamp": "2023-10-23T13:45:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemiddag.\n\nIk moet zeggen, ik ben het wel eens met de gedachte dat er meer praktijk moet zijn. Ik zie wel vaak dat de jeugd tegenwoordig minder de basiskennis lijkt te hebben.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 68,
+    "timestamp": "2023-10-23T13:50:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ey Noëlle! 👋 Ik ben het helemaal eens met meer praktijk! 💯 En die basis moet ook top zijn! 🤓 En die leraren moeten gewoon ff de kids snappen! 🔥 Die boeken zijn echt saai! 😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 69,
+    "timestamp": "2023-10-23T13:55:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ey Morris! Helemaal mee eens man! Minder huiswerk, MEER praktijk en die leraren moeten gewoon ff de kids SNAPPEN! Die boeken zijn echt saai! 🔥💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 70,
+    "timestamp": "2023-10-23T14:00:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ey Bibi! 🔥💯 Precies! Minder huiswerk, meer praktijk en die leraren moeten gewoon ff de kids snappen! 🤯 Die boeken zijn echt saai! 😴 Maar de basis moet ook goed zijn! 🤓",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 71,
+    "timestamp": "2023-10-23T14:05:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemiddag. Morris heeft gelijk. De basis moet goed zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 72,
+    "timestamp": "2023-10-23T14:10:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag. Senna, de basis moet solide zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 73,
+    "timestamp": "2023-10-23T14:15:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemiddag!\n\nMinder huiswerk, ja! Maar de basis moet solide zijn! Dat klopt! En die leraren, die moeten de jeugd wel aan kunnen spreken!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 74,
+    "timestamp": "2023-10-23T14:20:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemiddag. Norah heeft gelijk. De basis moet solide zijn.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 75,
+    "timestamp": "2023-10-23T14:25:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemiddag. Senna, de basis is inderdaad belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 76,
+    "timestamp": "2023-10-23T14:30:00",
+    "sender": "Lukas Verhagen",
+    "text": "Goedemiddag allemaal.\n\nDie basis is heel belangryk, ja. Maar Noëlle, ik ben het met je eens. Die leraren, die moeten wel weten hoe ze met die jeugd om moeten gaan. Ze moeten ze motiveren! Niet alleen maar die saaie boeken.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 77,
+    "timestamp": "2023-10-23T14:40:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemiddag! Lukas, u heeft gelijk! Die leraren moeten inderdaad de jeugd kunnen motiveren! Die saaie boeken moeten weg! De basis is echter wel essentieel!!!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 78,
+    "timestamp": "2023-10-23T14:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ey Norah! 👋 Helemaal mee eens! Die leraren moeten inderdaad de jeugd snappen! 🔥 En die saaie boeken... 😴 Minder huiswerk, MEER praktijk! Maar die basis moet wel top zijn! 🤓💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 79,
+    "timestamp": "2023-10-23T14:50:00",
+    "sender": "Maja Stinis",
+    "text": "Ey Morris! 💯🔥 Minder huiswerk is top! Maar die basis moet wel kloppen! En die leraren moeten de jeugd gewoon snappen! Die boeken zijn echt saai! 🤯😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 80,
+    "timestamp": "2023-10-23T14:55:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemiddag. \n\nHet is inderdaad belangrijk dat de basis goed is. Minder huiswerk kan een goede zaak zijn, maar de essentie van het onderwijs mag niet verloren gaan.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 81,
+    "timestamp": "2023-10-23T15:00:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Minder huiswerk is akkoord. Basis is cruciaal.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 82,
+    "timestamp": "2023-10-23T15:05:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag.\n\nIk ben het grotendeels eens met de opmerkingen van de heren Borman-Haneberg. De basis is van essentieel belang. Minder huiswerk kan wellicht een optie zijn, mits de leerstof voldoende beklijft.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 83,
+    "timestamp": "2023-10-23T15:10:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemiddag!\n\nDave, helemaal mee eens! Die basis is essentieel! Minder huiswerk, ja, maar de leerstof moet wel beklijven! En die leraren, die moeten de jeugd motiveren! Die saaie boeken weg ermee!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 84,
+    "timestamp": "2023-10-23T15:20:00",
+    "sender": "Maja Stinis",
+    "text": "Ey Norah! 💯🔥 Helemaal mee eens! Minder huiswerk, ja! Maar de basis MOET kloppen! En die leraren moeten gewoon ff de jeugd snappen! Die boeken zijn echt saai! 🤯😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 85,
+    "timestamp": "2023-10-23T15:30:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemiddag!\n\nMaja, helemaal waar! Minder huiswerk, de basis moet kloppen! De leraren moeten de jeugd begrijpen!!! Die boeken, die zijn inderdaad saai!!!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 86,
+    "timestamp": "2023-10-23T15:35:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag. Inderdaad, de basis is cruciaal. Minder huiswerk, meer aandacht voor de basisvaardigheden.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 87,
+    "timestamp": "2023-10-23T15:40:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Goedemiddag!\n\nGerrit, helemaal mee eens! De basis is cruciaal!!! Minder huiswerk, meer aandacht voor die basisvaardigheden! En die leraren, die moeten de jeugd begrijpen! Die saaie boeken moeten echt weg!!!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 88,
+    "timestamp": "2023-10-23T15:45:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemiddag.\n\nNorah, ik ben het met je eens. De basis is belangrijk, en de jeugd moet zich kunnen ontwikkelen. Minder huiswerk kan misschien helpen.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 89,
+    "timestamp": "2023-10-23T15:50:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag.\n\nMevrouw Ellis, ik ben het met u eens. De basis is de fundering. Zonder een goede basis kan men niet verder bouwen.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 90,
+    "timestamp": "2023-10-23T16:10:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag.\n\nHet is goed om te zien dat er zoveel aandacht is voor de basis. Daar ben ik het volledig mee eens. Zonder een goede basis, geen succes.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 91,
+    "timestamp": "2023-10-23T16:15:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Goedemiddag.\n\nDe heren Lorreijn en Borman-Haneberg spreken wijze woorden.\n\nDe basis is immers van essentieel belang. Zonder een solide fundament kan men geen succes boeken.\n\nIk ben het dan ook eens met de opmerkingen over minder huiswerk, mits de leerstof voldoende beklijft.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 92,
+    "timestamp": "2023-10-23T16:25:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag.\n\nDank u, meneer Hendrikse. Een solide basis is essentieel, zoals ik eerder al aangaf. En inderdaad, minder huiswerk kan overwogen worden, mits de leerstof goed beklijft.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 93,
+    "timestamp": "2023-10-23T16:30:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag. \n\nIk wil graag benadrukken dat de rol van de ouders in de opvoeding en het leerproces niet onderschat mag worden. De basis wordt thuis gelegd.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 94,
+    "timestamp": "2023-10-23T16:45:00",
+    "sender": "Dave Lorreijn",
+    "text": "Goedemiddag.\n\nMijnheer Hendrikse, u spreekt wijze woorden. Het is inderdaad van cruciaal belang dat ouders een actieve rol spelen.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 95,
+    "timestamp": "2023-10-23T17:00:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemiddag!\n\nMijnheer Lorreijn, u heeft een punt. Ouders spelen een cruciale rol.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 96,
+    "timestamp": "2023-10-23T17:05:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag! Mevrouw Uittenbosch, u heeft helemaal gelijk! De ouders zijn erg belangrijk. Thuis begint het allemaal, hè. Zonder steun van de ouders lukt het toch niet.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 97,
+    "timestamp": "2023-10-23T17:10:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemiddag! Eens met je over die ouders. Thuis begint het, dat klopt. Maar laten we ook niet vergeten dat we leraren nodig hebben die hun vak verstaan en de jeugd kunnen motiveren. Die saaie boeken moeten gewoon weg.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 98,
+    "timestamp": "2023-10-23T17:15:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag!\n\nInderdaad, die leraren moeten de jeugd kunnen motiveren! En die saaie boeken.. weg ermee! De basis is natuurlijk wel essentieel!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 99,
+    "timestamp": "2023-10-23T17:20:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemiddag!\n\nMevrouw Chotzen, helemaal mee eens! Leraren moeten de jeugd motiveren. Die boeken…tja, weg ermee! De basis, ja, essentieel.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 100,
+    "timestamp": "2023-10-23T17:25:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag! Mevrouw Uittenbosch, helemaal waar!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 101,
+    "timestamp": "2023-10-23T17:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Goedemiddag! 👋\n\nMaria, helemaal mee eens! Die leraren moeten de jeugd snappen! 💯 En die boeken... weg ermee! 🗑️ De basis is wel belangrijk, ja! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 102,
+    "timestamp": "2023-10-23T17:40:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemiddag! Arthur, helemaal mee eens! Die leraren moeten de jeugd snappen, en die boeken moeten inderdaad weg. Misschien moeten we ook eens kijken naar hoe de lessen worden gegeven, iets praktischer!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 103,
+    "timestamp": "2023-10-23T17:45:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag!\n\nJason, eens! Praktischer lesgeven, dat is het! Die saaie boeken... bah!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 104,
+    "timestamp": "2023-10-23T17:50:00",
+    "sender": "Jason Brievingh",
+    "text": "Goedemiddag! Maria, helemaal mee eens! Praktischer lesgeven is echt nodig, en die saaie boeken moeten weg! Misschien wat meer aandacht voor de praktijk, en minder uit die boeken...",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 105,
+    "timestamp": "2023-10-23T17:55:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag! Jason, helemaal mee eens! Meer praktijk is inderdaad belangrijk. En die saaie boeken... laten we die maar snel vergeten!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 106,
+    "timestamp": "2023-10-23T18:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag!\n\nInderdaad, meer praktijkles is goed! En die boeken, weg ermee!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 107,
+    "timestamp": "2023-10-23T18:05:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag! Juliette, helemaal mee eens! Meer praktijkles is inderdaad een goede zaak. En die boeken, die zijn vaak zo saai... Weg ermee! We moeten de kinderen iets interessants bieden, zodat ze ook echt willen leren.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 108,
+    "timestamp": "2023-10-23T18:10:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag! Eens, meer praktijklessen! Die boeken zijn vaak vreselijk saai!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 109,
+    "timestamp": "2023-10-23T18:20:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag! Inderdaad, Juliette! Die saaie boeken... verschrikkelijk! En meer praktijklessen, daar ben ik het helemaal mee eens!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 110,
+    "timestamp": "2023-10-23T18:25:00",
+    "sender": "Jordy van Praagh",
+    "text": "Goedemiddag! 👋 Maria, helemaal mee eens! Die leraren moeten de jeugd snappen! En die boeken moeten inderdaad weg! 💯 En meer praktijklessen is ook top! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 111,
+    "timestamp": "2023-10-23T18:30:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag! Helemaal eens met meer praktijklessen! Die boeken zijn echt niet leuk!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 112,
+    "timestamp": "2023-10-23T18:35:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag! Meer praktijkles is echt nodig! Die saaie boeken moeten weg!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 113,
+    "timestamp": "2023-10-23T18:45:00",
+    "sender": "Arthur van Dillen",
+    "text": "Goedemiddag! 👋\n\nEens! Meer praktijkles! 🙌 Die boeken zijn echt saai! 👎",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 114,
+    "timestamp": "2023-10-23T18:50:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag! Arthur, helemaal mee eens! Die boeken, die zijn vaak zo saai. Weg ermee! En meer praktijklessen, dat is inderdaad een goede zaak. We moeten de kinderen iets interessants bieden, zodat ze ook echt willen leren.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 115,
+    "timestamp": "2023-10-23T18:55:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag! Ja, meer praktijkles is echt nodig! Die saaie boeken moeten weg! Eens met Evi!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 116,
+    "timestamp": "2023-10-23T19:00:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Goedemiddag! 👋\n\nEens! Meer praktijklessen en die saaie boeken weg! 💯📖 Het is echt nodig om de jeugd te motiveren! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 117,
+    "timestamp": "2023-10-23T19:05:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag! Morris, helemaal mee eens! Meer praktijklessen, JA! En weg met die saaie boeken!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 118,
+    "timestamp": "2023-10-23T19:10:00",
+    "sender": "Senna de Kale",
+    "text": "Goedemiddag. Ik ben het eens met mevrouw Chotzen. De boeken zijn vaak niet interessant.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 119,
+    "timestamp": "2023-10-23T19:15:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag.\n\nIk ben het ook helemaal met je eens! Die boeken zijn vaak zo saai! Maar, we moeten ook kijken naar de invloed van de ouders!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 120,
+    "timestamp": "2023-10-23T19:20:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Goedemiddag\n\nEens met Marit over die ouders. Thuis begint het toch. Maar die boeken, weg ermee!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 121,
+    "timestamp": "2023-10-23T19:25:00",
+    "sender": "Jordy van Praagh",
+    "text": "Adriana, helemaal mee eens! Die ouders zijn ook heel belangrijk, natuurlijk! Maar die boeken, ja, weg ermee! 💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 122,
+    "timestamp": "2023-10-23T19:30:00",
+    "sender": "Lukas Verhagen",
+    "text": "Goedemiddag!\n\nDie boeken.. weg ermee! \n\nMaar die ouders, hoor! Die moeten ook opletten!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 123,
+    "timestamp": "2023-10-23T19:35:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Goedemiddag! 👋\n\nLukas, helemaal mee eens! Ouders moeten zeker ook opletten! Maar die boeken... weg ermee! 🗑️ Praktijklessen zijn de toekomst! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 124,
+    "timestamp": "2023-10-23T19:40:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Goedemiddag!\n\nEens, Morris! Ouders moeten inderdaad opletten! Maar die boeken... weg ermee!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 125,
+    "timestamp": "2023-10-23T19:45:00",
+    "sender": "Juliette de Keijser",
+    "text": "Goedemiddag! Inderdaad Daphne! Die ouders moeten ook opletten! Maar die boeken, weg ermee! Meer praktijklessen is de toekomst!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 126,
+    "timestamp": "2023-10-23T19:50:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Hallo allemaal,\n\nMeer praktijkles is inderdaad goed! Die boeken zijn ook echt saai. En die ouders moeten wel opletten hoor!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 127,
+    "timestamp": "2023-10-23T19:55:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag! Isabelle, helemaal mee eens! Die ouders, die moeten inderdaad opletten. Maar die boeken, daar moeten we echt vanaf. Meer praktijklessen is de sleutel tot succes!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 128,
+    "timestamp": "2023-10-23T20:00:00",
+    "sender": "Matthias Mijsberg",
+    "text": "Goedemiddag. Eens met Evi. Ouders zijn ook belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 129,
+    "timestamp": "2023-10-23T20:05:00",
+    "sender": "Kyara Oennen",
+    "text": "Goedemiddag! Matthias, ik ben het met je eens dat ouders een rol spelen. Maar laten we niet vergeten dat de focus in het onderwijs op de kinderen zelf moet liggen. Die saaie boeken moeten echt weg! Meer praktijklessen, dat is de toekomst!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 130,
+    "timestamp": "2023-10-23T20:10:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag.\n\nIk sluit me aan bij degenen die de nadruk op praktijklessen leggen. De theorie is belangrijk, maar praktische vaardigheden zijn cruciaal voor de toekomst.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 131,
+    "timestamp": "2023-10-23T20:15:00",
+    "sender": "Isa van der Pol",
+    "text": "Goedemiddag allemaal! Gerrit, helemaal mee eens! Praktijklessen zijn zooooo belangrijk! Die boeken zijn echt saai!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 132,
+    "timestamp": "2023-10-23T20:20:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag.\n\nHet belang van praktische vaardigheden is alom bekend.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 133,
+    "timestamp": "2023-10-23T20:25:00",
+    "sender": "Isa van der Pol",
+    "text": "Hallo! Gerrit, helemaal gelijk! Praktijkles is echt nodig! Die boeken zijn vaak zoooo saai!!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 134,
+    "timestamp": "2023-10-23T20:30:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag.\n\nInderdaad, praktische vaardigheden zijn essentieel.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 135,
+    "timestamp": "2023-10-23T20:35:00",
+    "sender": "Maja Stinis",
+    "text": "Hoi! Gerrit heeft gelijk! Praktijklessen zijn echt de shit! Die boeken zijn echt saai! 🤪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 136,
+    "timestamp": "2023-10-23T20:40:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag!\n\nMaja, ik vind dat een beetje een rare opmerking.\n\nWe moeten niet alleen naar de praktijklessen kijken, maar ook naar de basis!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 137,
+    "timestamp": "2023-10-23T20:45:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Marit,\n\nEens! Praktijklessen zijn belangrijk, maar de basis is ook essentieel!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 138,
+    "timestamp": "2023-10-23T20:50:00",
+    "sender": "Matthias Mijsberg",
+    "text": "Goedemiddag. Daphne, eens.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 139,
+    "timestamp": "2023-10-23T20:55:00",
+    "sender": "Kai van der Laar",
+    "text": "Matthias, ja duh, ouders moeten ook opletten! Maar die boeken.. echt hè, weg ermee! En meer praktijklessen, da's de shit! 🤪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 140,
+    "timestamp": "2023-10-23T21:00:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Goedemiddag.\n\nPraktische vaardigheden vormen de kern.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 141,
+    "timestamp": "2023-10-23T21:05:00",
+    "sender": "Kyara Oennen",
+    "text": "Goedemiddag! Ik ben het met Gerrit eens. De praktische vaardigheden zijn cruciaal, maar vergeet de basis niet! Die saaie boeken moeten wel herzien worden, maar we moeten wel zorgen dat de kinderen de basis onder de knie hebben.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 142,
+    "timestamp": "2023-10-23T21:10:00",
+    "sender": "Isa van der Pol",
+    "text": "Goedemiddag allemaal! Kyara, helemaal mee eens! Praktijklessen zijn belangrijk, ja! Maar die boeken.. die zijn echt zooo saai!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 143,
+    "timestamp": "2023-10-23T21:15:00",
+    "sender": "Jonas van Baalen",
+    "text": "Goedemiddag! Isa, ik sluit me helemaal aan bij jouw mening over die boeken! 📚 Die zijn inderdaad vaak saai! Praktijklessen zijn de toekomst! 🚀",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 144,
+    "timestamp": "2023-10-23T21:20:00",
+    "sender": "Isa van der Pol",
+    "text": "Hoi Jonas! Ja, die boeken zijn echt saai!! Helemaal mee eens!! Praktijklessen zijn de toekomst! 🤩",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 145,
+    "timestamp": "2023-10-23T21:25:00",
+    "sender": "Matthias Mijsberg",
+    "text": "Goedemiddag.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 146,
+    "timestamp": "2023-10-23T21:30:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Hallo allemaal,\n\nMatthias, ik denk dat het belangrijk is om praktijklessen te combineren met basisvaardigheden. Die boeken zijn echt saai, maar de basis is ook belangrijk hoor!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 147,
+    "timestamp": "2023-10-23T21:35:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag!\n\nIsabelle, daar ben ik het helemaal mee eens! De basis is belangrijk en die boeken, die zijn echt niet altijd even interessant. We moeten een balans vinden!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 148,
+    "timestamp": "2023-10-23T21:40:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Goedemiddag. Marit heeft gelijk. Basis is belangrijk.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 149,
+    "timestamp": "2023-10-23T21:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Goedemiddag! Adriana, helemaal mee eens! De basis is echt belangrijk. Maar die boeken... 😴 Praktijklessen zijn de toekomst! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 150,
+    "timestamp": "2023-10-23T21:50:00",
+    "sender": "Mia van Oosten",
+    "text": "Goedemiddag. 👋 Morris, helemaal eens! Basis is belangrijk, maar praktijklessen ook. 📚",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 151,
+    "timestamp": "2023-10-23T21:55:00",
+    "sender": "Matthias Mijsberg",
+    "text": "Goedemiddag. Eens met Mia.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 152,
+    "timestamp": "2023-10-23T22:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Goedemiddag! Eens met Mia! Basis is belangrijk, maar praktijklessen zijn echt de shit! 🤩",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 153,
+    "timestamp": "2023-10-23T22:05:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Hoi Arthur! 🤩 Helemaal mee eens! Basis is belangrijk, maar praktijklessen zijn gewoon veel leuker! 💪 Die boeken.. zzz... 😴",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 154,
+    "timestamp": "2023-10-23T22:10:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag!\n\nMorris, ik ben het met je eens dat de basis belangrijk is. Maar we moeten ook kijken naar de manieren waarop we de kinderen stimuleren om te leren! De boeken zijn niet altijd even interessant, maar ze bevatten wel belangrijke informatie. We moeten een balans vinden!",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 155,
+    "timestamp": "2023-10-23T22:15:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag!\n\nWe zijn het er allemaal over eens dat de basis belangrijk is.\n\nMaar hoe kunnen we de kinderen NU beter stimuleren?",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 156,
+    "timestamp": "2023-10-23T22:20:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Hoi Marit! 👋 Ja, helemaal mee eens! Die boeken zijn echt niet altijd even boeiend. Misschien meer gamification? 🎮 En minder van die saaie info! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 157,
+    "timestamp": "2023-10-23T22:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi Morris! 🤩 Gamification is echt top! Meer praktijklessen en minder boeken!! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 158,
+    "timestamp": "2023-10-23T22:30:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Hoi Arthur! 🤩 Ja man, gamification is de shit! Meer praktijk en minder boeken! 👌💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 159,
+    "timestamp": "2023-10-23T22:35:00",
+    "sender": "Jonas van Baalen",
+    "text": "Goedemiddag! Morris, Gamification kan een goede toevoeging zijn, zeker! Meer praktijk en minder boeken, helemaal mee eens! 👍",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 160,
+    "timestamp": "2023-10-23T22:45:00",
+    "sender": "Kai van der Laar",
+    "text": "Jongens, chill! 🤙 Jonas, helemaal mee eens, gamification is wel de shit! 😎 Maar.. die boeken moeten gewoon de kliko in, man! Weg ermee! 🗑️ Meer praktijk, meer actie! 💪",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 161,
+    "timestamp": "2023-10-23T22:50:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Hoi Kai! 😎 Precies! Weg met die boeken! 🗑️ Gamification en praktijklessen, dat is de toekomst! 💪🎮💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 162,
+    "timestamp": "2023-10-23T22:55:00",
+    "sender": "Marit Postma",
+    "text": "Goedemiddag!\n\nMorris, gamification is een interessant idee, maar ik denk dat we ook verder moeten kijken. De boeken kunnen misschien wel herzien worden. Maar ze bevatten ook waardevolle informatie! We moeten een goede balans vinden.",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 163,
+    "timestamp": "2023-10-23T23:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi Marit! 👋 Meer praktijklessen en minder boeken! 💪 Gamification is echt de shit! 🤩",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 164,
+    "timestamp": "2023-10-23T23:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi Marit! 👋 Meer praktijklessen! Gamification! Weg met die boeken! 💪🤩💯",
+    "topic_id": "topic_005"
+  },
+  {
+    "id": 165,
+    "timestamp": "2023-10-23T23:55:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi Marit! 💪 Meer praktijk! Minder boeken! Gamification is de toekomst! 🤩💯",
+    "topic_id": "topic_005"
+  }
+]

@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Secondary school teacher,Julius Engels,M,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,73,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Conservator, museum/gallery",Gerrit Arts,M,Nederlands,Hoog,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,48,Laag,Gemiddeld,Slecht,Gemiddeld
+Chemical engineer,Elise Voortman,M,Somalisch,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,46,Gemiddeld,Goed,Goed,Goed
+Corporate investment banker,Sara van de Coterlet,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Expert,43,Gemiddeld,Slecht,Gemiddeld,Slecht
+Manufacturing engineer,Elias de Werd,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Student,Vrijstaand,Advanced,79,Laag,Gemiddeld,Goed,Slecht
+"Teacher, music",Mason Pastoors,F,Pools,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,41,Hoog,Slecht,Goed,Gemiddeld
+Speech and language therapist,Megan Suijker,F,Indonesisch,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,51,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, prison and probation services",Michael Overeem,F,Marokkaans,Hoog,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Beginner,32,Laag,Slecht,Slecht,Slecht
+"Engineer, automotive",Bart Schiffer,F,Eritrees,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Student,Appartement,Beginner,91,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Lobbyist,Jelle Slagmolen-de Jong,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Studio,Intermediate,32,Laag,Goed,Goed,Gemiddeld
+"Designer, graphic",Maarten Belpere,F,Marokkaans,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Expert,57,Laag,Gemiddeld,Gemiddeld,Goed
+"Secretary, company",Kick Adriaense,M,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Joods,Gehuwd,Parttime,Vrijstaand,Beginner,36,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Pharmacist, hospital",Dave Van Bragt,M,Chinees,Hoog,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Advanced,19,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Electrical engineer,Mats Chotzen,M,Chinees,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,93,Gemiddeld,Slecht,Goed,Gemiddeld
+"Runner, broadcasting/film/video",Nick Korsman,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Advanced,70,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, arts",Joris Jdotte,F,Syrisch,Hoog,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,40,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Sport and exercise psychologist,Sami van Dongen,F,Indonesisch,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,69,Hoog,Slecht,Gemiddeld,Gemiddeld
+Firefighter,Dion Jekel,F,Surinaams,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Gescheiden,Gepensioneerd,Vrijstaand,Intermediate,36,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Designer, jewellery",Nout Pratt-van Beeck Beeckmans,F,Nederlands,Hoog,Alleenstaand,Links,VWO,Atheïstisch,Gehuwd,Werkloos,Twee-onder-een-kap,Beginner,45,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

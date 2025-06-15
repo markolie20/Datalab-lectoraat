@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Merchandiser, retail",Ashley van Luinenburg,M,Surinaams,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,52,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Medical secretary,Lot Puig-Dachgelt,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Woonboot,Beginner,30,Laag,Goed,Gemiddeld,Slecht
+Ceramics designer,Noëlle Room,M,Chinees,Laag,Samenwonend,Rechts,VMBO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Beginner,67,Hoog,Goed,Goed,Goed
+Advertising copywriter,Tristan van Vlaanderen,M,Portugees,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Patent attorney,Vajèn van Ooste,M,Chinees,Hoog,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,88,Gemiddeld,Slecht,Slecht,Gemiddeld
+"Designer, graphic",Jort van Wijland-van der Heyden,M,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,94,Laag,Gemiddeld,Slecht,Gemiddeld
+Barista,Lucy Scheffers,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Student,Studio,Beginner,70,Gemiddeld,Slecht,Gemiddeld,Goed
+"Designer, graphic",Jasper Boer,M,Nederlands,Hoog,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,96,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Photographer,Jip Jacobs,F,Surinaams,Gemiddeld,Samenwonend,Links,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Expert,76,Hoog,Gemiddeld,Gemiddeld,Slecht
+Exhibition designer,Mirthe van de Biezenbos,F,Nederlands,Laag,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,91,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Cartographer,Linde Bresse,M,Marokkaans,Hoog,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,66,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Fitness centre manager,Johanna Wutke,M,Marokkaans,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,36,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Immigration officer,Cornelis van Arkel,M,Nederlands,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gehuwd,Student,Appartement,Beginner,29,Laag,Goed,Gemiddeld,Gemiddeld
+Museum/gallery exhibitions officer,Julius Post,F,Bulgaars,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Joods,Gehuwd,Student,Appartement,Intermediate,96,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Bookseller,Kyan Timmermans,F,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,95,Laag,Gemiddeld,Goed,Goed
+Freight forwarder,Senn Kruns,F,Indonesisch,Laag,Alleenstaand,Rechts,Basisonderwijs,Boeddhistisch,Ongehuwd,Student,Appartement,Beginner,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Banker,Dean Schrik,M,Bulgaars,Gemiddeld,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,25,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Research scientist (medical),Lily de Pauw-van Berkum,F,Chinees,Gemiddeld,Samenwonend,Rechts,VMBO,Joods,Ongehuwd,Parttime,Appartement,Beginner,53,Laag,Goed,Gemiddeld,Gemiddeld
+Graphic designer,Lise Passchiers,F,Turks,Hoog,Alleenstaand met kinderen,Links,HBO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,41,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Contractor,Jinthe de Vrome-Verkade,M,Indonesisch,Hoog,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,38,Laag,Gemiddeld,Goed,Slecht
+Fisheries officer,Jurre Meyer,F,Nederlands,Laag,Samenwonend,Midden,HBO,Hindoeïstisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Advanced,83,Gemiddeld,Goed,Gemiddeld,Slecht
+"Doctor, general practice",Loïs van Verdun,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,61,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Teacher, secondary school",David Pratt,F,Surinaams,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,26,Laag,Goed,Gemiddeld,Slecht
+Barrister's clerk,Thom Bronder-Brouwer,F,Bulgaars,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,18,Gemiddeld,Goed,Gemiddeld,Goed
+"Radiographer, diagnostic",Eline van Evelingen,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,18,Laag,Slecht,Slecht,Goed
+Airline pilot,Isabella Hagendoorn,F,Duits,Hoog,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Intermediate,18,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Exhibitions officer, museum/gallery",Sara Lonen,M,Marokkaans,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Anders,Gehuwd,Fulltime,Appartement,Expert,76,Hoog,Gemiddeld,Goed,Slecht
+Chartered management accountant,Isabella van Leuven,F,Afghaans,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,64,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Medical sales representative,Tim Adriaensdr-Phillipsen,F,Portugees,Laag,Alleenstaand met kinderen,Rechts,WO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,59,Laag,Slecht,Gemiddeld,Goed
+Lawyer,Fay Jansen,F,Roemeens,Gemiddeld,Samenwonend,Midden,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,94,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Lexicographer,Ties van Dijk-van Gelder,F,Syrisch,Hoog,Samenwonend met kinderen,Rechts,HAVO,Anders,Ongehuwd,Student,Appartement,Digibeet,39,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Public relations officer,Luc van Loon,F,Duits,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,40,Laag,Gemiddeld,Goed,Gemiddeld
+Microbiologist,Chris van Engeland,F,Surinaams,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,58,Laag,Goed,Gemiddeld,Gemiddeld
+Risk manager,Jill van de Greef,M,Turks,Laag,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,82,Gemiddeld,Slecht,Goed,Slecht

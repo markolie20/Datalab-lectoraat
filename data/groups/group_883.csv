@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Geophysicist/field seismologist,Seth Jekel,M,Turks,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Gescheiden,Fulltime,Appartement,Advanced,57,Laag,Goed,Goed,Goed
+"Engineer, agricultural",Jonathan Stamrood,M,Turks,Laag,Alleenstaand met kinderen,Links,HBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Beginner,79,Gemiddeld,Slecht,Slecht,Goed
+Call centre manager,Jort Jerusalem,F,Surinaams,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,60,Gemiddeld,Gemiddeld,Slecht,Slecht
+Private music teacher,Samuel Stuivenberg,F,Indiaas,Laag,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,26,Laag,Slecht,Goed,Slecht
+"Engineer, control and instrumentation",David van Dijk,M,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,50,Hoog,Goed,Gemiddeld,Gemiddeld
+Sales executive,Thijmen Moenen,M,Bulgaars,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Beginner,54,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Medical secretary,Meike Moenen,F,Nederlands,Laag,Samenwonend,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,90,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Magazine features editor,Noah Scharroo,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Woonboot,Advanced,63,Hoog,Goed,Slecht,Gemiddeld
+Advertising copywriter,Aiden van Saksen-Woudenberg,F,Turks,Hoog,Alleenstaand,Midden,VMBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,29,Hoog,Gemiddeld,Goed,Slecht
+Academic librarian,Stef Fremie,F,Turks,Laag,Samenwonend,Midden,MBO,Joods,Gescheiden,Werkloos,Twee-onder-een-kap,Intermediate,70,Laag,Gemiddeld,Gemiddeld,Gemiddeld

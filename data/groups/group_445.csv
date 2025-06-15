@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Psychiatrist,Sem Schuylenborch,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Beginner,64,Laag,Gemiddeld,Goed,Gemiddeld
+"Surveyor, building",Bart Noordijk,M,Nederlands,Hoog,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,19,Laag,Gemiddeld,Gemiddeld,Goed
+Furniture designer,Isa van Noordeloos-Hermans,F,Bulgaars,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Werkloos,Vrijstaand,Intermediate,76,Laag,Slecht,Gemiddeld,Gemiddeld
+"Librarian, public",Wouter van Vlaanderen-Lensen,F,Indiaas,Gemiddeld,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Woonboot,Expert,51,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Marine scientist,Lina van Egisheim,M,Nederlands,Hoog,Samenwonend,Midden,HBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Advanced,52,Hoog,Slecht,Goed,Gemiddeld
+Hotel manager,Bilal van der Noot,F,Indiaas,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,75,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, mining",Aylin van Mispelen-van Mare,F,Nederlands,Hoog,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Student,Twee-onder-een-kap,Advanced,63,Laag,Gemiddeld,Goed,Gemiddeld
+Camera operator,Jorn Poncelet,F,Nederlands,Hoog,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,53,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Embryologist, clinical",Sophie Brouwer,F,Spaans,Hoog,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,48,Laag,Gemiddeld,Slecht,Gemiddeld
+Jewellery designer,Fedde van der Meulen,F,Indonesisch,Hoog,Samenwonend,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,64,Laag,Slecht,Goed,Slecht
+Arts administrator,Sara van Beaumont,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,91,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Fashion designer,Jade de Vries,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,92,Laag,Goed,Goed,Goed
+Animator,Max Hoppenbrouwer,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Gescheiden,Fulltime,Vrijstaand,Intermediate,67,Hoog,Slecht,Slecht,Gemiddeld
+Special educational needs teacher,Yfke Geerling-van Verdun,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,38,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Ergonomist,Boris de Swart-Pratt,M,Roemeens,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,49,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Statistician,Rowan van Cuijck,M,Chinees,Gemiddeld,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,62,Laag,Goed,Goed,Gemiddeld
+"Biochemist, clinical",Ian d' Heripon,F,Spaans,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Studio,Beginner,54,Hoog,Gemiddeld,Gemiddeld,Goed
+Physiotherapist,Bryan Evers,M,Irakees,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,78,Laag,Slecht,Gemiddeld,Gemiddeld
+Solicitor,Rik Walter-van Parijs,M,Duits,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,92,Laag,Gemiddeld,Slecht,Gemiddeld
+Geochemist,Bram van der Ploeg,M,Nederlands,Gemiddeld,Samenwonend,Links,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Woonboot,Beginner,49,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Counsellor,Ayden van Maaren,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,39,Laag,Slecht,Goed,Goed
+Equities trader,Johannes de la Fleche,F,Afghaans,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Expert,42,Hoog,Gemiddeld,Goed,Gemiddeld
+"Engineer, drilling",Mats Michielsen,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Joods,Gescheiden,Fulltime,Appartement,Beginner,43,Gemiddeld,Goed,Gemiddeld,Slecht
+"Engineer, electrical",Owen Ligtvoet,F,Turks,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Advanced,51,Gemiddeld,Goed,Slecht,Goed

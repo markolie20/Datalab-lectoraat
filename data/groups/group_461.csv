@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Scientist, biomedical",Amir Kirpenstein-Pison,M,Nederlands,Gemiddeld,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Studio,Advanced,21,Hoog,Slecht,Goed,Slecht
+Customer service manager,Lena van der Plas,F,Nederlands,Hoog,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,62,Gemiddeld,Goed,Slecht,Slecht
+Arboriculturist,Maarten van Kasteelen,F,Antilliaans,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,77,Hoog,Gemiddeld,Goed,Slecht
+Hydrographic surveyor,Kiki Backer,F,Duits,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,96,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dance movement psychotherapist,Isa Jekel,F,Nederlands,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,85,Laag,Gemiddeld,Goed,Gemiddeld
+Chartered certified accountant,Tristan le Gulcher,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,99,Laag,Gemiddeld,Gemiddeld,Goed
+"Production assistant, radio",Noud Wolffel,F,Portugees,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,19,Hoog,Goed,Goed,Goed
+Chief Operating Officer,Ties Huel,M,Pools,Laag,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Woonboot,Beginner,66,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Regulatory affairs officer,Mustafa van Wessex,M,Antilliaans,Hoog,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,36,Laag,Goed,Gemiddeld,Slecht
+Market researcher,Mart Brizee,F,Eritrees,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,95,Laag,Goed,Gemiddeld,Gemiddeld
+"Conservator, furniture",Juliette Lemmens,F,Turks,Laag,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Digibeet,73,Laag,Goed,Gemiddeld,Gemiddeld
+Restaurant manager,Mohammed van Maasgouw,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Parttime,Appartement,Expert,34,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, aeronautical",Aylin Mater,M,Pools,Laag,Samenwonend,Midden,HBO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,96,Laag,Gemiddeld,Slecht,Goed
+Forensic psychologist,Jari Verhaar,M,Afghaans,Hoog,Samenwonend met kinderen,Midden,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,57,Gemiddeld,Goed,Gemiddeld,Goed
+Quality manager,Jelte van Evelingen-Bresé,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,42,Laag,Gemiddeld,Gemiddeld,Slecht
+Secretary/administrator,Jamie Holthuis,M,Turks,Laag,Alleenstaand,Midden,VMBO,Joods,Gescheiden,Werkloos,Appartement,Beginner,65,Laag,Goed,Gemiddeld,Gemiddeld
+Research scientist (medical),Maria Willemsen,M,Syrisch,Gemiddeld,Samenwonend,Links,WO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Advanced,99,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, arts",Jesse Geneart,M,Indiaas,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,74,Laag,Gemiddeld,Gemiddeld,Goed
+Event organiser,Nout Vrancken-Velderman,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,VWO,Anders,Gehuwd,Zelfstandig,Appartement,Advanced,68,Hoog,Goed,Gemiddeld,Gemiddeld
+Art gallery manager,Nynke Joosten,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Studio,Expert,26,Laag,Goed,Gemiddeld,Slecht
+Call centre manager,Lauren van den Velde,M,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,75,Laag,Gemiddeld,Slecht,Slecht
+Animal nutritionist,Matthijs Lamore,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Gehuwd,Zelfstandig,Appartement,Advanced,89,Laag,Gemiddeld,Goed,Goed
+Publishing copy,Féline van Brenen,M,Pools,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Atheïstisch,Gescheiden,Zelfstandig,Studio,Beginner,69,Gemiddeld,Gemiddeld,Slecht,Slecht
+Personnel officer,Milou Mater,F,Nederlands,Laag,Samenwonend,Midden,WO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,87,Laag,Gemiddeld,Slecht,Goed
+Homeopath,Lisanne Hendriks,M,Portugees,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,18,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Public affairs consultant,Jonas Sas,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Studio,Expert,58,Hoog,Goed,Slecht,Goed
+Claims inspector/assessor,Stella van der Heijden-de Werd,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Joods,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,87,Laag,Slecht,Gemiddeld,Goed
+Biomedical scientist,Sophie van Boven,M,Indonesisch,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,86,Gemiddeld,Gemiddeld,Slecht,Slecht
+Energy engineer,Mason Wijland,M,Marokkaans,Gemiddeld,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Rural practice surveyor,Rosa de Roos,F,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Werkloos,Appartement,Digibeet,81,Laag,Slecht,Goed,Slecht
+Site engineer,Mees Elsenaar,M,Nederlands,Hoog,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gehuwd,Student,Vrijstaand,Intermediate,65,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Pension scheme manager,Jordy Blom,M,Irakees,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Armed forces training and education officer,Cornelia van Arkel,F,Nederlands,Laag,Alleenstaand,Rechts,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,96,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Conservation officer, historic buildings",Yfke Fiere,F,Spaans,Gemiddeld,Samenwonend,Rechts,VWO,Anders,Gehuwd,Parttime,Twee-onder-een-kap,Expert,56,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Health and safety adviser,Ninthe Geneart-van Nus,M,Nederlands,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Advanced,37,Laag,Goed,Slecht,Slecht

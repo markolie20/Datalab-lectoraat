@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Quarry manager,Sophie Slagmolen,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,81,Gemiddeld,Slecht,Goed,Goed
+"Administrator, education",Aron Hoedemakers-Alpaidis,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Anders,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,69,Laag,Goed,Gemiddeld,Gemiddeld
+Facilities manager,Amin van der Klein-de Ruiter,M,Nederlands,Laag,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Student,Appartement,Intermediate,57,Laag,Slecht,Slecht,Slecht
+Cartographer,Chloë Waardeloo,M,Marokkaans,Laag,Alleenstaand,Midden,WO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Beginner,47,Gemiddeld,Goed,Goed,Slecht
+"Librarian, academic",Jari Backer,F,Duits,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Gehuwd,Fulltime,Studio,Expert,98,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Electronics engineer,Sebastiaan Koeman,F,Syrisch,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,49,Gemiddeld,Gemiddeld,Slecht,Goed
+Games developer,Lot Ernst,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,98,Laag,Gemiddeld,Goed,Gemiddeld
+Chartered accountant,Puck Huberts,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,60,Laag,Goed,Gemiddeld,Gemiddeld
+Stage manager,Thom van der Avoirt-Schakelaar,F,Turks,Laag,Samenwonend,Rechts,MBO,Anders,Gehuwd,Werkloos,Woonboot,Beginner,18,Hoog,Gemiddeld,Gemiddeld,Goed
+"Engineer, materials",Loes Verharen-Scardino,M,Roemeens,Laag,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Stage manager,Senna van Hulten,F,Eritrees,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,69,Laag,Gemiddeld,Goed,Gemiddeld
+"Therapist, drama",Jan Sam,M,Roemeens,Laag,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Expert,83,Laag,Slecht,Gemiddeld,Gemiddeld
+"Engineer, manufacturing",Pien Heere-Hoeks,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Laag,Goed,Gemiddeld,Gemiddeld

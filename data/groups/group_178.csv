@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Animator,Mia Kerkhof,M,Nederlands,Hoog,Samenwonend,Midden,HAVO,Anders,Gehuwd,Werkloos,Studio,Intermediate,21,Gemiddeld,Slecht,Goed,Gemiddeld
+Multimedia programmer,Mathijs Wildschut,M,Nederlands,Gemiddeld,Alleenstaand,Midden,WO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,25,Gemiddeld,Slecht,Gemiddeld,Goed
+Primary school teacher,Mees Koret,M,Italiaans,Hoog,Alleenstaand,Rechts,HAVO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Advanced,81,Gemiddeld,Slecht,Slecht,Goed
+Heritage manager,Veerle Dachgelder,F,Syrisch,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,31,Gemiddeld,Goed,Goed,Slecht
+"Conservator, furniture",Iris Bosman,F,Nederlands,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,40,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Therapeutic radiographer,Muhammed de Vos-Remmers,M,Somalisch,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,98,Gemiddeld,Slecht,Goed,Gemiddeld
+Race relations officer,Jan de Beer,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Joods,Ongehuwd,Gepensioneerd,Appartement,Intermediate,75,Hoog,Goed,Gemiddeld,Slecht
+Primary school teacher,Jayden Zevenboom,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Links,HBO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Beginner,76,Laag,Gemiddeld,Gemiddeld,Slecht
+Fast food restaurant manager,Ivy Engels,F,Indonesisch,Hoog,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Multimedia specialist,Jente van Oirschot,F,Nederlands,Laag,Samenwonend,Links,VWO,Atheïstisch,Gescheiden,Zelfstandig,Vrijstaand,Intermediate,95,Gemiddeld,Slecht,Slecht,Gemiddeld
+Podiatrist,Siem Matthews,M,Roemeens,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Ongehuwd,Parttime,Woonboot,Intermediate,97,Laag,Gemiddeld,Goed,Goed
+Hospital pharmacist,Isabelle Kunen,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,55,Laag,Gemiddeld,Goed,Gemiddeld

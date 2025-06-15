@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Advertising account planner,Phileine Grondel,M,Pools,Laag,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,52,Laag,Gemiddeld,Goed,Gemiddeld
+Environmental consultant,Jill van der Pouw,F,Indiaas,Laag,Alleenstaand met kinderen,Links,VMBO,Anders,Gescheiden,Parttime,Rijtjeshuis,Intermediate,20,Laag,Goed,Slecht,Goed
+Trade mark attorney,Ivan van Gemert,F,Afghaans,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,64,Laag,Goed,Slecht,Goed
+Geophysical data processor,Britt Broeders-Linschoten,F,Surinaams,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,54,Laag,Slecht,Gemiddeld,Goed
+Minerals surveyor,Ninthe Eerden,M,Nederlands,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,97,Laag,Gemiddeld,Gemiddeld,Goed
+Production manager,Teun van der Meer-Stuivenberg,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Student,Appartement,Beginner,83,Laag,Gemiddeld,Gemiddeld,Goed
+Video editor,Azra van Haspengouw,F,Turks,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,67,Laag,Goed,Gemiddeld,Gemiddeld
+Nature conservation officer,Robin van Vermandois,F,Nederlands,Laag,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,19,Laag,Gemiddeld,Goed,Gemiddeld
+Airline pilot,Amira de Korte,M,Marokkaans,Hoog,Samenwonend,Midden,HBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Beginner,81,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Counsellor,Kim Vertooren,F,Syrisch,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Digibeet,79,Laag,Slecht,Gemiddeld,Gemiddeld
+Armed forces operational officer,Giovanni Wutke,F,Surinaams,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,62,Laag,Gemiddeld,Gemiddeld,Goed
+Public librarian,Nadine van Hostaden-van Metz,M,Portugees,Laag,Samenwonend,Rechts,MBO,Joods,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,73,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Technical brewer,Victoria Coret-Coredo-Heijmen,M,Indiaas,Laag,Samenwonend,Midden,MBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,97,Gemiddeld,Goed,Goed,Slecht

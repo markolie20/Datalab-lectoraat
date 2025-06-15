@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Medical illustrator,Job van den Nuwenhijsen,M,Nederlands,Hoog,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,54,Laag,Goed,Gemiddeld,Goed
+Civil Service administrator,Olaf Vrancken,M,Somalisch,Hoog,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Charity officer,Ivy van Spreeuwel,F,Marokkaans,Laag,Alleenstaand,Midden,VWO,Islamitisch,Gescheiden,Gepensioneerd,Appartement,Intermediate,96,Gemiddeld,Goed,Slecht,Gemiddeld
+Cabin crew,Jason de Vries-Lage,M,Turks,Laag,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,66,Laag,Gemiddeld,Gemiddeld,Goed
+Clinical research associate,Quinten de Gruijter,M,Somalisch,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Beginner,81,Laag,Slecht,Slecht,Gemiddeld
+Occupational psychologist,Max Heinrichs,M,Italiaans,Laag,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,86,Laag,Slecht,Goed,Gemiddeld
+"Accountant, chartered public finance",Milou van der Heyden,M,Duits,Laag,Alleenstaand met kinderen,Midden,MBO,Anders,Ongehuwd,Werkloos,Appartement,Advanced,75,Laag,Slecht,Slecht,Gemiddeld
+Accommodation manager,Kaylee die Bont-Stamrood,F,Chinees,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,53,Gemiddeld,Slecht,Goed,Slecht
+"Pharmacist, community",Thomas Courtier,F,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Studio,Beginner,83,Gemiddeld,Goed,Goed,Slecht
+"Editor, magazine features",Quinten Pasman,M,Antilliaans,Gemiddeld,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,61,Laag,Gemiddeld,Slecht,Gemiddeld
+"Production assistant, radio",Daphne Elbertse-Amalrada,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Joods,Weduwe/Weduwnaar,Werkloos,Appartement,Intermediate,39,Gemiddeld,Slecht,Gemiddeld,Gemiddeld

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Teacher, secondary school",Emir le Gulcher,F,Antilliaans,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,27,Hoog,Goed,Goed,Goed
+Electrical engineer,Daphne Huisman,M,Surinaams,Laag,Samenwonend,Links,VMBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Intermediate,96,Laag,Gemiddeld,Slecht,Goed
+Control and instrumentation engineer,Daan van de Weterink,F,Turks,Hoog,Samenwonend met kinderen,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Advanced,62,Laag,Gemiddeld,Goed,Gemiddeld
+Charity officer,Sienna le Floch,F,Indiaas,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Digibeet,59,Gemiddeld,Gemiddeld,Slecht,Goed
+"Administrator, sports",Pim Boddaugh,M,Indonesisch,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,32,Laag,Goed,Goed,Gemiddeld
+"Buyer, industrial",Amin Schagen,M,Antilliaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gescheiden,Student,Rijtjeshuis,Beginner,54,Hoog,Gemiddeld,Gemiddeld,Slecht
+Medical illustrator,Jade Pasman-van Hemert,M,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Fulltime,Woonboot,Beginner,91,Hoog,Goed,Gemiddeld,Slecht
+"Physicist, medical",Phileine van de Pavert-Heribert van Laon,M,Bulgaars,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,72,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, technical sales",Matthijs Stoffelsz-Wolffel,F,Nederlands,Laag,Alleenstaand,Links,WO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,94,Laag,Goed,Goed,Slecht
+Product designer,Aiden Laffray,M,Irakees,Laag,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Expert,71,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Geographical information systems officer,Angelina Spies,M,Eritrees,Hoog,Samenwonend,Links,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,57,Laag,Gemiddeld,Slecht,Goed

@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chiropodist,Abel Vallenduuk,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,86,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered management accountant,Vigo van Bunschoten,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,87,Gemiddeld,Goed,Gemiddeld,Goed
+Civil Service fast streamer,Phileine van der Velden,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Advanced,69,Hoog,Goed,Goed,Goed
+Insurance broker,Merijn Remmers,M,Irakees,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,77,Laag,Gemiddeld,Gemiddeld,Slecht
+Patent examiner,Stefan Kloppert,F,Irakees,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Intermediate,67,Hoog,Gemiddeld,Gemiddeld,Goed
+Sports coach,Mirte Sestig,F,Chinees,Laag,Samenwonend,Links,HAVO,Anders,Ongehuwd,Werkloos,Appartement,Beginner,24,Hoog,Goed,Goed,Gemiddeld
+Publishing copy,Job Kok,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,47,Hoog,Gemiddeld,Goed,Gemiddeld
+Air cabin crew,Brent Galenzone-Mangel,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,69,Laag,Gemiddeld,Slecht,Slecht
+Exercise physiologist,Maartje Verboom,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,23,Hoog,Gemiddeld,Gemiddeld,Slecht
+Broadcast engineer,Niels Room,M,Bulgaars,Gemiddeld,Samenwonend,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,41,Hoog,Gemiddeld,Slecht,Goed
+"Therapist, occupational",Raf van Velzen,F,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,47,Gemiddeld,Gemiddeld,Goed,Slecht
+Management consultant,Lize Koster,M,Nederlands,Laag,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,97,Laag,Gemiddeld,Goed,Gemiddeld
+Financial manager,Zeynep Helmerhorst,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Beginner,53,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Psychologist, clinical",Stan Nieuwstraten,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Werkloos,Appartement,Advanced,64,Gemiddeld,Slecht,Slecht,Goed
+Advertising account executive,Abel Vandenbergh,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Parttime,Vrijstaand,Beginner,68,Hoog,Goed,Gemiddeld,Goed
+Chief of Staff,Faas Cosman,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Hindoeïstisch,Gehuwd,Gepensioneerd,Studio,Beginner,59,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Geographical information systems officer,Nick Huijbrechts-de Plantard,F,Indonesisch,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,93,Laag,Gemiddeld,Gemiddeld,Slecht
+Metallurgist,Luca de Ruiter,M,Syrisch,Laag,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,86,Laag,Slecht,Gemiddeld,Slecht
+"Designer, textile",Feline van den Brand,F,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Anders,Weduwe/Weduwnaar,Fulltime,Appartement,Expert,25,Gemiddeld,Gemiddeld,Slecht,Goed
+English as a foreign language teacher,Daniël Slagmolen,F,Nederlands,Laag,Samenwonend,Midden,WO,Joods,Ongehuwd,Fulltime,Appartement,Beginner,45,Hoog,Goed,Goed,Gemiddeld
+"Scientist, research (life sciences)",Mick Rouwenhorst,F,Nederlands,Hoog,Alleenstaand,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,45,Laag,Goed,Goed,Slecht
+"Geologist, wellsite",Aimée van Nes,M,Afghaans,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Expert,51,Gemiddeld,Gemiddeld,Goed,Slecht
+"Psychotherapist, dance movement",Naud van Wijk,M,Nederlands,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,22,Hoog,Goed,Gemiddeld,Slecht
+Museum/gallery exhibitions officer,Mats Slingerland-Heerschop,F,Surinaams,Hoog,Samenwonend met kinderen,Rechts,MBO,Anders,Gescheiden,Parttime,Appartement,Beginner,43,Gemiddeld,Gemiddeld,Goed,Goed
+Rural practice surveyor,Hendrik van Mare-Heerkens,F,Afghaans,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Beginner,47,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, maintenance (IT)",Noa Opmans,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Boeddhistisch,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,90,Gemiddeld,Slecht,Goed,Goed
+Leisure centre manager,Julie Barents,M,Spaans,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,42,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Marketing executive,Ravi van Nus-van Lucel,F,Marokkaans,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,87,Laag,Slecht,Goed,Gemiddeld
+Sub,Kevin van den Broek,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Gehuwd,Student,Twee-onder-een-kap,Intermediate,41,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Personal assistant,Keano van Landen,F,Nederlands,Gemiddeld,Samenwonend,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,69,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, forensic",Faye Kirpenstein,F,Nederlands,Laag,Samenwonend,Midden,HBO,Hindoeïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,82,Laag,Gemiddeld,Slecht,Gemiddeld
+Fitness centre manager,Cornelia Heijman,M,Turks,Laag,Samenwonend,Rechts,VMBO,Boeddhistisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,70,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Psychotherapist,Tessa van Breukeleveen,M,Indonesisch,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,39,Laag,Gemiddeld,Gemiddeld,Slecht
+Insurance broker,Stijn Perkins,F,Nederlands,Hoog,Alleenstaand,Midden,MBO,Anders,Gehuwd,Student,Rijtjeshuis,Beginner,22,Gemiddeld,Goed,Slecht,Gemiddeld

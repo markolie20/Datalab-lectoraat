@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Psychologist, prison and probation services",Elise Thout,F,Duits,Laag,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,60,Laag,Goed,Goed,Goed
+Health and safety inspector,Sarah de Vries,M,Afghaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,19,Gemiddeld,Gemiddeld,Goed,Slecht
+Air traffic controller,Kaylee van Luinenburg,F,Nederlands,Hoog,Samenwonend,Rechts,VWO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Secondary school teacher,Cornelis van Ghoerle,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,78,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, structural",Ayden Aschman-van Goerle,M,Chinees,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,87,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Paediatric nurse,Lizz Geerts,M,Eritrees,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,47,Hoog,Gemiddeld,Slecht,Gemiddeld
+Chief Technology Officer,Noëlle de Graaf-Neuzerling,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,72,Laag,Gemiddeld,Gemiddeld,Slecht
+Nature conservation officer,Dean Kloppert,M,Irakees,Hoog,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,34,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Therapist, drama",Noortje Simonis,F,Somalisch,Hoog,Samenwonend,Rechts,HAVO,Anders,Gescheiden,Fulltime,Woonboot,Beginner,45,Laag,Gemiddeld,Gemiddeld,Slecht
+Dealer,Mohamed Zijlmans,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,78,Laag,Slecht,Slecht,Goed
+Recycling officer,Jesper Wouters van Eijndhoven,M,Italiaans,Gemiddeld,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Advanced,80,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Early years teacher,Carlijn Oversteeg-Bronder,F,Turks,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Advanced,76,Hoog,Slecht,Goed,Slecht
+Call centre manager,Pieter van de Wiel,M,Marokkaans,Laag,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,31,Gemiddeld,Goed,Goed,Slecht
+"Research officer, political party",Lars Coret-Coredo,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,78,Laag,Gemiddeld,Gemiddeld,Slecht

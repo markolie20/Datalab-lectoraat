@@ -1,0 +1,35 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Forensic scientist,Dave van Wickerode,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,76,Laag,Goed,Slecht,Goed
+Art gallery manager,Lenn Luitgardis van Neustrië-van der Plas,M,Indonesisch,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Digibeet,49,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Editor, film/video",Selena Kuipers,M,Afghaans,Laag,Samenwonend,Links,VMBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Appartement,Digibeet,75,Laag,Goed,Goed,Gemiddeld
+Patent examiner,Jurre de Groot,F,Indiaas,Gemiddeld,Samenwonend,Rechts,WO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,47,Laag,Slecht,Goed,Gemiddeld
+Insurance claims handler,Zoë Kok,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gescheiden,Parttime,Vrijstaand,Intermediate,59,Hoog,Gemiddeld,Slecht,Slecht
+Telecommunications researcher,Kian Mathurin,M,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Gehuwd,Parttime,Studio,Digibeet,69,Laag,Gemiddeld,Goed,Gemiddeld
+Telecommunications researcher,Jolie de Gruson,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,MBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Advanced,47,Laag,Gemiddeld,Gemiddeld,Goed
+Mental health nurse,Olaf Kalman-Blees,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gescheiden,Zelfstandig,Twee-onder-een-kap,Advanced,42,Laag,Gemiddeld,Gemiddeld,Slecht
+Prison officer,Yasmine Spanhaak-Ketting,F,Duits,Laag,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,85,Gemiddeld,Goed,Gemiddeld,Slecht
+Clinical psychologist,Imke Bruynzeels,M,Syrisch,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,74,Laag,Goed,Slecht,Goed
+"Research officer, trade union",Joshua Loreal,F,Chinees,Hoog,Alleenstaand,Rechts,VWO,Atheïstisch,Ongehuwd,Parttime,Appartement,Advanced,40,Laag,Slecht,Gemiddeld,Gemiddeld
+Medical physicist,Ibrahim Doorhof,M,Antilliaans,Laag,Samenwonend,Links,Basisonderwijs,Joods,Gescheiden,Fulltime,Rijtjeshuis,Expert,21,Laag,Gemiddeld,Gemiddeld,Goed
+Administrator,Annemijn Drysdale,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Studio,Intermediate,49,Gemiddeld,Goed,Gemiddeld,Slecht
+Careers adviser,Teun Ulrich-Welf,F,Nederlands,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,76,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Further education lecturer,Sander Merkx,M,Marokkaans,Laag,Samenwonend,Rechts,MBO,Anders,Gehuwd,Fulltime,Vrijstaand,Digibeet,19,Laag,Goed,Gemiddeld,Slecht
+Data processing manager,Renske Furda-Kirpenstein,F,Turks,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,55,Laag,Gemiddeld,Gemiddeld,Slecht
+"Chemist, analytical",Finn die Witte,F,Pools,Laag,Samenwonend,Links,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,71,Gemiddeld,Gemiddeld,Goed,Slecht
+Mental health nurse,Olaf Friehus,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,62,Hoog,Gemiddeld,Slecht,Slecht
+Musician,Sjoerd Pieters,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,21,Hoog,Slecht,Goed,Slecht
+Event organiser,Valerie van Kuijc-Stettyn,M,Portugees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,59,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Aid worker,Vajèn van den Berg,F,Chinees,Laag,Alleenstaand,Links,VMBO,Christelijk,Gescheiden,Fulltime,Woonboot,Advanced,55,Laag,Slecht,Goed,Gemiddeld
+Paramedic,Danique Groen-van Doorn,F,Turks,Laag,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Studio,Beginner,57,Laag,Goed,Goed,Gemiddeld
+Materials engineer,Michael van der Flaas,M,Marokkaans,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,90,Hoog,Goed,Gemiddeld,Gemiddeld
+Social worker,Catharina Aarts,M,Pools,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Student,Woonboot,Beginner,22,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Race relations officer,Livia de Gruijter-van de Berg,M,Nederlands,Laag,Samenwonend,Rechts,Basisonderwijs,Hindoeïstisch,Gescheiden,Werkloos,Rijtjeshuis,Beginner,92,Hoog,Goed,Goed,Gemiddeld
+"Therapist, music",Aya Heijman,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,47,Laag,Gemiddeld,Gemiddeld,Goed
+Psychiatric nurse,Sarah Visser-van de Pol,M,Irakees,Hoog,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Parttime,Vrijstaand,Intermediate,71,Laag,Goed,Gemiddeld,Goed
+Film/video editor,Renske Tielemans,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,64,Laag,Goed,Gemiddeld,Goed
+"Administrator, arts",Sjoerd Broeshart-van Berkel,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,42,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Production assistant, television",Britt Kerkhof,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Werkloos,Vrijstaand,Advanced,72,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Legal executive,Finn van der Hoeven-de Backer,M,Surinaams,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Islamitisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Beginner,46,Hoog,Gemiddeld,Gemiddeld,Slecht
+Product manager,Lukas Greij,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,58,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Restaurant manager, fast food",Eline Bezemer,F,Roemeens,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,47,Laag,Goed,Goed,Gemiddeld
+Oceanographer,Alyssa Verharen,M,Spaans,Hoog,Alleenstaand met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Advanced,37,Laag,Goed,Gemiddeld,Gemiddeld

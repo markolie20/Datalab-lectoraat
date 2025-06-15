@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Community education officer,Quinty de Bont,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,93,Gemiddeld,Slecht,Slecht,Gemiddeld
+Conference centre manager,Jason van Arkel,F,Turks,Hoog,Samenwonend,Rechts,HBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,61,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Neurosurgeon,Roos van der Klijn,F,Duits,Hoog,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,65,Laag,Slecht,Gemiddeld,Goed
+"Designer, ceramics/pottery",Bryan Smith,M,Nederlands,Laag,Alleenstaand,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,96,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Designer, exhibition/display",Romy Wutke-Verheuvel,F,Indiaas,Gemiddeld,Alleenstaand,Midden,WO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,45,Laag,Gemiddeld,Slecht,Gemiddeld
+"Therapist, sports",Victor Louws-Keijzer,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Hindoeïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,37,Laag,Gemiddeld,Slecht,Gemiddeld
+Structural engineer,Mats Hoedemakers-Unruoch Hunerik,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,27,Laag,Gemiddeld,Goed,Gemiddeld
+Lexicographer,Eliza van Straaten,M,Chinees,Laag,Samenwonend,Midden,MBO,Joods,Ongehuwd,Fulltime,Vrijstaand,Intermediate,58,Laag,Slecht,Gemiddeld,Slecht
+Multimedia specialist,Robin Mol,F,Turks,Laag,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Student,Woonboot,Digibeet,35,Gemiddeld,Goed,Goed,Slecht
+"Surveyor, minerals",Bente de Vroege,F,Antilliaans,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Digibeet,21,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Neurosurgeon,Eline Zuijdveld-Ouwel,M,Duits,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Expert,66,Laag,Gemiddeld,Gemiddeld,Goed

@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Contractor,Ceylin Wensen,F,Somalisch,Hoog,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,72,Hoog,Gemiddeld,Goed,Gemiddeld
+Architectural technologist,Esila Bos,F,Pools,Laag,Samenwonend,Midden,WO,Hindoeïstisch,Gehuwd,Parttime,Appartement,Intermediate,38,Laag,Slecht,Goed,Slecht
+Primary school teacher,Mustafa Ponci-Zwijsen,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,18,Gemiddeld,Goed,Gemiddeld,Slecht
+Research scientist (physical sciences),Elise Jacquot,M,Italiaans,Laag,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,68,Laag,Gemiddeld,Gemiddeld,Slecht
+Technical brewer,Tim van Hamaland-Muller,M,Nederlands,Hoog,Samenwonend,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,21,Hoog,Gemiddeld,Goed,Goed
+Dietitian,Ben Sarneel-Nieuwstraten,F,Somalisch,Gemiddeld,Samenwonend,Links,VWO,Islamitisch,Gescheiden,Student,Studio,Intermediate,58,Laag,Goed,Goed,Goed
+"Loss adjuster, chartered",Mick Saxo,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, audiological",James Steinmeiern-van de Ven,M,Afghaans,Gemiddeld,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,93,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, drilling",Charlotte Kirpenstein,M,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Atheïstisch,Gehuwd,Student,Twee-onder-een-kap,Digibeet,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Customer service manager,Jolie van Hamaland,M,Surinaams,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,94,Gemiddeld,Goed,Gemiddeld,Slecht
+Clinical embryologist,Phileine Vergeer,F,Nederlands,Hoog,Samenwonend,Links,HAVO,Christelijk,Gehuwd,Fulltime,Studio,Beginner,53,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Advertising account executive,Maxim Thomas,F,Surinaams,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,53,Laag,Slecht,Gemiddeld,Goed
+Warden/ranger,Teun van den Brink,F,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,67,Laag,Goed,Goed,Gemiddeld
+Exercise physiologist,Twan de Boer,F,Indonesisch,Gemiddeld,Samenwonend,Rechts,MBO,Joods,Ongehuwd,Student,Appartement,Expert,86,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Public relations account executive,Loïs Verbeeck,F,Surinaams,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,53,Gemiddeld,Gemiddeld,Goed,Goed
+Education administrator,Emir Meyer,F,Spaans,Hoog,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,33,Laag,Gemiddeld,Slecht,Gemiddeld
+Armed forces operational officer,Brian Huisman,F,Nederlands,Laag,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,67,Gemiddeld,Gemiddeld,Slecht,Slecht
+Fast food restaurant manager,Siem Uittenbosch,M,Nederlands,Hoog,Alleenstaand,Midden,WO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,64,Hoog,Gemiddeld,Goed,Gemiddeld
+"Surveyor, building",Elias van de Elzas,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HAVO,Boeddhistisch,Gescheiden,Parttime,Appartement,Digibeet,52,Gemiddeld,Goed,Slecht,Gemiddeld
+"Horticulturist, amenity",Jip van Leeuwen,F,Chinees,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,68,Laag,Goed,Goed,Gemiddeld
+Tour manager,Jaylinn Alpaidis,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,HAVO,Hindoeïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Expert,29,Laag,Slecht,Gemiddeld,Goed
+Archaeologist,Nora Vandenbergh,M,Turks,Hoog,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,47,Laag,Goed,Gemiddeld,Gemiddeld
+"Programmer, applications",Liam Verheij,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,MBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,37,Hoog,Goed,Gemiddeld,Goed
+Clinical research associate,Naomi Recer,M,Marokkaans,Laag,Alleenstaand,Midden,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,65,Laag,Goed,Gemiddeld,Gemiddeld
+Toxicologist,Jente Bruijne van der Veen-Ghoerle,F,Italiaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,86,Gemiddeld,Gemiddeld,Goed,Slecht

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Accommodation manager,Adam Reimes,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,21,Hoog,Goed,Gemiddeld,Slecht
+Advertising account executive,Emily Ghoerle,M,Indiaas,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Intermediate,87,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Meteorologist,Chloé Tuithof-Godfrey van Alemannië,M,Marokkaans,Laag,Samenwonend,Links,HBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,75,Hoog,Slecht,Gemiddeld,Gemiddeld
+Theatre stage manager,Olivier van Velthoven,F,Indiaas,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Beginner,96,Laag,Slecht,Gemiddeld,Slecht
+Risk analyst,Amelia Amalrada-Lind,M,Irakees,Hoog,Alleenstaand met kinderen,Midden,HAVO,Anders,Ongehuwd,Fulltime,Woonboot,Intermediate,39,Laag,Goed,Gemiddeld,Gemiddeld
+Chartered public finance accountant,Sofie van Kempen,M,Nederlands,Laag,Samenwonend,Links,WO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,40,Gemiddeld,Slecht,Goed,Goed
+Local government officer,Sarah Cornelisse,M,Antilliaans,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,31,Hoog,Slecht,Slecht,Slecht
+Control and instrumentation engineer,Emma Ulrich,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,23,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Race relations officer,Bas Koret,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,89,Laag,Goed,Slecht,Gemiddeld
+Chief Financial Officer,Finn Doesburg-Tammerijn,F,Pools,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,96,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Event organiser,Linde Berends-van den Oever,M,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Student,Rijtjeshuis,Expert,60,Laag,Goed,Goed,Slecht

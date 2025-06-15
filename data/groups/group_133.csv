@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Occupational psychologist,Britt Lansink,F,Turks,Gemiddeld,Samenwonend,Midden,HAVO,Boeddhistisch,Gescheiden,Werkloos,Twee-onder-een-kap,Beginner,37,Hoog,Slecht,Gemiddeld,Goed
+Copy,Jip Bernaards,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,18,Laag,Goed,Gemiddeld,Gemiddeld
+"Investment banker, corporate",Jort van der Kint,M,Nederlands,Hoog,Alleenstaand,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,55,Laag,Gemiddeld,Goed,Gemiddeld
+Secondary school teacher,Anouk Aarts,F,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,41,Laag,Gemiddeld,Gemiddeld,Goed
+Stage manager,Joëlle Molegraaf-de Heer,M,Eritrees,Laag,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,39,Gemiddeld,Slecht,Goed,Goed
+Press sub,Kyra Ghoerle,M,Marokkaans,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,32,Hoog,Goed,Slecht,Slecht
+Ambulance person,Kate Niermann,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,80,Laag,Gemiddeld,Gemiddeld,Slecht
+Air broker,Lot Flink,F,Indonesisch,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,83,Laag,Goed,Gemiddeld,Goed
+Financial controller,Nikki Feltzer,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,40,Laag,Slecht,Gemiddeld,Gemiddeld
+Chief Operating Officer,Joël Chevresson,M,Marokkaans,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,70,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Probation officer,Jens Roosenboom-Schotte,F,Syrisch,Gemiddeld,Samenwonend,Midden,HBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,58,Hoog,Goed,Goed,Goed
+"Scientist, biomedical",Anne die Bont,M,Spaans,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,89,Hoog,Goed,Goed,Gemiddeld
+Special effects artist,Bilal François,M,Marokkaans,Hoog,Alleenstaand,Rechts,HAVO,Hindoeïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,89,Gemiddeld,Goed,Goed,Slecht
+"Designer, textile",Isabella Lommert-van de Pol,F,Somalisch,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,94,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Teacher, primary school",Guusje Kof,F,Indiaas,Laag,Samenwonend,Rechts,HBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,45,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Video editor,Victoria de Roo,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Islamitisch,Gescheiden,Fulltime,Appartement,Beginner,75,Gemiddeld,Slecht,Gemiddeld,Goed
+"Engineer, structural",Lindsey Coret,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,29,Laag,Slecht,Slecht,Gemiddeld
+"Producer, television/film/video",Max Kwaadland,F,Pools,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Gescheiden,Parttime,Woonboot,Intermediate,69,Laag,Gemiddeld,Goed,Goed
+"Engineer, land",Mika Post,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Intermediate,20,Hoog,Goed,Gemiddeld,Gemiddeld
+Geochemist,Noor Cosman,F,Duits,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,45,Laag,Slecht,Gemiddeld,Slecht
+Customer service manager,Melle Jansen,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Zelfstandig,Studio,Beginner,42,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Herpetologist,Lizz Linschoten,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,95,Laag,Goed,Gemiddeld,Goed
+Environmental manager,Joy Willems-Grondel,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,39,Laag,Goed,Gemiddeld,Gemiddeld
+Biomedical engineer,Zakaria Grondel-Laffray,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,34,Laag,Goed,Goed,Gemiddeld
+Dancer,Wessel van Straaten-Velderman,F,Eritrees,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,87,Hoog,Gemiddeld,Gemiddeld,Goed

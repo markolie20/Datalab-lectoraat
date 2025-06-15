@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Environmental consultant,Pien Haack,M,Roemeens,Laag,Alleenstaand met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Advanced,71,Laag,Gemiddeld,Gemiddeld,Goed
+Meteorologist,Ibrahim de Haas-Hanegraaff,F,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,22,Gemiddeld,Gemiddeld,Slecht,Goed
+"Journalist, magazine",Sem van Ginkel,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Woonboot,Expert,68,Laag,Gemiddeld,Gemiddeld,Goed
+Ship broker,Yusuf Huisman,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,53,Hoog,Goed,Slecht,Goed
+Visual merchandiser,Joey Haack,F,Turks,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,21,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Data processing manager,Julie Leguit-Eelman,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Anders,Gehuwd,Werkloos,Twee-onder-een-kap,Digibeet,68,Gemiddeld,Gemiddeld,Slecht,Goed
+Outdoor activities/education manager,Max van Boulogne-van de Brink,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Parttime,Vrijstaand,Beginner,36,Gemiddeld,Slecht,Goed,Slecht
+Ambulance person,Silke Hermans,M,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,20,Gemiddeld,Slecht,Goed,Slecht
+Commissioning editor,Jack Bezemer,F,Portugees,Hoog,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,98,Laag,Gemiddeld,Goed,Goed
+Emergency planning/management officer,Kyara Beijring,F,Roemeens,Laag,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,60,Hoog,Gemiddeld,Goed,Goed
+Forest/woodland manager,Ruben Roessink,M,Pools,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gescheiden,Fulltime,Woonboot,Advanced,61,Laag,Goed,Gemiddeld,Goed
+Stage manager,Lynn Aarden,F,Chinees,Hoog,Alleenstaand met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,59,Hoog,Slecht,Gemiddeld,Slecht
+Information officer,Guus Hendriks,M,Indiaas,Hoog,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Expert,32,Hoog,Slecht,Gemiddeld,Gemiddeld
+Cartographer,Dex van Emmelen-van de Berg,F,Marokkaans,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,62,Gemiddeld,Slecht,Goed,Goed
+"Radiographer, therapeutic",Amin Michielsen-Rutten,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Gepensioneerd,Twee-onder-een-kap,Expert,44,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Engineer, land",Olivia van den Corput,M,Afghaans,Gemiddeld,Samenwonend,Links,WO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,49,Gemiddeld,Gemiddeld,Slecht,Slecht
+Land,Juliette van der Klijn-Loep,F,Chinees,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Werkloos,Appartement,Advanced,20,Laag,Goed,Slecht,Gemiddeld
+"Buyer, industrial",Thijn Becht,F,Eritrees,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Beginner,95,Hoog,Slecht,Gemiddeld,Gemiddeld
+Chief Technology Officer,Jolijn Meyer,M,Turks,Hoog,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Appartement,Beginner,93,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Scientist, audiological","Jolie den Haag-Bourgondië, van",M,Afghaans,Hoog,Samenwonend,Midden,WO,Islamitisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,70,Laag,Slecht,Gemiddeld,Goed
+Biomedical engineer,Juliette Lemmens-Jaceps,M,Indonesisch,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,83,Hoog,Slecht,Gemiddeld,Gemiddeld
+Music therapist,Maya Konings,M,Roemeens,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,77,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Accommodation manager,Yusuf Mathieu,M,Indiaas,Laag,Samenwonend,Rechts,WO,Anders,Gehuwd,Student,Studio,Intermediate,47,Hoog,Goed,Goed,Goed
+Occupational hygienist,Hannah van der Veen,F,Chinees,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Digibeet,38,Laag,Goed,Slecht,Slecht

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chiropractor,Wouter Takkelenburg-Heyne,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Woonboot,Beginner,81,Gemiddeld,Goed,Goed,Gemiddeld
+Diplomatic Services operational officer,Zoey Backer,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,41,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Wellsite geologist,Rick van der Linden,F,Surinaams,Laag,Samenwonend,Midden,HBO,Anders,Gehuwd,Student,Rijtjeshuis,Advanced,46,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Field trials officer,Marijn Jdotte-Ooms,F,Antilliaans,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,65,Hoog,Goed,Goed,Slecht
+"Conservation officer, historic buildings",Pippa Ehlert,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Furniture designer,Noa van Bunschoten,M,Nederlands,Gemiddeld,Samenwonend,Midden,HBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Intermediate,63,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, research (maths)",Abel Strijker-van Northeim,F,Turks,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,22,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Counsellor,Aaron Sas,M,Surinaams,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Weduwe/Weduwnaar,Parttime,Appartement,Intermediate,99,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Structural engineer,Mats Fechant-Broekhoven,F,Nederlands,Laag,Samenwonend met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,43,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Trade union research officer,Jason Kallen-Takkelenburg,M,Turks,Gemiddeld,Alleenstaand,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,67,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, water",Indy Volcke-Kas,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,VWO,Joods,Gehuwd,Parttime,Rijtjeshuis,Beginner,62,Gemiddeld,Goed,Slecht,Slecht

@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Bookseller,Olivia Giselmeyer,M,Duits,Hoog,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,31,Laag,Slecht,Slecht,Goed
+Aid worker,Bryan Hakker,M,Portugees,Laag,Alleenstaand met kinderen,Rechts,VMBO,Hindoeïstisch,Gescheiden,Gepensioneerd,Studio,Advanced,38,Hoog,Slecht,Slecht,Goed
+Geophysical data processor,Mika Tuithof,M,Italiaans,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Vrijstaand,Expert,56,Hoog,Slecht,Gemiddeld,Goed
+Government social research officer,Alexander van de Leemput,F,Marokkaans,Hoog,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Student,Rijtjeshuis,Digibeet,93,Laag,Goed,Slecht,Gemiddeld
+Arts administrator,Jules Lelijveld-de Swart,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,80,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, structural",Amina Lether-Ghoerle,M,Spaans,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Intermediate,72,Laag,Gemiddeld,Goed,Slecht
+Neurosurgeon,Luc de Bruijn,M,Marokkaans,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Student,Appartement,Advanced,75,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Forensic scientist,Aaliyah Huurdeman,F,Spaans,Hoog,Alleenstaand,Rechts,VMBO,Anders,Gehuwd,Fulltime,Vrijstaand,Beginner,39,Laag,Goed,Gemiddeld,Goed
+Press sub,Zoë van Poppel-Bosch,F,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,62,Gemiddeld,Gemiddeld,Slecht,Goed
+"Scientist, product/process development",Sophie Tamsma,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Gescheiden,Zelfstandig,Appartement,Digibeet,64,Laag,Goed,Goed,Gemiddeld
+Hydrologist,Rosa Verschuere-Thomas,M,Turks,Hoog,Alleenstaand met kinderen,Rechts,WO,Anders,Gehuwd,Parttime,Twee-onder-een-kap,Intermediate,33,Laag,Slecht,Gemiddeld,Slecht
+"Scientist, marine",Micha van Allemanië,F,Turks,Gemiddeld,Alleenstaand,Links,WO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,63,Hoog,Gemiddeld,Goed,Goed

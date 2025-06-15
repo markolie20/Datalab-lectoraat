@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Surveyor, building control",Noortje van den Eijssel,F,Chinees,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,91,Hoog,Gemiddeld,Goed,Slecht
+Travel agency manager,Jenna de Koning,F,Indonesisch,Laag,Alleenstaand,Midden,VWO,Atheïstisch,Ongehuwd,Gepensioneerd,Studio,Beginner,81,Gemiddeld,Gemiddeld,Slecht,Goed
+"Therapist, horticultural",Aya van Nus,M,Antilliaans,Gemiddeld,Alleenstaand,Links,HBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Advanced,28,Laag,Goed,Gemiddeld,Gemiddeld
+Animator,Elisabeth de Bont,F,Surinaams,Hoog,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,20,Laag,Goed,Gemiddeld,Gemiddeld
+Ecologist,Tijn van der Pouw-Recers,M,Eritrees,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Student,Appartement,Advanced,38,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Advertising account executive,Fem van Voorst,F,Afghaans,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Advanced,79,Gemiddeld,Slecht,Slecht,Goed
+Electrical engineer,Aylin Roessink,M,Chinees,Laag,Alleenstaand,Rechts,WO,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,98,Hoog,Gemiddeld,Slecht,Goed
+Warehouse manager,Ashley Verbeek,M,Pools,Hoog,Alleenstaand met kinderen,Midden,VMBO,Anders,Gescheiden,Fulltime,Appartement,Expert,76,Gemiddeld,Goed,Slecht,Gemiddeld
+Video editor,Mara Stichter,F,Chinees,Laag,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,36,Laag,Goed,Gemiddeld,Slecht
+"Engineer, materials",Roos Janssens,M,Indonesisch,Hoog,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,22,Gemiddeld,Goed,Goed,Slecht
+Visual merchandiser,"Quinten Werl-Arnsberg, van",M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Joods,Gescheiden,Werkloos,Appartement,Intermediate,84,Laag,Goed,Gemiddeld,Gemiddeld
+Primary school teacher,Joy Cosman,F,Marokkaans,Hoog,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Advanced,76,Gemiddeld,Slecht,Goed,Goed
+Commercial/residential surveyor,Bilal Jans-van den Nyeuwenhuysen,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,28,Laag,Goed,Gemiddeld,Gemiddeld
+Software engineer,Dex Smith-van Rijthoven,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Expert,31,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Telecommunications researcher,Vincent Timmermans,M,Portugees,Laag,Alleenstaand,Midden,Basisonderwijs,Joods,Gescheiden,Werkloos,Vrijstaand,Digibeet,18,Gemiddeld,Goed,Gemiddeld,Goed
+"Surveyor, building control",Kevin Helmerhorst,M,Somalisch,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Werkloos,Appartement,Intermediate,24,Laag,Gemiddeld,Goed,Gemiddeld

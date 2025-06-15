@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Software engineer,Alexander Rietveld,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,67,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Clinical molecular geneticist,Jim Schenkel,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,51,Laag,Goed,Slecht,Goed
+Professor Emeritus,Boaz van Allemanië,F,Portugees,Laag,Samenwonend,Links,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,83,Hoog,Gemiddeld,Goed,Gemiddeld
+"Runner, broadcasting/film/video",Mike Boddaugh-Rousselet,F,Pools,Hoog,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,40,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Therapist, music",Imke Nihoe-Huel,F,Antilliaans,Laag,Samenwonend,Links,WO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,32,Gemiddeld,Slecht,Slecht,Goed
+Financial manager,Louise Jansse,F,Indiaas,Gemiddeld,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,80,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Secondary school teacher,Ceylin Paillet,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Student,Appartement,Intermediate,98,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Make,Dylan Heymans,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,HAVO,Joods,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,27,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Engineer, water",Demi Steinmeiern-van der Heijden,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,72,Hoog,Goed,Slecht,Gemiddeld
+Adult nurse,Senna Mosley-Gerritse,M,Antilliaans,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,82,Laag,Gemiddeld,Gemiddeld,Goed
+Cabin crew,Yfke van Gils,F,Pools,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,54,Laag,Slecht,Slecht,Goed
+"Surveyor, commercial/residential",Ties Westerbeek,M,Antilliaans,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,55,Laag,Gemiddeld,Goed,Goed
+Mining engineer,Xavi Wensen,F,Nederlands,Hoog,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Intermediate,76,Gemiddeld,Gemiddeld,Goed,Goed
+"Optician, dispensing",Bjorn Bierstraten,F,Pools,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,85,Laag,Slecht,Goed,Goed
+Sports development officer,Boris Cosman,F,Surinaams,Hoog,Alleenstaand,Links,Basisonderwijs,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Beginner,57,Laag,Slecht,Slecht,Gemiddeld

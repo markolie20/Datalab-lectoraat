@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Marketing executive,Job Brumleve-Rousselet,M,Marokkaans,Laag,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,55,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Medical sales representative,Ties Belpere,M,Turks,Laag,Alleenstaand,Rechts,VWO,Atheïstisch,Gescheiden,Parttime,Woonboot,Beginner,79,Laag,Goed,Goed,Gemiddeld
+Optometrist,Amélie van de Biesenbos,F,Chinees,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Gescheiden,Werkloos,Woonboot,Digibeet,84,Hoog,Gemiddeld,Slecht,Slecht
+Advertising account executive,Bram Bave-Oosterhout,M,Marokkaans,Laag,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Digibeet,96,Laag,Goed,Goed,Slecht
+Operational researcher,Jules Lambregt,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,73,Laag,Gemiddeld,Gemiddeld,Slecht
+Consulting civil engineer,Lize Frerichs,M,Nederlands,Hoog,Samenwonend met kinderen,Links,HBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,76,Laag,Goed,Gemiddeld,Goed
+"Copywriter, advertising",Bram Korsman,F,Nederlands,Hoog,Samenwonend,Midden,MBO,Joods,Ongehuwd,Zelfstandig,Vrijstaand,Advanced,40,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Embryologist, clinical",Jayda van Duvenvoirde,F,Spaans,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,81,Laag,Gemiddeld,Goed,Goed
+Manufacturing systems engineer,Maaike van Hostaden-Boer,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,WO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,31,Laag,Gemiddeld,Gemiddeld,Slecht
+Paediatric nurse,Jason de Werd,M,Chinees,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,24,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Scientific laboratory technician,"Lars West-Francië, van",F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Advanced,68,Gemiddeld,Gemiddeld,Goed,Slecht
+Legal executive,Esmée Ernst,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,35,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, textile",Jort van Spreuwel-Cornelisz,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,92,Laag,Gemiddeld,Gemiddeld,Slecht
+Banker,Marit Boeser,F,Italiaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,86,Laag,Goed,Gemiddeld,Goed
+Higher education lecturer,Loek Mathurin-Weyland,M,Marokkaans,Laag,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,73,Gemiddeld,Slecht,Goed,Gemiddeld
+Press sub,Kick de Vries,M,Indonesisch,Hoog,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Gescheiden,Student,Appartement,Intermediate,82,Laag,Gemiddeld,Slecht,Goed
+Dealer,Charlotte Loreal,M,Roemeens,Hoog,Samenwonend,Links,HAVO,Islamitisch,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Digibeet,64,Hoog,Goed,Slecht,Goed
+Sports coach,Ben Poncelet,F,Surinaams,Hoog,Alleenstaand,Midden,MBO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,63,Laag,Gemiddeld,Goed,Goed
+Personnel officer,Leah van der Ploeg,F,Nederlands,Gemiddeld,Samenwonend,Midden,WO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,53,Laag,Goed,Gemiddeld,Goed
+Recycling officer,Esmee Dachgelder,M,Indonesisch,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,79,Laag,Gemiddeld,Goed,Slecht
+Investment analyst,Mohammed Bellemans,F,Pools,Laag,Alleenstaand,Midden,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,36,Hoog,Gemiddeld,Goed,Gemiddeld
+Purchasing manager,Sylvie Verharen,F,Nederlands,Laag,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,72,Gemiddeld,Gemiddeld,Goed,Goed

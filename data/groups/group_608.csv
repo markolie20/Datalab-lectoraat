@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Academic librarian,Frederique van Oosten,F,Turks,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Expert,53,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Garment/textile technologist,Danique van de Pol,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,83,Hoog,Gemiddeld,Goed,Slecht
+Cartographer,Kyara Bezemer,M,Marokkaans,Laag,Samenwonend,Links,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,87,Gemiddeld,Slecht,Slecht,Gemiddeld
+Engineering geologist,Jet Frankhuizen,M,Duits,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,64,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Biochemist, clinical",Lieve Ooms-Hazenveld,F,Nederlands,Laag,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,34,Hoog,Slecht,Goed,Goed
+"Psychologist, clinical",Amber van Stralen,F,Marokkaans,Laag,Samenwonend,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,67,Laag,Gemiddeld,Goed,Gemiddeld
+Osteopath,Lenn Schulten,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,81,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Scientific laboratory technician,Jort Slaetsdochter,M,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gescheiden,Gepensioneerd,Rijtjeshuis,Expert,96,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Higher education lecturer,Berend van den Bergh-van der Laan,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,73,Hoog,Slecht,Gemiddeld,Goed
+Human resources officer,Kian Mathurin,F,Marokkaans,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,78,Laag,Goed,Slecht,Slecht
+"Engineer, manufacturing",Johanna Tuithof-Olthof,F,Bulgaars,Hoog,Samenwonend,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Studio,Intermediate,89,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Administrator, charities/voluntary organisations",Melle van der Leek,F,Portugees,Laag,Alleenstaand,Links,HBO,Hindoeïstisch,Gescheiden,Zelfstandig,Appartement,Expert,77,Laag,Goed,Slecht,Gemiddeld
+Computer games developer,Vincent van den Nuwenhijsen,F,Turks,Hoog,Samenwonend,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,65,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Secretary, company",Kaylee de Bruijn,M,Italiaans,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,85,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Barista,Fien Jorrisen,M,Syrisch,Laag,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Weduwe/Weduwnaar,Parttime,Studio,Beginner,80,Laag,Slecht,Goed,Goed
+Petroleum engineer,Lukas ter Waarbeek,M,Irakees,Hoog,Samenwonend,Links,WO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,79,Laag,Slecht,Goed,Gemiddeld
+Estate manager/land agent,Bryan Coreth von und zu Coredo und Starkenberg,F,Turks,Gemiddeld,Samenwonend,Rechts,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,58,Laag,Gemiddeld,Goed,Goed
+Community development worker,Lisanne van Schevinghuizen-van Breukelveen,M,Turks,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Student,Appartement,Advanced,31,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Musician,Tyler Uphaus,F,Roemeens,Gemiddeld,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,23,Laag,Gemiddeld,Slecht,Goed
+"Doctor, hospital",Isis Levesque,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Vrijstaand,Expert,39,Gemiddeld,Gemiddeld,Goed,Slecht
+"Surveyor, planning and development",Nienke van Hamaland,M,Nederlands,Laag,Alleenstaand,Midden,MBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,74,Laag,Gemiddeld,Slecht,Slecht
+Bonds trader,Bilal Le Grand,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,47,Laag,Gemiddeld,Gemiddeld,Goed
+Ambulance person,Job Velderman,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Parttime,Woonboot,Advanced,29,Laag,Slecht,Gemiddeld,Gemiddeld
+Financial controller,Nienke Verkade-Jeggij,F,Eritrees,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Expert,84,Laag,Gemiddeld,Slecht,Gemiddeld

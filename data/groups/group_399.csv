@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Environmental manager,Iris Mathurin,F,Turks,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,63,Laag,Gemiddeld,Slecht,Gemiddeld
+Fashion designer,Justin Ernst,F,Pools,Hoog,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Gehuwd,Student,Appartement,Advanced,43,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Manufacturing engineer,Nikki Stuivenberg-de Jong,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,87,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Barrister,Liza Kuijpers,M,Bulgaars,Laag,Samenwonend,Rechts,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,71,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, automotive",Ise Lamotte,M,Somalisch,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,91,Gemiddeld,Slecht,Slecht,Gemiddeld
+Publishing rights manager,Jack van Beaumont-Blom,M,Turks,Laag,Alleenstaand,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,47,Laag,Goed,Gemiddeld,Gemiddeld
+Clinical molecular geneticist,Sjoerd Gerrits,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,31,Hoog,Gemiddeld,Slecht,Gemiddeld
+Financial risk analyst,Naomi van Engelen,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,77,Laag,Slecht,Goed,Gemiddeld
+Office manager,Fabian van den Wittenboer,F,Chinees,Laag,Samenwonend,Midden,MBO,Anders,Ongehuwd,Zelfstandig,Studio,Digibeet,64,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chief Executive Officer,Daniël van der Maath,F,Chinees,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Beginner,88,Laag,Slecht,Gemiddeld,Slecht
+Dealer,Mirte Dachgelt-van Soest,M,Marokkaans,Laag,Alleenstaand,Midden,MBO,Anders,Gehuwd,Parttime,Appartement,Beginner,43,Gemiddeld,Slecht,Goed,Slecht
+"Editor, magazine features",Loes van Laarhoven,F,Surinaams,Hoog,Samenwonend,Rechts,HBO,Atheïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,33,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Mining engineer,Daan Aalts,F,Nederlands,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,87,Gemiddeld,Slecht,Gemiddeld,Goed
+"Editor, magazine features",Linde Broeders,F,Indiaas,Laag,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,32,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Bonds trader,Mara Vandenbergh,F,Turks,Laag,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,51,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Chemist, analytical",Lena Dubois,F,Surinaams,Hoog,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Gescheiden,Student,Rijtjeshuis,Beginner,83,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, mining",Zara van Beieren,M,Indiaas,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Appartement,Advanced,54,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Publishing rights manager,Tijs Huel,F,Marokkaans,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Boeddhistisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,86,Laag,Goed,Gemiddeld,Goed
+Editorial assistant,Mirte van Brenen-van Kuijc,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,95,Laag,Goed,Gemiddeld,Gemiddeld
+"Editor, commissioning",Ayden van Gemert,M,Nederlands,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Digibeet,38,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Journalist, newspaper",Esther Spies,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Zelfstandig,Vrijstaand,Advanced,49,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Environmental health practitioner,Nienke Merckx,F,Marokkaans,Laag,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gescheiden,Zelfstandig,Appartement,Digibeet,58,Laag,Slecht,Slecht,Gemiddeld

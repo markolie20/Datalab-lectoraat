@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Surveyor, minerals",Jesse Cammel,F,Portugees,Hoog,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,33,Gemiddeld,Goed,Gemiddeld,Goed
+Higher education lecturer,Luc Kolen,F,Irakees,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Rijtjeshuis,Beginner,97,Laag,Goed,Gemiddeld,Goed
+Dramatherapist,Annabel Ehlert,F,Eritrees,Hoog,Samenwonend,Midden,MBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,27,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Health visitor,Maxim den Buytelaar,F,Irakees,Gemiddeld,Alleenstaand,Links,VMBO,Joods,Gehuwd,Parttime,Vrijstaand,Intermediate,61,Laag,Gemiddeld,Slecht,Goed
+Emergency planning/management officer,Janne de Jager-Salet,M,Pools,Laag,Alleenstaand,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,65,Laag,Gemiddeld,Slecht,Slecht
+"Therapist, nutritional",Madelief Doornhem,F,Pools,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Event organiser,Catharina Kortman-van den Eerenbeemt,F,Somalisch,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Hindoeïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,93,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+IT technical support officer,Lorenzo Bökenkamp-van Gorp,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Fulltime,Woonboot,Beginner,59,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Engineer, maintenance (IT)",Olivia Rijcken,M,Duits,Laag,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Parttime,Vrijstaand,Beginner,43,Gemiddeld,Slecht,Gemiddeld,Goed
+Occupational therapist,Maya van der Ploeg,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Werkloos,Appartement,Beginner,45,Gemiddeld,Gemiddeld,Slecht,Goed
+"Scientist, water quality",Amy Kronenberg,M,Bulgaars,Laag,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Gescheiden,Zelfstandig,Appartement,Digibeet,55,Laag,Goed,Slecht,Goed
+Animal nutritionist,Puk Bökenkamp,F,Marokkaans,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,70,Hoog,Gemiddeld,Gemiddeld,Goed
+Furniture conservator/restorer,Hidde Borman,M,Pools,Laag,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,69,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, art",Maurits Oosterhout,M,Bulgaars,Laag,Alleenstaand,Rechts,HAVO,Islamitisch,Ongehuwd,Student,Appartement,Expert,71,Laag,Gemiddeld,Goed,Gemiddeld
+"Therapist, art",Leah de Graaf,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Studio,Expert,64,Laag,Gemiddeld,Gemiddeld,Goed
+Aid worker,Rik Hoelen,F,Nederlands,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,86,Hoog,Gemiddeld,Slecht,Slecht
+"Programmer, multimedia",Philip Jeggij-van den Broek,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,78,Laag,Gemiddeld,Gemiddeld,Goed
+Film/video editor,Jesse Winters,M,Turks,Laag,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Advanced,82,Gemiddeld,Goed,Gemiddeld,Slecht
+Dealer,Amber Uit de Willigen-van Metz,F,Marokkaans,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Gehuwd,Werkloos,Appartement,Intermediate,29,Laag,Goed,Gemiddeld,Gemiddeld
+Data scientist,Valentijn van der Berg-van de Biezenbos,F,Antilliaans,Hoog,Alleenstaand,Rechts,MBO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Beginner,24,Laag,Gemiddeld,Slecht,Slecht
+Trade mark attorney,Yusuf Manne,M,Indonesisch,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,29,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Early years teacher,Mathijs Dennenberg,M,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Joods,Gehuwd,Fulltime,Woonboot,Intermediate,82,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, land",Leah Coret-Coredo,M,Turks,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,36,Gemiddeld,Goed,Gemiddeld,Goed
+"Accountant, chartered certified",Michael Verda,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Anders,Gescheiden,Fulltime,Appartement,Advanced,75,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+IT sales professional,Philip Wildschut,F,Duits,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,28,Hoog,Gemiddeld,Gemiddeld,Goed

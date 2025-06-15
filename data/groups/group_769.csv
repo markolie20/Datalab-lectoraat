@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+English as a second language teacher,Esila Lelijveld,F,Duits,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,78,Laag,Gemiddeld,Goed,Gemiddeld
+Barrister,Rik van Liendert-van Dongen,M,Somalisch,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,68,Gemiddeld,Gemiddeld,Slecht,Goed
+IT sales professional,Dana van Nes,F,Surinaams,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Intermediate,34,Laag,Slecht,Gemiddeld,Gemiddeld
+Sports administrator,Amin Jacobi,F,Turks,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,29,Laag,Gemiddeld,Goed,Goed
+"Scientist, water quality",Boaz Rotteveel,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,WO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,40,Hoog,Gemiddeld,Goed,Gemiddeld
+Media planner,Yasmine Gnodde,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,HBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Intermediate,73,Laag,Goed,Gemiddeld,Slecht
+Sports therapist,Louise van Westfalen-den Teuling,F,Afghaans,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,48,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Herpetologist,Stijn Marceron,M,Irakees,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Gehuwd,Fulltime,Vrijstaand,Advanced,75,Laag,Gemiddeld,Slecht,Gemiddeld
+"Psychologist, prison and probation services",Nikki Chrodtrud,M,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,81,Laag,Goed,Gemiddeld,Goed
+Lawyer,Zeynep van der Mast,M,Turks,Gemiddeld,Samenwonend met kinderen,Midden,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Advanced,38,Gemiddeld,Slecht,Goed,Gemiddeld
+Automotive engineer,Stan Verhoeven,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Beginner,81,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Interior and spatial designer,Kyano Bijlsma-Matthews,M,Duits,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,26,Gemiddeld,Goed,Goed,Goed
+Physiotherapist,Laura Engels,M,Nederlands,Gemiddeld,Samenwonend,Links,WO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,88,Laag,Gemiddeld,Slecht,Gemiddeld
+"Designer, industrial/product",Rens Meijer-de Jager,M,Antilliaans,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Parttime,Woonboot,Intermediate,49,Laag,Goed,Gemiddeld,Goed
+Water engineer,Teun van Ginkel-Olykan,F,Marokkaans,Laag,Samenwonend,Midden,Basisonderwijs,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,80,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Investment banker, operational",Seth van Parijs,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Appartement,Intermediate,18,Gemiddeld,Gemiddeld,Goed,Slecht
+Amenity horticulturist,Dylano Glasses-van Wallaert,F,Pools,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,48,Hoog,Goed,Gemiddeld,Gemiddeld
+"Buyer, industrial",Adam Glasses-Gerrits,M,Irakees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,48,Laag,Goed,Gemiddeld,Gemiddeld
+Wellsite geologist,Noud Merkx-Martens,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,55,Hoog,Slecht,Gemiddeld,Gemiddeld
+Data scientist,Jasmijn Schuurmans,F,Eritrees,Hoog,Samenwonend,Links,WO,Joods,Gescheiden,Student,Rijtjeshuis,Beginner,25,Laag,Goed,Goed,Gemiddeld
+Office manager,Ecrin Bave-Tillmanno,M,Indonesisch,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Student,Appartement,Beginner,76,Laag,Slecht,Goed,Slecht
+Quality manager,Charlotte de Gruijter,F,Marokkaans,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Gehuwd,Student,Appartement,Beginner,86,Gemiddeld,Gemiddeld,Slecht,Goed
+"Physicist, medical",Jade Courtier,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,37,Laag,Slecht,Goed,Slecht
+Tax adviser,Marinus van der Lede,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Anders,Gescheiden,Parttime,Vrijstaand,Advanced,84,Hoog,Gemiddeld,Gemiddeld,Gemiddeld

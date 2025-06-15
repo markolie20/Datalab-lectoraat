@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Further education lecturer,Sepp Symons,F,Turks,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,99,Hoog,Gemiddeld,Goed,Goed
+"Clinical scientist, histocompatibility and immunogenetics",Berat Meyer,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Intermediate,19,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Media planner,Mia Koster,M,Chinees,Laag,Samenwonend,Rechts,VWO,Christelijk,Gehuwd,Student,Rijtjeshuis,Advanced,42,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety inspector,Jari de Jonge,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,37,Gemiddeld,Gemiddeld,Slecht,Goed
+English as a foreign language teacher,Sander Gemen-Kok,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,84,Laag,Gemiddeld,Gemiddeld,Goed
+Public relations officer,David Hekker,M,Eritrees,Gemiddeld,Alleenstaand,Links,VWO,Anders,Ongehuwd,Parttime,Studio,Digibeet,25,Hoog,Gemiddeld,Slecht,Gemiddeld
+Health and safety adviser,Dean van Haarlem,M,Chinees,Laag,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Werkloos,Appartement,Beginner,96,Laag,Gemiddeld,Goed,Goed
+"Accountant, chartered",Raf Blewanus-Dries,M,Marokkaans,Hoog,Alleenstaand,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,82,Laag,Slecht,Gemiddeld,Gemiddeld
+Audiological scientist,Thijn Kolen,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Parttime,Appartement,Beginner,83,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Academic librarian,Azra de Korte-Elsenaar,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Advanced,18,Laag,Slecht,Gemiddeld,Gemiddeld
+Biomedical engineer,Selena Moenen-van Kempen,F,Duits,Laag,Alleenstaand,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,65,Hoog,Gemiddeld,Slecht,Goed
+Speech and language therapist,Mehmet Post,M,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Gescheiden,Werkloos,Vrijstaand,Advanced,95,Laag,Gemiddeld,Goed,Gemiddeld
+"Geologist, wellsite",Dirk Kriens,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Intermediate,57,Laag,Slecht,Gemiddeld,Goed
+"Conservation officer, historic buildings",Thomas Kolster,M,Turks,Laag,Alleenstaand met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,81,Laag,Goed,Goed,Gemiddeld
+Advice worker,Hamza van Kasteelen,F,Nederlands,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Expert,64,Laag,Gemiddeld,Goed,Gemiddeld
+Dancer,Fenne van der Velden,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,89,Laag,Slecht,Slecht,Gemiddeld
+Ophthalmologist,Cornelis Henric van den Nuwenhuse,F,Marokkaans,Laag,Alleenstaand,Links,HBO,Islamitisch,Gescheiden,Gepensioneerd,Vrijstaand,Expert,38,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Conservator, furniture",Sam Tuithof,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,72,Laag,Slecht,Gemiddeld,Goed
+Town planner,David de Ruiter-Mudden,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,58,Laag,Goed,Gemiddeld,Goed
+Occupational psychologist,Jay Waardeloo,M,Turks,Laag,Samenwonend,Links,HBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,67,Gemiddeld,Goed,Goed,Goed
+"Designer, blown glass/stained glass",Ryan Kallen-Mahieu,M,Irakees,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Expert,91,Laag,Gemiddeld,Gemiddeld,Slecht
+Advertising copywriter,Fabian van Dokkum-van den Bergh,F,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Intermediate,32,Gemiddeld,Gemiddeld,Gemiddeld,Goed

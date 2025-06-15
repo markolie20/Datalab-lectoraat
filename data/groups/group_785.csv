@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Plant breeder/geneticist,Aya Heyne,M,Nederlands,Hoog,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,22,Laag,Slecht,Gemiddeld,Gemiddeld
+"Designer, industrial/product",Lizzy Rademaker,F,Syrisch,Gemiddeld,Samenwonend,Midden,MBO,Hindoeïstisch,Gehuwd,Parttime,Appartement,Intermediate,76,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychotherapist, child",Cornelis Smit,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,75,Gemiddeld,Goed,Goed,Goed
+"Engineer, water",Lois van Dillen,F,Surinaams,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,55,Laag,Slecht,Slecht,Slecht
+Clothing/textile technologist,Damian van Wassenaar,F,Surinaams,Gemiddeld,Samenwonend,Midden,MBO,Anders,Ongehuwd,Fulltime,Woonboot,Digibeet,50,Gemiddeld,Goed,Gemiddeld,Goed
+"Psychotherapist, dance movement",Maria Höning-Persijn,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Links,WO,Islamitisch,Gehuwd,Gepensioneerd,Woonboot,Intermediate,83,Laag,Gemiddeld,Goed,Goed
+"Surveyor, minerals",Jayson van Dongen,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,22,Laag,Slecht,Gemiddeld,Goed
+"Journalist, magazine",Isabella Butselaar-Stoffelsz,M,Irakees,Laag,Samenwonend met kinderen,Rechts,WO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,48,Laag,Slecht,Slecht,Slecht
+Press photographer,Philip van der Brink-Merckx,F,Italiaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Joods,Gehuwd,Student,Appartement,Expert,20,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Financial risk analyst,Damian Galenzone,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,39,Gemiddeld,Slecht,Goed,Slecht
+"Designer, interior/spatial",Mare Groen,F,Nederlands,Laag,Alleenstaand,Links,HAVO,Atheïstisch,Gehuwd,Fulltime,Appartement,Beginner,77,Laag,Gemiddeld,Goed,Gemiddeld

@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Accountant, chartered",Fedde Schelvis-Gerrits,M,Somalisch,Hoog,Samenwonend,Rechts,HBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,71,Hoog,Goed,Gemiddeld,Gemiddeld
+Location manager,Thijn Koster-van den Broek,M,Indiaas,Laag,Samenwonend,Rechts,VWO,Joods,Ongehuwd,Parttime,Appartement,Advanced,43,Laag,Gemiddeld,Gemiddeld,Slecht
+Audiological scientist,Livia Sitters,M,Bulgaars,Laag,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Student,Studio,Digibeet,89,Hoog,Goed,Slecht,Gemiddeld
+Clinical cytogeneticist,Matthijs Groen-Boer,F,Indiaas,Laag,Samenwonend met kinderen,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Woonboot,Expert,70,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Research officer, trade union",Frederique Hakker,F,Antilliaans,Laag,Samenwonend,Midden,MBO,Anders,Gehuwd,Parttime,Appartement,Advanced,90,Laag,Gemiddeld,Gemiddeld,Goed
+"Administrator, charities/voluntary organisations",Victoria Friehus,F,Eritrees,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,74,Hoog,Gemiddeld,Gemiddeld,Slecht
+Estate agent,Daniël Engels,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Advanced,33,Laag,Goed,Goed,Gemiddeld
+Ranger/warden,Eva Diesbergen-Steinmeiern,M,Nederlands,Hoog,Samenwonend,Links,VMBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,68,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, quantity",Lisanne Hulst,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Studio,Beginner,29,Hoog,Goed,Gemiddeld,Goed
+Clinical cytogeneticist,Sofia Cadefau,M,Syrisch,Laag,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Student,Vrijstaand,Digibeet,54,Laag,Goed,Goed,Gemiddeld
+"Engineer, electrical",Julia Everts-de Nijs,F,Surinaams,Gemiddeld,Samenwonend,Rechts,HBO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Digibeet,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Newspaper journalist,Helena Zaal,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,30,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Loss adjuster, chartered",Merle van Gastel,F,Spaans,Hoog,Samenwonend met kinderen,Rechts,VWO,Joods,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,53,Gemiddeld,Slecht,Gemiddeld,Goed
+"Administrator, arts",Indy Elsenaar,F,Afghaans,Gemiddeld,Samenwonend,Links,MBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Studio,Advanced,63,Hoog,Goed,Slecht,Goed
+Community education officer,Milan den Haag-Recers,M,Chinees,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,28,Hoog,Goed,Gemiddeld,Gemiddeld
+Barrister's clerk,Sem Lansink,M,Eritrees,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,34,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Mudlogger,Floris Hak,M,Marokkaans,Hoog,Alleenstaand met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,49,Laag,Goed,Goed,Goed
+Professor Emeritus,Mohammed Meijer,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,70,Hoog,Gemiddeld,Gemiddeld,Goed
+"Administrator, charities/voluntary organisations",Jurre van de Darnau,F,Nederlands,Hoog,Alleenstaand,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,49,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Local government officer,Loek Langevoort-Huijzing,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Beginner,55,Hoog,Gemiddeld,Gemiddeld,Goed
+"Production assistant, television",Rens Wooning-Gerritsen,M,Somalisch,Laag,Alleenstaand,Midden,MBO,Islamitisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Intermediate,29,Laag,Goed,Gemiddeld,Gemiddeld
+Hospital doctor,Mike Groen,M,Turks,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,52,Laag,Gemiddeld,Goed,Slecht
+Estate manager/land agent,Lisa Lether,M,Marokkaans,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Student,Rijtjeshuis,Beginner,78,Laag,Goed,Slecht,Gemiddeld
+Trade mark attorney,Jayda de Boer,F,Roemeens,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,82,Hoog,Gemiddeld,Goed,Goed
+Clinical molecular geneticist,Lily van de Noordmark-Roose,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Parttime,Studio,Intermediate,83,Laag,Gemiddeld,Goed,Slecht

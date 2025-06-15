@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Exhibition designer,Maryam Brumleve,M,Spaans,Laag,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Beginner,22,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Call centre manager,Maurits Ehlert-de Beer,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Parttime,Appartement,Intermediate,61,Laag,Goed,Gemiddeld,Gemiddeld
+Prison officer,Elise Emmen,F,Nederlands,Laag,Samenwonend,Midden,MBO,Anders,Gescheiden,Gepensioneerd,Rijtjeshuis,Beginner,97,Gemiddeld,Slecht,Gemiddeld,Slecht
+Product manager,Mick Brouwer-Salet,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,58,Hoog,Slecht,Goed,Gemiddeld
+Logistics and distribution manager,Bradley Michiels-van der Veen,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Expert,36,Hoog,Slecht,Gemiddeld,Gemiddeld
+Outdoor activities/education manager,Sanne Korsman,F,Marokkaans,Laag,Samenwonend,Midden,VMBO,Joods,Gehuwd,Zelfstandig,Appartement,Intermediate,20,Hoog,Gemiddeld,Goed,Goed
+Transport planner,Femke van de Plas-van der Wal,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,44,Gemiddeld,Slecht,Goed,Goed
+Politician's assistant,Nikki Persijn,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Student,Studio,Intermediate,60,Laag,Gemiddeld,Gemiddeld,Slecht
+Architect,Mohamed van Westfalen,F,Antilliaans,Hoog,Alleenstaand,Links,HBO,Atheïstisch,Gehuwd,Parttime,Twee-onder-een-kap,Intermediate,21,Hoog,Goed,Gemiddeld,Goed
+Learning disability nurse,Nisa van Hemert,F,Surinaams,Laag,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,36,Laag,Gemiddeld,Slecht,Gemiddeld
+Medical physicist,Rens Hoelen,F,Turks,Hoog,Samenwonend,Links,HBO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Beginner,51,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Therapist, speech and language",Yasmine Mol,F,Surinaams,Laag,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,96,Laag,Goed,Slecht,Gemiddeld
+"Scientist, marine",Kai Palman,F,Turks,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Advanced,41,Laag,Gemiddeld,Gemiddeld,Slecht
+Health and safety inspector,Stan Emmen,M,Irakees,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,34,Gemiddeld,Slecht,Gemiddeld,Goed
+Financial adviser,Mare Marchal,F,Indonesisch,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,66,Laag,Slecht,Goed,Slecht
+"Designer, television/film set",Dion van Alenburg,M,Portugees,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,78,Laag,Goed,Goed,Slecht
+"Research officer, political party",Maxim Thout,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,VWO,Islamitisch,Gescheiden,Parttime,Twee-onder-een-kap,Intermediate,87,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Accountant, chartered public finance",Milan Evers-de Marduras,M,Somalisch,Hoog,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,55,Laag,Slecht,Goed,Goed
+"Scientist, water quality",Zara Matthews-Heere,F,Roemeens,Gemiddeld,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,84,Gemiddeld,Goed,Goed,Slecht
+Chartered legal executive (England and Wales),Azra Nedermeijer-van Daal,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,23,Gemiddeld,Gemiddeld,Slecht,Slecht
+Immigration officer,Mika van de Velden,M,Syrisch,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,49,Laag,Gemiddeld,Slecht,Goed
+"Producer, television/film/video",Hugo Matthews,M,Marokkaans,Hoog,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,97,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, educational",Nout van Bunschoten,F,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,38,Laag,Gemiddeld,Gemiddeld,Gemiddeld

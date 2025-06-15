@@ -1,0 +1,28 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Insurance broker,Dion Gervais-Coolen,M,Indonesisch,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Woonboot,Beginner,37,Gemiddeld,Goed,Goed,Goed
+Occupational therapist,Joey van den Bergh,F,Antilliaans,Laag,Alleenstaand,Rechts,HBO,Atheïstisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,96,Hoog,Gemiddeld,Gemiddeld,Goed
+Health promotion specialist,Mees van Duivenvoorde-Overeem,M,Irakees,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,27,Laag,Slecht,Gemiddeld,Gemiddeld
+Television floor manager,Alyssa Ramaker-Kramer,M,Irakees,Laag,Samenwonend,Links,HBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,49,Hoog,Gemiddeld,Slecht,Gemiddeld
+Soil scientist,Ashley Scholten,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Advertising art director,Benthe Sarneel,M,Turks,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,69,Hoog,Gemiddeld,Goed,Gemiddeld
+Counsellor,Tara Driessen,F,Bulgaars,Hoog,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Student,Studio,Intermediate,46,Hoog,Goed,Goed,Gemiddeld
+"Designer, interior/spatial",Ceylin Phillipsen,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,64,Laag,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, commercial/residential",Collin Bertho,M,Nederlands,Hoog,Alleenstaand,Links,HBO,Anders,Ongehuwd,Zelfstandig,Appartement,Beginner,61,Gemiddeld,Slecht,Slecht,Slecht
+Financial risk analyst,Amy van Loon,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,66,Hoog,Gemiddeld,Gemiddeld,Goed
+"Programmer, applications",Fleur van der Horst,M,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,WO,Christelijk,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Advanced,21,Laag,Slecht,Gemiddeld,Gemiddeld
+Network engineer,Bart Meis,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Expert,33,Laag,Slecht,Gemiddeld,Goed
+Financial manager,Faye Groenendaal,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Advanced,41,Hoog,Gemiddeld,Goed,Gemiddeld
+Pensions consultant,Ian Vertoor-van der Maes,M,Surinaams,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Weduwe/Weduwnaar,Student,Vrijstaand,Intermediate,89,Laag,Gemiddeld,Gemiddeld,Slecht
+Personnel officer,Lorenzo Soos,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,96,Laag,Goed,Gemiddeld,Goed
+"Conservator, furniture",Yasmin Sestig,F,Turks,Laag,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,48,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Chemist, analytical",Joshua Ulrich,F,Chinees,Gemiddeld,Samenwonend,Rechts,VMBO,Anders,Gehuwd,Fulltime,Woonboot,Advanced,48,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Hospital doctor,Aron Hermans,F,Indiaas,Hoog,Samenwonend,Rechts,VWO,Atheïstisch,Gehuwd,Zelfstandig,Appartement,Intermediate,72,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Special effects artist,Casper Oude Heer-Brisee,F,Marokkaans,Hoog,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,63,Laag,Goed,Goed,Gemiddeld
+Aid worker,Nadia Jansse,F,Surinaams,Laag,Samenwonend,Midden,WO,Joods,Ongehuwd,Parttime,Appartement,Intermediate,26,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Phytotherapist,Milou de Gruijter-van den Velde,F,Surinaams,Gemiddeld,Samenwonend,Midden,VMBO,Atheïstisch,Gescheiden,Parttime,Appartement,Beginner,20,Gemiddeld,Goed,Slecht,Gemiddeld
+Chartered management accountant,Fenna van Beieren,F,Turks,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,26,Gemiddeld,Goed,Gemiddeld,Goed
+Landscape architect,Dean Wolfsdr,F,Nederlands,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,86,Laag,Gemiddeld,Goed,Gemiddeld
+"Psychotherapist, child",Linde de Wit,F,Antilliaans,Hoog,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,55,Laag,Gemiddeld,Goed,Gemiddeld
+Industrial/product designer,Beau Mansveld-Kerkhof,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,WO,Joods,Gehuwd,Student,Twee-onder-een-kap,Digibeet,98,Laag,Gemiddeld,Goed,Slecht
+"Editor, magazine features",Puk Mulder-Sprong,M,Syrisch,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,45,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Sales executive,Noa Kamper,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Advanced,26,Gemiddeld,Slecht,Slecht,Gemiddeld

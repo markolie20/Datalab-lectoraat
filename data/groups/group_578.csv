@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Pharmacologist,Ali Bleijenberg-Ernst,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Gehuwd,Parttime,Appartement,Advanced,79,Laag,Gemiddeld,Goed,Gemiddeld
+Mechanical engineer,Isis Gellemeyer,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,26,Laag,Slecht,Goed,Goed
+Chief Strategy Officer,Megan van Laar,M,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Beginner,56,Laag,Goed,Gemiddeld,Goed
+Contracting civil engineer,Pien van Henegouwen-van der Heyden,F,Turks,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Student,Appartement,Beginner,18,Laag,Slecht,Gemiddeld,Goed
+Television camera operator,Rayan van Wijk,F,Turks,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Student,Appartement,Intermediate,69,Gemiddeld,Goed,Gemiddeld,Goed
+Banker,Sarah Beernink,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Anders,Gescheiden,Fulltime,Appartement,Digibeet,75,Gemiddeld,Slecht,Slecht,Goed
+Bonds trader,Lena van de Coterlet,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Boeddhistisch,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,48,Laag,Gemiddeld,Gemiddeld,Slecht
+Public relations officer,Sienna Schokman,M,Chinees,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Appartement,Expert,29,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, agricultural",Lizzy Françoise,F,Chinees,Hoog,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Student,Appartement,Advanced,93,Gemiddeld,Goed,Slecht,Gemiddeld
+Solicitor,Evi Jaceps,F,Nederlands,Hoog,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,83,Gemiddeld,Gemiddeld,Gemiddeld,Slecht

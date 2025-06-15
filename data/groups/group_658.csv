@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Exercise physiologist,Hidde de Jong,F,Turks,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,52,Gemiddeld,Gemiddeld,Slecht,Goed
+Agricultural consultant,Cornelia van Ooyen,M,Turks,Gemiddeld,Samenwonend,Rechts,WO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,83,Laag,Slecht,Goed,Goed
+Advertising account executive,Victor Meyer,M,Turks,Laag,Samenwonend met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,45,Laag,Slecht,Goed,Goed
+"Scientist, clinical (histocompatibility and immunogenetics)",Eliza Luboch,M,Nederlands,Hoog,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,94,Laag,Gemiddeld,Goed,Gemiddeld
+"Scientist, physiological",Gijs Volcke,M,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,22,Gemiddeld,Gemiddeld,Goed,Goed
+Tax inspector,Sterre Scholten,F,Marokkaans,Gemiddeld,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,42,Hoog,Gemiddeld,Gemiddeld,Slecht
+Museum/gallery curator,Evelien van Engeland,F,Marokkaans,Laag,Alleenstaand,Midden,HAVO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Advanced,67,Laag,Goed,Gemiddeld,Gemiddeld
+Bookseller,Sterre Willemsen,M,Bulgaars,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,64,Laag,Gemiddeld,Slecht,Goed
+"Doctor, hospital",Cas Bouthoorn,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,HBO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Expert,33,Hoog,Goed,Slecht,Gemiddeld
+Probation officer,Daniel van den Corput,M,Surinaams,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,80,Hoog,Slecht,Goed,Gemiddeld
+Commercial art gallery manager,Indy Janssens,F,Surinaams,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Studio,Intermediate,57,Hoog,Gemiddeld,Gemiddeld,Goed
+Broadcast engineer,Sten Meijer,F,Pools,Hoog,Samenwonend met kinderen,Links,MBO,Anders,Ongehuwd,Student,Rijtjeshuis,Beginner,60,Laag,Slecht,Gemiddeld,Gemiddeld
+"Engineer, automotive",Tess van Kuijc van Malsen,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Intermediate,31,Laag,Goed,Gemiddeld,Goed
+Insurance underwriter,Linde Bouhuizen,F,Bulgaars,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,98,Laag,Goed,Gemiddeld,Gemiddeld

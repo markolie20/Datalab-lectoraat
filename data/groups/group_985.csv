@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, petroleum",Mara Dekker-van der Meer,F,Afghaans,Hoog,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,65,Gemiddeld,Goed,Gemiddeld,Slecht
+"Radiographer, therapeutic",Luna Lansink,F,Indiaas,Laag,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,45,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial art gallery manager,Maarten Versluijs,F,Syrisch,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Werkloos,Studio,Advanced,70,Laag,Goed,Goed,Gemiddeld
+Leisure centre manager,Janna Roose-van Arkel,F,Turks,Gemiddeld,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Fulltime,Studio,Intermediate,90,Laag,Slecht,Goed,Gemiddeld
+Cartographer,Noah van den Heuvel,M,Chinees,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,59,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, agricultural",Zeynep Chotzen,M,Chinees,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Student,Rijtjeshuis,Digibeet,50,Hoog,Goed,Goed,Gemiddeld
+"Therapist, horticultural",Loïs Bresse,M,Somalisch,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,41,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Television production assistant,Simon Kriens,M,Marokkaans,Gemiddeld,Samenwonend,Links,MBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,91,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Sales promotion account executive,Tara Knoers-van der Sande,M,Marokkaans,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,70,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Optician, dispensing",Lily Hondeveld,M,Turks,Laag,Alleenstaand met kinderen,Links,VMBO,Anders,Ongehuwd,Student,Appartement,Advanced,51,Laag,Slecht,Goed,Goed
+Call centre manager,Benjamin van Laarhoven,F,Pools,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,65,Hoog,Slecht,Gemiddeld,Goed

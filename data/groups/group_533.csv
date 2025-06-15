@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Programmer, systems",Nisa Everde,F,Portugees,Gemiddeld,Samenwonend met kinderen,Links,VWO,Christelijk,Weduwe/Weduwnaar,Fulltime,Woonboot,Expert,43,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Librarian, academic",Damian Kof-Ridder,M,Duits,Gemiddeld,Alleenstaand,Rechts,WO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,20,Laag,Gemiddeld,Slecht,Gemiddeld
+Bookseller,Vince Meis-Jaceps,F,Chinees,Gemiddeld,Alleenstaand,Links,HAVO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,69,Laag,Gemiddeld,Slecht,Slecht
+Ophthalmologist,Noor van Alenburg,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Beginner,24,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Systems analyst,Maxim Hoppenbrouwer,F,Indiaas,Laag,Samenwonend,Rechts,VWO,Anders,Ongehuwd,Fulltime,Appartement,Expert,31,Hoog,Goed,Gemiddeld,Gemiddeld
+Clinical embryologist,Isabel Stamrood,F,Somalisch,Gemiddeld,Alleenstaand,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Intermediate,44,Laag,Gemiddeld,Goed,Gemiddeld
+Barista,Myrthe Huisman,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Student,Appartement,Intermediate,53,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Biomedical engineer,Tobias Bleijenberg-Keltenie,M,Nederlands,Hoog,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,89,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Multimedia specialist,Mare Mathol,F,Indiaas,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,72,Laag,Goed,Gemiddeld,Gemiddeld
+Information officer,Mark Greij,M,Bulgaars,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Advanced,89,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Designer, industrial/product",Naud Vaessen,F,Duits,Laag,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,44,Laag,Goed,Slecht,Gemiddeld
+Veterinary surgeon,Yassin Ferran,M,Roemeens,Laag,Samenwonend met kinderen,Links,VWO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,21,Laag,Slecht,Goed,Slecht
+Television production assistant,Noa van Herstal-Mansveld,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,47,Laag,Slecht,Goed,Gemiddeld
+Volunteer coordinator,Jens Miner-Bertho,M,Eritrees,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Anders,Gescheiden,Fulltime,Appartement,Beginner,92,Gemiddeld,Gemiddeld,Slecht,Gemiddeld

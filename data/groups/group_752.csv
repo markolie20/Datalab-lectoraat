@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Dancer,Nina van Kuijc,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Manufacturing systems engineer,Lars van de Darnau,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,46,Laag,Goed,Gemiddeld,Gemiddeld
+Hydrographic surveyor,Floris Timmermans,F,Nederlands,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,54,Gemiddeld,Goed,Gemiddeld,Goed
+Management consultant,Olaf Boddaugh-Veenendaal,F,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Expert,93,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Speech and language therapist,Finn de Werd,M,Nederlands,Laag,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,84,Hoog,Slecht,Slecht,Gemiddeld
+Town planner,Bas Strijker,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,71,Hoog,Gemiddeld,Slecht,Gemiddeld
+Banker,Luca Schrant,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,HAVO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,91,Gemiddeld,Gemiddeld,Goed,Goed
+Water quality scientist,Sam van Leeuwen,M,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Weduwe/Weduwnaar,Student,Appartement,Beginner,22,Hoog,Slecht,Goed,Gemiddeld
+Film/video editor,Niels van 't Riet,F,Surinaams,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Intermediate,25,Gemiddeld,Slecht,Goed,Slecht
+Copy,Willem van Oosten-van Praagh,M,Surinaams,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Expert,30,Gemiddeld,Gemiddeld,Gemiddeld,Goed

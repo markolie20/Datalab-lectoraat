@@ -1,0 +1,1157 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2023-10-23T00:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi allemaal! Goede vraag, wat kunnen we hier in de regio concreet doen om het milieu te verbeteren? Ik ben benieuwd naar jullie ideeën!\n",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 1,
+    "timestamp": "2023-10-23T00:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja precies! Meer groen in de stad is al een goed begin 🌱! En minder auto's natuurlijk 🚗💨!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 2,
+    "timestamp": "2023-10-23T00:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Misschien meer openbaar vervoer 🤔! Of subsidies voor zonnepanelen 💡!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 3,
+    "timestamp": "2023-10-23T00:35:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja top ideeën! 👏 Zonnepanelen is echt een goede! En wat dachten jullie van meer afval scheiden?! ♻️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 4,
+    "timestamp": "2023-10-23T07:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Hoi Arthur! Zonnepanelen vind ik een goed idee! En meer groen is ook altijd fijn! En minder auto's! Dat is wel een probleem hier in de stad!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 5,
+    "timestamp": "2023-10-23T07:30:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, zonnepanelen is goed! En ik vind meer groen ook een heel goed idee! Minder auto's zou fijn zijn! Het is hier echt een chaos soms!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 6,
+    "timestamp": "2023-10-23T07:40:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, zonnepanelen is top! En meer groen! Dat is echt nodig! Minder auto's zou ook heel fijn zijn!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 7,
+    "timestamp": "2023-10-23T07:55:00",
+    "sender": "Juliette de Keijser",
+    "text": "Zonnepanelen is een goede start! En we hebben echt meer groen nodig! Die auto's zijn een ramp!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 8,
+    "timestamp": "2023-10-23T08:00:00",
+    "sender": "Jordy van Praagh",
+    "text": "Hoi Juliette! 🙋‍♀️ Ja, die zonnepanelen zijn echt een goed idee! 💡 En meer groen, ja! Dat is zeker nodig! 🌳 En die auto's... pfff! 🚗💨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 9,
+    "timestamp": "2023-10-23T08:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Zonnepanelen vind ik ook een goede optie. En meer groen is altijd fijn.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 10,
+    "timestamp": "2023-10-23T08:10:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Hallo! Ja, zonnepanelen is een goed idee! 💡 En meer groen natuurlijk! 🌳 Dat is echt nodig!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 11,
+    "timestamp": "2023-10-23T08:15:00",
+    "sender": "Jordy van Praagh",
+    "text": "Hoi Daphne! 👋 Ja, zonnepanelen is echt een top idee! 💡 En meer groen is zeker nodig! 🌳 En die auto's, vreselijk! 🚗💨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 12,
+    "timestamp": "2023-10-23T08:30:00",
+    "sender": "Noëlle Ellis",
+    "text": "Hallo allemaal. Zonnepanelen en meer groen lijken inderdaad goede ideeën.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 13,
+    "timestamp": "2023-10-23T08:35:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Hallo allemaal,\n\nIk ben het eens met wat hier gezegd wordt. Zonnepanelen zijn een goed idee, en meer groen in de stad is ook wenselijk. Minder auto's zou de leefbaarheid zeker ten goede komen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 14,
+    "timestamp": "2023-10-23T08:40:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad, ik sluit me aan bij Evi. Zonnepanelen en meer groen zijn goede ideeën. Minder auto's zou ook prettig zijn.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 15,
+    "timestamp": "2023-10-23T08:45:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag Noëlle,\n\nFijn om te horen dat u het met me eens bent. Ik denk dat we het er allemaal over eens kunnen zijn dat we meer groen en schonere lucht in de stad willen. Laten we hopen dat er snel actie ondernomen wordt!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 16,
+    "timestamp": "2023-10-23T08:50:00",
+    "sender": "Juliette de Keijser",
+    "text": "Hallo Evi! Helemaal mee eens! Zonnepanelen en meer groen is top! Minder auto's zou echt geweldig zijn!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 17,
+    "timestamp": "2023-10-23T09:00:00",
+    "sender": "Jason Brievingh",
+    "text": "Hoi allemaal, ik sluit me aan bij de anderen. Zonnepanelen is een goed idee. En meer groen in de stad zou ook echt top zijn. Minder auto's zou de luchtkwaliteit zeker verbeteren. We moeten er gewoon voor zorgen dat de gemeente hier werk van maakt.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 18,
+    "timestamp": "2023-10-23T09:05:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Hallo Jason! Ja, helemaal mee eens! 💡 Zonnepanelen is goed! En meer groen! 🌳 Minder auto's, inderdaad!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 19,
+    "timestamp": "2023-10-23T09:10:00",
+    "sender": "Jason Brievingh",
+    "text": "Hoi Daphne! Inderdaad, helemaal mee eens. Zonnepanelen, meer groen en minder auto's zijn allemaal goede punten. Laten we hopen dat er snel iets gebeurt.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 20,
+    "timestamp": "2023-10-23T09:15:00",
+    "sender": "Jordy van Praagh",
+    "text": "Hoi Jason! 👋 Ja, helemaal mee eens! 👍 Zonnepanelen, meer groen en minder auto's, dat is echt nodig! 💡🌳🚗💨 Laten we hopen dat de gemeente er eindelijk eens iets aan doet! 🙄",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 21,
+    "timestamp": "2023-10-23T09:20:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Zonnepanelen is een goede optie. Minder auto's is wenselijk.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 22,
+    "timestamp": "2023-10-23T09:25:00",
+    "sender": "Jordy van Praagh",
+    "text": "Hoi Gerrit! 👋 Ja, zonnepanelen is goed! 💡 Minder auto's, helemaal mee eens! 👍 Maar we moeten er ook voor zorgen dat er meer groen komt! 🌳 Dat is echt belangrijk! En dat de gemeente nou eens actie onderneemt! 🙄",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 23,
+    "timestamp": "2023-10-23T09:30:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedemiddag Jordy. Meer groen in de stad is altijd een goed idee. De gemeente moet daar inderdaad eens werk van maken.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 24,
+    "timestamp": "2023-10-23T09:35:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Goedemiddag Noëlle, Jordy,\n\nInderdaad, meer groen in de stad is altijd een goede zaak. De gemeente zou hier inderdaad eens werk van moeten maken. Ik vind dat er ook meer aandacht moet komen voor het schoonmaken van de straten. Het is vaak zo vies!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 25,
+    "timestamp": "2023-10-23T09:40:00",
+    "sender": "Maria Chotzen",
+    "text": "Goedemiddag Evi,\n\nMee eens! Meer groen is altijd goed. En die straten... SCHOONMAKEN! Moet gebeuren!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 26,
+    "timestamp": "2023-10-23T09:45:00",
+    "sender": "Jason Brievingh",
+    "text": "Hoi Maria, helemaal mee eens. Meer groen en schonere straten zou echt top zijn! En de gemeente mag hier inderdaad wel eens wat meer aandacht aan besteden.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 27,
+    "timestamp": "2023-10-23T09:55:00",
+    "sender": "Jason Brievingh",
+    "text": "Hoi Maria, helemaal waar! Meer groen, schonere straten en de gemeente die eens actie onderneemt. Ik zou ook wel willen dat er vaker en beter gecontroleerd wordt op afval. Sommige mensen gooien echt ALLES op straat.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 28,
+    "timestamp": "2023-10-23T10:00:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Hoi allemaal\n\nJa die zonnepanelen is een idee hoor! En meer groen! Dat is echt nodig! En die auto's, pfff vreselijk!\n\nJason, helemaal mee eens over die troep op straat! Schoonmaken ja! Gemeente moet eens actie ondernemen. Maar wat is er nou met de politiek? Die doen nooit wat!! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 29,
+    "timestamp": "2023-10-23T10:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Zonnepanelen, minder auto's. Dat is het.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 30,
+    "timestamp": "2023-10-23T10:10:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mij dunkt dat de discussie zich vooral concentreert op de welbekende punten. Zonnepanelen, minder auto's en meer groen.\n\nWellicht dienen we ook na te denken over efficiëntere afvalverwerking.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 31,
+    "timestamp": "2023-10-23T10:15:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Dave, dat is correct. En afvalverwerking.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 32,
+    "timestamp": "2023-10-23T10:20:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedenavond Gerrit. Afvalverwerking is ook belangrijk, daar heb je gelijk in.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 33,
+    "timestamp": "2023-10-23T10:25:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Correct. Afvalverwerking moet verbeterd worden.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 34,
+    "timestamp": "2023-10-23T10:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Zonnepanelen en minder auto's is goed! 💡 En meer groen natuurlijk! 🌳\nEn afvalverwerking moet beter! 🗑️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 35,
+    "timestamp": "2023-10-23T10:35:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Hé Arthur, helemaal mee eens! Zonnepanelen, minder auto's en meer groen is TOP! 💪 En die afvalverwerking... moet inderdaad beter. Die rotzooi op straat is echt niet normaal.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 36,
+    "timestamp": "2023-10-23T10:40:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Bibi, helemaal mee eens! Zonnepanelen en minder auto's is inderdaad een goed begin! Meer groen kan ook geen kwaad! Die afvalverwerking moet inderdaad beter, wat een rotzooi soms!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 37,
+    "timestamp": "2023-10-23T10:45:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mevrouw Louws-Welf,\n\nU spreekt wijze woorden. Zonnepanelen, minder auto's en meer groen zijn inderdaad belangrijk. De afvalverwerking verdient echter ook meer aandacht. Ik ben benieuwd naar concrete voorstellen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 38,
+    "timestamp": "2023-10-23T10:50:00",
+    "sender": "Noëlle Ellis",
+    "text": "Goedenavond Dave, u heeft gelijk. De afvalverwerking verdient zeker meer aandacht.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 39,
+    "timestamp": "2023-10-23T10:55:00",
+    "sender": "Dave Lorreijn",
+    "text": "Mevrouw Ellis,\n\nDank u voor uw compliment. Ik ben het met u eens dat afvalverwerking meer aandacht verdient. Het is een complex probleem, maar ik ben ervan overtuigd dat we door gezamenlijke inspanningen verbeteringen kunnen realiseren.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 40,
+    "timestamp": "2023-10-23T11:00:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Goedenavond Dave,\n\nU spreekt inderdaad wijze woorden. Zonnepanelen, minder auto's en meer groen, daar zijn we het over eens. Echter, de afvalverwerking, die is een ware ramp! In de stad waar ik woon, ligt er vaak vuil op straat. Dat kan toch niet de bedoeling zijn? De gemeente moet hier echt eens werk van maken. Dat is mijn mening.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 41,
+    "timestamp": "2023-10-23T11:15:00",
+    "sender": "Dave Lorreijn",
+    "text": "Meneer Hendrikse,\n\nU spreekt ware woorden. Die afvalverwerking is inderdaad een doorn in het oog. In mijn ervaring is dit in de stad ook een probleem. De gemeente dient hier inderdaad actiever op te treden.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 42,
+    "timestamp": "2023-10-23T11:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 💯 Afvalverwerking moet echt beter! 🗑️ En Dave heeft gelijk! 👏",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 43,
+    "timestamp": "2023-10-23T11:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Arthur, helemaal gelijk! Die afvalverwerking is echt K*T! En de rest ook!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 44,
+    "timestamp": "2023-10-23T11:30:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens! Die troep op straat is echt niet normaal. Gemeente moet er wat aan doen, maar of ze dat ooit gaan doen... 🙄 En die zonnepanelen, en minder auto's en meer groen, dat is allemaal goed. Maar ik snap er niks van, HOE dan? 🤷‍♀️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 45,
+    "timestamp": "2023-10-23T11:35:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, die troep op straat is niet normaal! Gemeente moet wat doen. Maar ja, die zonnepanelen, minder autos, meer groen... hoe dan? Snap ik niet!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 46,
+    "timestamp": "2023-10-23T11:40:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa Lukas, snap je niet hoe?🤔 Gewoon, meer actie! 💪 Gemeente moet gewoon meer doen, ff serieus. Zonnepanelen, minder auto's, meer groen, makkelijk toch? 😉",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 47,
+    "timestamp": "2023-10-23T11:45:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's. Dat zou al helpen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 48,
+    "timestamp": "2023-10-23T11:50:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, minder auto's is goed! Maar hoe dan? Snap het niet.. Die troep op straat is ook erg! Die gemeente...",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 49,
+    "timestamp": "2023-10-23T11:55:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, minder autos is goed! Maar hoe dan? Snap het niet! En die gemeente, die doet toch niks! Die troep op straat...vreselijk!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 50,
+    "timestamp": "2023-10-23T12:00:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, hoe dan?! Snap er ook niks van. Die gemeente doet echt niks. Minder auto's is goed, maar HOE dan?! 🤷‍♀️ Gewoon meer doen? Ja, lekker makkelijk gezegd. Die troep op straat is echt K*T!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 51,
+    "timestamp": "2023-10-23T12:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja, hoe dan?! 🤷‍♀️ Snap het ook niet! 😅 Maar minder auto's en meer groen is wel een goed idee! 🌳\nDie troep op straat is echt niet normaal! 🗑️ Gemeente moet echt iets doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 52,
+    "timestamp": "2023-10-23T12:10:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, hoe dan? Snap ik ook niet! Die gemeente doet toch niks! Die troep op straat is vreselijk! Minder auto's is goed, maar hoe dan???",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 53,
+    "timestamp": "2023-10-23T12:15:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Euh, hoe dan?! Snap er niks van! Die gemeente doet niks, die troep op straat is echt K*T. Minder auto's is goed, maar hoe dan?! 🤷‍♀️ Ja, lekker makkelijk gezegd!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 54,
+    "timestamp": "2023-10-23T12:30:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa Bibi, hoe dan?🤨 Gewoon, actie man! 💪 Die gemeente moet gewoon wakker worden. Minder auto's, meer groen, zonnepanelen... snap je toch? 😉 Die troep op straat is inderdaad niet normaal.😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 55,
+    "timestamp": "2023-10-23T12:40:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, hoe dan? Snappen jullie het dan echt niet? Actie? Gemeente moet wat doen? Die troep op straat is toch verschrikkelijk! Minder auto's...hoe dan?",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 56,
+    "timestamp": "2023-10-23T12:45:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Hoe dan? Snap het niet! Die gemeente doet niks, die troep op straat is echt K*T. Minder autos is goed, maar hoe dan?! 🤷‍♀️ Die Lukas, snap je het nou echt niet? Meer actie! Simpel toch?! 🙄",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 57,
+    "timestamp": "2023-10-23T12:50:00",
+    "sender": "Lukas Verhagen",
+    "text": "Hoe dan? Snap het niet! Die gemeente doet niks! Troep op straat is erg! Minder autos, maar hoe dan?? Snappen jullie het dan niet?",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 58,
+    "timestamp": "2023-10-23T12:55:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Lukas! Ja, hoe dan? Snappen jullie het nou echt niet? Die gemeente doet niks. Troep op straat is echt K*T. Gewoon meer doen! Minder autos is goed, maar hoe dan?! 🤷‍♀️ Wordt tijd voor actie! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 59,
+    "timestamp": "2023-10-23T13:00:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, hoe dan?! Pff... Snappen jullie het dan echt niet? Die gemeente doet echt helemaal niks. Die troep op straat is echt K*T. Minder auto's is goed, maar hoe dan?! 🤷‍♀️ Actie? Gewoon meer doen? Makkelijk praten. Wordt er echt moe van! 🙄",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 60,
+    "timestamp": "2023-10-23T13:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Hoe dan? Ik snap het ook niet. Die troep op straat is echt een probleem. De gemeente moet er iets aan doen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 61,
+    "timestamp": "2023-10-23T13:10:00",
+    "sender": "Lukas Verhagen",
+    "text": "Hoe dan? Ik snap het ook niet! Die gemeente doet niks! Die troep op straat is erg! Noëlle, jij snapt het ook niet? Minder auto's... hoe dan???",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 62,
+    "timestamp": "2023-10-23T13:15:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's. Dat zou al helpen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 63,
+    "timestamp": "2023-10-23T13:20:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's. Dat is belangrijk.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 64,
+    "timestamp": "2023-10-23T13:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, hoe dan?! Minder auto's is goed, maar hoe dan?! 🤷‍♀️ Die Senna heeft wel gelijk, minder auto's zou helpen. Maar hoe dan? Snappen jullie het nou echt niet? 🙄 Die gemeente doet gewoon niks! En die troep op straat is echt K*T! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 65,
+    "timestamp": "2023-10-23T13:30:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Ach, die jeugd! Hoe dan!?! Ik snap er niks van! De gemeente doet niks! Die troep op straat, vreselijk! Minder auto's, hoe dan!?! 😠 Bibi, ben ik het mee eens! 😩",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 66,
+    "timestamp": "2023-10-23T13:35:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa Norah, snap je het nou nog steeds niet? 🙄 Gewoon meer actie! 💪 Gemeente moet gewoon wakker worden. Minder auto's, meer groen, zonnepanelen... simpel toch? 😉 Die troep op straat is inderdaad niet normaal.😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 67,
+    "timestamp": "2023-10-23T13:40:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Minder auto's is een goede eerste stap. Er moet een plan komen voor emissiereductie.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 68,
+    "timestamp": "2023-10-23T13:45:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ewa Gerrit, plan voor emissiereductie?🤔 Klinkt goed man! 💪 Maar hoe dan? Gewoon meer actie! 😉 Gemeente moet gewoon wakker worden. Minder auto's, meer groen, zonnepanelen... simpel toch?😤 Die troep op straat is inderdaad niet normaal.😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 69,
+    "timestamp": "2023-10-23T13:50:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ewa Eliza, actie man? 🙄 Ja leuk, maar HOE dan? 🤷‍♀️ Die gemeente doet echt helemaal niks! En die troep op straat is echt K*T! Minder auto's is goed, maar hoe dan?! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 70,
+    "timestamp": "2023-10-23T13:55:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Bibi, ik ben het helemaal met je eens! Hoe dan!?! Die gemeente doet helemaal niks! Die troep op straat! 😩 Verschrikkelijk! Minder auto's, maar hoe dan!?! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 71,
+    "timestamp": "2023-10-23T14:00:00",
+    "sender": "Lukas Verhagen",
+    "text": "Hoe dan? Snap het niet! Die gemeente doet niks! \nDie troep op straat is echt vreselijk! \nMinder auto's... hoe dan?? \nNorah, jij snapt het ook niet?",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 72,
+    "timestamp": "2023-10-23T14:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad Lukas, hoe dan? Ik snap het ook niet. De gemeente moet iets doen. En die troep op straat is echt een probleem.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 73,
+    "timestamp": "2023-10-23T14:10:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 74,
+    "timestamp": "2023-10-23T14:15:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Minder auto's is een goed idee, maar hoe dan?\n\nSenna, je hebt gelijk, minder auto's is inderdaad belangrijk! Maar hoe gaan we dat bewerkstelligen? \n\nIk ben het eens met Gerrit, er moet een plan komen voor emissiereductie. De gemeente moet hier echt werk van maken.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 75,
+    "timestamp": "2023-10-23T14:25:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ja, hoe dan? Ik vraag me dat ook af. De gemeente moet echt iets doen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 76,
+    "timestamp": "2023-10-23T14:35:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 77,
+    "timestamp": "2023-10-23T14:40:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Senna heeft gelijk! Minder auto's, ja! Maar hoe dan!?! De gemeente doet niks! Die troep op straat! Verschrikkelijk! 😩 Ik ben het met jullie eens! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 78,
+    "timestamp": "2023-10-23T14:45:00",
+    "sender": "Senna de Kale",
+    "text": "Minder auto's. Dat is de sleutel.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 79,
+    "timestamp": "2023-10-23T14:50:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad, hoe dan? Ik ben het eens met Senna, minder auto's is belangrijk. Maar hoe gaan we dat doen? De gemeente moet actie ondernemen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 80,
+    "timestamp": "2023-10-23T14:55:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ja, minder auto's zou echt top zijn! 🚗 Maar hoe dan?! 🤔 Ik denk dat de gemeente sowieso meer groen moet aanplanten, dat is goed voor de luchtkwaliteit en ziet er ook nog eens leuk uit! 🌳🌸",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 81,
+    "timestamp": "2023-10-23T15:00:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Minder auto's is zeker een goede stap!\n\nMaar hoe gaan we dat precies aanpakken? Er moet een plan komen, zoals Gerrit al zei.\n\nEn Morris, meer groen is inderdaad een uitstekend idee! Dat zou de leefbaarheid in onze regio zeker ten goede komen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 82,
+    "timestamp": "2023-10-23T15:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ja, hoe dan? Ik ben het eens met Luuk, er moet een plan komen. De gemeente moet echt actie ondernemen. En Morris, meer groen is een goed idee.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 83,
+    "timestamp": "2023-10-23T15:10:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad! Noëlle, ik ben het helemaal met je eens. Er moet een plan komen!\n\nDe gemeente moet echt in actie komen. Minder auto's, meer groen... Maar hoe gaan we dat precies voor elkaar krijgen? Daar heb ik ook nog geen antwoord op. Misschien moeten we de gemeente eens benaderen met een concreet voorstel.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 84,
+    "timestamp": "2023-10-23T15:20:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ja, hoe dan? De gemeente moet actie ondernemen. Ik ben het eens met Luuk.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 85,
+    "timestamp": "2023-10-23T15:25:00",
+    "sender": "Maja Stinis",
+    "text": "Ewa, minder auto's is de shit! 💪 Maar HOE dan?! 🙄 Die gemeente doet echt helemaal niks! 😠 Noëlle, snap je het nou eindelijk?! 🙄",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 86,
+    "timestamp": "2023-10-23T15:30:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Maja! Hoe dan!?! Minder auto's, ja! Maar hoe dan!?! De gemeente doet niks! Die troep op straat! Verschrikkelijk! 😩 Ik ben het met jullie eens! 😠 Er moet echt iets gebeuren!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 87,
+    "timestamp": "2023-10-23T15:35:00",
+    "sender": "Maja Stinis",
+    "text": "Ewa Norah! 🙄 Snappen jullie het nou echt niet?! 😠 Minder auto's is de key, maar hoe dan?! 🤷‍♀️ Gemeente moet wakker worden! 💪 Die troep op straat is echt K*T! 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 88,
+    "timestamp": "2023-10-23T15:40:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Minder auto's is een uitstekend streven, daar ben ik het mee eens!\n\nMaar Maja, het is niet zo simpel als \"minder auto's is de shit\". We moeten bedenken hoe we dat gaan realiseren!\n\nDe gemeente moet echt in actie komen, dat is zeker.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 89,
+    "timestamp": "2023-10-23T15:50:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ewa Luuk, chill dat je het met me eens bent over dat groen! 🌳 Maar ja, hoe gaan we die minder auto's fixen? 🤔 Misschien moeten we een soort enquête houden ofzo, om te kijken wat mensen willen? 🤷‍♀️ Of gewoon lekker veel bomen planten, haha! 😜",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 90,
+    "timestamp": "2023-10-23T15:55:00",
+    "sender": "Maja Stinis",
+    "text": "Ewa Morris! 💪 Enquête? 🙄 Gewoon minder auto's! 🚗 Die gemeente moet gewoon wat doen! 😠 Bomen zijn wel chill trouwens. 🌳😎",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 91,
+    "timestamp": "2023-10-23T16:15:00",
+    "sender": "Dave Lorreijn",
+    "text": "Inderdaad, minder auto's is een goede zaak. Maar hoe we dat moeten bewerkstelligen, daar ben ik nog niet achter. De gemeente moet actie ondernemen, maar hoe?\n\nMevrouw Stinis, ik begrijp dat u het probleem wilt vereenvoudigen, maar zo werkt het helaas niet.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 92,
+    "timestamp": "2023-10-23T16:25:00",
+    "sender": "Dave Lorreijn",
+    "text": "Minder auto's is inderdaad een begin, maar de uitvoerbaarheid is de sleutel. Een enquête is wellicht een bruikbaar middel om de bevolking te raadplegen, meneer Stuivenberg. De gemeente moet inderdaad een plan presenteren en er vervolgens naar handelen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 93,
+    "timestamp": "2023-10-23T16:50:00",
+    "sender": "Dave Lorreijn",
+    "text": "Een enquête is een goed idee, meneer Stuivenberg. Wellicht dat we de gemeente kunnen verzoeken om zo'n onderzoek te organiseren. Het is belangrijk dat er daadwerkelijk actie ondernomen wordt, maar de details zijn essentieel.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 94,
+    "timestamp": "2023-10-23T17:00:00",
+    "sender": "Maria Chotzen",
+    "text": "Minder auto's is de KEY! Maar hoe? De gemeente moet gewoon iets DOEN! Die troep op straat is echt een probleem! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 95,
+    "timestamp": "2023-10-23T17:05:00",
+    "sender": "Jordy van Praagh",
+    "text": "Ja, minder auto's is goed, maar hoe dan!?? Die gemeente doet niks! 😠 Troep op straat, bah! 😤 Enquête misschien? 🤔 Maar de gemeente moet gewoon actie ondernemen! 😡",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 96,
+    "timestamp": "2023-10-23T17:10:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Minder auto's is inderdaad een goed begin, maar hoe gaan we dat aanpakken? Ik ben het eens met Jordy, die gemeente doet niks! Misschien moeten we eens een petitie starten? Ik heb wel ervaring met dit soort dingen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 97,
+    "timestamp": "2023-10-23T17:15:00",
+    "sender": "Jason Brievingh",
+    "text": "Ik vind het een goed idee, Evi, die petitie. Ik denk dat de gemeente wel iets met een petitie zou moeten doen. Minder auto's is inderdaad de sleutel, maar hoe gaan we dat voor elkaar krijgen?",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 98,
+    "timestamp": "2023-10-23T17:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Evi, goed idee die petitie! 👍 Minder auto's is idd de key! Maar hoe dan precies?! 🤔 Die gemeente moet echt in actie komen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 99,
+    "timestamp": "2023-10-23T17:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens met Jason, die petitie lijkt me top! 💪 Hoe meer handtekeningen, hoe beter! ✍️ De gemeente kan ons dan niet meer negeren! 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 100,
+    "timestamp": "2023-10-23T17:30:00",
+    "sender": "Maria Chotzen",
+    "text": "Arthur, een petitie is een GOED idee! 💪 Minder auto's, ja! Maar HOE? Die gemeente MOET iets doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 101,
+    "timestamp": "2023-10-23T17:35:00",
+    "sender": "Arthur van Dillen",
+    "text": "Maria, helemaal mee eens! 💪 Petitie is de weg! ✍️ Minder auto's, hoe dan ook! 😤 Die gemeente gaat het nog wel zien! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 102,
+    "timestamp": "2023-10-23T17:40:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, een petitie is een uitstekend idee, Arthur! Laten we dat zo snel mogelijk opstarten. Ik heb wel al een concept klaarliggen. Minder auto's is inderdaad de sleutel, en ik hoop dat de gemeente eindelijk eens wakker wordt.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 103,
+    "timestamp": "2023-10-23T17:45:00",
+    "sender": "Jordy van Praagh",
+    "text": "Evi, top idee die petitie! 👍 Minder auto's is de key! ✍️ De gemeente moet echt in actie komen! 😠 Ik wil wel helpen met tekenen! 🙋‍♀️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 104,
+    "timestamp": "2023-10-23T17:50:00",
+    "sender": "Arthur van Dillen",
+    "text": "Jordy, top! 💪 Ik teken ook! ✍️ Minder auto's = beter! 💯 Gemeente, kom in actie! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 105,
+    "timestamp": "2023-10-23T17:55:00",
+    "sender": "Jordy van Praagh",
+    "text": "Arthur, top! 👍 Ik doe ook mee met die petitie! ✍️ Minder auto's is de KEY! 💯 Die gemeente moet gewoon wat doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 106,
+    "timestamp": "2023-10-23T18:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Minder auto's, dat is inderdaad belangrijk! Die petitie van Evi, daar ben ik het mee eens! Jordy, ik teken ook! De gemeente moet echt actie ondernemen!😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 107,
+    "timestamp": "2023-10-23T18:05:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Juliette, helemaal mee eens! Die petitie is een uitstekend idee. 👍 Minder auto's is echt belangrijk! ✍️ Die gemeente moet eindelijk eens wat doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 108,
+    "timestamp": "2023-10-23T18:10:00",
+    "sender": "Maria Chotzen",
+    "text": "Daphne, petitie is GOED! 👍 Minder auto's is belangrijk! ✍️ Die gemeente MOET wat doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 109,
+    "timestamp": "2023-10-23T18:15:00",
+    "sender": "Jason Brievingh",
+    "text": "Mee eens Maria, die petitie is een goed idee! 💪 Minder auto's is de sleutel. Nu de gemeente nog overtuigen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 110,
+    "timestamp": "2023-10-23T18:20:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Jason! 💪 Die gemeente moet echt in beweging komen! 😠 Petitie is de weg! ✍️ Minder auto's!! 💯",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 111,
+    "timestamp": "2023-10-23T18:25:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Arthur, helemaal mee eens! 💪 Petitie is een goed begin! ✍️ Minder auto's is echt belangrijk voor het milieu! 💯 Die gemeente moet echt actie ondernemen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 112,
+    "timestamp": "2023-10-23T18:30:00",
+    "sender": "Arthur van Dillen",
+    "text": "Daphne, helemaal mee eens! 💪 Minder auto's is belangrijk voor het milieu! 💯 De petitie gaat ons helpen! ✍️ Die gemeente gaat het nog wel zien! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 113,
+    "timestamp": "2023-10-23T18:35:00",
+    "sender": "Jordy van Praagh",
+    "text": "Arthur, top! 👍 Geweldig dat die petitie er komt! ✍️ Minder auto's is zo belangrijk! 💯 Die gemeente MOET gewoon actie ondernemen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 114,
+    "timestamp": "2023-10-23T18:45:00",
+    "sender": "Juliette de Keijser",
+    "text": "Jordy, top! Goed idee! Ik help graag met die petitie! Minder auto's is zo belangrijk voor het milieu! De gemeente moet gewoon eens wat doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 115,
+    "timestamp": "2023-10-23T18:50:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Juliette, fijn om te horen dat je me helpt met de petitie. Minder auto's is inderdaad cruciaal voor het milieu. Laten we hopen dat de gemeente eindelijk eens actie onderneemt.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 116,
+    "timestamp": "2023-10-23T18:55:00",
+    "sender": "Arthur van Dillen",
+    "text": "Evi, top! 💪 Super dat je de petitie opstart! ✍️ Minder auto's is zo belangrijk voor het milieu! 💯 Die gemeente gaat het nog wel zien! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 117,
+    "timestamp": "2023-10-23T19:00:00",
+    "sender": "Matthias Mijsberg",
+    "text": "Een petitie is een goed begin.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 118,
+    "timestamp": "2023-10-23T19:05:00",
+    "sender": "Jason Brievingh",
+    "text": "Matthias, helemaal mee eens. De petitie is een goed begin. Hopelijk komt er eindelijk wat actie van de gemeente. Minder auto's is inderdaad de sleutel.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 119,
+    "timestamp": "2023-10-23T19:10:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ja man die petitie is echt de key! Minder auto's is sowieso beter voor het milieu 💯 Jason heeft gelijk de gemeente moet overtuigd worden! 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 120,
+    "timestamp": "2023-10-23T19:15:00",
+    "sender": "Mia van Oosten",
+    "text": "Eens met Eliza! 👍 Minder auto's is zeker beter voor het milieu. 💯 De gemeente moet actie ondernemen. 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 121,
+    "timestamp": "2023-10-23T19:20:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Mia, helemaal mee eens! 👍 Minder auto's is de KEY! 💯 Die gemeente moet gewoon eens actie ondernemen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 122,
+    "timestamp": "2023-10-23T19:25:00",
+    "sender": "Maria Chotzen",
+    "text": "Morris, eens! 👍 Minder auto's is de KEY! 💯 Die gemeente MOET actie ondernemen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 123,
+    "timestamp": "2023-10-23T19:30:00",
+    "sender": "Maja Stinis",
+    "text": "Maria, helemaal mee eens! Die petitie is de shit! 💯 Minder auto's is de KEY! 😠 Die gemeente moet gewoon actie ondernemen! 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 124,
+    "timestamp": "2023-10-23T19:35:00",
+    "sender": "Merel Mulder",
+    "text": "Hé Maja! 🙋‍♀️ Die petitie is inderdaad de shit! 😎 Minder auto's is zo belangrijk voor het milieu! 💯&#x20;\n\nHopelijk komt er snel actie van die gemeente! 😤 Maar goed, we gaan ervoor! 💪",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 125,
+    "timestamp": "2023-10-23T19:40:00",
+    "sender": "Marit Postma",
+    "text": "Inderdaad Merel! Minder auto's is ZEER belangrijk! En die gemeente moet EINDELIJK eens in actie komen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 126,
+    "timestamp": "2023-10-23T19:45:00",
+    "sender": "Arthur van Dillen",
+    "text": "Marit, helemaal mee eens! 💪 Minder auto's is de key! 💯 Die gemeente moet gewoon eens actie ondernemen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 127,
+    "timestamp": "2023-10-23T19:50:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Arthur, helemaal mee eens! 💪 Minder auto's is de sleutel! 💯 Die gemeente moet echt in actie komen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 128,
+    "timestamp": "2023-10-23T19:55:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Minder auto's is goed. Gemeente moet wat doen.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 129,
+    "timestamp": "2023-10-23T20:00:00",
+    "sender": "Jordy van Praagh",
+    "text": "Adriana, helemaal mee eens! 👍 Minder auto's is de KEY! 💯 Die gemeente MOET echt wat doen! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 130,
+    "timestamp": "2023-10-23T20:05:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens Jordy! Die gemeente is echt traag. Minder auto's is DE oplossing! 💪",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 131,
+    "timestamp": "2023-10-23T20:10:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, die gemeente is traag, net als jij zegt Bibi! Minder autos is idd de oplossing!&#x20;",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 132,
+    "timestamp": "2023-10-23T20:15:00",
+    "sender": "Merel Mulder",
+    "text": "Hé Lukas! 🙋‍♀️ Ja, die gemeente is echt traag! 😠 Minder auto's is inderdaad de oplossing! 💪 We moeten er gewoon voor zorgen dat er minder auto's op de weg zijn! 💯 En die gemeente moet eindelijk eens wakker worden! 😤 Laten we die petitie zo snel mogelijk tekenen! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 133,
+    "timestamp": "2023-10-23T20:20:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De focus moet liggen op de reductie van emissies.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 134,
+    "timestamp": "2023-10-23T20:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens Gerrit, maar minder auto's helpt ook om de uitstoot te verminderen. 💪",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 135,
+    "timestamp": "2023-10-23T20:30:00",
+    "sender": "Jordy van Praagh",
+    "text": "Bibi, helemaal mee eens! 👍 Minder auto's is de oplossing! 💪 Die gemeente moet gewoon opschieten! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 136,
+    "timestamp": "2023-10-23T20:35:00",
+    "sender": "Jordy van Praagh",
+    "text": "Gerrit, ja, minder auto's is de KEY! 👍 En Bibi, helemaal mee eens! 💪 Die gemeente MOET gewoon opschieten! 😠 We moeten actie ondernemen! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 137,
+    "timestamp": "2023-10-23T20:40:00",
+    "sender": "Jordy van Praagh",
+    "text": "Gerrit, ja, minder auto's helpt! 👍 We moeten die gemeente gewoon pushen! 😠 Bibi, helemaal mee eens! 💪 Minder auto's is DE oplossing! 💯 Die petitie is echt belangrijk! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 138,
+    "timestamp": "2023-10-23T20:45:00",
+    "sender": "Maria Chotzen",
+    "text": "Jordy, helemaal mee eens! 👍 Die gemeente MOET opschieten! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 139,
+    "timestamp": "2023-10-23T20:50:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Maria, helemaal mee eens! Die gemeente MOET echt opschieten! 😠 Die petitie is echt belangrijk! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 140,
+    "timestamp": "2023-10-23T20:55:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja, die gemeente moet opschieten.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 141,
+    "timestamp": "2023-10-23T21:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Adriana heeft gelijk, die gemeente moet opschieten! Minder auto's is goed voor het milieu!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 142,
+    "timestamp": "2023-10-23T21:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ja, die gemeente moet echt opschieten. Minder auto's is een goede stap.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 143,
+    "timestamp": "2023-10-23T21:10:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Eens met Noëlle, die gemeente moet opschieten 😤 Minder auto's is de KEY! 💯 Die petitie is echt belangrijk! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 144,
+    "timestamp": "2023-10-23T21:15:00",
+    "sender": "Kai van der Laar",
+    "text": "Yo, Eliza! 👋 Helemaal mee eens! Die gemeente moet echt opschieten! 😠 Minder auto's is echt de key! 💯 Die petitie is echt belangrijk! ✍️ Maar uhm... die rotzooi met die troep die ze in de lucht gooien, moeten we daar ook niet eens wat aan doen? 🤨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 145,
+    "timestamp": "2023-10-23T21:20:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ja man Kai! 💯 Die troep in de lucht is ook een probleem! 😤  We moeten echt wat doen aan al die uitstoot 😠 Die gemeente moet gewoon opschieten! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 146,
+    "timestamp": "2023-10-23T21:25:00",
+    "sender": "Marit Postma",
+    "text": "Inderdaad Eliza! Die gemeente is traag! 😠 Minder auto's is heel belangrijk! En die troep in de lucht, ja daar moeten we ook wat aan doen! HOOG tijd dat er actie komt!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 147,
+    "timestamp": "2023-10-23T21:30:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Marit heeft gelijk. Die troep in de lucht is ook niet goed.",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 148,
+    "timestamp": "2023-10-23T21:35:00",
+    "sender": "Marit Postma",
+    "text": "Adriana heeft gelijk! Die troep in de lucht is ECHT niet goed! En die gemeente...die doet gewoon NIETS! 😠 We moeten ECHT in actie komen!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 149,
+    "timestamp": "2023-10-23T21:40:00",
+    "sender": "Kai van der Laar",
+    "text": "Ey Marit, helemaal mee eens! Die luchtvervuiling is echt niet oké! 😠 Die gemeente, die doet echt helemaal niks! 😤 We moeten die gasten echt wakker schudden! ✍️ En die auto's moeten we ook wat mee! 💯",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 150,
+    "timestamp": "2023-10-23T21:45:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja die gemeente is echt traag! En die troep in de lucht is ook niet goed! Minder auto's is een begin maar ze moeten echt meer doen! Ik weet niet eens wat ze allemaal kunnen doen. Maar ze moeten wel wat doen!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 151,
+    "timestamp": "2023-10-23T21:50:00",
+    "sender": "Marit Postma",
+    "text": "Isabelle heeft helemaal gelijk! 😠 Die gemeente is gewoon te langzaam! En die troep in de lucht...vreselijk! 😤 Er moet echt meer gebeuren! Minder auto's is een goede start, maar we moeten ook andere oplossingen vinden! En snel!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 152,
+    "timestamp": "2023-10-23T21:55:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Marit! Die gemeente is echt tergend traag! 😠 En die troep in de lucht, bah! 😤 We moeten echt meer doen, niet alleen minder auto's! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 153,
+    "timestamp": "2023-10-23T22:00:00",
+    "sender": "Marit Postma",
+    "text": "Morris heeft gelijk! De gemeente is TERGEND traag! En die luchtvervuiling... bah! 😤 Er moet ECHT meer gebeuren! Minder auto's is een start, maar we moeten ook naar andere oplossingen kijken!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 154,
+    "timestamp": "2023-10-23T22:05:00",
+    "sender": "Marit Postma",
+    "text": "Ja! Die gemeente is echt tergend traag! 😠 En die luchtvervuiling! Verschrikkelijk! 😤 We moeten inderdaad naar andere oplossingen kijken! Meer groen in de stad misschien? 🌳 En subsidies voor elektrische auto's! 🚗💨 Er moet gewoon meer gebeuren!",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 155,
+    "timestamp": "2023-10-23T22:10:00",
+    "sender": "Merel Mulder",
+    "text": "Eens Marit! 🙋‍♀️ Die gemeente is echt tergend traag! 😠 En die luchtvervuiling is verschrikkelijk! 😤 Meer groen in de stad zou inderdaad een goed idee zijn! 🌳 En subsidies voor elektrische auto's, ja! 🚗💨 Er moet gewoon meer gebeuren! 💯",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 156,
+    "timestamp": "2023-10-23T22:15:00",
+    "sender": "Jonas van Baalen",
+    "text": "Ja, Merel heeft gelijk. Meer groen in de stad is essentieel! 🌳 Subsidies voor EV's zijn ook een must. 🚗💨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 157,
+    "timestamp": "2023-10-23T22:25:00",
+    "sender": "Merel Mulder",
+    "text": "Hoi Jonas! 👋 Helemaal mee eens! 👍 Meer groen in de stad is echt super belangrijk! 🌳 En die subsidies voor EV's... JA! 🚗💨 Moet gewoon gebeuren! 💯",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 158,
+    "timestamp": "2023-10-23T22:35:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja, Merel heeft gelijk! Meer groen in de stad, dat zou goed zijn! En die subsidies voor elektrische auto’s, ja! Dat is echt nodig! 🚗💨 Er moet gewoon meer gebeuren! De gemeente moet opschieten! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 159,
+    "timestamp": "2023-10-23T22:40:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens met Isa! 🤩 Meer groen is top! 🌳 En die subsidies moeten er snel komen! 🚗💨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 160,
+    "timestamp": "2023-10-23T22:45:00",
+    "sender": "Maja Stinis",
+    "text": "Ja Arthur, helemaal mee eens! 🤩 Meer groen in de stad is echt top! 🌳 En die subsidies voor EV's moeten er gewoon komen! 🚗💨 Die gemeente moet echt opschieten! 😠",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 161,
+    "timestamp": "2023-10-23T22:50:00",
+    "sender": "Kai van der Laar",
+    "text": "Yo Maja! 👋 Helemaal mee eens! Die gemeente moet ECHT opschieten! 😠 Meer groen in de stad is top! 🌳 En die subsidies voor die elektrische auto's, ja! 🚗💨 Moet gewoon gebeuren! 💯 Maar euh... en die troep in de lucht dan? 🤨 Moeten we daar niet ook wat aan doen? 😤",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 162,
+    "timestamp": "2023-10-23T22:55:00",
+    "sender": "Maja Stinis",
+    "text": "Ja Kai, die troep in de lucht is ook echt niet oké! 😠 Die gemeente moet echt opschieten met ALLES! 😤 We moeten gewoon meer actie! ✍️",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 163,
+    "timestamp": "2023-10-23T23:25:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Maja! 👍 De gemeente moet opschieten! 😠 Meer groen is super! 🌳 En die subsidies! 🚗💨",
+    "topic_id": "topic_009"
+  },
+  {
+    "id": 164,
+    "timestamp": "2023-10-23T23:40:00",
+    "sender": "Arthur van Dillen",
+    "text": "Exact! 💯 Meer groen is echt nodig! 🌳 En die subsidies zijn zo belangrijk! 🚗💨 Meer actie! 🤩",
+    "topic_id": "topic_009"
+  }
+]

@@ -1,0 +1,1206 @@
+[
+  {
+    "id": 0,
+    "timestamp": "2023-10-23T00:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Hoi allemaal! Ik ben wel benieuwd wat jullie van die nieuwe woningbouwprojecten in de regio vinden. Zitten er al leuke dingen tussen?\n",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 1,
+    "timestamp": "2023-10-23T00:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ik vind ze wel aardig, maar veel te duur! 💸",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 2,
+    "timestamp": "2023-10-23T00:10:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja, veel te duur inderdaad! 😩 Ik kan ze echt niet betalen! 😭",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 3,
+    "timestamp": "2023-10-23T00:50:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 😔 Ziet er leuk uit, maar is niet te betalen! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 4,
+    "timestamp": "2023-10-23T07:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ach, die prijzen! Niet te geloven! Echt belachelijk duur! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 5,
+    "timestamp": "2023-10-23T07:30:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, die prijzen zijn echt absurd! Ik heb gekeken, maar voor mij is het ook onbetaalbaar! Wat een gekte! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 6,
+    "timestamp": "2023-10-23T07:40:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, ik heb ook gekeken! Wat een geld! Ik snap er niks van! Echt niet normaal meer! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 7,
+    "timestamp": "2023-10-23T07:50:00",
+    "sender": "Juliette de Keijser",
+    "text": "Nou, ik vind het ook schandalig! Die prijzen zijn echt niet normaal meer! 😡 Ik kan het ook niet betalen hoor! Echt belachelijk! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 8,
+    "timestamp": "2023-10-23T08:00:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad! De prijzen zijn echt schandalig! 😡 Ik kan het ook niet betalen, het is echt belachelijk! 😠 Wat een gekte!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 9,
+    "timestamp": "2023-10-23T08:05:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad, Daphne! De prijzen zijn echt niet normaal! Wat een schande! 😠 Ik kan het ook niet betalen! 😡 Echt belachelijk! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 10,
+    "timestamp": "2023-10-23T08:10:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja, Norah, helemaal mee eens! Schandalig gewoon! Ik kan het ook niet betalen! Echt belachelijk! 😠 Die prijzen zijn echt van de zotte! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 11,
+    "timestamp": "2023-10-23T08:15:00",
+    "sender": "Noëlle Ellis",
+    "text": "Ik ben het helemaal eens met Juliette. Die prijzen zijn echt niet normaal meer. Belachelijk gewoon!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 12,
+    "timestamp": "2023-10-23T08:20:00",
+    "sender": "Jason Brievingh",
+    "text": "Eens hoor, Noëlle. Wat een belachelijke prijzen. Ik vraag me af wie dat allemaal kan betalen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 13,
+    "timestamp": "2023-10-23T08:25:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Inderdaad, Jason, wie kan dat nou allemaal betalen? Ik vind die prijzen ook echt van de zotte. Ik begrijp er niks van. En ik ben het helemaal eens met de dames hier, echt schandalig!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 14,
+    "timestamp": "2023-10-23T08:40:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De prijzen zijn inderdaad exorbitant. De overheid moet hier ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 15,
+    "timestamp": "2023-10-23T08:45:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Ja, Gerrit! De overheid moet inderdaad ingrijpen! Het is echt schandalig! 😠 Ik kan het ook niet betalen! 😡 Wat een gekte! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 16,
+    "timestamp": "2023-10-23T08:50:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De overheid moet inderdaad reguleren. Het is een probleem.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 17,
+    "timestamp": "2023-10-23T08:55:00",
+    "sender": "Jason Brievingh",
+    "text": "Ja, Gerrit, helemaal mee eens. De overheid zou inderdaad wat moeten doen aan die prijzen. Het is echt absurd en totaal onbetaalbaar voor de meeste mensen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 18,
+    "timestamp": "2023-10-23T09:00:00",
+    "sender": "Jason Brievingh",
+    "text": "Het is gewoon te gek voor woorden. Ik begrijp niet hoe mensen dit kunnen betalen. De overheid moet hier echt iets aan doen, anders wordt het helemaal niks.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 19,
+    "timestamp": "2023-10-23T09:05:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, Jason, ik ben het helemaal met je eens. Het is echt te gek voor woorden en ik snap er ook niks van hoe mensen dat kunnen betalen. De overheid moet hier inderdaad echt wat aan doen, anders wordt het niks. Schandalig gewoon!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 20,
+    "timestamp": "2023-10-23T09:10:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Eens! Evi, de overheid moet echt ingrijpen! Het is een schande! 😠 Ik kan het ook niet betalen! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 21,
+    "timestamp": "2023-10-23T09:15:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, Norah, de overheid moet echt ingrijpen. Het is echt een schande dat die prijzen zo hoog zijn! Ik kan het ook niet betalen. Wat een gekte!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 22,
+    "timestamp": "2023-10-23T09:20:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Eens! Evi, de overheid moet echt ingrijpen! Het is echt schandalig! 😠 Ik kan het ook niet betalen! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 23,
+    "timestamp": "2023-10-23T09:25:00",
+    "sender": "Maria Chotzen",
+    "text": "Eens Daphne! Die prijzen zijn echt absurd! 😡 Ik kan het ook niet betalen! Echt SCHANDALIG! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 24,
+    "timestamp": "2023-10-23T09:30:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, Maria! Die prijzen zijn werkelijk absurd! Ik begrijp er helemaal niets van! Ik zou het ook niet kunnen betalen. Het is schandalig hoe de prijzen de pan uit rijzen. De overheid moet hier inderdaad een stokje voor steken!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 25,
+    "timestamp": "2023-10-23T09:35:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad Luuk! 😠 De prijzen zijn absurd! De overheid moet echt ingrijpen! Ik kan het ook niet betalen! 😡 Echt een schande! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 26,
+    "timestamp": "2023-10-23T09:40:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Ja Norah, helemaal mee eens! 😠 Die prijzen zijn echt absurd! 😡 De overheid moet echt ingrijpen! 😠 Ik kan het ook niet betalen! 😡 Wat een gekte! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 27,
+    "timestamp": "2023-10-23T09:45:00",
+    "sender": "Maria Chotzen",
+    "text": "Eens Daphne! 😠 Schandalig gewoon! 😠 De overheid moet hier echt wat aan doen! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 28,
+    "timestamp": "2023-10-23T09:50:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Maria, helemaal mee eens! Het is werkelijk schandalig hoe de prijzen tegenwoordig zijn! Ik begrijp er niets van! De overheid moet hier inderdaad direct actie ondernemen. Het is echt niet meer te doen!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 29,
+    "timestamp": "2023-10-23T09:55:00",
+    "sender": "Maria Chotzen",
+    "text": "Inderdaad Luuk! 😠 Helemaal mee eens! De overheid MOET ingrijpen! 😡 Echt schandalig! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 30,
+    "timestamp": "2023-10-23T10:00:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Maria! Helemaal mee eens! Echt schandalig! De overheid moet iets doen! Ik kan het ook niet betalen! 😠😠😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 31,
+    "timestamp": "2023-10-23T10:05:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, Lukas! Ik ben het volledig met u eens! De prijzen zijn werkelijk schandalig en de overheid moet hier direct actie ondernemen! Het is ronduit belachelijk geworden! Ik begrijp er niets van!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 32,
+    "timestamp": "2023-10-23T10:10:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja, ik snap er ook niks van. Die prijzen zijn echt te gek. Ik ben al blij dat ik überhaupt een dak boven mijn hoofd heb, maar om nou te zeggen dat het eerlijk verdeeld is, nee. Ik weet niet of de overheid veel kan doen, ze hebben het druk genoeg. Misschien moet je gewoon hard werken, dan lukt het wel.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 33,
+    "timestamp": "2023-10-23T10:15:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Isabelle, ik ben het niet met u eens. Hard werken alleen is tegenwoordig niet meer voldoende om een huis te kunnen bekostigen! De prijzen zijn werkelijk absurd geworden! De overheid is hierin verantwoordelijk en moet ingrijpen! Het is ronduit schandalig! Ik begrijp er werkelijk niets meer van!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 34,
+    "timestamp": "2023-10-23T10:20:00",
+    "sender": "Senna de Kale",
+    "text": "De overheid moet inderdaad ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 35,
+    "timestamp": "2023-10-23T10:25:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Eens Senna! 😠 De overheid moet echt ingrijpen! Het is echt een schande! 😡 Ik kan het ook niet betalen! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 36,
+    "timestamp": "2023-10-23T10:30:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De overheid moet ingrijpen, zoals eerder gezegd. De prijzen zijn onacceptabel.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 37,
+    "timestamp": "2023-10-23T10:35:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Tsja, ik weet het niet hoor. Hard werken is toch de basis? Ik ben het niet eens met al dat gezeur over de overheid. Gerrit heeft wel een punt denk ik. Er moet wel iets gebeuren, maar of de overheid het kan oplossen…",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 38,
+    "timestamp": "2023-10-23T10:40:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens met Isabelle! 🙄 Hard werken is toch de basis?! 🤷‍♀️ Overheid kan niet alles oplossen!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 39,
+    "timestamp": "2023-10-23T10:45:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Nou Arthur! Hard werken is de basis, ja! Maar de prijzen zijn toch belachelijk! 😠 De overheid moet echt ingrijpen! 😡 Ik kan het ook niet betalen! 😩 Het is toch een schande?!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 40,
+    "timestamp": "2023-10-23T10:50:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad, de overheid moet ingrijpen. De huidige situatie is onhoudbaar.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 41,
+    "timestamp": "2023-10-23T10:55:00",
+    "sender": "Dave Lorreijn",
+    "text": "De overheid heeft inderdaad een taak. De prijzen zijn inmiddels absurd geworden. Er moet snel iets gebeuren.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 42,
+    "timestamp": "2023-10-23T11:00:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Dave, u heeft gelijk! De overheid heeft inderdaad een taak in deze kwestie. De prijzen zijn werkelijk absurd geworden en het is hoog tijd dat er actie wordt ondernomen! Het is ronduit schandalig! Ik begrijp er niets meer van!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 43,
+    "timestamp": "2023-10-23T11:05:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad, Luuk. De overheid moet ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 44,
+    "timestamp": "2023-10-23T11:10:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, Senna! De overheid moet echt ingrijpen! Het is werkelijk schandalig hoe de prijzen de pan uit rijzen! Ik begrijp er werkelijk helemaal niets meer van! Het is ronduit belachelijk geworden!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 45,
+    "timestamp": "2023-10-23T11:15:00",
+    "sender": "Senna de Kale",
+    "text": "De overheid moet inderdaad actie ondernemen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 46,
+    "timestamp": "2023-10-23T11:20:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Senna, helemaal mee eens! De overheid moet echt wat doen! Schandalig die prijzen! Ik kan het ook niet betalen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 47,
+    "timestamp": "2023-10-23T11:30:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Eens Lukas! 😠 Die prijzen zijn echt niet normaal meer! 🤬 De overheid moet echt actie ondernemen! 😡 Kan t ook niet betalen man! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 48,
+    "timestamp": "2023-10-23T11:35:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Eliza, helemaal mee eens! De prijzen zijn werkelijk onacceptabel! De overheid moet hier inderdaad direct actie ondernemen! Het is ronduit schandalig hoe de prijzen de pan uit rijzen! Ik begrijp er werkelijk niets meer van! Het is ronduit belachelijk geworden! Ik vraag me af wat er aan de hand is in dit land!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 49,
+    "timestamp": "2023-10-23T11:40:00",
+    "sender": "Dave Lorreijn",
+    "text": "Inderdaad, de overheid moet ingrijpen. De prijzen zijn onacceptabel. Het is echter de vraag of de overheid wel in staat is om dit op te lossen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 50,
+    "timestamp": "2023-10-23T11:50:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Tja, Dave heeft wel een punt. Ik denk ook niet dat de overheid het allemaal kan oplossen. Hard werken enzo, maar als je het niet kan betalen is dat ook niks. Ik vind het allemaal wel wat overdreven soms. Gewoon aanpakken, toch?",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 51,
+    "timestamp": "2023-10-23T11:55:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Isabelle, ik ben het wederom niet met u eens! Het is werkelijk niet meer te doen hoe de prijzen de pan uit rijzen! Hard werken alleen is tegenwoordig niet meer voldoende om een huis te kunnen bekostigen! De overheid is hierin verantwoordelijk en moet ingrijpen! Het is ronduit schandalig! Ik begrijp er werkelijk niets meer van! Men moet niet denken dat men dit probleem kan oplossen met alleen maar hard te werken! Het is een complex probleem waar de overheid verantwoordelijk voor is!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 52,
+    "timestamp": "2023-10-23T12:00:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Eens Luuk! 😠 Die prijzen zijn echt niet normaal! 🤬 Snap er ook niks van hoe die mensen het kunnen betalen! Overheid moet echt actie ondernemen, man! 😡 Kan t ook niet betalen! 😩 Moet gewoon eerlijker verdeeld worden!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 53,
+    "timestamp": "2023-10-23T12:05:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad Eliza. De overheid moet ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 54,
+    "timestamp": "2023-10-23T12:10:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Eens Senna! Die prijzen zijn echt NIET normaal. Overheid moet wat doen, klaar.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 55,
+    "timestamp": "2023-10-23T12:15:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Bibi, helemaal mee eens! De prijzen zijn veel te hoog! 😠 De overheid moet echt wat doen! Ik kan het ook niet betalen! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 56,
+    "timestamp": "2023-10-23T12:20:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Tja, ik ben er ook niet zo van onder de indruk hoor. Die prijzen zijn inderdaad belachelijk, maar ik snap er niks van. Lukas heeft gelijk, de overheid moet gewoon wat doen, maar of ze het kunnen... Ik weet het niet. Gewoon aanpakken!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 57,
+    "timestamp": "2023-10-23T12:25:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, die prijzen zijn echt te gek voor woorden. Isabelle, je hebt wel een punt, maar hard werken alleen is niet genoeg meer. De overheid moet gewoon ingrijpen, klaar.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 58,
+    "timestamp": "2023-10-23T12:30:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Precies! Die prijzen zijn absurd! En de overheid moet echt actie ondernemen. Ik snap er ook niks van, hoe kan dat nou allemaal?",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 59,
+    "timestamp": "2023-10-23T12:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Bibi, het is allemaal niet zo makkelijk. Ik snap dat je er niks van snapt. Maar hard werken is wel belangrijk hoor! De overheid moet gewoon aanpakken! 🤷‍♀️🤔",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 60,
+    "timestamp": "2023-10-23T12:45:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja Isabelle, hard werken is leuk en aardig, maar je komt er toch niet met die prijzen. Overheid moet echt wat doen, punt.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 61,
+    "timestamp": "2023-10-23T12:50:00",
+    "sender": "Arthur van Dillen",
+    "text": "Precies Bibi! 💯 Overheid moet ingrijpen! 😠 Prijzen zijn echt absurd! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 62,
+    "timestamp": "2023-10-23T12:55:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Arthur! Helemaal mee eens! 😠 Die prijzen zijn echt absurd! 😩 De overheid moet er echt wat aan doen! Ik kan het ook niet betalen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 63,
+    "timestamp": "2023-10-23T13:00:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Nou Lukas! Inderdaad! De prijzen zijn absurd! 😠 De overheid moet hier echt iets aan doen! 😡 Ik kan het ook niet betalen! 😩 Het is toch een schande?! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 64,
+    "timestamp": "2023-10-23T13:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad, Norah. De overheid faalt.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 65,
+    "timestamp": "2023-10-23T13:10:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Gerrit! De overheid faalt inderdaad 🙄. Woningprijzen zijn echt niet meer normaal. 😠 Moet gewoon eerlijker verdeeld worden! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 66,
+    "timestamp": "2023-10-23T13:15:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad Morris. De overheid faalt.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 67,
+    "timestamp": "2023-10-23T13:20:00",
+    "sender": "Noëlle Ellis",
+    "text": "De overheid moet inderdaad ingrijpen. De prijzen zijn absurd.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 68,
+    "timestamp": "2023-10-23T13:25:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Noëlle! Helemaal mee eens! 😠 Die prijzen zijn absurd! 😩 De overheid moet echt wat doen! 😠 Ik kan het ook niet betalen! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 69,
+    "timestamp": "2023-10-23T13:30:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad Lukas. De prijzen zijn absurd. De overheid moet ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 70,
+    "timestamp": "2023-10-23T13:35:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Noëlle! Helemaal mee eens! 😠 Die prijzen zijn absurd! 😩 De overheid moet echt wat doen! 😠 Ik kan het ook niet betalen! 😩 Het is toch van de zotte! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 71,
+    "timestamp": "2023-10-23T13:40:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja man, die prijzen zijn echt van de zotte. Lukas heeft gelijk, overheid moet gewoon wat doen!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 72,
+    "timestamp": "2023-10-23T13:45:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, Bibi! Je hebt helemaal gelijk! 😠 Die prijzen zijn echt niet normaal meer! 😩 De overheid moet echt wat doen! 😠 Ik kan het ook niet betalen! 😩 Het is echt van de zotte! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 73,
+    "timestamp": "2023-10-23T13:50:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad Lukas! 😠 Het is echt van de zotte! 😡 De overheid moet echt actie ondernemen! 😠 Die prijzen zijn niet normaal! 😩 Ik kan het ook niet betalen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 74,
+    "timestamp": "2023-10-23T13:55:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad Norah. De overheid moet ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 75,
+    "timestamp": "2023-10-23T14:00:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad Senna.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 76,
+    "timestamp": "2023-10-23T14:05:00",
+    "sender": "Senna de Kale",
+    "text": "Ja Gerrit. De overheid moet echt iets doen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 77,
+    "timestamp": "2023-10-23T14:10:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Eens Senna! De overheid moet echt iets doen. Die prijzen zijn absurd! 😠 Ik kan het ook niet betalen, man! 😩 Eerlijker verdelen, dat is de key! 🔑",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 78,
+    "timestamp": "2023-10-23T14:15:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Eens Morris.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 79,
+    "timestamp": "2023-10-23T14:20:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Exact Gerrit! Overheid is echt een drama met deze prijzen. 🤦‍♂️ Gewoon eerlijker verdelen en klaar! 👊",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 80,
+    "timestamp": "2023-10-23T14:25:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad Morris! De woningprijzen zijn absurd, dat kan toch niet! Er moet inderdaad eerlijker verdeeld worden, het is toch van de gekke! De overheid moet hier echt iets aan doen, dat is wel duidelijk.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 81,
+    "timestamp": "2023-10-23T14:30:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad Luuk. De overheid moet ingrijpen. De prijzen zijn absurd.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 82,
+    "timestamp": "2023-10-23T14:35:00",
+    "sender": "Maja Stinis",
+    "text": "Ja, de overheid moet gewoon ingrijpen! Die prijzen zijn echt niet normaal! 😡 En Noëlle, helemaal mee eens! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 83,
+    "timestamp": "2023-10-23T14:40:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja Maja! Helemaal mee eens! 😠 Die prijzen zijn echt niet normaal meer! 😩 De overheid moet echt wat doen! 😠 Ik kan het ook niet betalen! 😩 Het is echt van de zotte! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 84,
+    "timestamp": "2023-10-23T14:45:00",
+    "sender": "Maja Stinis",
+    "text": "Ja Lukas, helemaal mee eens! 😠 Overheid moet echt wat doen! 😡 Die prijzen zijn echt absurd! 😩 Ik kan het ook niet betalen! 😡 Echt van de zotte! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 85,
+    "timestamp": "2023-10-23T14:50:00",
+    "sender": "Maja Stinis",
+    "text": "Echt belachelijk die prijzen! 😡 Overheid moet echt wat doen, anders wordt het helemaal niks! 😠 Ik snap het ook niet meer! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 86,
+    "timestamp": "2023-10-23T14:55:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad Maja. De overheid moet echt wat doen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 87,
+    "timestamp": "2023-10-23T15:00:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad, Senna! Het is toch van de zotte! De overheid moet hier echt iets aan doen. Het is toch niet te geloven wat die huizen tegenwoordig kosten! Eerlijker verdelen inderdaad.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 88,
+    "timestamp": "2023-10-23T15:05:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad Luuk. De prijzen zijn absurd. De overheid moet echt ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 89,
+    "timestamp": "2023-10-23T15:10:00",
+    "sender": "Dave Lorreijn",
+    "text": "De woningprijzen zijn inderdaad een probleem. De overheid moet hier inderdaad actie op ondernemen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 90,
+    "timestamp": "2023-10-23T15:25:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "Inderdaad Dave.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 91,
+    "timestamp": "2023-10-23T15:30:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad Gerrit! De overheid zou hier inderdaad iets aan moeten doen. Het is toch niet normaal wat een huis tegenwoordig kost! Ik vind dat er inderdaad eerlijker verdeeld moet worden.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 92,
+    "timestamp": "2023-10-23T15:35:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ja Luuk, helemaal mee eens! Die prijzen zijn echt absurd! 😠 De overheid moet gewoon ingrijpen, anders wordt het helemaal niks! 😤 Eerlijker verdelen is de key! 🔑",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 93,
+    "timestamp": "2023-10-23T15:50:00",
+    "sender": "Maja Stinis",
+    "text": "Precies Morris! 👊 Overheid moet gewoon ingrijpen! 😡 Anders wordt het echt niks! 😠 Eerlijker verdelen is de key! 🔑",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 94,
+    "timestamp": "2023-10-23T15:55:00",
+    "sender": "Maja Stinis",
+    "text": "Echt hè Morris! 👊 Eerlijker verdelen is echt de key! 🔑 Overheid doet echt niks! 😠 Wordt helemaal niks zo! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 95,
+    "timestamp": "2023-10-23T16:05:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad Maja! De overheid moet hier echt iets aan doen. Het is toch van de gekke! Ik ben het helemaal met je eens. Eerlijker verdelen is inderdaad de sleutel tot de oplossing. De prijzen zijn werkelijk absurd! Ik kan het allemaal niet meer volgen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 96,
+    "timestamp": "2023-10-23T16:10:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Absoluut Maja! De overheid moet hier inderdaad iets aan doen, anders is het helemaal niks! Ik blijf me erover verbazen, het is toch niet te geloven. De prijzen zijn echt van de zotte! Ik begrijp er helemaal niks meer van. Eerlijker verdelen is inderdaad de sleutel, daar ben ik het volledig mee eens. Het moet gewoon eerlijker verdeeld worden!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 97,
+    "timestamp": "2023-10-23T16:25:00",
+    "sender": "Dave Lorreijn",
+    "text": "De huidige woningprijzen zijn inderdaad een zorgwekkende ontwikkeling. Ik ben het met Luuk eens dat de overheid actie moet ondernemen. Het is van belang dat er eerlijker verdeeld wordt.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 98,
+    "timestamp": "2023-10-23T16:30:00",
+    "sender": "Dave Lorreijn",
+    "text": "Inderdaad, de prijzen zijn een punt van zorg. Het is van belang dat de overheid ingrijpt, maar ik ben er tevens van overtuigd dat we naar de oorzaak van de problemen moeten kijken, niet alleen naar de symptomen. Het is essentieel dat we de economische principes begrijpen die ten grondslag liggen aan deze kwestie.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 99,
+    "timestamp": "2023-10-23T16:50:00",
+    "sender": "Dave Lorreijn",
+    "text": "Ik ben het eens met de opmerkingen over de noodzaak van overheidsingrijpen. Het is echter ook van belang om te kijken naar de invloed van de rentestanden en de inflatie. Deze factoren spelen een belangrijke rol bij de huidige vastgoedprijzen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 100,
+    "timestamp": "2023-10-23T16:55:00",
+    "sender": "Luuk Hendrikse",
+    "text": "Inderdaad Dave, ik ben het met je eens. De overheid moet niet alleen ingrijpen, maar ook de oorzaak aanpakken. Het is belangrijk om te kijken naar de economische principes die hier spelen. De rentestanden en de inflatie spelen inderdaad een grote rol.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 101,
+    "timestamp": "2023-10-23T17:00:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, ik ben het met jullie eens. De overheid moet inderdaad iets doen aan die prijzen, het is toch niet te betalen. Ik snap er ook niks meer van. Luuk, je hebt helemaal gelijk!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 102,
+    "timestamp": "2023-10-23T17:05:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Eens! Evi, je hebt helemaal gelijk! De prijzen zijn absurd! 😠 De overheid moet ingrijpen! 😡 Ik kan het ook niet meer volgen! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 103,
+    "timestamp": "2023-10-23T17:10:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Daphne, helemaal mee eens! Die prijzen zijn echt te gek voor woorden. De overheid moet gewoon ingrijpen! Anders is het helemaal niks. Ik begrijp er ook helemaal niks meer van.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 104,
+    "timestamp": "2023-10-23T17:15:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 💯 Echt bizar die prijzen! 😡 Overheid moet echt wat doen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 105,
+    "timestamp": "2023-10-23T17:20:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Ja, Arthur! Inderdaad! 😠 Die prijzen zijn echt absurd! 😡 De overheid moet echt ingrijpen! 😩 Anders wordt het helemaal niks! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 106,
+    "timestamp": "2023-10-23T17:35:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Helemaal mee eens Arthur! 😠 Het is echt van de zotte! 😡 De overheid moet NU ingrijpen! 😡 Het is toch niet te geloven! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 107,
+    "timestamp": "2023-10-23T17:40:00",
+    "sender": "Jason Brievingh",
+    "text": "Tja, ik snap de frustratie wel. Die prijzen zijn inderdaad absurd. Maar of de overheid het allemaal gaat oplossen... Ik ben benieuwd.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 108,
+    "timestamp": "2023-10-23T17:45:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, Jason, ik snap je wel hoor. Ik ben ook benieuwd of de overheid het allemaal kan oplossen. Maar er moet gewoon iets gebeuren, anders wordt het helemaal niks. Die prijzen zijn echt absurd! Ik ben blij dat ik al een huis heb, maar voor de jonge mensen is het echt verschrikkelijk.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 109,
+    "timestamp": "2023-10-23T17:55:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Eens! Evi, ik ben blij dat ik al een huis heb. 😠 Het is verschrikkelijk voor de jonge mensen! 😡 Overheid moet echt ingrijpen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 110,
+    "timestamp": "2023-10-23T18:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Nou, inderdaad! Die prijzen zijn echt belachelijk! 😠 Ik snap er niks meer van! 😩 De overheid moet echt wat doen! 😡 Anders wordt het helemaal niks! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 111,
+    "timestamp": "2023-10-23T18:05:00",
+    "sender": "Arthur van Dillen",
+    "text": "Inderdaad Juliette! 💯 Belachelijk gewoon! 😡 Overheid moet gewoon wat doen! 😠 Echt niet te geloven! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 112,
+    "timestamp": "2023-10-23T18:10:00",
+    "sender": "Jason Brievingh",
+    "text": "Klopt Arthur, het is echt bizar. Maar ik ben benieuwd of de overheid het kan oplossen. Ik ben er niet zo optimistisch over.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 113,
+    "timestamp": "2023-10-23T18:15:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Jason, ik snap je gevoel wel. Ik ben ook benieuwd of de overheid het allemaal kan oplossen, maar er moet gewoon iets gebeuren. Die prijzen zijn echt absurd! Ik ben blij dat ik al een huis heb, maar voor de jonge mensen is het echt verschrikkelijk. Het is echt van de gekke!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 114,
+    "timestamp": "2023-10-23T18:20:00",
+    "sender": "Juliette de Keijser",
+    "text": "Evi, helemaal mee eens! 😠Die prijzen zijn echt te absurd! 😡 Die overheid moet echt wat doen! 😠 Ik ben ook blij dat ik al een huis heb, maar voor de jonge mensen is het echt vreselijk! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 115,
+    "timestamp": "2023-10-23T18:25:00",
+    "sender": "Juliette de Keijser",
+    "text": "Ja hoor! Die prijzen zijn echt absurd! 😡 En die overheid doet niks! 😠 Ik snap er niks meer van! 😩 Het is echt niet te geloven! 😡 Ik ben blij dat ik al een huis heb! 😔 Maar voor de jonge mensen is het echt vreselijk! 😩 Wat een rotzooi! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 116,
+    "timestamp": "2023-10-23T18:30:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Juliette, ik ben het helemaal met je eens. Die prijzen zijn echt absurd en die overheid doet inderdaad niks. Ik snap er ook niks meer van. Ben ook blij dat ik al een huis heb, want voor de jonge mensen is het echt verschrikkelijk. Het is echt van de gekke!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 117,
+    "timestamp": "2023-10-23T18:35:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Ja, inderdaad. Ik ben het helemaal met jullie eens. Die prijzen zijn echt absurd! Die overheid moet echt iets doen. Ik ben ook blij dat ik al een huis heb, maar voor de jonge mensen is het echt verschrikkelijk. Het is echt van de gekke! Ik hoop dat ze snel met een oplossing komen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 118,
+    "timestamp": "2023-10-23T18:40:00",
+    "sender": "Arthur van Dillen",
+    "text": "Precies! 💯 Evi heeft gelijk! 💯 Die prijzen zijn echt absurd! 😡 Overheid moet echt ingrijpen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 119,
+    "timestamp": "2023-10-23T18:45:00",
+    "sender": "Juliette de Keijser",
+    "text": "Arthur heeft gelijk! Die prijzen zijn echt belachelijk! 😠 Die overheid doet niks! 😠 Ik snap er niks meer van! 😩 Ben ook blij dat ik al een huis heb! 😔 Voor de jonge mensen is het echt vreselijk! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 120,
+    "timestamp": "2023-10-23T18:50:00",
+    "sender": "Maria Chotzen",
+    "text": "Ja, die prijzen zijn te gek voor woorden! 😡 Ik ben het helemaal met je eens Juliette! 😠 Die overheid doet echt te weinig. 😠 Gelukkig heb ik al een huis. 😔",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 121,
+    "timestamp": "2023-10-23T18:55:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Maria, helemaal gelijk! Die prijzen zijn echt te gek voor woorden. De overheid moet echt iets doen. Het is vreselijk voor de jonge mensen! Gelukkig heb ik ook al een huis, maar het is echt van de gekke allemaal. Ik hoop dat ze snel met een oplossing komen, anders wordt het helemaal niks.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 122,
+    "timestamp": "2023-10-23T19:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens! 💯 Evi heeft gelijk! 💯 Echt bizar! 😡 Overheid moet echt wat doen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 123,
+    "timestamp": "2023-10-23T19:05:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Ja man Arthur, je hebt gelijk! 💯 Die prijzen zijn echt fucked up 😡 Overheid moet echt wat doen, anders gaat het helemaal mis 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 124,
+    "timestamp": "2023-10-23T19:10:00",
+    "sender": "Kyara Oennen",
+    "text": "Inderdaad, Eliza, die prijzen zijn echt absurd! 😡 Het is schandalig dat de overheid zo weinig doet. 😠 Ik ben blij dat ik al een huis heb, maar het is verschrikkelijk voor de jongeren. 😩 Er moet echt iets gebeuren! 😠 Ik hoop dat ze snel met een oplossing komen. 🙏",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 125,
+    "timestamp": "2023-10-23T19:15:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja die prijzen zijn echt te gek voor woorden! Ik ben het met jullie eens! De overheid moet echt iets doen. Ik ben blij dat ik al een huis heb, voor de jeugd is het heel erg.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 126,
+    "timestamp": "2023-10-23T19:20:00",
+    "sender": "Marit Postma",
+    "text": "Inderdaad Adriana! De prijzen zijn absurd! Die overheid moet ECHT wat doen! Anders gaat het helemaal mis!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 127,
+    "timestamp": "2023-10-23T19:25:00",
+    "sender": "Juliette de Keijser",
+    "text": "Marit heeft gelijk! Die prijzen zijn absurd! 😠 De overheid moet ECHT wat doen! 😡 Anders gaat het helemaal mis! 😠 Ik ben blij dat ik al een huis heb! 😔 Maar voor de jonge mensen is het echt vreselijk! 😩 Wat een rotzooi! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 128,
+    "timestamp": "2023-10-23T19:30:00",
+    "sender": "Merel Mulder",
+    "text": "Ja, ik vind het ook echt belachelijk die prijzen! 😠 De overheid moet echt wat doen! 😡 Het is toch niet te geloven! 😩 Ik ben ook blij dat ik al een huis heb, maar voor de jongeren is het echt vreselijk! 😔 Hopelijk komt er snel een oplossing... 🙏",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 129,
+    "timestamp": "2023-10-23T19:35:00",
+    "sender": "Senna de Kale",
+    "text": "Inderdaad Merel. Die prijzen zijn niet normaal. Er moet wat gebeuren.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 130,
+    "timestamp": "2023-10-23T19:40:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja idd Senna, die prijzen zijn echt niet normaal! 😡 Ik vind het ook schandalig hoe het gaat, overheid doet niks! 😠 Ik ben gelukkig al klaar met die shit maar die jonge lui... pfff. 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 131,
+    "timestamp": "2023-10-23T19:45:00",
+    "sender": "Daphne Uittenbosch",
+    "text": "Inderdaad Isabelle! 😠 Helemaal mee eens! 😠 Die prijzen zijn echt niet normaal! 😡 En die overheid doet inderdaad niks! 😠 Echt schandalig! 😩 Ik ben blij dat ik al een huis heb! 😔 Maar voor de jonge mensen is het echt vreselijk! 😩 Wat een rotzooi! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 132,
+    "timestamp": "2023-10-23T19:50:00",
+    "sender": "Arthur van Dillen",
+    "text": "Eens Daphne! 💯 Echt niet normaal! 😡 Overheid moet echt wat doen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 133,
+    "timestamp": "2023-10-23T19:55:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Echt hè Arthur! 💯 Die prijzen zijn echt niet normaal! 😡 Overheid moet echt wat doen! 😠 Anders gaat het helemaal mis! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 134,
+    "timestamp": "2023-10-23T20:00:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, die prijzen zijn echt niet normaal! Die overheid moet echt wat doen! Anders gaat het helemaal mis! Ik heb het wel gehad met al die dure huizen!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 135,
+    "timestamp": "2023-10-23T20:05:00",
+    "sender": "Gerrit Borman-Haneberg",
+    "text": "De huidige woningbouwprojecten voldoen niet aan de behoeften van de markt. De overheid faalt in het faciliteren van betaalbare woningen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 136,
+    "timestamp": "2023-10-23T20:10:00",
+    "sender": "Jason Brievingh",
+    "text": "Eens Gerrit. De huidige projecten schieten inderdaad tekort. De overheid moet echt actie ondernemen, maar ik heb er weinig vertrouwen in.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 137,
+    "timestamp": "2023-10-23T20:15:00",
+    "sender": "Jason Brievingh",
+    "text": "Ja, Gerrit heeft wel een punt. De huidige projecten zijn vaak niet betaalbaar en voldoen niet aan de vraag. Ik heb er echt een hard hoofd in dat de overheid dit gaat oplossen, maar ze MOETEN wel wat doen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 138,
+    "timestamp": "2023-10-23T20:20:00",
+    "sender": "Noëlle Ellis",
+    "text": "Inderdaad, ik vind de huidige projecten ook niet ideaal. De overheid zou echt meer betaalbare opties moeten creëren.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 139,
+    "timestamp": "2023-10-23T20:25:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Precies Noëlle! 💯 Die shit is gewoon niet te doen, man! 😡 Overheid moet echt wakker worden! 😠 Meer betaalbare shit, anders wordt het niks! 😤",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 140,
+    "timestamp": "2023-10-23T20:30:00",
+    "sender": "Juliette de Keijser",
+    "text": "Eliza heeft gelijk! 😠 De overheid moet echt wat doen! 😡 Anders wordt het niks! 😠 Ik vind het ook niet te geloven! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 141,
+    "timestamp": "2023-10-23T20:35:00",
+    "sender": "Bibi Aschman-Bruggeman",
+    "text": "Ja, ben het helemaal met jullie eens. Die prijzen zijn echt van de zotte! Overheid moet ECHT iets doen. Snap niet waarom het zo lang duurt, man.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 142,
+    "timestamp": "2023-10-23T20:40:00",
+    "sender": "Lukas Verhagen",
+    "text": "Ja, inderdaad, die prijzen zijn echt niet normaal!\n\nDie overheid moet echt wat doen!\n\nIk snap er niks meer van! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 143,
+    "timestamp": "2023-10-23T20:45:00",
+    "sender": "Kai van der Laar",
+    "text": "Eey Lukas! 😠 Helemaal gelijk man! 💯 Die prijzen zijn echt van de gekke! 😡 Overheid moet echt actie ondernemen! 😠 Snap er geen flikker meer van! 😤 En die projecten? 🙄 Niet te betalen! 🤬",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 144,
+    "timestamp": "2023-10-23T20:50:00",
+    "sender": "Mia van Oosten",
+    "text": "Eens! 💯 Overheid moet echt wat doen! 😠 En Kai heeft gelijk! 😡 Die prijzen zijn echt niet normaal! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 145,
+    "timestamp": "2023-10-23T20:55:00",
+    "sender": "Evi van de Kooij-van Grinsven",
+    "text": "Inderdaad Mia, die prijzen zijn echt niet normaal meer! Ik begrijp er ook niets van. De overheid moet echt iets doen, anders gaat het helemaal mis. Ik ben blij dat ik al een huis heb, maar ik denk aan de jonge mensen. Het is vreselijk!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 146,
+    "timestamp": "2023-10-23T21:00:00",
+    "sender": "Juliette de Keijser",
+    "text": "Eens Evi! 😡 Die prijzen zijn echt niet normaal! 😠 Overheid moet ECHT wat doen! 😡 Anders gaat het helemaal mis! 😠 Ik snap er niks van! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 147,
+    "timestamp": "2023-10-23T21:05:00",
+    "sender": "Marit Postma",
+    "text": "Juliette heeft gelijk! Die prijzen zijn echt belachelijk! 😠 De overheid moet ECHT wat doen! 😡 Het is toch niet te geloven! 😩 Ik snap er ook niks van! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 148,
+    "timestamp": "2023-10-23T21:10:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Inderdaad Marit. Die prijzen zijn belachelijk. Die overheid moet echt wat doen. Ik snap er ook niks meer van.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 149,
+    "timestamp": "2023-10-23T21:15:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ja precies Adriana! Die prijzen zijn echt absurd! 😡 De overheid moet hier echt wat aan doen! 😠 Ik snap er ook niks meer van! 😩 Hopelijk komt er snel een oplossing, want dit kan zo niet langer! 🙏",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 150,
+    "timestamp": "2023-10-23T21:20:00",
+    "sender": "Adriana van den Wittenboer-Kriens",
+    "text": "Ja Morris, die prijzen zijn echt absurd. De overheid moet echt wat doen. Ik snap er ook niks meer van.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 151,
+    "timestamp": "2023-10-23T21:25:00",
+    "sender": "Norah Louws-Welf",
+    "text": "Inderdaad Adriana!! De prijzen zijn absurd!! De overheid moet echt wat doen! Ik snap er helemaal niets meer van!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 152,
+    "timestamp": "2023-10-23T21:30:00",
+    "sender": "Eliza Heyne-den Haag",
+    "text": "Echt Norah! 💯 Die prijzen zijn gewoon absurd! 😡 Overheid moet echt wat doen! 😠 Snap er echt niks meer van! 😤",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 153,
+    "timestamp": "2023-10-23T21:35:00",
+    "sender": "Maja Stinis",
+    "text": "Eens Eliza! 💯 Die prijzen zijn echt absurd! 😡 Overheid moet echt wakker worden! 😠 Anders gaat het helemaal mis! 😤",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 154,
+    "timestamp": "2023-10-23T21:40:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja Maja! 💯 Helemaal mee eens! 😠 Die prijzen zijn echt absurd! 😡 Die overheid moet echt wat doen! 😠 Ik snap er echt niks meer van! 😤 En die projecten… pfff! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 155,
+    "timestamp": "2023-10-23T21:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Precies Isa! 💯 Ik snap er echt niks van, die prijzen zijn gewoon absurd! 😡 Overheid moet echt actie ondernemen, anders gaat het helemaal mis! 😤 Die projecten zijn echt een grap, niet te betalen! 🤬",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 156,
+    "timestamp": "2023-10-23T21:50:00",
+    "sender": "Juliette de Keijser",
+    "text": "Morris heeft gelijk! 😠 Die prijzen zijn echt absurd! 😡 Overheid moet echt wat doen! 😡 Ik snap er ook niks van! 😩 Die projecten zijn ook niet te betalen! 😠",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 157,
+    "timestamp": "2023-10-23T21:55:00",
+    "sender": "Isabelle van Dongen-Stamrood",
+    "text": "Ja Juliette, helemaal mee eens! 😠 Die prijzen zijn echt belachelijk! 😡 Die overheid moet echt wat doen! 😠 Ik snap er ook niks van! 😩 Zelfs voor mij is het soms moeilijk om rond te komen!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 158,
+    "timestamp": "2023-10-23T22:00:00",
+    "sender": "Kyara Oennen",
+    "text": "Inderdaad Isabelle! Het is ronduit schandalig! 😠 Die prijzen zijn echt niet normaal meer en de overheid moet ECHT actie ondernemen! 😡 Het is toch van de zotte dat zelfs voor mensen zoals wij, die al wat langer bezig zijn, het moeilijk wordt om rond te komen? 😩 Ik snap er helemaal niets meer van! 😤 Die woningbouwprojecten zijn vaak een grap, gewoonweg niet betaalbaar. 🤬 Er moet NU iets gebeuren!",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 159,
+    "timestamp": "2023-10-23T22:05:00",
+    "sender": "Merel Mulder",
+    "text": "Nou, Kyara, helemaal mee eens! 😠 Het is echt absurd! 😡 Die prijzen zijn niet normaal meer en de overheid moet ECHT ingrijpen! 😠 Ik snap er ook helemaal niks meer van! 😩 En die projecten...pfff! 😤 Niet te betalen! 🤬 En ik ben het eens met Isabelle, het is voor mij soms ook lastig om rond te komen! 🙄",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 160,
+    "timestamp": "2023-10-23T22:10:00",
+    "sender": "Maja Stinis",
+    "text": "Precies Merel! 💯 Die prijzen zijn echt niet normaal! 😡 Overheid moet echt actie ondernemen! 😠 Anders gaat het helemaal mis! 😤 Snap er echt niks meer van! 😩 En die projecten? 🙄 Niet te betalen! 🤬",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 161,
+    "timestamp": "2023-10-23T22:15:00",
+    "sender": "Merel Mulder",
+    "text": "Helemaal mee eens Maja! 💯 Het is gewoonweg niet te geloven! 😠 Die prijzen zijn absurd! 😡 Die overheid moet ECHT iets doen! 😠 Ik snap er ook helemaal niks meer van! 😩 Die projecten zijn ook een grap, niet te betalen! 🤬",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 162,
+    "timestamp": "2023-10-23T22:20:00",
+    "sender": "Maja Stinis",
+    "text": "Echt Merel! 💯 De prijzen zijn echt van de zotte! 😡 Overheid moet ECHT wat doen! 😠 Anders gaat het helemaal mis! 😤 Snap er echt niks meer van! 😩 Die projecten zijn gewoon niet te betalen! 🤬",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 163,
+    "timestamp": "2023-10-23T22:25:00",
+    "sender": "Kyara Oennen",
+    "text": "Mee eens Maja! 💯 Het is gewoonweg absurd! 😡 Die prijzen zijn echt niet normaal meer! 😠 De overheid moet ECHT actie ondernemen, anders gaat het helemaal mis! 😤 Het is toch niet te geloven wat er allemaal gebeurt! 😩 Die projecten zijn ook een grap, niet te betalen! 🤬 We worden gewoon genaaid! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 164,
+    "timestamp": "2023-10-23T22:30:00",
+    "sender": "Matthias Mijsberg",
+    "text": "De prijzen zijn inderdaad hoog. De overheid moet ingrijpen.",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 165,
+    "timestamp": "2023-10-23T22:35:00",
+    "sender": "Isa van der Pol",
+    "text": "Ja Matthias, je hebt gelijk! 💯 Die prijzen zijn echt te hoog! 😡 Overheid moet echt wat doen! 😠 Ik snap er ook niks meer van! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 166,
+    "timestamp": "2023-10-23T22:40:00",
+    "sender": "Kyara Oennen",
+    "text": "Inderdaad Isa! 💯 Je hebt helemaal gelijk! 😠 De prijzen zijn echt absurd! 😡 En ik ben het helemaal met je eens, die overheid moet echt wat doen! 😠 Ik snap er ook helemaal niets meer van! 😩 Het is toch niet te geloven wat er allemaal gebeurt! 😤 Die projecten zijn ook een grap, niet te betalen! 🤬 We worden gewoon genaaid! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 167,
+    "timestamp": "2023-10-23T22:45:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Precies Kyara! 💯 Ik ben het helemaal met je eens! 😠 Die prijzen zijn gewoon absurd! 😡 En die overheid moet echt actie ondernemen! 😠 Het is toch niet te geloven wat er allemaal gebeurt! 😩 Die projecten zijn gewoon een grap, niet te betalen! 🤬 We worden echt genaaid! 😡",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 168,
+    "timestamp": "2023-10-23T22:50:00",
+    "sender": "Morris Stuivenberg",
+    "text": "Ja, Kyara, helemaal mee eens! 💯 Het is echt van de zotte hoe duur alles is geworden. 😡 Die overheid moet echt wakker worden en actie ondernemen! 😠 En die projecten? 🙄 Gewoon niet te betalen, pure oplichting! 🤬 We worden gewoon genaaid! 😡 Het is echt frustrerend! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 169,
+    "timestamp": "2023-10-23T22:55:00",
+    "sender": "Kai van der Laar",
+    "text": "Ja, helemaal mee eens met Morris! 💯 Die prijzen zijn echt absurd geworden! 😡 Overheid moet ECHT wat doen! 😠 Die projecten...veel te duur! 🤬 We worden gewoon genaaid! 😡 Snap er ook niks van! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 170,
+    "timestamp": "2023-10-23T23:00:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja! 💯 Eens met Kai! 😠 Prijzen zijn echt absurd! 😡 Overheid moet ECHT wat doen! 😠 Projecten zijn ook niet te betalen! 🤬 Snap er niks van! 😩",
+    "topic_id": "topic_006"
+  },
+  {
+    "id": 171,
+    "timestamp": "2023-10-23T23:40:00",
+    "sender": "Arthur van Dillen",
+    "text": "Ja! 💯 Inderdaad! 😠 Niet te geloven die prijzen! 😡 Overheid moet echt wat doen! 😠 Anders gaat het helemaal mis! 😤",
+    "topic_id": "topic_006"
+  }
+]

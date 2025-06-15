@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Psychologist, occupational",Lizzy van Tuijl,M,Turks,Laag,Samenwonend met kinderen,Midden,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,44,Laag,Gemiddeld,Gemiddeld,Goed
+"Education officer, community",Luuk van Velzen-van Velzen,F,Indonesisch,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,35,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Engineer, civil (contracting)",Liz Sterkman-de Gruson,F,Surinaams,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,56,Laag,Gemiddeld,Gemiddeld,Goed
+Archaeologist,Finn van Venrooy-Michiels,F,Roemeens,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Anders,Ongehuwd,Student,Rijtjeshuis,Intermediate,40,Laag,Goed,Goed,Gemiddeld
+"Engineer, maintenance (IT)",Mathijs Brievingh,F,Turks,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,41,Laag,Gemiddeld,Gemiddeld,Slecht
+Adult nurse,Ali Höning,F,Antilliaans,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,26,Laag,Goed,Goed,Goed
+Broadcast journalist,Yusuf Manne,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,46,Hoog,Slecht,Gemiddeld,Goed
+"Designer, blown glass/stained glass",Ise Uphus,F,Irakees,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Advanced,38,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Immigration officer,Milan Hoedemakers,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,58,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Research scientist (medical),Niek Shupe,M,Indonesisch,Laag,Alleenstaand,Rechts,WO,Anders,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,88,Hoog,Gemiddeld,Gemiddeld,Goed
+Personal assistant,Mustafa Die Bont,M,Turks,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Gescheiden,Zelfstandig,Appartement,Digibeet,78,Laag,Gemiddeld,Gemiddeld,Goed

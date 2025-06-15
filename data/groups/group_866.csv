@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Broadcast journalist,Luka Scharroo-van Stralen,F,Duits,Hoog,Alleenstaand met kinderen,Links,HBO,Christelijk,Gescheiden,Fulltime,Woonboot,Intermediate,95,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Surveyor, rural practice",Lara van Berkel-Rippey,F,Pools,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,18,Laag,Gemiddeld,Gemiddeld,Slecht
+Amenity horticulturist,Bente van Beeck Beeckmans,F,Indiaas,Hoog,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,39,Gemiddeld,Slecht,Gemiddeld,Goed
+"Scientist, audiological",Tessa Arens,M,Nederlands,Laag,Alleenstaand,Midden,Basisonderwijs,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Expert,29,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Dentist,Nathan Levesque-van Grondelle,F,Roemeens,Gemiddeld,Alleenstaand,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,45,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Horticulturist, commercial",Merel Meeres,M,Indonesisch,Hoog,Samenwonend,Rechts,VMBO,Anders,Ongehuwd,Werkloos,Vrijstaand,Beginner,85,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Production designer, theatre/television/film",Yassin Oennen,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Weduwe/Weduwnaar,Student,Rijtjeshuis,Digibeet,52,Laag,Slecht,Goed,Goed
+"Nurse, children's",Zeynep Kuiper,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Advanced,63,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Development worker, international aid",Mila van der Leek,M,Indonesisch,Hoog,Samenwonend met kinderen,Midden,MBO,Anders,Gehuwd,Fulltime,Vrijstaand,Intermediate,98,Gemiddeld,Slecht,Goed,Gemiddeld
+Podiatrist,Hannah Maaswinkel-Klein,M,Turks,Laag,Samenwonend met kinderen,Links,MBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Beginner,79,Hoog,Goed,Goed,Slecht
+Manufacturing engineer,Berat van Wijk,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,32,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Programmer, multimedia",Nienke van 't Riet,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Ongehuwd,Parttime,Appartement,Intermediate,23,Laag,Goed,Gemiddeld,Gemiddeld
+"Nurse, mental health",Kay Huurdeman,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Intermediate,83,Laag,Gemiddeld,Goed,Goed
+"Engineer, maintenance",Evy Recers,F,Nederlands,Laag,Alleenstaand,Midden,VMBO,Boeddhistisch,Gescheiden,Fulltime,Studio,Beginner,76,Laag,Gemiddeld,Gemiddeld,Slecht

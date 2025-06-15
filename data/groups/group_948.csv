@@ -1,0 +1,27 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Regulatory affairs officer,Mustafa Martel-Verwoert,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,42,Laag,Goed,Goed,Goed
+Nature conservation officer,Melissa van Duyvenvoorde,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Beginner,46,Hoog,Gemiddeld,Goed,Goed
+"Journalist, magazine",Nadia Everde,F,Syrisch,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Beginner,41,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Estate manager/land agent,Jules Ligtvoet,M,Duits,Gemiddeld,Samenwonend,Links,HBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,79,Laag,Slecht,Goed,Goed
+Arts administrator,Esmee Kerkhof,M,Duits,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Expert,70,Gemiddeld,Gemiddeld,Slecht,Goed
+"Sales professional, IT",Féline Bruijne van der Veen,M,Somalisch,Hoog,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,24,Laag,Gemiddeld,Goed,Gemiddeld
+IT trainer,Tygo Brandon-Gellemeyer,M,Pools,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Intermediate,20,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Interior and spatial designer,Demi de Jong,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,34,Hoog,Goed,Gemiddeld,Gemiddeld
+Technical author,Bryan Uphaus-van den Nuwenhuysen,F,Indiaas,Gemiddeld,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,99,Laag,Gemiddeld,Gemiddeld,Slecht
+Hydrologist,Tijn de Plantard,M,Bulgaars,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,58,Gemiddeld,Slecht,Gemiddeld,Goed
+"Surveyor, building",Vigo van Dam,M,Turks,Hoog,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,47,Laag,Gemiddeld,Goed,Slecht
+IT consultant,Ivy Galenzone,M,Eritrees,Laag,Samenwonend,Midden,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,48,Laag,Slecht,Slecht,Goed
+"Engineer, technical sales",Tristan Doorhof,F,Syrisch,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Advanced,35,Laag,Goed,Goed,Slecht
+Operations geologist,Mila van Straaten,F,Roemeens,Gemiddeld,Alleenstaand,Midden,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,63,Laag,Goed,Gemiddeld,Gemiddeld
+Geoscientist,Joëlle Brouwer-van Asten,F,Marokkaans,Gemiddeld,Alleenstaand,Rechts,HAVO,Atheïstisch,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,47,Laag,Gemiddeld,Gemiddeld,Slecht
+Airline pilot,Bente Coolen-Veenstra,F,Roemeens,Laag,Samenwonend,Midden,WO,Hindoeïstisch,Gehuwd,Zelfstandig,Woonboot,Beginner,29,Laag,Slecht,Goed,Slecht
+Academic librarian,Jorn Leene,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Advanced,33,Gemiddeld,Gemiddeld,Goed,Slecht
+"Radiographer, diagnostic",Mark Schagen,M,Somalisch,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Expert,78,Laag,Gemiddeld,Gemiddeld,Slecht
+Administrator,Lenn Groote,F,Turks,Hoog,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,44,Laag,Goed,Goed,Gemiddeld
+"Engineer, electrical",Lara Lommert,M,Turks,Hoog,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,64,Hoog,Slecht,Goed,Gemiddeld
+Aeronautical engineer,Maud Stange-de Wit,M,Nederlands,Laag,Samenwonend,Midden,HBO,Anders,Ongehuwd,Student,Rijtjeshuis,Intermediate,95,Laag,Gemiddeld,Goed,Gemiddeld
+Immunologist,Silke Bezemer,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,29,Laag,Gemiddeld,Slecht,Slecht
+"Surveyor, building",Amina Lelijveld,F,Marokkaans,Hoog,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,37,Laag,Goed,Gemiddeld,Gemiddeld
+Lobbyist,Yasmin van Laon,F,Indonesisch,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Expert,58,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical biochemist,Thomas Haack,M,Syrisch,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gehuwd,Parttime,Appartement,Beginner,97,Gemiddeld,Slecht,Slecht,Goed
+Television floor manager,Ties de Gratie,M,Indonesisch,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,80,Gemiddeld,Goed,Slecht,Gemiddeld

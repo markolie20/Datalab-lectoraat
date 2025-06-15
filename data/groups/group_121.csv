@@ -1,0 +1,22 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Ship broker,Veerle Kriens,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,84,Gemiddeld,Slecht,Goed,Goed
+Exercise physiologist,Aaliyah Kas,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,46,Laag,Slecht,Goed,Slecht
+Brewing technologist,Liza Jacobs-Booden,F,Antilliaans,Hoog,Samenwonend,Rechts,WO,Hindoeïstisch,Weduwe/Weduwnaar,Student,Vrijstaand,Intermediate,59,Gemiddeld,Gemiddeld,Goed,Goed
+Haematologist,Jennifer van Dokkum,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,HAVO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,54,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Health and safety inspector,Senna die Bont,F,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Boeddhistisch,Ongehuwd,Werkloos,Appartement,Advanced,37,Laag,Slecht,Slecht,Goed
+Learning disability nurse,Rick The Elder,F,Pools,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,93,Hoog,Gemiddeld,Slecht,Gemiddeld
+Sport and exercise psychologist,Daniel Wolters,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Fulltime,Appartement,Digibeet,72,Laag,Gemiddeld,Goed,Slecht
+"Engineer, maintenance (IT)","Wessel West-Francië, van",M,Marokkaans,Laag,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,82,Hoog,Gemiddeld,Goed,Goed
+Proofreader,Maya van 't Houteveen-Wolters,F,Syrisch,Hoog,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,30,Gemiddeld,Slecht,Goed,Goed
+"Psychologist, counselling",Morris Leene-Weerdenburg,M,Turks,Hoog,Samenwonend,Midden,VWO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,67,Laag,Slecht,Slecht,Slecht
+"Engineer, maintenance (IT)",Noor Jans,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,34,Laag,Slecht,Slecht,Gemiddeld
+Recruitment consultant,Catharina Kruns,F,Somalisch,Laag,Samenwonend,Rechts,HBO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Advanced,29,Gemiddeld,Slecht,Goed,Slecht
+Mental health nurse,Imran Voortman,F,Syrisch,Laag,Alleenstaand met kinderen,Midden,VWO,Anders,Gehuwd,Parttime,Rijtjeshuis,Beginner,46,Gemiddeld,Goed,Goed,Gemiddeld
+Textile designer,Eva Spruyt,F,Nederlands,Laag,Alleenstaand,Links,VWO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,40,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Therapist, drama",Jill Wildschut-Schuylenborch,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Advanced,86,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Museum/gallery exhibitions officer,Abel le Guellec,F,Duits,Laag,Samenwonend,Midden,HBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,75,Laag,Goed,Goed,Gemiddeld
+"Engineer, automotive",Ravi Jorlink,M,Spaans,Gemiddeld,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Woonboot,Intermediate,62,Gemiddeld,Goed,Goed,Goed
+Trading standards officer,Julius Tielemans,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,36,Laag,Goed,Goed,Slecht
+"Teacher, English as a foreign language",Colin die Bont-de Haan,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,69,Laag,Goed,Gemiddeld,Gemiddeld
+Statistician,Evie Boddaugh,F,Chinees,Gemiddeld,Alleenstaand,Links,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,42,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Magazine journalist,Dina Rijn,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,66,Laag,Slecht,Goed,Slecht

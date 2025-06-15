@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Tax inspector,Charlotte Kwaadland,M,Duits,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,67,Gemiddeld,Goed,Goed,Goed
+"Producer, radio",Jolijn van Saksen,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,86,Laag,Gemiddeld,Goed,Gemiddeld
+Retail manager,Merle van Veen,M,Eritrees,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,68,Laag,Goed,Gemiddeld,Gemiddeld
+Quarry manager,Sophia Jansen,M,Eritrees,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Expert,24,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Early years teacher,Bilal Kok,M,Syrisch,Laag,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,72,Laag,Gemiddeld,Gemiddeld,Slecht
+Systems analyst,Dirk Schilt,M,Irakees,Gemiddeld,Samenwonend met kinderen,Links,VWO,Christelijk,Gehuwd,Parttime,Appartement,Beginner,22,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, civil (contracting)",Dylano van de Veen-Hemma van Allemanië,F,Indiaas,Laag,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Werkloos,Appartement,Expert,58,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Hotel manager,Noa van Beieren,M,Indiaas,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Student,Vrijstaand,Expert,93,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Sports coach,Aylin Muller,M,Bulgaars,Laag,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,58,Laag,Slecht,Goed,Gemiddeld
+"Engineer, petroleum",Senn Smits,F,Italiaans,Hoog,Alleenstaand met kinderen,Rechts,MBO,Atheïstisch,Weduwe/Weduwnaar,Gepensioneerd,Studio,Advanced,36,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Programmer, systems",Aylin Meyer,M,Nederlands,Laag,Samenwonend,Links,WO,Islamitisch,Gehuwd,Student,Appartement,Beginner,71,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Consulting civil engineer,Fedde van Oirschot-Wouters,M,Indiaas,Laag,Alleenstaand met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Advanced,73,Gemiddeld,Slecht,Goed,Goed
+Purchasing manager,Thijmen Berendse,F,Eritrees,Gemiddeld,Alleenstaand,Rechts,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,88,Laag,Slecht,Gemiddeld,Gemiddeld
+Cytogeneticist,Anna Sprong,M,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Joods,Ongehuwd,Fulltime,Studio,Intermediate,60,Laag,Goed,Gemiddeld,Slecht
+Tax adviser,Mads van Schevinghuizen-Geneart,M,Nederlands,Laag,Samenwonend,Links,HBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Beginner,89,Laag,Slecht,Goed,Goed

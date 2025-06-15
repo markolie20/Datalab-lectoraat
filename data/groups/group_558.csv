@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Estate agent,Pleun Gerritse,M,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Beginner,31,Laag,Gemiddeld,Goed,Goed
+International aid/development worker,Amber Wilson-Brizee,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,25,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Solicitor, Scotland",Esther van den Bosch,F,Spaans,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,33,Laag,Slecht,Gemiddeld,Gemiddeld
+Engineering geologist,Merijn Spruit,M,Chinees,Hoog,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,98,Hoog,Gemiddeld,Goed,Gemiddeld
+Newspaper journalist,Floor Oosterhek,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Intermediate,38,Gemiddeld,Slecht,Gemiddeld,Slecht
+Management consultant,Tijn Totwiller,M,Syrisch,Gemiddeld,Samenwonend,Links,HBO,Hindoeïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Expert,70,Gemiddeld,Slecht,Goed,Goed
+Local government officer,Robin Cammel,F,Nederlands,Laag,Alleenstaand,Links,VWO,Christelijk,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Intermediate,77,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Structural engineer,Simon Massa-Goedhart,F,Marokkaans,Hoog,Samenwonend,Links,Basisonderwijs,Christelijk,Gescheiden,Werkloos,Appartement,Beginner,64,Hoog,Gemiddeld,Slecht,Slecht
+Animal nutritionist,Lois Booden-Tielemans,F,Bulgaars,Hoog,Alleenstaand,Midden,VMBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Digibeet,43,Laag,Gemiddeld,Goed,Goed
+Meteorologist,Phileine Tuithof,M,Chinees,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,92,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Fish farm manager,Marijn Olykan,M,Nederlands,Laag,Samenwonend,Links,VMBO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Beginner,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Animal technologist,Robin Perck,M,Turks,Laag,Alleenstaand met kinderen,Midden,VMBO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,94,Hoog,Goed,Gemiddeld,Gemiddeld
+"Conservation officer, historic buildings",Beau de Vroege,F,Irakees,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Student,Appartement,Expert,29,Hoog,Slecht,Gemiddeld,Goed

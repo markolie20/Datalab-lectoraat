@@ -1,0 +1,23 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Radio broadcast assistant,Mathijs van Wallaert-van de Leemput,M,Irakees,Laag,Alleenstaand,Rechts,WO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,86,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Engineer, civil (consulting)",Joy van Leeuwen-van Geest,F,Nederlands,Laag,Samenwonend,Links,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Intermediate,24,Laag,Goed,Goed,Slecht
+"Psychologist, educational",Twan Muller,F,Afghaans,Laag,Samenwonend,Rechts,WO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,45,Laag,Gemiddeld,Gemiddeld,Goed
+Local government officer,Fien van Dongen,M,Chinees,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,33,Laag,Gemiddeld,Goed,Gemiddeld
+Fine artist,Elin Robbrechts Bruijne,M,Marokkaans,Hoog,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,83,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Therapist, speech and language",Cornelia Risma,M,Duits,Laag,Samenwonend,Midden,WO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Beginner,30,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Special educational needs teacher,Victoria Gruijl-Waardeloo,M,Surinaams,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,49,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Clinical scientist, histocompatibility and immunogenetics",Kyan Rouwhorst,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,18,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Interior and spatial designer,Maxim Huijben,F,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Appartement,Digibeet,18,Laag,Goed,Gemiddeld,Goed
+Furniture conservator/restorer,Quinn Kloppert,M,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Zelfstandig,Woonboot,Beginner,88,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Actor,Femke Strijker,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Student,Appartement,Intermediate,52,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Museum/gallery curator,Arie de Jonge,M,Roemeens,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,52,Laag,Goed,Gemiddeld,Gemiddeld
+Database administrator,Isabel Wijland,F,Turks,Laag,Samenwonend,Rechts,HAVO,Anders,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,56,Laag,Gemiddeld,Gemiddeld,Goed
+Child psychotherapist,Amélie Cornelissen,M,Turks,Hoog,Samenwonend,Midden,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,27,Hoog,Goed,Gemiddeld,Gemiddeld
+Training and development officer,Lars Barents-van den Brink,F,Antilliaans,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,65,Gemiddeld,Gemiddeld,Goed,Slecht
+"Engineer, civil (contracting)",Mirthe le Briel,F,Indonesisch,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Librarian, public",Bibi van Breukelveen,M,Duits,Laag,Alleenstaand met kinderen,Midden,VWO,Boeddhistisch,Gehuwd,Parttime,Twee-onder-een-kap,Beginner,44,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Journalist, broadcasting",Phileine Verbeeck-van Enschot,M,Marokkaans,Gemiddeld,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,68,Laag,Goed,Gemiddeld,Gemiddeld
+Stage manager,Luca Feenstra,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,52,Laag,Gemiddeld,Slecht,Gemiddeld
+Photographer,Dylano Duivenvoorden,M,Syrisch,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,58,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Clothing/textile technologist,Ivy Kuijpers-van Ghoerle,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,50,Laag,Slecht,Goed,Goed
+Emergency planning/management officer,Mart Bloemendaal,F,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,81,Gemiddeld,Goed,Slecht,Gemiddeld

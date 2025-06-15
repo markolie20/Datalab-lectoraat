@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Theatre director,Kian de Pauw,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Hindoeïstisch,Gehuwd,Parttime,Vrijstaand,Digibeet,44,Laag,Slecht,Goed,Goed
+Data scientist,Jules Broekhoven,F,Bulgaars,Gemiddeld,Samenwonend,Midden,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Personnel officer,Jorn Brugman,F,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Anders,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,59,Laag,Gemiddeld,Goed,Gemiddeld
+Barrister's clerk,Zoë de Jager-Bresé,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Advanced,47,Gemiddeld,Goed,Goed,Goed
+"Radiographer, diagnostic",Quinty Jdotte,F,Turks,Hoog,Samenwonend,Links,HBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Intermediate,51,Laag,Goed,Gemiddeld,Gemiddeld
+"Surveyor, mining",Rafael Scharroo,M,Portugees,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Boeddhistisch,Gescheiden,Werkloos,Appartement,Beginner,67,Hoog,Goed,Gemiddeld,Gemiddeld
+"Engineer, electronics",Lizzy de Boer,M,Indiaas,Gemiddeld,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,44,Gemiddeld,Goed,Goed,Gemiddeld
+Editorial assistant,Kate van de Biezenbos,M,Nederlands,Hoog,Samenwonend met kinderen,Links,VMBO,Atheïstisch,Gescheiden,Fulltime,Appartement,Intermediate,41,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Surveyor, commercial/residential",Senna Feltzer,M,Indonesisch,Gemiddeld,Alleenstaand,Midden,MBO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,91,Laag,Gemiddeld,Goed,Slecht
+Holiday representative,Hugo Bellemans,F,Nederlands,Laag,Samenwonend,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,86,Laag,Gemiddeld,Slecht,Goed

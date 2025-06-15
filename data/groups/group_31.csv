@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Teacher, adult education",Victor Bud,M,Surinaams,Gemiddeld,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Werkloos,Studio,Beginner,90,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Theatre manager,Mike Laffray,F,Afghaans,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Gescheiden,Fulltime,Appartement,Digibeet,69,Laag,Goed,Goed,Gemiddeld
+"Secretary, company",Morris van der Veen-Zwart,F,Nederlands,Hoog,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,20,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Government social research officer,Florian Bruynzeels,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Atheïstisch,Gehuwd,Parttime,Appartement,Intermediate,37,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Merchandiser, retail",Sander Risma,M,Pools,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,47,Laag,Goed,Gemiddeld,Goed
+"Journalist, broadcasting",Hugo Gellemeyer,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Studio,Intermediate,45,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Community pharmacist,Juliette van Leeuwen,M,Bulgaars,Hoog,Samenwonend met kinderen,Midden,MBO,Boeddhistisch,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,49,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Electrical engineer,Sarah van Cuijck-Huijzing,M,Duits,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,24,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Haematologist,Bjorn Miner,F,Turks,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,53,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Actor,Siem Luboch,F,Somalisch,Hoog,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Student,Studio,Expert,86,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Equality and diversity officer,Lukas Bresse,F,Duits,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Gescheiden,Fulltime,Rijtjeshuis,Advanced,55,Laag,Goed,Gemiddeld,Goed
+Ranger/warden,Owen Hexspoor,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Ongehuwd,Parttime,Appartement,Intermediate,35,Laag,Goed,Goed,Gemiddeld
+Regulatory affairs officer,Bo van Riet-van Alenburg,M,Indonesisch,Hoog,Alleenstaand met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,46,Laag,Slecht,Gemiddeld,Gemiddeld
+Television/film/video producer,Lorenzo Gervais,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,54,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, arts",Jenna Spruyt-de Koning,M,Bulgaars,Laag,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,83,Laag,Goed,Gemiddeld,Goed
+Community development worker,Thom Miltenburg,M,Afghaans,Gemiddeld,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Digibeet,49,Hoog,Goed,Goed,Slecht
+Lawyer,Norah Roukes,M,Bulgaars,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Intermediate,34,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Chartered public finance accountant,Hannah Hendriks,M,Marokkaans,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Beginner,64,Gemiddeld,Goed,Goed,Gemiddeld
+Environmental consultant,Michelle van 't Houteveen,M,Somalisch,Laag,Alleenstaand,Midden,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,99,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Product/process development scientist,Amina van den Henst,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,57,Hoog,Slecht,Slecht,Gemiddeld
+Seismic interpreter,Ali Blom,F,Spaans,Gemiddeld,Samenwonend met kinderen,Links,WO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,54,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Programmer, systems",Niek Bouthoorn,M,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,52,Gemiddeld,Goed,Goed,Gemiddeld
+"Teacher, primary school",Loes Claesdr,M,Turks,Laag,Samenwonend met kinderen,Rechts,MBO,Joods,Gehuwd,Gepensioneerd,Appartement,Intermediate,64,Laag,Slecht,Gemiddeld,Gemiddeld

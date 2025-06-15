@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Land,Catharina van Mare,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,58,Hoog,Goed,Gemiddeld,Goed
+Youth worker,Elizabeth Smits,M,Pools,Gemiddeld,Alleenstaand,Links,WO,Atheïstisch,Gehuwd,Fulltime,Appartement,Intermediate,89,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Training and development officer,Joey van der Laan,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,21,Gemiddeld,Goed,Goed,Goed
+Learning mentor,Silke Smit,F,Afghaans,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,40,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, manufacturing systems",Lieke Wilcken-van der Flaas,M,Syrisch,Laag,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Beginner,94,Laag,Gemiddeld,Slecht,Goed
+Licensed conveyancer,Sara Knuf,M,Marokkaans,Laag,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,77,Laag,Goed,Gemiddeld,Gemiddeld
+Cartographer,Aaliyah Bosch,M,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Beginner,27,Laag,Slecht,Gemiddeld,Gemiddeld
+Chief Technology Officer,Sofie Huisman-van der Horst,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,95,Laag,Goed,Goed,Slecht
+Financial risk analyst,Vincent Suijker-Beernink,F,Pools,Hoog,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,87,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Haematologist,Yfke Bellemans-van der Hoeven,M,Turks,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,98,Gemiddeld,Slecht,Goed,Gemiddeld

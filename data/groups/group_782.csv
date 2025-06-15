@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Medical sales representative,Marijn Kisman,F,Indiaas,Hoog,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,41,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, furniture",Jordy Becht,M,Marokkaans,Laag,Alleenstaand,Midden,HBO,Joods,Ongehuwd,Student,Appartement,Beginner,23,Hoog,Gemiddeld,Slecht,Goed
+Physiotherapist,Dana van Gemert,M,Nederlands,Gemiddeld,Samenwonend,Links,Basisonderwijs,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,89,Laag,Slecht,Gemiddeld,Gemiddeld
+Air broker,Fleur Otte,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,40,Hoog,Gemiddeld,Goed,Gemiddeld
+Youth worker,Wesley de Vries,F,Turks,Laag,Samenwonend,Midden,HAVO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,94,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Insurance account manager,Esmée van der Sande-van den Henst,M,Indonesisch,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,19,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Civil Service administrator,Tijs van den Broek,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Christelijk,Gescheiden,Gepensioneerd,Appartement,Beginner,93,Laag,Goed,Gemiddeld,Goed
+Architect,Elif Köster,F,Pools,Laag,Alleenstaand met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Appartement,Intermediate,62,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Administrator,Elize Heribert van Laon,F,Surinaams,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Woonboot,Beginner,19,Gemiddeld,Goed,Gemiddeld,Goed
+"Designer, multimedia",Sterre Kortman,M,Indiaas,Gemiddeld,Alleenstaand,Midden,HBO,Joods,Gehuwd,Student,Twee-onder-een-kap,Intermediate,80,Laag,Goed,Goed,Goed
+Accommodation manager,Dina Mathieu,F,Marokkaans,Laag,Alleenstaand,Links,VMBO,Atheïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,46,Laag,Slecht,Slecht,Slecht
+"Surveyor, insurance",Emir van der Heiden,M,Pools,Laag,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Studio,Intermediate,86,Hoog,Gemiddeld,Slecht,Gemiddeld

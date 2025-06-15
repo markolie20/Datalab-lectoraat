@@ -1,0 +1,36 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Seismic interpreter,Berat van Grondelle,M,Chinees,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Gehuwd,Werkloos,Twee-onder-een-kap,Digibeet,96,Gemiddeld,Slecht,Goed,Gemiddeld
+"Designer, television/film set",Teun Martens,F,Spaans,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,94,Laag,Goed,Gemiddeld,Slecht
+"Scientist, research (medical)",Jack van der Smeede,F,Nederlands,Gemiddeld,Samenwonend,Links,HBO,Islamitisch,Gehuwd,Fulltime,Twee-onder-een-kap,Intermediate,22,Laag,Gemiddeld,Slecht,Slecht
+"Engineer, biomedical",Tyler de Jong-Huel,F,Eritrees,Gemiddeld,Alleenstaand,Rechts,VMBO,Atheïstisch,Gehuwd,Student,Appartement,Intermediate,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chief Technology Officer,Emily de Hoogh-Kok,F,Nederlands,Laag,Alleenstaand,Rechts,MBO,Joods,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,58,Laag,Gemiddeld,Goed,Gemiddeld
+"Teacher, primary school",Elin van Ginkel,F,Indonesisch,Laag,Alleenstaand,Midden,HBO,Christelijk,Gescheiden,Student,Appartement,Intermediate,73,Hoog,Gemiddeld,Gemiddeld,Goed
+Meteorologist,Annemijn Erhout,M,Surinaams,Laag,Alleenstaand,Midden,HAVO,Anders,Gescheiden,Gepensioneerd,Appartement,Beginner,32,Hoog,Goed,Slecht,Gemiddeld
+"Pharmacist, community",Rik Bos,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,99,Hoog,Gemiddeld,Slecht,Gemiddeld
+Research scientist (medical),Bibi le Floch,F,Duits,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Advanced,39,Laag,Goed,Slecht,Gemiddeld
+Public librarian,Olaf Mercks,F,Eritrees,Hoog,Samenwonend,Rechts,WO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Beginner,90,Gemiddeld,Slecht,Goed,Gemiddeld
+Technical sales engineer,Lola Winnrich,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,81,Gemiddeld,Goed,Gemiddeld,Goed
+Immunologist,Janna van der Pouw,F,Roemeens,Hoog,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Gescheiden,Parttime,Vrijstaand,Beginner,28,Gemiddeld,Goed,Goed,Gemiddeld
+Astronomer,Kyan Claassen,F,Marokkaans,Laag,Alleenstaand,Links,MBO,Anders,Ongehuwd,Werkloos,Vrijstaand,Intermediate,90,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Solicitor,Jules de Pauw-Fredriks,F,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Student,Rijtjeshuis,Intermediate,55,Gemiddeld,Goed,Gemiddeld,Slecht
+"Scientist, marine",Lina van Dokkum,M,Nederlands,Laag,Samenwonend,Links,MBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,74,Gemiddeld,Goed,Goed,Gemiddeld
+Retail buyer,Kim Klerks,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,88,Hoog,Gemiddeld,Slecht,Gemiddeld
+Industrial/product designer,Pien van Boulogne,F,Turks,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,49,Laag,Gemiddeld,Slecht,Gemiddeld
+Paediatric nurse,Quinten van den Bosch,M,Duits,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,29,Gemiddeld,Goed,Slecht,Gemiddeld
+"Therapist, music",Sylvie Jochems,F,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,31,Hoog,Gemiddeld,Slecht,Goed
+Environmental education officer,Louise van Geest,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Links,VWO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,61,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Press sub,Job de Hoog,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,52,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Music tutor,Amy Verharen,M,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Parttime,Appartement,Intermediate,20,Hoog,Gemiddeld,Goed,Slecht
+Higher education careers adviser,Cas Mulder,M,Indiaas,Hoog,Samenwonend,Rechts,HAVO,Boeddhistisch,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,21,Laag,Goed,Gemiddeld,Goed
+Housing manager/officer,Lex Vignon-Hondeveld,F,Surinaams,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,21,Gemiddeld,Slecht,Slecht,Slecht
+"Nurse, children's",Youssef Vrancken,M,Marokkaans,Laag,Samenwonend,Links,HBO,Christelijk,Gehuwd,Student,Vrijstaand,Digibeet,28,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, commercial/residential",Sam van Alenburg,M,Indiaas,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,31,Laag,Goed,Goed,Goed
+Building control surveyor,Tristan van de Ven,F,Pools,Gemiddeld,Samenwonend,Links,VMBO,Christelijk,Gescheiden,Parttime,Appartement,Advanced,27,Gemiddeld,Gemiddeld,Slecht,Goed
+Arts administrator,Benthe Wooning,M,Nederlands,Laag,Samenwonend,Links,HAVO,Anders,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,26,Hoog,Gemiddeld,Slecht,Slecht
+Architectural technologist,Sara Bezemer,F,Chinees,Laag,Samenwonend met kinderen,Links,VMBO,Boeddhistisch,Ongehuwd,Parttime,Vrijstaand,Beginner,92,Laag,Slecht,Slecht,Gemiddeld
+Health physicist,Noor van Waas,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,54,Laag,Gemiddeld,Goed,Slecht
+Advertising account executive,Senna Roosenboom,M,Surinaams,Gemiddeld,Samenwonend,Midden,HBO,Hindoeïstisch,Weduwe/Weduwnaar,Gepensioneerd,Rijtjeshuis,Beginner,70,Laag,Goed,Gemiddeld,Gemiddeld
+Petroleum engineer,Lizz van Ochten,F,Nederlands,Hoog,Samenwonend,Links,MBO,Joods,Gehuwd,Student,Appartement,Intermediate,30,Hoog,Goed,Slecht,Goed
+"Therapist, art",Sam Nedermeijer-van Susa,M,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Joods,Gescheiden,Parttime,Appartement,Beginner,96,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Designer, multimedia",Suze Maas,F,Italiaans,Laag,Samenwonend,Midden,VWO,Joods,Ongehuwd,Fulltime,Appartement,Intermediate,60,Hoog,Goed,Goed,Goed
+"Radiographer, diagnostic",Zakaria Cornelisz,F,Indonesisch,Hoog,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,79,Laag,Slecht,Gemiddeld,Goed

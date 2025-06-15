@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, land",Tessa Muijs,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Gehuwd,Werkloos,Appartement,Digibeet,78,Laag,Slecht,Gemiddeld,Gemiddeld
+Theme park manager,Nick Martens-Dennenberg,F,Duits,Gemiddeld,Alleenstaand,Rechts,HBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,67,Laag,Goed,Gemiddeld,Goed
+Education administrator,Julia Köster,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HBO,Joods,Gehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,37,Hoog,Slecht,Gemiddeld,Goed
+Pharmacologist,Femke Coenen,M,Duits,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Appartement,Digibeet,81,Laag,Gemiddeld,Goed,Slecht
+General practice doctor,Elizabeth le Floch-Geneart,M,Spaans,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Gehuwd,Werkloos,Rijtjeshuis,Advanced,33,Laag,Gemiddeld,Gemiddeld,Slecht
+Race relations officer,Keano Luboch,M,Turks,Laag,Samenwonend,Midden,HBO,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,35,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, radio",Beau Butselaar-Lamore,M,Nederlands,Hoog,Samenwonend met kinderen,Rechts,HBO,Joods,Gescheiden,Gepensioneerd,Appartement,Expert,63,Hoog,Slecht,Gemiddeld,Goed
+"Engineer, petroleum",Tara Room,M,Marokkaans,Laag,Samenwonend,Rechts,WO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,63,Hoog,Gemiddeld,Gemiddeld,Goed
+"Engineer, manufacturing",Thijn van der Lede,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,29,Laag,Slecht,Goed,Gemiddeld
+Police officer,Kayleigh Lamotte,F,Chinees,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Student,Appartement,Advanced,49,Laag,Gemiddeld,Goed,Gemiddeld
+"Pharmacist, hospital",Sjoerd van Formbach,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,42,Gemiddeld,Gemiddeld,Goed,Slecht
+Oncologist,Mason van der Smeede,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Student,Vrijstaand,Intermediate,48,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Field seismologist,Lizz de Jong-Ketel,F,Indonesisch,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,93,Laag,Gemiddeld,Gemiddeld,Slecht
+Building control surveyor,Merijn Otto,F,Turks,Gemiddeld,Samenwonend,Midden,VWO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,97,Laag,Goed,Goed,Slecht
+"Engineer, civil (consulting)",Jenna Huls,M,Duits,Hoog,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,48,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

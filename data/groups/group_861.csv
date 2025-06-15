@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Sports therapist,Pien Steinmeiern,M,Surinaams,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,92,Laag,Slecht,Gemiddeld,Gemiddeld
+Commercial horticulturist,Mohamed de Swart,F,Afghaans,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gescheiden,Fulltime,Appartement,Beginner,48,Hoog,Goed,Goed,Gemiddeld
+"Conservator, furniture",Luc Smith,F,Surinaams,Laag,Samenwonend,Midden,VWO,Joods,Ongehuwd,Werkloos,Appartement,Advanced,30,Laag,Goed,Gemiddeld,Gemiddeld
+"Research officer, political party",Bryan Jans,F,Duits,Hoog,Alleenstaand,Rechts,HAVO,Anders,Ongehuwd,Fulltime,Woonboot,Digibeet,60,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Multimedia programmer,Tijmen Mosley,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Boeddhistisch,Ongehuwd,Student,Vrijstaand,Expert,21,Gemiddeld,Slecht,Slecht,Goed
+Chiropodist,Ayoub Gepa van Bourgondië,F,Marokkaans,Gemiddeld,Alleenstaand,Midden,WO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Expert,81,Laag,Slecht,Goed,Gemiddeld
+Paramedic,Joël van der Heijden-Westermann,F,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,41,Laag,Gemiddeld,Gemiddeld,Slecht
+Environmental manager,Finn le Briel-Slingerland,M,Syrisch,Hoog,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,82,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Farm manager,Timo Coreth von und zu Coredo und Starkenberg,M,Marokkaans,Laag,Samenwonend,Links,HAVO,Hindoeïstisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,25,Laag,Gemiddeld,Gemiddeld,Goed
+"Journalist, magazine",Kim Feltzer,F,Somalisch,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,47,Laag,Slecht,Slecht,Goed
+Adult nurse,Valerie Lijn,F,Nederlands,Gemiddeld,Samenwonend,Links,Basisonderwijs,Anders,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Intermediate,75,Laag,Gemiddeld,Goed,Gemiddeld
+Nature conservation officer,Laurens Aeije,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Joods,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, building services",Jamie de Backer-van Egisheim,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,61,Laag,Goed,Gemiddeld,Gemiddeld
+Radio broadcast assistant,Joris Vignon,M,Afghaans,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,39,Hoog,Slecht,Goed,Goed

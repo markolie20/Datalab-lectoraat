@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Retail manager,Rowan Mater,M,Irakees,Hoog,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,92,Laag,Slecht,Goed,Slecht
+"Doctor, general practice",Jurre Kerkhof-Rijntjes,F,Nederlands,Laag,Samenwonend,Midden,WO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,58,Hoog,Goed,Goed,Goed
+Air traffic controller,Aaron Ariens,M,Duits,Laag,Alleenstaand,Links,HAVO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Intermediate,89,Laag,Slecht,Gemiddeld,Goed
+"Teacher, adult education",Noortje Merkx,M,Indonesisch,Gemiddeld,Samenwonend,Midden,VMBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,97,Hoog,Gemiddeld,Goed,Slecht
+Sub,Vince den Buytelaar-van Santen,M,Pools,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,71,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Librarian, public",Jolie de Backer,M,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,82,Hoog,Goed,Slecht,Goed
+Publishing copy,Tobias Haneberg,M,Nederlands,Laag,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,37,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+"Psychologist, prison and probation services",Bram Eerden,M,Turks,Laag,Alleenstaand,Rechts,Basisonderwijs,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,70,Gemiddeld,Slecht,Goed,Goed
+Textile designer,Helena van Spreeuwel-Kremer,M,Indonesisch,Laag,Samenwonend,Midden,MBO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,68,Gemiddeld,Goed,Goed,Gemiddeld
+Risk manager,Bente Dijkman-Soos,M,Duits,Hoog,Alleenstaand,Midden,HAVO,Anders,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,32,Laag,Goed,Goed,Goed
+Broadcast journalist,Cornelia Gervais,F,Afghaans,Hoog,Samenwonend,Links,MBO,Anders,Gehuwd,Fulltime,Appartement,Expert,60,Laag,Gemiddeld,Goed,Gemiddeld
+Clinical embryologist,Felix Gervais,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Student,Appartement,Beginner,55,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, mining",Jaylinn van Maaren,M,Indiaas,Laag,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,28,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Art therapist,Liz van Hagen-die Witte,F,Pools,Gemiddeld,Alleenstaand,Rechts,VWO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,28,Laag,Gemiddeld,Gemiddeld,Slecht
+"Administrator, sports",Phileine Moet,M,Bulgaars,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Woonboot,Intermediate,35,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Economist,Bjorn Louws,M,Irakees,Gemiddeld,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,59,Laag,Goed,Goed,Goed

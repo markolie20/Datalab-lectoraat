@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Outdoor activities/education manager,Elize van Salm,F,Pools,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,79,Laag,Slecht,Gemiddeld,Gemiddeld
+Horticultural therapist,Esmee Blokland-Grondel,F,Portugees,Laag,Alleenstaand met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Advanced,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Gaffer,Mees Verschuere,M,Italiaans,Gemiddeld,Alleenstaand,Links,WO,Anders,Ongehuwd,Student,Rijtjeshuis,Advanced,34,Gemiddeld,Slecht,Goed,Gemiddeld
+Lawyer,Jade Heyne,M,Italiaans,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,75,Laag,Goed,Gemiddeld,Gemiddeld
+"Scientist, product/process development",Thom Heijmen-Wagenvoort,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,49,Gemiddeld,Goed,Gemiddeld,Goed
+"Embryologist, clinical",Tara Die Bont,F,Surinaams,Laag,Samenwonend,Links,HBO,Joods,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,28,Hoog,Gemiddeld,Gemiddeld,Slecht
+Fashion designer,Thomas van Embden,M,Nederlands,Hoog,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,24,Laag,Gemiddeld,Goed,Slecht
+Phytotherapist,Jamie Hagendoorn,M,Nederlands,Laag,Samenwonend met kinderen,Links,WO,Christelijk,Ongehuwd,Student,Vrijstaand,Intermediate,76,Laag,Slecht,Gemiddeld,Goed
+Industrial/product designer,Emily van Velthoven-van der Veen,F,Afghaans,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,19,Hoog,Goed,Gemiddeld,Gemiddeld
+Magazine features editor,Amira van den Eerenbeemt-van der Spaendonc,F,Indonesisch,Laag,Samenwonend met kinderen,Links,MBO,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,62,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, building control",Lotte Remmers,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Advanced,87,Hoog,Goed,Gemiddeld,Gemiddeld
+"Engineer, control and instrumentation",Tijmen Duivenvoorden-Hulst,M,Antilliaans,Gemiddeld,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,38,Laag,Slecht,Gemiddeld,Slecht
+Advice worker,Lorenzo Maaswinkel,M,Somalisch,Gemiddeld,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Beginner,74,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Merchandiser, retail",Noah Gruijl,F,Somalisch,Hoog,Samenwonend,Midden,WO,Joods,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,73,Gemiddeld,Goed,Gemiddeld,Gemiddeld

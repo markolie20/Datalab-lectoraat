@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Aeronautical engineer,Riley Thomas,M,Chinees,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,88,Laag,Goed,Gemiddeld,Gemiddeld
+Engineering geologist,Tessa Mathieu-Jochems,M,Spaans,Hoog,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,27,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, quantity",Joshua Zwijsen-Stettyn,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Digibeet,36,Laag,Slecht,Slecht,Goed
+Publishing copy,Thijs Lankle,M,Portugees,Laag,Alleenstaand,Midden,VWO,Christelijk,Gescheiden,Gepensioneerd,Appartement,Beginner,20,Hoog,Gemiddeld,Slecht,Gemiddeld
+Chartered accountant,Jolijn van Praagh,F,Bulgaars,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Zelfstandig,Appartement,Digibeet,54,Hoog,Gemiddeld,Gemiddeld,Goed
+Waste management officer,Azra Kallen-van Ooste,M,Marokkaans,Hoog,Samenwonend,Rechts,HBO,Islamitisch,Gescheiden,Werkloos,Studio,Beginner,30,Gemiddeld,Gemiddeld,Goed,Goed
+"Engineer, chemical",Maria Tins-Beijring,M,Pools,Gemiddeld,Samenwonend,Links,VMBO,Atheïstisch,Gehuwd,Parttime,Vrijstaand,Expert,45,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Network engineer,Luc van den Heuvel-Mulder,M,Nederlands,Laag,Alleenstaand,Links,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,52,Hoog,Gemiddeld,Gemiddeld,Slecht
+Printmaker,Jente de Man,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,25,Laag,Goed,Slecht,Gemiddeld
+Chief Technology Officer,Mia Tielemans-van der Zijl,M,Turks,Laag,Alleenstaand,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Woonboot,Beginner,47,Laag,Goed,Gemiddeld,Goed

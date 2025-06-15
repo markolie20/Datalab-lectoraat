@@ -1,0 +1,29 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Civil Service administrator,Sil Kort,F,Chinees,Laag,Samenwonend met kinderen,Rechts,HBO,Hindoeïstisch,Ongehuwd,Werkloos,Appartement,Beginner,47,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Engineer, electrical",Nikki Hoogers-Bijlsma,F,Roemeens,Laag,Samenwonend,Links,VMBO,Boeddhistisch,Ongehuwd,Parttime,Studio,Advanced,20,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Health service manager,Zara Wouters,M,Antilliaans,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Digibeet,66,Laag,Goed,Goed,Goed
+"Scientist, forensic",Maria Buijs,M,Turks,Laag,Samenwonend met kinderen,Rechts,VWO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,60,Laag,Goed,Gemiddeld,Gemiddeld
+"Education officer, environmental",Leon Latier,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Expert,36,Hoog,Slecht,Goed,Gemiddeld
+"Psychologist, forensic",Arthur van der Leek,M,Marokkaans,Hoog,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Intermediate,88,Laag,Gemiddeld,Goed,Gemiddeld
+Communications engineer,Matthijs Blewanus,F,Turks,Hoog,Samenwonend met kinderen,Links,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,31,Laag,Gemiddeld,Goed,Gemiddeld
+Armed forces operational officer,Niels Karels,F,Nederlands,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,55,Hoog,Goed,Gemiddeld,Slecht
+"Conservation officer, nature",Tijs Jdotte,F,Marokkaans,Laag,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Advanced,25,Laag,Slecht,Gemiddeld,Gemiddeld
+Advertising copywriter,Bram Veenendaal,F,Pools,Laag,Samenwonend met kinderen,Midden,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,60,Laag,Goed,Slecht,Gemiddeld
+Occupational therapist,Marinus de Wit,F,Turks,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,62,Gemiddeld,Goed,Goed,Goed
+Manufacturing systems engineer,Zeynep van den Nyeuwenhuysen,M,Antilliaans,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,69,Hoog,Goed,Slecht,Slecht
+Museum/gallery exhibitions officer,Jayda Olykan-Sam,M,Chinees,Hoog,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,92,Hoog,Gemiddeld,Goed,Slecht
+"Designer, industrial/product",Azra Kosten,M,Syrisch,Hoog,Samenwonend,Midden,WO,Joods,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,61,Laag,Gemiddeld,Goed,Gemiddeld
+Ambulance person,Damian Coret-van Noordeloos,F,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,95,Laag,Gemiddeld,Slecht,Goed
+Education administrator,Janne Jansse-Chotzen,F,Portugees,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,97,Laag,Goed,Slecht,Gemiddeld
+Psychotherapist,Floortje van Bovene-de Koning,M,Antilliaans,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Student,Appartement,Digibeet,66,Gemiddeld,Goed,Slecht,Goed
+Geoscientist,Johannes van Landen-Bellemans,F,Surinaams,Hoog,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,97,Laag,Gemiddeld,Goed,Gemiddeld
+"Engineer, electrical",Noa Lamore,F,Italiaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,81,Laag,Slecht,Slecht,Slecht
+"Optician, dispensing",Rens van der Meulen,F,Somalisch,Laag,Samenwonend,Midden,HAVO,Joods,Ongehuwd,Student,Rijtjeshuis,Beginner,82,Laag,Slecht,Goed,Gemiddeld
+"Nurse, adult",Kayleigh Dekker,M,Duits,Hoog,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Student,Vrijstaand,Intermediate,22,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Freight forwarder,Evie Die Bont-Hendricks,M,Nederlands,Laag,Alleenstaand,Links,MBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,75,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Programmer, systems",Yfke van Susa,M,Roemeens,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,65,Hoog,Gemiddeld,Gemiddeld,Goed
+Acupuncturist,Ivan Hoelen,F,Indiaas,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Beginner,54,Laag,Gemiddeld,Gemiddeld,Slecht
+Database administrator,Sam Genefaas,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Advanced,88,Laag,Goed,Goed,Gemiddeld
+"Teacher, primary school",Thijmen Texier,F,Syrisch,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,95,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Company secretary,Sam van Kasteelen,F,Syrisch,Laag,Alleenstaand met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Digibeet,67,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+English as a foreign language teacher,Dylano Barents-Charon,M,Irakees,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Student,Woonboot,Advanced,62,Gemiddeld,Gemiddeld,Slecht,Gemiddeld

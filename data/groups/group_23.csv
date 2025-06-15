@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Camera operator,Bram van het Heerenveen-van Embden,M,Pools,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,33,Laag,Goed,Goed,Goed
+IT sales professional,Renske van Tours-Roukes,M,Nederlands,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,35,Laag,Gemiddeld,Slecht,Gemiddeld
+Chief Strategy Officer,Tyler den Haag-van Praagh,F,Marokkaans,Gemiddeld,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,99,Laag,Goed,Slecht,Gemiddeld
+Commissioning editor,James van Gent,F,Nederlands,Laag,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,86,Laag,Gemiddeld,Gemiddeld,Goed
+Museum/gallery exhibitions officer,Lars van Wel-Tamsma,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Student,Appartement,Intermediate,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Product designer,Lara Van Bragt,M,Indiaas,Hoog,Alleenstaand,Midden,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,29,Gemiddeld,Goed,Goed,Gemiddeld
+Sales executive,Tim van der Stael de Jonge,M,Nederlands,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,89,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Leisure centre manager,Imran van 't Riet,M,Indiaas,Laag,Alleenstaand,Rechts,HBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Digibeet,45,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, television/film/video",Hannah Vastenhouw,F,Indiaas,Gemiddeld,Samenwonend,Rechts,HAVO,Boeddhistisch,Gescheiden,Parttime,Woonboot,Expert,39,Laag,Gemiddeld,Goed,Goed
+"Pharmacist, hospital",Robin Hoedemakers-van Mispelen,M,Marokkaans,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,96,Hoog,Slecht,Slecht,Gemiddeld
+Legal secretary,Tara Kuilenburg,M,Roemeens,Laag,Alleenstaand,Rechts,WO,Joods,Ongehuwd,Student,Twee-onder-een-kap,Beginner,96,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Retail buyer,Sepp Tielemans,F,Bulgaars,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Intermediate,30,Laag,Gemiddeld,Goed,Gemiddeld

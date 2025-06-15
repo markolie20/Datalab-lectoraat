@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Naval architect,Boris Mol-Mulder,M,Antilliaans,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Appartement,Beginner,71,Gemiddeld,Slecht,Gemiddeld,Slecht
+Professor Emeritus,Dewi Charon,F,Somalisch,Hoog,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,48,Laag,Goed,Slecht,Slecht
+Medical laboratory scientific officer,Ibrahim van Emmelen,M,Pools,Hoog,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,20,Hoog,Slecht,Gemiddeld,Gemiddeld
+Ceramics designer,Sepp van Eck,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychologist, counselling",Lucas Tins,M,Turks,Laag,Alleenstaand,Midden,WO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,75,Gemiddeld,Goed,Gemiddeld,Goed
+Telecommunications researcher,Lizzy Chrodtrud,M,Bulgaars,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,68,Laag,Slecht,Gemiddeld,Gemiddeld
+"Producer, radio",Sten Takkelenburg-van Maasgouw,F,Antilliaans,Gemiddeld,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,80,Laag,Gemiddeld,Gemiddeld,Goed
+Sports therapist,Nick Wagenvoort,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,26,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Banker,Faye van den Nuwenhijsen,M,Nederlands,Gemiddeld,Samenwonend,Midden,VWO,Anders,Ongehuwd,Zelfstandig,Appartement,Digibeet,57,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Estate agent,Megan Billung-van de Klashorst,M,Surinaams,Laag,Samenwonend met kinderen,Midden,VWO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,66,Laag,Goed,Gemiddeld,Goed
+"Programmer, systems",Annemijn de Bruijn-van Stralen,F,Turks,Hoog,Samenwonend,Midden,VWO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,75,Gemiddeld,Goed,Gemiddeld,Slecht
+Horticultural consultant,Dewi Moenen-Mol,M,Bulgaars,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Advanced,98,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+"Nurse, adult",Lizzy de Vrome,M,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,24,Hoog,Gemiddeld,Slecht,Gemiddeld
+Arts administrator,Jules Honing,M,Turks,Gemiddeld,Samenwonend,Links,MBO,Hindoeïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,91,Hoog,Goed,Goed,Gemiddeld
+"Administrator, local government",Loes van Asten,M,Turks,Hoog,Alleenstaand met kinderen,Links,VMBO,Anders,Gescheiden,Fulltime,Woonboot,Advanced,50,Laag,Slecht,Gemiddeld,Gemiddeld
+Trade mark attorney,Adam van Beieren,M,Nederlands,Hoog,Samenwonend,Links,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,98,Laag,Goed,Slecht,Gemiddeld
+Police officer,Milo de Vrome,M,Turks,Laag,Samenwonend,Rechts,Basisonderwijs,Anders,Ongehuwd,Werkloos,Woonboot,Intermediate,66,Gemiddeld,Slecht,Slecht,Goed

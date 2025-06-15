@@ -1,0 +1,27 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Metallurgist,Eva van der Heyden,F,Antilliaans,Hoog,Alleenstaand,Midden,HAVO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,19,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Freight forwarder,Pleun Jansse-Lamotte,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,88,Laag,Goed,Gemiddeld,Gemiddeld
+Operational investment banker,Janne van der Velden,M,Marokkaans,Laag,Alleenstaand,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,54,Laag,Goed,Gemiddeld,Goed
+"Journalist, broadcasting",Mare de Roos-Lamore,M,Nederlands,Laag,Alleenstaand met kinderen,Links,HAVO,Joods,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,75,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Herpetologist,Norah van der Zijl,F,Indonesisch,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,31,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Patent examiner,Isa de Reede,F,Nederlands,Laag,Alleenstaand,Links,VMBO,Islamitisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Beginner,84,Laag,Gemiddeld,Slecht,Gemiddeld
+"Conservation officer, nature",Yusuf Willems,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,55,Gemiddeld,Slecht,Slecht,Gemiddeld
+Patent attorney,Maxim van de Plas,F,Chinees,Laag,Samenwonend met kinderen,Links,WO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,76,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Sub,Leon de Bock,F,Chinees,Gemiddeld,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Digibeet,23,Hoog,Slecht,Gemiddeld,Gemiddeld
+Maintenance engineer,Puk van Rooij,M,Nederlands,Hoog,Alleenstaand,Links,HAVO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Expert,34,Gemiddeld,Slecht,Gemiddeld,Slecht
+IT trainer,Puck Hoogers,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,47,Laag,Goed,Slecht,Goed
+Brewing technologist,Puk van Leeuwen,F,Antilliaans,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Islamitisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Advanced,92,Hoog,Slecht,Slecht,Goed
+Civil Service administrator,Pien van Engeland-Erhout,M,Indiaas,Laag,Samenwonend,Midden,HBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,88,Hoog,Gemiddeld,Slecht,Gemiddeld
+Economist,Fleur Hofman,M,Indiaas,Gemiddeld,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,36,Laag,Gemiddeld,Gemiddeld,Slecht
+"Librarian, public",Adriana Bruggeman-Veenstra,M,Marokkaans,Laag,Samenwonend,Rechts,VMBO,Joods,Gehuwd,Parttime,Twee-onder-een-kap,Advanced,69,Gemiddeld,Slecht,Goed,Slecht
+"Scientist, research (medical)",Luuk Duivenvoorden,F,Italiaans,Hoog,Samenwonend,Rechts,VMBO,Atheïstisch,Ongehuwd,Student,Appartement,Advanced,90,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Social worker,Jens van Ooste,M,Chinees,Laag,Alleenstaand,Links,HAVO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,90,Laag,Gemiddeld,Gemiddeld,Goed
+Social worker,Ceylin Marchal,M,Turks,Hoog,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,21,Gemiddeld,Gemiddeld,Goed,Goed
+Mudlogger,Hamza van Ochten,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,70,Laag,Slecht,Gemiddeld,Gemiddeld
+Ergonomist,Damian Puig,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Twee-onder-een-kap,Advanced,75,Gemiddeld,Goed,Slecht,Gemiddeld
+Graphic designer,Ize Spruit,F,Antilliaans,Laag,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,98,Hoog,Gemiddeld,Gemiddeld,Goed
+"Editor, commissioning",Maxim Huel-van der Meer,F,Syrisch,Laag,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,30,Laag,Slecht,Goed,Gemiddeld
+Paramedic,Myrthe Rubben,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Atheïstisch,Weduwe/Weduwnaar,Werkloos,Rijtjeshuis,Expert,78,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Make,Evie Belpere,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Beginner,84,Hoog,Gemiddeld,Gemiddeld,Slecht
+"Engineer, automotive",Adriana Oemencs,M,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,28,Laag,Slecht,Slecht,Goed
+Mechanical engineer,Nick van Wessex,F,Nederlands,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,78,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

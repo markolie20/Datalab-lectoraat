@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Restaurant manager,Norah van Veen-Bruynzeels,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Digibeet,21,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Oceanographer,Joris Friehus,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Appartement,Intermediate,48,Hoog,Goed,Goed,Slecht
+"Psychologist, sport and exercise",Lynn Eerden,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Gescheiden,Zelfstandig,Rijtjeshuis,Expert,85,Gemiddeld,Goed,Goed,Goed
+Sales promotion account executive,Dean van Noort,F,Irakees,Hoog,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Studio,Intermediate,68,Laag,Gemiddeld,Gemiddeld,Goed
+Learning disability nurse,Suze Smit,M,Pools,Gemiddeld,Alleenstaand,Links,HAVO,Hindoeïstisch,Gehuwd,Zelfstandig,Appartement,Beginner,76,Hoog,Gemiddeld,Gemiddeld,Slecht
+Psychiatric nurse,Juul van der Velde,M,Portugees,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Gehuwd,Student,Appartement,Advanced,42,Laag,Slecht,Gemiddeld,Gemiddeld
+Soil scientist,Lena Scholten,F,Chinees,Laag,Samenwonend met kinderen,Midden,HBO,Islamitisch,Gescheiden,Parttime,Appartement,Digibeet,82,Hoog,Slecht,Slecht,Goed
+"Therapist, occupational",Dean Verda,F,Marokkaans,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,48,Hoog,Goed,Goed,Goed
+Therapeutic radiographer,Mika Serra,M,Afghaans,Hoog,Samenwonend met kinderen,Midden,MBO,Joods,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,82,Laag,Slecht,Gemiddeld,Goed
+Commissioning editor,Brian Elberts-Lieshout,F,Chinees,Gemiddeld,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Expert,95,Laag,Slecht,Slecht,Slecht
+Hotel manager,Hugo Broek,M,Italiaans,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Studio,Beginner,72,Gemiddeld,Slecht,Goed,Goed

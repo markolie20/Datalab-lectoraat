@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Community development worker,Lucy van Veen,M,Antilliaans,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,63,Gemiddeld,Gemiddeld,Goed,Goed
+Science writer,Riley Adriaense,F,Surinaams,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,20,Laag,Goed,Goed,Gemiddeld
+Environmental health practitioner,Stef Boogaerts,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Vrijstaand,Expert,75,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Special educational needs teacher,Ali van den Velde,M,Italiaans,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,40,Laag,Gemiddeld,Slecht,Goed
+"Surveyor, commercial/residential",Tara Oennen,M,Somalisch,Laag,Alleenstaand,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Appartement,Intermediate,22,Laag,Goed,Gemiddeld,Gemiddeld
+"Engineer, site",Selena Dirven,F,Antilliaans,Laag,Samenwonend,Links,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,25,Laag,Slecht,Goed,Gemiddeld
+"Optician, dispensing",Maja le Guellec-Brisee,F,Turks,Laag,Alleenstaand,Rechts,Basisonderwijs,Anders,Ongehuwd,Parttime,Appartement,Beginner,85,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Actor,Megan van de Water,F,Nederlands,Hoog,Alleenstaand,Links,HAVO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Advanced,95,Gemiddeld,Goed,Goed,Gemiddeld
+Horticultural therapist,Valerie Oda,F,Turks,Hoog,Samenwonend,Links,VWO,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Intermediate,29,Hoog,Slecht,Gemiddeld,Slecht
+Automotive engineer,Pippa Corstiaens,M,Surinaams,Laag,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,66,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Technical author,Maja van Mispelen,F,Pools,Laag,Samenwonend,Links,MBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Expert,70,Hoog,Goed,Slecht,Gemiddeld
+Prison officer,Sofia van den Nuwenhuijzen-Hendriks,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,VWO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,57,Gemiddeld,Goed,Goed,Slecht
+Hotel manager,Charlotte Postma-Schilt,M,Duits,Hoog,Samenwonend,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Advanced,80,Laag,Gemiddeld,Slecht,Goed
+Veterinary surgeon,Aya Smits,F,Indiaas,Laag,Samenwonend,Rechts,HAVO,Islamitisch,Gescheiden,Student,Rijtjeshuis,Advanced,34,Laag,Gemiddeld,Slecht,Goed

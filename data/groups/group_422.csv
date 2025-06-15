@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Adult guidance worker,Job Heijman-Ehlert,M,Indiaas,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Appartement,Digibeet,65,Gemiddeld,Gemiddeld,Goed,Goed
+Secretary/administrator,Zoë van Vermandois-Kleybrink,M,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,82,Hoog,Goed,Gemiddeld,Goed
+Media buyer,Elif van Heusden,F,Turks,Laag,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Appartement,Intermediate,40,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Education officer, museum",Bente de Backer,M,Turks,Hoog,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,88,Hoog,Slecht,Slecht,Gemiddeld
+Environmental health practitioner,Wesley Aschman,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,23,Laag,Goed,Gemiddeld,Slecht
+General practice doctor,Jenna Lambregt-van Alenburg,M,Pools,Gemiddeld,Alleenstaand,Midden,VWO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Expert,49,Gemiddeld,Goed,Gemiddeld,Goed
+Statistician,Dirk Slingerland,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,97,Laag,Gemiddeld,Goed,Gemiddeld
+Tree surgeon,Tijmen Govarts-Steenbakkers,M,Roemeens,Laag,Samenwonend,Links,MBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,79,Laag,Gemiddeld,Goed,Gemiddeld
+Musician,Fleur van Maaren,F,Turks,Laag,Alleenstaand met kinderen,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,79,Laag,Goed,Goed,Gemiddeld
+Warden/ranger,Tristan Vos,F,Eritrees,Hoog,Alleenstaand met kinderen,Midden,VWO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,31,Laag,Goed,Gemiddeld,Gemiddeld
+"Pharmacist, hospital",Robin van der Laar,M,Pools,Laag,Samenwonend,Rechts,WO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Appartement,Advanced,35,Gemiddeld,Goed,Slecht,Slecht
+"Scientist, research (physical sciences)",Carlijn van Parijs-Wendt,F,Bulgaars,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,61,Laag,Gemiddeld,Slecht,Slecht

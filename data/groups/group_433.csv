@@ -1,0 +1,34 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Research scientist (physical sciences),Liam Perck,M,Turks,Gemiddeld,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,81,Laag,Slecht,Goed,Goed
+"Engineer, building services",Ise van 't Erve,M,Irakees,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,21,Hoog,Gemiddeld,Goed,Goed
+"Engineer, civil (consulting)",Loes Galijn,F,Nederlands,Gemiddeld,Samenwonend,Rechts,VMBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,96,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Video editor,Brent Ramaker,F,Chinees,Hoog,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,44,Laag,Gemiddeld,Slecht,Goed
+Building control surveyor,Hailey van Maasgouw,M,Irakees,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Student,Rijtjeshuis,Beginner,25,Laag,Goed,Gemiddeld,Gemiddeld
+Aid worker,Cornelia van Rooij,F,Portugees,Laag,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,62,Laag,Gemiddeld,Gemiddeld,Goed
+Telecommunications researcher,Mads Rietveld-Mosley,F,Nederlands,Laag,Samenwonend,Midden,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,47,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Building surveyor,Jason Pastoors-Leguit,M,Antilliaans,Gemiddeld,Alleenstaand,Rechts,Basisonderwijs,Hindoeïstisch,Gehuwd,Zelfstandig,Studio,Beginner,61,Laag,Goed,Gemiddeld,Gemiddeld
+"Psychologist, occupational",Simon van der Pol,F,Syrisch,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,26,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Intelligence analyst,Daphne Koster,M,Marokkaans,Laag,Samenwonend met kinderen,Midden,Basisonderwijs,Joods,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,19,Gemiddeld,Slecht,Gemiddeld,Goed
+Magazine features editor,Femke Boogaerts,M,Roemeens,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Atheïstisch,Gescheiden,Fulltime,Vrijstaand,Advanced,94,Laag,Slecht,Gemiddeld,Gemiddeld
+"Psychologist, prison and probation services",Lotte Miltenburg-Kramer,M,Nederlands,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,73,Gemiddeld,Gemiddeld,Slecht,Slecht
+Multimedia programmer,Kayleigh Mijsberg,F,Somalisch,Laag,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Digibeet,43,Laag,Gemiddeld,Gemiddeld,Goed
+Cartographer,Selina Mulder-Fremie,M,Surinaams,Hoog,Samenwonend met kinderen,Midden,HBO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Expert,53,Laag,Gemiddeld,Slecht,Gemiddeld
+Police officer,Hamza Geerling,F,Chinees,Laag,Samenwonend met kinderen,Rechts,WO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,90,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Scientist, research (medical)",Noor Groenendaal,F,Irakees,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Digibeet,62,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Careers adviser,Veerle Opmans-Moenen,F,Indiaas,Gemiddeld,Alleenstaand,Links,VMBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Intermediate,64,Laag,Goed,Gemiddeld,Goed
+"Engineer, biomedical",Jip van Roijen-van den Velde,F,Turks,Laag,Alleenstaand,Midden,VWO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Expert,22,Laag,Gemiddeld,Goed,Slecht
+Pathologist,Nienke Langevoort,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Gehuwd,Zelfstandig,Vrijstaand,Digibeet,66,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Forensic scientist,Tess Strik-van Dongen,M,Surinaams,Laag,Alleenstaand met kinderen,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,35,Laag,Gemiddeld,Slecht,Slecht
+Retail merchandiser,Mara Gemen,M,Turks,Hoog,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,96,Hoog,Gemiddeld,Goed,Slecht
+Careers information officer,Eline le Floch,M,Somalisch,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,98,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Production manager,Mette Texier-Vos,F,Turks,Gemiddeld,Samenwonend,Links,Basisonderwijs,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,66,Laag,Goed,Gemiddeld,Goed
+"Scientist, water quality",Jort de Bruijn,F,Pools,Laag,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Beginner,88,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Artist,Evie van de Weterink,F,Surinaams,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,99,Hoog,Gemiddeld,Slecht,Gemiddeld
+Press sub,Maaike Godfrey van Alemannië,M,Afghaans,Gemiddeld,Alleenstaand,Links,MBO,Joods,Gehuwd,Zelfstandig,Vrijstaand,Beginner,89,Laag,Goed,Goed,Goed
+"Teacher, primary school",Victoria Dirksen-Remmers,F,Duits,Laag,Samenwonend,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,61,Laag,Slecht,Gemiddeld,Gemiddeld
+Pharmacologist,Hugo van der Veen,F,Pools,Gemiddeld,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Fulltime,Woonboot,Digibeet,61,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Accounting technician,Ella van der Avoirt,M,Chinees,Hoog,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Digibeet,23,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Applications developer,Anouk Grondel-Le Marec,M,Antilliaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Gepensioneerd,Vrijstaand,Beginner,56,Laag,Goed,Gemiddeld,Gemiddeld
+Information systems manager,Bryan Totwiller,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,38,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Development worker, international aid",Julius Butselaar,F,Indonesisch,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,90,Hoog,Slecht,Gemiddeld,Slecht
+Historic buildings inspector/conservation officer,Hendrik Oosterhek,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,WO,Anders,Ongehuwd,Fulltime,Appartement,Expert,29,Laag,Goed,Gemiddeld,Slecht

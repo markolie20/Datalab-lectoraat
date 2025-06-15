@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Early years teacher,Johannes Estey,M,Indiaas,Laag,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,41,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Manufacturing systems engineer,Maria Gervais,F,Bulgaars,Hoog,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,82,Hoog,Gemiddeld,Goed,Gemiddeld
+Education administrator,Joëlle Volcke,F,Pools,Laag,Samenwonend met kinderen,Rechts,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,65,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Dentist,Mia Rijcken,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Gehuwd,Student,Rijtjeshuis,Advanced,84,Gemiddeld,Gemiddeld,Goed,Goed
+"Editor, commissioning",Duuk Lambregt,M,Duits,Gemiddeld,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Student,Vrijstaand,Intermediate,90,Laag,Slecht,Slecht,Gemiddeld
+Medical technical officer,Muhammed Schuurmans,F,Bulgaars,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gescheiden,Student,Appartement,Beginner,73,Laag,Gemiddeld,Gemiddeld,Goed
+"Surveyor, land/geomatics",Gijs Doesburg,F,Pools,Laag,Samenwonend met kinderen,Links,VMBO,Joods,Gehuwd,Parttime,Appartement,Beginner,97,Laag,Goed,Gemiddeld,Slecht
+Retail banker,Maud Maas,M,Nederlands,Gemiddeld,Samenwonend,Rechts,VWO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Advanced,57,Hoog,Gemiddeld,Gemiddeld,Goed
+"Administrator, local government",Jort de Roos-de Wit,F,Somalisch,Gemiddeld,Alleenstaand,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Beginner,81,Gemiddeld,Gemiddeld,Goed,Slecht
+"Lecturer, higher education",Fay Zijlmans,M,Syrisch,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,24,Hoog,Gemiddeld,Gemiddeld,Slecht

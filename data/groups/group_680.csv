@@ -1,0 +1,13 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Therapist, sports",Bastiaan Van Bragt,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Islamitisch,Gescheiden,Parttime,Vrijstaand,Beginner,39,Laag,Gemiddeld,Gemiddeld,Slecht
+Building surveyor,Alyssa van de Brink-Elberts,F,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,61,Laag,Goed,Gemiddeld,Slecht
+Charity officer,Berat van der Pol,F,Chinees,Hoog,Alleenstaand met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Werkloos,Appartement,Beginner,32,Gemiddeld,Goed,Slecht,Gemiddeld
+Geophysicist/field seismologist,Sam de Jonge,M,Marokkaans,Laag,Samenwonend,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Advanced,30,Hoog,Goed,Goed,Slecht
+Psychiatrist,Joëlle Martens-Kuipers,F,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,VWO,Anders,Ongehuwd,Zelfstandig,Studio,Intermediate,29,Hoog,Goed,Goed,Gemiddeld
+Estate agent,Victoria de Gruil,M,Roemeens,Gemiddeld,Samenwonend met kinderen,Links,WO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Advanced,31,Laag,Slecht,Gemiddeld,Goed
+Sports development officer,Dion Sprong-Blaak,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Vrijstaand,Intermediate,81,Hoog,Slecht,Gemiddeld,Gemiddeld
+Architectural technologist,Benthe Spruyt,M,Indiaas,Laag,Samenwonend,Links,MBO,Islamitisch,Gescheiden,Werkloos,Rijtjeshuis,Expert,80,Laag,Gemiddeld,Goed,Slecht
+Economist,Elize Bastiaanse-Butselaar,M,Bulgaars,Gemiddeld,Alleenstaand,Rechts,HAVO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,63,Hoog,Goed,Goed,Goed
+Press photographer,Fleur Wouters,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Gescheiden,Student,Appartement,Expert,93,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Technical author,Senna Vermeulen,M,Spaans,Gemiddeld,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,19,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Marketing executive,Yinthe van Geenen,M,Nederlands,Hoog,Samenwonend,Links,HAVO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,20,Laag,Gemiddeld,Goed,Goed

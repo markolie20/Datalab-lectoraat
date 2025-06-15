@@ -1,0 +1,22 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Senior tax professional/tax inspector,Luc van Mook-Tammerijn,F,Nederlands,Gemiddeld,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,44,Laag,Goed,Goed,Gemiddeld
+"Engineer, electrical",Mohammed van der Linden,M,Marokkaans,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Student,Vrijstaand,Digibeet,42,Laag,Slecht,Slecht,Gemiddeld
+"Embryologist, clinical",Jaylinn van Bovene,F,Nederlands,Laag,Alleenstaand,Links,Basisonderwijs,Anders,Gehuwd,Werkloos,Rijtjeshuis,Expert,62,Laag,Gemiddeld,Gemiddeld,Goed
+Chiropractor,Lena van Mook-Dubois,M,Nederlands,Laag,Alleenstaand,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Gepensioneerd,Appartement,Beginner,71,Laag,Gemiddeld,Gemiddeld,Slecht
+"Social research officer, government",Maartje van Dongen,M,Pools,Laag,Alleenstaand,Links,HBO,Islamitisch,Gescheiden,Fulltime,Appartement,Advanced,48,Gemiddeld,Gemiddeld,Slecht,Slecht
+Product/process development scientist,Lizz Melet,M,Afghaans,Hoog,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gescheiden,Parttime,Vrijstaand,Intermediate,33,Gemiddeld,Gemiddeld,Slecht,Slecht
+Senior tax professional/tax inspector,Joep Elsenaar,F,Afghaans,Laag,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,45,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Scientist, physiological",Lieve Coolen,M,Indiaas,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Atheïstisch,Gehuwd,Zelfstandig,Vrijstaand,Intermediate,51,Laag,Gemiddeld,Goed,Gemiddeld
+"Editor, film/video",Colin van Hemert,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Fulltime,Vrijstaand,Intermediate,62,Gemiddeld,Gemiddeld,Slecht,Goed
+Media planner,Beau Martel,M,Duits,Laag,Alleenstaand,Links,VWO,Atheïstisch,Gehuwd,Fulltime,Woonboot,Intermediate,85,Laag,Gemiddeld,Goed,Gemiddeld
+"Therapist, speech and language",Daan Hendriks,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,WO,Anders,Gehuwd,Zelfstandig,Appartement,Expert,76,Laag,Gemiddeld,Gemiddeld,Goed
+Chiropodist,Sander Gruijl-Wolters,F,Nederlands,Laag,Alleenstaand,Links,HBO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,63,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Product/process development scientist,Amber Dirven,F,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Appartement,Advanced,72,Hoog,Gemiddeld,Gemiddeld,Goed
+"Sales professional, IT",Fleur Vallenduuk-Dircken,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,36,Gemiddeld,Slecht,Slecht,Gemiddeld
+Lobbyist,Janne de Jong-Leguit,M,Turks,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,78,Laag,Goed,Slecht,Gemiddeld
+Pathologist,Maurits Woudenberg,F,Roemeens,Laag,Alleenstaand met kinderen,Links,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Intermediate,79,Laag,Slecht,Slecht,Slecht
+Systems developer,James Nieuwstraten-van Dam,F,Turks,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,79,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Volunteer coordinator,Michelle van Stralen-Slagmolen,M,Nederlands,Laag,Samenwonend,Rechts,HBO,Islamitisch,Gescheiden,Fulltime,Appartement,Advanced,48,Laag,Gemiddeld,Goed,Goed
+Catering manager,Lisa Phillipsen-Scholten,F,Somalisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,79,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Fish farm manager,Luca Wunderink,F,Duits,Laag,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,46,Laag,Goed,Gemiddeld,Gemiddeld
+Claims inspector/assessor,Ben Vierdag,M,Turks,Laag,Alleenstaand,Links,VWO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,42,Laag,Goed,Goed,Slecht

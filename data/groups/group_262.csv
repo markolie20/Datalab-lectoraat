@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Lecturer, further education",Indy Kathagen,M,Pools,Laag,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Beginner,49,Gemiddeld,Goed,Slecht,Slecht
+Secretary/administrator,Hamza Texier-van Grondelle,M,Duits,Gemiddeld,Samenwonend,Rechts,MBO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,84,Laag,Slecht,Gemiddeld,Goed
+Sports development officer,Ivy Scuylenborchs,M,Nederlands,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,27,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Passenger transport manager,Jet Uittenbosch,M,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,51,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Runner, broadcasting/film/video",Naomi Weylant,F,Turks,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Intermediate,69,Laag,Goed,Gemiddeld,Gemiddeld
+Radio producer,Dani Groenestein,M,Antilliaans,Laag,Samenwonend,Links,VMBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Advanced,87,Laag,Gemiddeld,Slecht,Gemiddeld
+"Solicitor, Scotland",Liam Haselaar-van Opper-Lotharingen,F,Turks,Hoog,Alleenstaand met kinderen,Midden,HAVO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,24,Gemiddeld,Goed,Goed,Gemiddeld
+Associate Professor,Aaron Paillet-Ooms,M,Indiaas,Laag,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,87,Laag,Gemiddeld,Goed,Gemiddeld
+Haematologist,Brian Helmerhorst,M,Nederlands,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Student,Appartement,Advanced,87,Laag,Gemiddeld,Slecht,Slecht
+Geophysicist/field seismologist,Merel 's Gravensande,F,Marokkaans,Laag,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,72,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Quality manager,Hugo Meijer,F,Roemeens,Laag,Samenwonend,Rechts,WO,Islamitisch,Gehuwd,Parttime,Appartement,Beginner,67,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Jari Pieters,M,Italiaans,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Gehuwd,Student,Appartement,Intermediate,90,Laag,Gemiddeld,Gemiddeld,Goed
+Metallurgist,Evelien van Hulten-van Gent,F,Chinees,Hoog,Alleenstaand,Midden,VMBO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,94,Gemiddeld,Slecht,Slecht,Goed

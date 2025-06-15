@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Nature conservation officer,Myrthe van Westfalen-van der Klein,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Advanced,43,Laag,Gemiddeld,Slecht,Goed
+Health service manager,Fiene Ramaker,F,Afghaans,Hoog,Samenwonend met kinderen,Rechts,VMBO,Joods,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,30,Laag,Gemiddeld,Slecht,Gemiddeld
+Meteorologist,Stefan Versluijs,M,Indiaas,Laag,Alleenstaand,Rechts,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,82,Gemiddeld,Gemiddeld,Goed,Slecht
+"Exhibitions officer, museum/gallery",Olaf Totwiller,M,Nederlands,Hoog,Samenwonend met kinderen,Links,WO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Expert,25,Laag,Gemiddeld,Gemiddeld,Slecht
+Charity officer,Selena Otte,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,27,Laag,Gemiddeld,Goed,Gemiddeld
+"Lighting technician, broadcasting/film/video",Samuel Coret,F,Bulgaars,Laag,Samenwonend,Links,MBO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,45,Hoog,Gemiddeld,Slecht,Gemiddeld
+Best boy,Sophie Slingerland-Spaan,F,Turks,Laag,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Zelfstandig,Appartement,Beginner,60,Hoog,Gemiddeld,Goed,Gemiddeld
+"Nurse, children's",Finn Wouters van Eijndhoven,F,Chinees,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,91,Laag,Goed,Gemiddeld,Slecht
+Agricultural consultant,Juliette Ooms,F,Surinaams,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Weduwe/Weduwnaar,Student,Appartement,Expert,59,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Patent attorney,Siem Höning,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,MBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,84,Laag,Goed,Gemiddeld,Slecht

@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Podiatrist,Liza Bosch,F,Nederlands,Laag,Samenwonend,Rechts,WO,Anders,Ongehuwd,Student,Rijtjeshuis,Beginner,23,Laag,Slecht,Gemiddeld,Goed
+Press sub,Norah Spruyt-Ouwel,M,Turks,Laag,Samenwonend met kinderen,Midden,MBO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,75,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Investment banker, operational",Pippa Willemsen,F,Nederlands,Hoog,Samenwonend,Midden,HBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,74,Laag,Gemiddeld,Goed,Goed
+Intelligence analyst,Renske van der Laan,F,Spaans,Hoog,Alleenstaand,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,21,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Adult nurse,Jade Rutten,M,Surinaams,Laag,Samenwonend,Midden,HAVO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,64,Gemiddeld,Goed,Gemiddeld,Goed
+Soil scientist,Niek Wutke-Peeters,M,Surinaams,Laag,Samenwonend,Rechts,WO,Boeddhistisch,Gehuwd,Gepensioneerd,Vrijstaand,Advanced,91,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Community development worker,Sam Hulskes,F,Marokkaans,Gemiddeld,Samenwonend,Midden,Basisonderwijs,Christelijk,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,78,Laag,Gemiddeld,Gemiddeld,Goed
+Furniture conservator/restorer,Lena Lutterveld,F,Nederlands,Laag,Alleenstaand,Midden,WO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,93,Hoog,Slecht,Gemiddeld,Gemiddeld
+Materials engineer,Marinus Velderman,F,Turks,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,44,Laag,Slecht,Gemiddeld,Goed
+Fast food restaurant manager,Lenn Becht,M,Marokkaans,Hoog,Samenwonend,Links,VMBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,22,Hoog,Slecht,Gemiddeld,Slecht
+Copy,Duuk Meis,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VWO,Atheïstisch,Weduwe/Weduwnaar,Zelfstandig,Rijtjeshuis,Advanced,79,Laag,Slecht,Gemiddeld,Slecht

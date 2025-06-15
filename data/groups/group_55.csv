@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Biochemist, clinical",Elisabeth van Verdun-Kleijse,M,Duits,Laag,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Digibeet,68,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Community education officer,Tyler Kruns,F,Chinees,Hoog,Samenwonend,Links,MBO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,62,Laag,Gemiddeld,Goed,Gemiddeld
+Charity officer,Aimée Gerritse,M,Roemeens,Laag,Samenwonend,Midden,VMBO,Christelijk,Gescheiden,Parttime,Appartement,Intermediate,30,Laag,Gemiddeld,Gemiddeld,Slecht
+Aeronautical engineer,Tirza van Formbach,M,Irakees,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gescheiden,Parttime,Woonboot,Advanced,33,Laag,Goed,Goed,Gemiddeld
+Aeronautical engineer,Melle Lathrope-van Dam,M,Bulgaars,Laag,Alleenstaand met kinderen,Links,WO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,72,Hoog,Slecht,Gemiddeld,Goed
+Claims inspector/assessor,Pieter Pons,F,Nederlands,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Gehuwd,Werkloos,Twee-onder-een-kap,Advanced,86,Gemiddeld,Goed,Goed,Gemiddeld
+Manufacturing systems engineer,Julie Hulst,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Anders,Ongehuwd,Zelfstandig,Woonboot,Intermediate,61,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Risk analyst,Alex Winters,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Ongehuwd,Fulltime,Studio,Intermediate,54,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Sales professional, IT",David van Mook,F,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,79,Laag,Gemiddeld,Gemiddeld,Slecht
+Paediatric nurse,Wout Stinis,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Anders,Gehuwd,Student,Rijtjeshuis,Intermediate,49,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Engineer, biomedical",Ize Moensendijk,M,Indonesisch,Hoog,Samenwonend met kinderen,Midden,VMBO,Boeddhistisch,Weduwe/Weduwnaar,Fulltime,Appartement,Advanced,24,Laag,Goed,Slecht,Gemiddeld

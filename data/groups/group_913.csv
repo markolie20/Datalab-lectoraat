@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Soil scientist,Johannes Scherms-van Gelder,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,MBO,Anders,Ongehuwd,Parttime,Appartement,Expert,40,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, graphic",Joshua Jansen-Tirie,F,Nederlands,Hoog,Alleenstaand met kinderen,Links,MBO,Atheïstisch,Gehuwd,Student,Appartement,Beginner,88,Laag,Gemiddeld,Goed,Gemiddeld
+Secondary school teacher,Dion Hulst-Verboom,M,Afghaans,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,61,Laag,Goed,Gemiddeld,Slecht
+"Surveyor, rural practice",Luka van Clootwijck,F,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,91,Laag,Gemiddeld,Slecht,Goed
+"Doctor, general practice",Jack Reijers,M,Duits,Hoog,Alleenstaand,Midden,HBO,Boeddhistisch,Gescheiden,Student,Rijtjeshuis,Intermediate,45,Laag,Gemiddeld,Slecht,Goed
+Herbalist,Linde Verhaar-Marchal,M,Marokkaans,Gemiddeld,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,51,Hoog,Slecht,Goed,Gemiddeld
+Stage manager,Fabian Schellekens,M,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,WO,Atheïstisch,Gehuwd,Werkloos,Appartement,Advanced,43,Laag,Goed,Gemiddeld,Goed
+Therapeutic radiographer,Naud Tammerijn,M,Nederlands,Laag,Samenwonend,Rechts,HAVO,Anders,Ongehuwd,Parttime,Appartement,Digibeet,36,Hoog,Gemiddeld,Gemiddeld,Goed
+"Engineer, civil (contracting)",Naud de Keijser,F,Antilliaans,Gemiddeld,Samenwonend met kinderen,Rechts,WO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,73,Laag,Goed,Goed,Goed
+IT consultant,Kyano le Guellec,M,Roemeens,Laag,Alleenstaand met kinderen,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Appartement,Beginner,61,Laag,Slecht,Gemiddeld,Gemiddeld

@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Fast food restaurant manager,Kyara Kleybrink,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Biomedical scientist,Elize Levesque,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,WO,Christelijk,Gehuwd,Fulltime,Woonboot,Advanced,57,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Geoscientist,Wout van Grinsven-Veenstra,M,Irakees,Laag,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,73,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Make,Jordy Vial,F,Turks,Laag,Samenwonend,Links,MBO,Islamitisch,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,32,Laag,Goed,Slecht,Gemiddeld
+"Scientist, marine",Stef David,M,Turks,Laag,Samenwonend,Links,VWO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,68,Laag,Goed,Goed,Gemiddeld
+Purchasing manager,Dina Blom-van Beek,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Intermediate,72,Laag,Goed,Gemiddeld,Goed
+"Programmer, systems",Lot Noordijk,F,Duits,Hoog,Alleenstaand,Links,HBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,31,Hoog,Gemiddeld,Slecht,Gemiddeld
+Diagnostic radiographer,Jort van den Brink,F,Nederlands,Hoog,Alleenstaand met kinderen,Rechts,WO,Anders,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,49,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Advertising account planner,Hanna Oemencs,F,Nederlands,Hoog,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Zelfstandig,Appartement,Intermediate,80,Laag,Goed,Goed,Gemiddeld
+Art gallery manager,Kyan van Bentheim,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Anders,Ongehuwd,Fulltime,Woonboot,Beginner,29,Laag,Gemiddeld,Gemiddeld,Goed
+Therapeutic radiographer,Micha Bruggeman,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,MBO,Atheïstisch,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,47,Laag,Gemiddeld,Slecht,Gemiddeld
+Warehouse manager,Linde van de Greef-van Vliet,M,Surinaams,Laag,Samenwonend met kinderen,Midden,WO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,68,Laag,Goed,Gemiddeld,Gemiddeld
+Sports coach,Emma de Keijzer,F,Antilliaans,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Beginner,52,Laag,Slecht,Goed,Gemiddeld
+"Psychotherapist, child",Lina Roukes,F,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Gepensioneerd,Woonboot,Intermediate,65,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Lecturer, further education",Esmee Höning-Cornelissen,M,Roemeens,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Intermediate,69,Laag,Gemiddeld,Goed,Gemiddeld
+Forest/woodland manager,Boaz de Hoogh,M,Nederlands,Laag,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,72,Hoog,Gemiddeld,Slecht,Gemiddeld
+Tax adviser,Marit Broeshart,M,Nederlands,Laag,Alleenstaand,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Expert,68,Hoog,Goed,Gemiddeld,Gemiddeld
+"Sound technician, broadcasting/film/video",Tycho Levesque,M,Duits,Laag,Samenwonend,Rechts,VWO,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,49,Laag,Gemiddeld,Goed,Slecht
+Warden/ranger,Jayden Kuijpers,M,Eritrees,Gemiddeld,Alleenstaand met kinderen,Rechts,HAVO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Digibeet,90,Laag,Goed,Goed,Slecht
+Chief Marketing Officer,Lola van Nimwegen-Laffray,M,Nederlands,Laag,Alleenstaand,Links,MBO,Joods,Ongehuwd,Fulltime,Appartement,Beginner,58,Laag,Goed,Goed,Gemiddeld
+Magazine journalist,Faye Galijn-Lansink,F,Nederlands,Laag,Alleenstaand met kinderen,Links,HBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,46,Laag,Goed,Goed,Gemiddeld
+"Teacher, secondary school",Cornelis Ouwel-van Ginneke,F,Irakees,Hoog,Alleenstaand,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,30,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Nutritional therapist,Maria van der Loo,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Expert,23,Laag,Gemiddeld,Goed,Gemiddeld
+Magazine journalist,Jill Brands-Dorsman,F,Turks,Laag,Samenwonend met kinderen,Rechts,WO,Anders,Weduwe/Weduwnaar,Werkloos,Appartement,Digibeet,31,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Textile designer,Melle Persijn-Brugman,F,Indiaas,Hoog,Alleenstaand,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,32,Gemiddeld,Goed,Gemiddeld,Gemiddeld

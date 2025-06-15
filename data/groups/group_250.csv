@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Psychiatrist,Isabelle Houdijk-Heijmen,F,Eritrees,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,51,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Financial manager,Senn Pieters van der Maes,M,Surinaams,Laag,Samenwonend,Links,MBO,Anders,Gescheiden,Fulltime,Vrijstaand,Advanced,32,Laag,Goed,Goed,Gemiddeld
+Licensed conveyancer,Bilal Pratt,F,Nederlands,Laag,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,95,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Scientist, audiological",Romy Smith,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Intermediate,93,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Information officer,Lisa Kof-van Venrooy,F,Duits,Laag,Samenwonend met kinderen,Links,HBO,Islamitisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,43,Hoog,Goed,Gemiddeld,Gemiddeld
+Passenger transport manager,Pleun Terry,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Parttime,Appartement,Advanced,51,Laag,Gemiddeld,Goed,Goed
+Architect,Vince Boogaerts,M,Nederlands,Laag,Alleenstaand,Midden,MBO,Joods,Weduwe/Weduwnaar,Werkloos,Woonboot,Advanced,43,Hoog,Slecht,Slecht,Gemiddeld
+"Engineer, technical sales",Rosa van Cuijck,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,64,Hoog,Gemiddeld,Slecht,Slecht
+Firefighter,Michelle van Laon-Bierstraten,M,Syrisch,Laag,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Digibeet,33,Laag,Slecht,Goed,Gemiddeld
+"Designer, ceramics/pottery",Mads Steenbeek,M,Nederlands,Hoog,Samenwonend,Links,HAVO,Joods,Ongehuwd,Zelfstandig,Appartement,Beginner,89,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Dancer,Imran Speijer-Hoogers,M,Surinaams,Laag,Alleenstaand,Midden,HAVO,Joods,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,97,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Fitness centre manager,Emily Post,M,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Woonboot,Beginner,35,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Acupuncturist,Eline de Koning,M,Indiaas,Hoog,Samenwonend met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Expert,45,Laag,Goed,Goed,Gemiddeld

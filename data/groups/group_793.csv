@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Production manager,Niek Alpaidis,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,99,Laag,Goed,Gemiddeld,Gemiddeld
+Operational researcher,Milan Wolfswinkel,M,Bulgaars,Gemiddeld,Alleenstaand,Links,VWO,Atheïstisch,Gescheiden,Fulltime,Appartement,Beginner,59,Laag,Goed,Slecht,Gemiddeld
+Retail manager,Mirte Zeemans,F,Nederlands,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,28,Hoog,Gemiddeld,Gemiddeld,Goed
+Water quality scientist,Féline Horrocks,F,Nederlands,Laag,Samenwonend,Links,HBO,Islamitisch,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,39,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, agricultural",Nynke Speijer,F,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Islamitisch,Ongehuwd,Zelfstandig,Studio,Advanced,54,Laag,Gemiddeld,Goed,Gemiddeld
+Newspaper journalist,Joris Ramaker,M,Indonesisch,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,31,Laag,Goed,Gemiddeld,Gemiddeld
+"Embryologist, clinical",Jason die Bont,M,Italiaans,Laag,Samenwonend met kinderen,Links,HBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Expert,41,Laag,Slecht,Gemiddeld,Gemiddeld
+Equities trader,Emir Govarts,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,HAVO,Atheïstisch,Gescheiden,Fulltime,Appartement,Expert,86,Laag,Goed,Gemiddeld,Gemiddeld
+Theatre director,Yasmin Ruijs,F,Chinees,Hoog,Samenwonend,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Studio,Intermediate,28,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Producer, radio",Lola Steinmeiern,M,Spaans,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Joods,Ongehuwd,Zelfstandig,Appartement,Beginner,33,Laag,Slecht,Slecht,Goed
+Trade union research officer,Mart Jeggij,F,Syrisch,Hoog,Samenwonend,Midden,HAVO,Christelijk,Weduwe/Weduwnaar,Werkloos,Appartement,Beginner,89,Gemiddeld,Gemiddeld,Goed,Slecht
+"Administrator, sports",Britt Tammerijn,F,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Werkloos,Rijtjeshuis,Advanced,52,Laag,Goed,Slecht,Slecht
+"Psychotherapist, child",Noëlle van der Pouw,F,Nederlands,Laag,Samenwonend,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,53,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Theatre manager,Zoey The Elder,M,Indonesisch,Hoog,Samenwonend,Links,HBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Beginner,78,Hoog,Goed,Gemiddeld,Slecht
+Arts administrator,Joëlle van de Coterlet-van Vermandois,F,Nederlands,Laag,Samenwonend,Midden,VWO,Christelijk,Gescheiden,Werkloos,Twee-onder-een-kap,Beginner,82,Hoog,Goed,Goed,Goed
+Medical secretary,Giel van der Strigt,F,Duits,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Gehuwd,Parttime,Appartement,Advanced,87,Hoog,Gemiddeld,Gemiddeld,Goed
+Merchant navy officer,Thom van Egisheim,M,Italiaans,Laag,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Intermediate,59,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Applications developer,Tyler Stange-Goderts,F,Surinaams,Hoog,Alleenstaand,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,70,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial manager,Kayleigh Neuteboom,M,Nederlands,Laag,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Werkloos,Rijtjeshuis,Beginner,87,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Chartered management accountant,Lucy Dorsman-Momberg,F,Nederlands,Hoog,Alleenstaand,Rechts,WO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Digibeet,77,Laag,Gemiddeld,Gemiddeld,Goed
+Naval architect,Aya Rackham,M,Indiaas,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gescheiden,Fulltime,Vrijstaand,Advanced,93,Hoog,Gemiddeld,Goed,Gemiddeld
+Counselling psychologist,Mette van Kuijc,M,Roemeens,Gemiddeld,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,53,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Volunteer coordinator,Roan Dijkstra,M,Chinees,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Beginner,73,Hoog,Slecht,Gemiddeld,Goed
+"Surveyor, building",Adriana van der Pluijm,F,Irakees,Laag,Alleenstaand,Midden,HBO,Christelijk,Weduwe/Weduwnaar,Werkloos,Twee-onder-een-kap,Digibeet,77,Laag,Gemiddeld,Goed,Goed

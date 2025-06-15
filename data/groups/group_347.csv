@@ -1,0 +1,20 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Museum/gallery conservator,Meike Niermann,M,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Vrijstaand,Beginner,71,Laag,Goed,Slecht,Gemiddeld
+Garment/textile technologist,Lindsey van der Maath,F,Nederlands,Laag,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,81,Laag,Gemiddeld,Gemiddeld,Goed
+Herbalist,Lex de Hoog-van Rooij,F,Turks,Gemiddeld,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Beginner,81,Gemiddeld,Goed,Goed,Slecht
+"Production assistant, television",Pippa Keltenie,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Studio,Expert,39,Hoog,Slecht,Gemiddeld,Slecht
+Medical secretary,Fem Molenaar,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Parttime,Appartement,Expert,19,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Water engineer,Dewi Strijker,M,Indiaas,Laag,Alleenstaand,Links,Basisonderwijs,Islamitisch,Ongehuwd,Fulltime,Studio,Advanced,73,Laag,Gemiddeld,Slecht,Gemiddeld
+Medical physicist,Liam Simons,F,Turks,Hoog,Samenwonend,Links,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Intermediate,78,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Teacher, English as a foreign language",Sienna Coreth von und zu Coredo und Starkenberg,F,Nederlands,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Expert,94,Laag,Goed,Slecht,Gemiddeld
+English as a foreign language teacher,Bram Schipper,M,Pools,Hoog,Samenwonend,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Appartement,Advanced,18,Hoog,Slecht,Goed,Slecht
+Geophysical data processor,Puk Feltzer,M,Nederlands,Laag,Samenwonend,Midden,Basisonderwijs,Hindoeïstisch,Gehuwd,Fulltime,Appartement,Beginner,47,Laag,Goed,Gemiddeld,Gemiddeld
+Academic librarian,Jordy Alpaidis,M,Nederlands,Hoog,Samenwonend,Rechts,MBO,Atheïstisch,Ongehuwd,Werkloos,Rijtjeshuis,Expert,53,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Art gallery manager,Carlijn Mol,M,Surinaams,Laag,Alleenstaand met kinderen,Links,HBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Beginner,58,Hoog,Slecht,Gemiddeld,Gemiddeld
+Dealer,Jake van Mare,F,Nederlands,Gemiddeld,Samenwonend,Rechts,HBO,Joods,Ongehuwd,Parttime,Twee-onder-een-kap,Advanced,90,Gemiddeld,Goed,Gemiddeld,Slecht
+"Lecturer, further education",Sara van Wel,F,Afghaans,Laag,Samenwonend met kinderen,Links,MBO,Anders,Gehuwd,Student,Appartement,Digibeet,67,Gemiddeld,Slecht,Goed,Gemiddeld
+Energy manager,Amira Post,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Anders,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,36,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Technical author,Rens Boers,F,Roemeens,Laag,Samenwonend,Midden,MBO,Islamitisch,Ongehuwd,Werkloos,Woonboot,Beginner,73,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Land/geomatics surveyor,Philip Beourgeois-Zuidweg,M,Roemeens,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,99,Gemiddeld,Gemiddeld,Slecht,Goed
+Corporate treasurer,Ali de Haan,F,Surinaams,Hoog,Samenwonend met kinderen,Rechts,HAVO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,98,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Pathologist,Bente Ponci,F,Pools,Laag,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,61,Laag,Gemiddeld,Goed,Slecht

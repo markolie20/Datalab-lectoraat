@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, land",Isabel van Laon-Weijland,F,Portugees,Hoog,Alleenstaand met kinderen,Links,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,26,Hoog,Gemiddeld,Goed,Gemiddeld
+Petroleum engineer,Evie Uphus,F,Nederlands,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Expert,89,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Barrister's clerk,Mika Mathol,F,Chinees,Laag,Alleenstaand,Links,MBO,Islamitisch,Ongehuwd,Parttime,Vrijstaand,Advanced,62,Gemiddeld,Goed,Gemiddeld,Slecht
+"Copywriter, advertising",Thom Jochems-Waardeloo,F,Nederlands,Laag,Alleenstaand,Midden,VMBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,89,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, biomedical",Maxim Luboch-van der Heyden,F,Somalisch,Laag,Alleenstaand met kinderen,Rechts,MBO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Beginner,44,Hoog,Gemiddeld,Goed,Gemiddeld
+Insurance risk surveyor,Hamza van den Hoek,F,Syrisch,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Digibeet,62,Laag,Goed,Gemiddeld,Goed
+Forensic scientist,Nina Wolters,F,Nederlands,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,39,Laag,Slecht,Slecht,Gemiddeld
+"Civil engineer, consulting",Josephine Bezemer,F,Roemeens,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Woonboot,Beginner,65,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Geoscientist,Esther Zijlemans,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Beginner,83,Hoog,Gemiddeld,Gemiddeld,Goed
+Environmental manager,Aimée Brands,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Anders,Ongehuwd,Gepensioneerd,Appartement,Intermediate,80,Laag,Goed,Gemiddeld,Goed
+Materials engineer,Yassin Heinrichs,F,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Vrijstaand,Beginner,69,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Biomedical scientist,Wessel Jacobs,M,Nederlands,Gemiddeld,Samenwonend,Links,WO,Atheïstisch,Gehuwd,Gepensioneerd,Appartement,Expert,77,Laag,Slecht,Goed,Slecht
+Politician's assistant,Lynn Dirven,F,Nederlands,Gemiddeld,Alleenstaand,Rechts,VWO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,45,Gemiddeld,Gemiddeld,Goed,Slecht
+Fish farm manager,Bilal de Kok,M,Duits,Laag,Alleenstaand met kinderen,Midden,HAVO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,28,Gemiddeld,Goed,Goed,Gemiddeld
+Regulatory affairs officer,Rick van Parijs,F,Pools,Gemiddeld,Alleenstaand,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Advanced,32,Laag,Slecht,Gemiddeld,Goed
+Transport planner,Hailey van Laon,M,Roemeens,Laag,Samenwonend,Rechts,VMBO,Joods,Ongehuwd,Parttime,Rijtjeshuis,Beginner,34,Laag,Gemiddeld,Goed,Goed

@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Translator,Yusuf van den Corput,F,Syrisch,Laag,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,76,Gemiddeld,Gemiddeld,Goed,Slecht
+"Engineer, mining",Louise van der Loo-Klein,M,Portugees,Hoog,Alleenstaand,Rechts,MBO,Christelijk,Gehuwd,Parttime,Vrijstaand,Beginner,51,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Technical brewer,Senna Tins,M,Irakees,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,88,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Engineer, control and instrumentation",Jules Muller-Mathurin,M,Pools,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Advanced,99,Gemiddeld,Slecht,Goed,Slecht
+Barrister,Mila Janse,F,Antilliaans,Gemiddeld,Samenwonend,Rechts,WO,Islamitisch,Ongehuwd,Parttime,Appartement,Digibeet,75,Gemiddeld,Slecht,Gemiddeld,Goed
+Television camera operator,Myrthe Boogaerts,F,Turks,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gescheiden,Gepensioneerd,Appartement,Intermediate,26,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Forest/woodland manager,Nadine Wunderink,F,Afghaans,Laag,Samenwonend met kinderen,Rechts,Basisonderwijs,Islamitisch,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,67,Hoog,Goed,Gemiddeld,Gemiddeld
+Photographer,Elias Hendriks,M,Syrisch,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,47,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Learning mentor,Willem Spreeuw,M,Spaans,Laag,Alleenstaand,Rechts,HBO,Boeddhistisch,Gescheiden,Gepensioneerd,Twee-onder-een-kap,Advanced,54,Hoog,Slecht,Gemiddeld,Goed
+Animal technologist,Noah Perck-Zuidweg,F,Indiaas,Gemiddeld,Samenwonend met kinderen,Midden,HAVO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Expert,35,Laag,Goed,Gemiddeld,Slecht
+Higher education careers adviser,Bilal Segerszoen,F,Irakees,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Parttime,Appartement,Advanced,18,Laag,Goed,Slecht,Slecht
+Market researcher,Loek Mangel,F,Nederlands,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Studio,Advanced,26,Laag,Goed,Gemiddeld,Gemiddeld
+Archaeologist,Joy Teunissen,F,Antilliaans,Hoog,Samenwonend,Midden,HAVO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,38,Laag,Gemiddeld,Gemiddeld,Slecht
+Event organiser,Tygo Waltrade Walderade,F,Nederlands,Laag,Samenwonend,Rechts,WO,Christelijk,Ongehuwd,Werkloos,Appartement,Digibeet,59,Laag,Gemiddeld,Gemiddeld,Goed
+"Therapist, sports",Lina Westermann,M,Somalisch,Hoog,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Intermediate,41,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Radio broadcast assistant,Puk Dekker,F,Marokkaans,Hoog,Alleenstaand,Links,HAVO,Islamitisch,Ongehuwd,Student,Appartement,Expert,76,Gemiddeld,Gemiddeld,Goed,Slecht
+Chiropodist,Olivia Jacobs,M,Nederlands,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Gescheiden,Fulltime,Appartement,Digibeet,99,Hoog,Gemiddeld,Goed,Gemiddeld
+Insurance risk surveyor,Sara Totwiller,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Islamitisch,Gehuwd,Fulltime,Studio,Digibeet,83,Laag,Gemiddeld,Gemiddeld,Goed
+Materials engineer,Floortje Martens,F,Nederlands,Hoog,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Student,Vrijstaand,Beginner,50,Laag,Goed,Gemiddeld,Slecht
+Social worker,Bente Wilcken,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Gehuwd,Student,Rijtjeshuis,Intermediate,67,Laag,Gemiddeld,Goed,Gemiddeld
+Medical secretary,Jayson Billung-Kok,M,Roemeens,Laag,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,65,Hoog,Slecht,Gemiddeld,Goed
+Marketing executive,Floor Matthews,F,Chinees,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Digibeet,75,Laag,Goed,Goed,Goed
+Occupational hygienist,Bjorn Klomp Jan,M,Surinaams,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,37,Laag,Gemiddeld,Goed,Gemiddeld
+Camera operator,Ayden den Haag,M,Surinaams,Laag,Alleenstaand met kinderen,Links,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Beginner,88,Hoog,Goed,Gemiddeld,Gemiddeld
+Visual merchandiser,Wouter Stook,M,Turks,Gemiddeld,Samenwonend met kinderen,Midden,Basisonderwijs,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Advanced,51,Gemiddeld,Slecht,Gemiddeld,Goed

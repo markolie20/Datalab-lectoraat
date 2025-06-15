@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Higher education lecturer,Lynn van Breukeleveen-Vergeer,F,Portugees,Laag,Samenwonend,Midden,WO,Christelijk,Ongehuwd,Gepensioneerd,Appartement,Digibeet,56,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Producer, television/film/video",Loek van Oostendorp,M,Nederlands,Hoog,Samenwonend,Midden,MBO,Boeddhistisch,Gescheiden,Parttime,Twee-onder-een-kap,Digibeet,53,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Insurance broker,Faye van Nimwegen,F,Italiaans,Laag,Samenwonend,Rechts,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,46,Laag,Gemiddeld,Gemiddeld,Goed
+Editorial assistant,Tom Dachgelt,F,Nederlands,Laag,Samenwonend,Midden,VWO,Boeddhistisch,Gescheiden,Student,Twee-onder-een-kap,Beginner,23,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Ship broker,Laura Room,M,Nederlands,Laag,Alleenstaand,Midden,HAVO,Atheïstisch,Gescheiden,Parttime,Vrijstaand,Intermediate,72,Laag,Slecht,Gemiddeld,Slecht
+Aid worker,Koen Oude Heer-van den Nuwenhuysen,F,Indonesisch,Gemiddeld,Alleenstaand met kinderen,Midden,HBO,Christelijk,Gescheiden,Parttime,Rijtjeshuis,Beginner,24,Gemiddeld,Slecht,Gemiddeld,Goed
+Insurance account manager,Annemijn Van Bragt,M,Nederlands,Hoog,Samenwonend,Midden,VMBO,Anders,Ongehuwd,Parttime,Woonboot,Beginner,88,Laag,Slecht,Goed,Slecht
+Diagnostic radiographer,James Pison,F,Duits,Hoog,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Slecht
+Air traffic controller,Aron Oversteeg,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Joods,Gescheiden,Student,Woonboot,Intermediate,61,Laag,Goed,Gemiddeld,Slecht
+Social worker,Wessel Lagerweij,F,Irakees,Gemiddeld,Alleenstaand met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,31,Laag,Goed,Gemiddeld,Gemiddeld
+Garment/textile technologist,Mohammed van Wijk-Jansen,F,Marokkaans,Hoog,Alleenstaand met kinderen,Midden,HAVO,Anders,Ongehuwd,Student,Rijtjeshuis,Beginner,48,Laag,Gemiddeld,Goed,Goed
+Transport planner,Mia de Reede,M,Pools,Hoog,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Werkloos,Vrijstaand,Expert,36,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Financial controller,Yinthe Kuit,M,Nederlands,Laag,Samenwonend,Links,HAVO,Anders,Gehuwd,Fulltime,Studio,Beginner,51,Gemiddeld,Goed,Slecht,Goed
+Production manager,Faas van den Berg-van Loon,M,Duits,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,88,Hoog,Slecht,Gemiddeld,Goed

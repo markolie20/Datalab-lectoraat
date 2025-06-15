@@ -1,0 +1,26 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Proofreader,Quinten Romijn,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,86,Laag,Gemiddeld,Slecht,Slecht
+Quantity surveyor,Kim van der Heyden,M,Nederlands,Hoog,Alleenstaand,Links,MBO,Christelijk,Gescheiden,Werkloos,Rijtjeshuis,Digibeet,86,Hoog,Gemiddeld,Slecht,Gemiddeld
+Theme park manager,Mart Eijkelboom,M,Turks,Laag,Samenwonend,Midden,HAVO,Christelijk,Ongehuwd,Parttime,Woonboot,Advanced,98,Hoog,Slecht,Goed,Gemiddeld
+Metallurgist,Rens van den Berg,F,Spaans,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Woonboot,Advanced,43,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Fisheries officer,Wouter David-Merckx,M,Irakees,Gemiddeld,Alleenstaand met kinderen,Rechts,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,68,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Horticultural therapist,Dewi van Wijk,M,Turks,Gemiddeld,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Woonboot,Beginner,49,Hoog,Gemiddeld,Gemiddeld,Goed
+Herbalist,Renske Lamore-Breugelensis,F,Nederlands,Laag,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,39,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Manufacturing engineer,Siem Bresse,M,Afghaans,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,84,Laag,Gemiddeld,Goed,Slecht
+Primary school teacher,Luca Bronder,F,Nederlands,Gemiddeld,Alleenstaand,Midden,HAVO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,93,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Product/process development scientist,Lisanne Ligtvoet,F,Italiaans,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Beginner,70,Laag,Goed,Gemiddeld,Goed
+Trade mark attorney,Sep Rackham,F,Pools,Laag,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Intermediate,37,Hoog,Slecht,Goed,Goed
+Call centre manager,Helena Kalman,M,Somalisch,Gemiddeld,Alleenstaand,Rechts,WO,Joods,Ongehuwd,Fulltime,Studio,Beginner,51,Laag,Goed,Gemiddeld,Gemiddeld
+Waste management officer,Tess van Doorn,F,Nederlands,Laag,Alleenstaand,Midden,VWO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Advanced,57,Laag,Goed,Slecht,Gemiddeld
+Newspaper journalist,Tom Unruoch Hunerik-Bouwhuisen,F,Surinaams,Laag,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,92,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Accommodation manager,Olivier de Haan,M,Nederlands,Hoog,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Werkloos,Rijtjeshuis,Beginner,54,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Chartered public finance accountant,Romy Uphaus-van Northeim,F,Chinees,Hoog,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Parttime,Woonboot,Expert,91,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+"Designer, ceramics/pottery",Hailey van den Nuwenhuysen,M,Marokkaans,Laag,Alleenstaand,Midden,MBO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Expert,76,Laag,Goed,Gemiddeld,Gemiddeld
+Osteopath,Linde van de Weterink,M,Marokkaans,Laag,Alleenstaand met kinderen,Midden,HAVO,Boeddhistisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,39,Laag,Goed,Gemiddeld,Goed
+Printmaker,Floortje van Tours,M,Chinees,Gemiddeld,Samenwonend,Rechts,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,31,Laag,Gemiddeld,Slecht,Goed
+"Psychotherapist, dance movement",Lana van Northeim-Luster,M,Turks,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Expert,31,Laag,Slecht,Goed,Goed
+Veterinary surgeon,Joëlle van der Wal,F,Nederlands,Gemiddeld,Alleenstaand,Midden,VWO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,92,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+"Psychotherapist, dance movement",Anna Martel,M,Afghaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,34,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Eliza Grondel,F,Portugees,Laag,Samenwonend met kinderen,Midden,MBO,Atheïstisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,68,Hoog,Gemiddeld,Slecht,Slecht
+Colour technologist,Lars van den Velde,M,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,85,Laag,Gemiddeld,Gemiddeld,Goed
+Learning disability nurse,Dana Keijzer,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,Basisonderwijs,Christelijk,Gehuwd,Student,Rijtjeshuis,Digibeet,50,Laag,Gemiddeld,Goed,Gemiddeld

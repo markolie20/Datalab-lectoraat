@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Fashion designer,Tess Scheer,M,Marokkaans,Hoog,Samenwonend,Midden,VMBO,Hindoeïstisch,Ongehuwd,Fulltime,Studio,Beginner,48,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Fast food restaurant manager,Sam Brandt-Chevresson,F,Portugees,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Twee-onder-een-kap,Beginner,58,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Analytical chemist,Floortje van den Oever,M,Turks,Laag,Samenwonend met kinderen,Links,VWO,Islamitisch,Gehuwd,Zelfstandig,Vrijstaand,Advanced,62,Laag,Goed,Goed,Goed
+Meteorologist,Evi Jorlink-Fredriks,F,Indiaas,Laag,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Expert,69,Laag,Gemiddeld,Gemiddeld,Goed
+"Designer, jewellery",Jenna Ansems-Pauwels,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Hindoeïstisch,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,28,Gemiddeld,Goed,Goed,Gemiddeld
+Exhibition designer,Jim Vallenduuk,M,Surinaams,Gemiddeld,Alleenstaand,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Vrijstaand,Intermediate,47,Laag,Gemiddeld,Goed,Goed
+Colour technologist,Riley Haneberg,M,Nederlands,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Beginner,96,Laag,Gemiddeld,Goed,Goed
+Adult guidance worker,Elif Weyland,M,Surinaams,Hoog,Samenwonend,Midden,WO,Islamitisch,Gehuwd,Parttime,Vrijstaand,Expert,62,Hoog,Gemiddeld,Gemiddeld,Slecht
+Actor,Julius le Guellec,F,Bulgaars,Laag,Alleenstaand,Rechts,WO,Christelijk,Gehuwd,Student,Rijtjeshuis,Intermediate,57,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Teaching laboratory technician,Mick van Buuren,M,Somalisch,Gemiddeld,Samenwonend met kinderen,Midden,MBO,Islamitisch,Gehuwd,Werkloos,Appartement,Digibeet,28,Gemiddeld,Slecht,Gemiddeld,Slecht
+Systems developer,Lizzy van de Berg,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,WO,Anders,Gehuwd,Parttime,Rijtjeshuis,Intermediate,28,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Insurance risk surveyor,Jet van der Maes-van der Meer,F,Nederlands,Laag,Samenwonend,Links,WO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Advanced,69,Hoog,Goed,Slecht,Goed
+Location manager,Quinn Ooms,F,Nederlands,Laag,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Advanced,93,Hoog,Gemiddeld,Gemiddeld,Goed
+"Lighting technician, broadcasting/film/video",Dana Brandt-Kosten,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Christelijk,Gehuwd,Fulltime,Appartement,Beginner,70,Laag,Gemiddeld,Goed,Gemiddeld
+Lexicographer,Dean van den Velde,F,Surinaams,Laag,Samenwonend,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Studio,Digibeet,81,Laag,Goed,Gemiddeld,Goed
+Immunologist,Lex Dachgelder,M,Roemeens,Laag,Samenwonend,Midden,VMBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,92,Hoog,Gemiddeld,Goed,Gemiddeld
+Television camera operator,Thijn van Laar,M,Nederlands,Laag,Samenwonend met kinderen,Links,HBO,Christelijk,Ongehuwd,Student,Appartement,Digibeet,40,Laag,Slecht,Gemiddeld,Gemiddeld
+Commissioning editor,Lizzy Mallien,F,Turks,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,69,Laag,Gemiddeld,Slecht,Gemiddeld
+Arboriculturist,Anouk Schenk-van Vermandois,M,Surinaams,Gemiddeld,Samenwonend,Rechts,WO,Anders,Ongehuwd,Zelfstandig,Rijtjeshuis,Expert,95,Gemiddeld,Slecht,Goed,Gemiddeld
+Regulatory affairs officer,Azra Merkx,F,Nederlands,Laag,Samenwonend,Midden,MBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Intermediate,70,Hoog,Gemiddeld,Gemiddeld,Goed
+Technical author,Roan Amalrada,M,Pools,Laag,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Parttime,Appartement,Beginner,67,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Clinical biochemist,Elisa de Bruijn-Aschman,M,Nederlands,Gemiddeld,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Beginner,92,Hoog,Slecht,Slecht,Goed
+Pathologist,Lizz van de Pol,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Advanced,56,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Theme park manager,Beau van Riet,M,Nederlands,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,41,Gemiddeld,Gemiddeld,Goed,Slecht

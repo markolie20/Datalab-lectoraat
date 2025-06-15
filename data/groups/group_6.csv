@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Materials engineer,Sam van Cuijck,F,Indiaas,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gescheiden,Fulltime,Appartement,Expert,37,Laag,Gemiddeld,Goed,Gemiddeld
+Event organiser,Lenn Neuzerling,F,Chinees,Hoog,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gehuwd,Parttime,Vrijstaand,Intermediate,50,Laag,Gemiddeld,Gemiddeld,Goed
+Art gallery manager,Bram Brisee,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,MBO,Islamitisch,Ongehuwd,Zelfstandig,Appartement,Beginner,53,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Civil engineer, contracting",Cornelia van Mook,M,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Digibeet,62,Gemiddeld,Gemiddeld,Slecht,Goed
+"Restaurant manager, fast food",Roan Verhoeven,F,Spaans,Gemiddeld,Samenwonend,Links,VMBO,Anders,Ongehuwd,Werkloos,Appartement,Digibeet,95,Laag,Goed,Goed,Gemiddeld
+"Conservator, museum/gallery",Mia Tammerijn,F,Nederlands,Laag,Samenwonend met kinderen,Midden,VWO,Boeddhistisch,Gescheiden,Fulltime,Appartement,Digibeet,58,Laag,Gemiddeld,Gemiddeld,Slecht
+"Surveyor, minerals",Esmée Friehus,M,Indiaas,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Parttime,Appartement,Intermediate,21,Laag,Goed,Gemiddeld,Gemiddeld
+Local government officer,Joëlle Weijters,M,Nederlands,Laag,Alleenstaand met kinderen,Links,WO,Islamitisch,Gescheiden,Student,Woonboot,Intermediate,32,Gemiddeld,Goed,Goed,Gemiddeld
+Film/video editor,Wouter van den Eerenbeemt,M,Surinaams,Gemiddeld,Samenwonend,Rechts,VMBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Intermediate,34,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Conference centre manager,Kai van der Pol,F,Duits,Laag,Samenwonend,Links,WO,Boeddhistisch,Ongehuwd,Student,Rijtjeshuis,Beginner,56,Hoog,Goed,Gemiddeld,Slecht

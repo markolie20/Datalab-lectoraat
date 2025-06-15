@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+"Engineer, technical sales",Nienke van Wessex,M,Marokkaans,Laag,Alleenstaand,Links,HBO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Intermediate,33,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Banker,Suze van Duyvenvoorde,M,Nederlands,Laag,Samenwonend met kinderen,Links,VWO,Hindoeïstisch,Gescheiden,Fulltime,Appartement,Intermediate,91,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Agricultural consultant,Dana Hekker,F,Marokkaans,Gemiddeld,Alleenstaand,Links,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Woonboot,Intermediate,38,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Publishing copy,Helena Galijn,M,Italiaans,Laag,Alleenstaand,Links,WO,Atheïstisch,Gehuwd,Fulltime,Twee-onder-een-kap,Beginner,38,Laag,Goed,Gemiddeld,Gemiddeld
+Transport planner,Emir de Vries-Brandt,M,Marokkaans,Laag,Alleenstaand,Rechts,WO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Intermediate,78,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Scientist, research (medical)",Hailey de Werd-van der Smeede,F,Bulgaars,Gemiddeld,Alleenstaand,Rechts,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,39,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Scientist, biomedical",Amy van Buuren,M,Indonesisch,Laag,Samenwonend met kinderen,Links,VMBO,Anders,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Advanced,62,Gemiddeld,Goed,Goed,Gemiddeld
+"Production designer, theatre/television/film",Jacob Perrono-van de Plas,F,Duits,Laag,Samenwonend met kinderen,Rechts,MBO,Christelijk,Ongehuwd,Werkloos,Studio,Beginner,82,Laag,Goed,Gemiddeld,Goed
+Diagnostic radiographer,Muhammed van Voorst,M,Italiaans,Gemiddeld,Alleenstaand,Midden,VMBO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,55,Laag,Goed,Goed,Gemiddeld
+Chartered loss adjuster,Jolie Boddaugh,F,Nederlands,Hoog,Samenwonend,Rechts,WO,Anders,Gehuwd,Fulltime,Appartement,Advanced,67,Hoog,Gemiddeld,Goed,Goed
+Fine artist,Lise Lankle-van der Sloot,M,Surinaams,Gemiddeld,Samenwonend,Links,VWO,Joods,Gehuwd,Zelfstandig,Rijtjeshuis,Expert,71,Hoog,Gemiddeld,Goed,Goed
+Licensed conveyancer,Jill Hak-Schokman,F,Marokkaans,Hoog,Alleenstaand,Midden,WO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Advanced,43,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Administrator, arts",Fedde Niermann,M,Afghaans,Laag,Alleenstaand,Links,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,37,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Child psychotherapist,Tim Waltrade Walderade,M,Turks,Hoog,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,48,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Television production assistant,Wesley Coolen,F,Nederlands,Hoog,Alleenstaand,Rechts,HBO,Atheïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Digibeet,82,Laag,Goed,Gemiddeld,Goed

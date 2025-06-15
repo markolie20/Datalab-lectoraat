@@ -1,0 +1,24 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Publishing copy,Nout Bierstraten,M,Nederlands,Gemiddeld,Alleenstaand,Midden,MBO,Atheïstisch,Ongehuwd,Werkloos,Appartement,Intermediate,51,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+"Engineer, maintenance",Eva de Gruil,M,Nederlands,Laag,Samenwonend,Links,VWO,Hindoeïstisch,Ongehuwd,Student,Appartement,Advanced,84,Hoog,Goed,Gemiddeld,Goed
+Public relations officer,Joy Lorreijn,M,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Gehuwd,Zelfstandig,Vrijstaand,Beginner,92,Laag,Slecht,Gemiddeld,Gemiddeld
+Pensions consultant,Ise Nedermeijer,M,Marokkaans,Hoog,Samenwonend met kinderen,Links,VMBO,Anders,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,29,Laag,Gemiddeld,Gemiddeld,Slecht
+"Nurse, children's",Mohamed Ligtvoet,F,Indonesisch,Gemiddeld,Alleenstaand,Rechts,MBO,Islamitisch,Weduwe/Weduwnaar,Werkloos,Appartement,Beginner,79,Gemiddeld,Goed,Slecht,Slecht
+Sports development officer,Stan van Ochten,M,Nederlands,Hoog,Samenwonend,Links,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Expert,33,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Risk manager,Milou Rotteveel,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,79,Laag,Gemiddeld,Goed,Gemiddeld
+Armed forces technical officer,Fleur van den Oever,F,Indonesisch,Gemiddeld,Samenwonend,Midden,HAVO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,51,Gemiddeld,Slecht,Goed,Gemiddeld
+"Clinical scientist, histocompatibility and immunogenetics",Saar Cadefau-Vallenduuk,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Advanced,82,Laag,Goed,Gemiddeld,Goed
+Tax adviser,Imran Matthews,F,Somalisch,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,19,Hoog,Slecht,Goed,Gemiddeld
+Clinical biochemist,Mila van Rossum,F,Turks,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Boeddhistisch,Ongehuwd,Parttime,Appartement,Beginner,23,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Control and instrumentation engineer,Guusje Texier,F,Nederlands,Hoog,Samenwonend,Midden,HBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Beginner,79,Laag,Gemiddeld,Gemiddeld,Goed
+Haematologist,Zara Verhoeven,M,Portugees,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,77,Hoog,Slecht,Goed,Gemiddeld
+Museum/gallery curator,Jacob Rubben,M,Nederlands,Hoog,Samenwonend,Midden,HBO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,28,Laag,Slecht,Goed,Slecht
+Senior tax professional/tax inspector,Sil van Egisheim,M,Eritrees,Laag,Alleenstaand met kinderen,Links,HBO,Anders,Ongehuwd,Student,Rijtjeshuis,Intermediate,58,Laag,Gemiddeld,Slecht,Gemiddeld
+Cartographer,Vajèn van de Greef-Adriaense,F,Irakees,Hoog,Samenwonend,Links,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,34,Laag,Goed,Gemiddeld,Slecht
+Research scientist (life sciences),Amélie Lage-Scherms,F,Roemeens,Gemiddeld,Alleenstaand,Midden,HAVO,Anders,Gehuwd,Fulltime,Twee-onder-een-kap,Expert,83,Hoog,Goed,Gemiddeld,Slecht
+Aeronautical engineer,Amina Keijzer,M,Turks,Laag,Alleenstaand,Midden,MBO,Christelijk,Gehuwd,Parttime,Twee-onder-een-kap,Intermediate,90,Hoog,Goed,Slecht,Slecht
+Occupational hygienist,Loes Peterse,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Twee-onder-een-kap,Digibeet,68,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+IT sales professional,Fay Breugelensis,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Appartement,Beginner,25,Laag,Gemiddeld,Gemiddeld,Slecht
+"Doctor, hospital",Mads van Duivenvoorde,M,Indonesisch,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Studio,Intermediate,55,Laag,Gemiddeld,Slecht,Slecht
+Personal assistant,Jip van Jumiège,M,Nederlands,Hoog,Alleenstaand,Rechts,WO,Atheïstisch,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,46,Laag,Gemiddeld,Slecht,Gemiddeld
+Estate manager/land agent,Isabel van Emmelen,F,Chinees,Laag,Alleenstaand,Links,MBO,Boeddhistisch,Ongehuwd,Werkloos,Vrijstaand,Beginner,69,Laag,Gemiddeld,Gemiddeld,Goed

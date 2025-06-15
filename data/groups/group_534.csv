@@ -1,0 +1,25 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Museum/gallery exhibitions officer,Amber Neuteboom,F,Chinees,Laag,Alleenstaand,Links,MBO,Christelijk,Weduwe/Weduwnaar,Parttime,Vrijstaand,Advanced,76,Hoog,Slecht,Goed,Gemiddeld
+Biomedical engineer,Stefan Glasses,M,Turks,Hoog,Samenwonend,Midden,HBO,Islamitisch,Gescheiden,Parttime,Rijtjeshuis,Advanced,25,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Corporate treasurer,Victor Simonis-Janse,M,Nederlands,Laag,Alleenstaand met kinderen,Links,VWO,Islamitisch,Gehuwd,Zelfstandig,Appartement,Intermediate,75,Hoog,Gemiddeld,Goed,Goed
+"Designer, ceramics/pottery",Ella Paillet,F,Antilliaans,Laag,Alleenstaand,Midden,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,61,Laag,Slecht,Goed,Gemiddeld
+Health visitor,Romy Groenestein-van de Ven,M,Irakees,Gemiddeld,Samenwonend,Links,MBO,Islamitisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,47,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+"Scientist, research (maths)",Noor Rijn,F,Indiaas,Hoog,Samenwonend,Rechts,MBO,Christelijk,Gescheiden,Zelfstandig,Studio,Intermediate,98,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Environmental health practitioner,Rosa Texier,F,Surinaams,Laag,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,35,Hoog,Goed,Gemiddeld,Gemiddeld
+Commissioning editor,Esther Salet,M,Indonesisch,Hoog,Alleenstaand,Midden,HBO,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Intermediate,86,Hoog,Goed,Gemiddeld,Slecht
+English as a foreign language teacher,Maryam Corstiaens,F,Bulgaars,Laag,Samenwonend met kinderen,Links,HBO,Anders,Ongehuwd,Fulltime,Twee-onder-een-kap,Advanced,26,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Nature conservation officer,Juul van Nus,M,Antilliaans,Hoog,Samenwonend met kinderen,Links,VMBO,Islamitisch,Gehuwd,Fulltime,Appartement,Advanced,25,Laag,Goed,Gemiddeld,Gemiddeld
+Interior and spatial designer,Simon van de Biesenbos-Hazenveld,M,Syrisch,Laag,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Parttime,Twee-onder-een-kap,Expert,46,Laag,Gemiddeld,Goed,Slecht
+"Administrator, education",Lieke Post,M,Turks,Gemiddeld,Samenwonend,Links,WO,Anders,Weduwe/Weduwnaar,Fulltime,Vrijstaand,Intermediate,60,Laag,Gemiddeld,Gemiddeld,Slecht
+Oncologist,Linde Mathol,F,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VMBO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Beginner,24,Laag,Goed,Gemiddeld,Gemiddeld
+Chiropodist,Tom Boers,M,Pools,Hoog,Alleenstaand met kinderen,Links,WO,Christelijk,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,78,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Facilities manager,Aimée Kallen,M,Indiaas,Hoog,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,42,Laag,Slecht,Gemiddeld,Gemiddeld
+"Doctor, general practice",Jonas Miltenburg,F,Chinees,Laag,Samenwonend,Links,HBO,Christelijk,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,58,Hoog,Goed,Gemiddeld,Goed
+Customer service manager,Floortje van Clootwijck-Vermeulen,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Expert,36,Gemiddeld,Slecht,Goed,Gemiddeld
+"Therapist, music",Ravi die Pelser,M,Indiaas,Laag,Samenwonend met kinderen,Links,Basisonderwijs,Anders,Ongehuwd,Werkloos,Studio,Beginner,97,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Product/process development scientist,Nynke van der Spaendonck-Dubois,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Gehuwd,Fulltime,Rijtjeshuis,Advanced,85,Hoog,Gemiddeld,Goed,Goed
+"Surveyor, building control",Esther van Munster,M,Nederlands,Gemiddeld,Alleenstaand met kinderen,Midden,Basisonderwijs,Boeddhistisch,Gehuwd,Zelfstandig,Twee-onder-een-kap,Advanced,39,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Product designer,Yassin van Baalen,M,Bulgaars,Hoog,Samenwonend met kinderen,Links,MBO,Islamitisch,Weduwe/Weduwnaar,Parttime,Appartement,Beginner,88,Laag,Slecht,Gemiddeld,Gemiddeld
+Aeronautical engineer,Isabella van der Horst-Smits,F,Chinees,Laag,Samenwonend met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,97,Gemiddeld,Slecht,Slecht,Slecht
+Architect,Evelien Barents,M,Italiaans,Laag,Samenwonend,Rechts,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,55,Laag,Gemiddeld,Gemiddeld,Goed
+Minerals surveyor,Rick Verwoert,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Islamitisch,Ongehuwd,Student,Twee-onder-een-kap,Intermediate,88,Laag,Gemiddeld,Slecht,Gemiddeld

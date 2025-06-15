@@ -1,0 +1,12 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Food technologist,Cornelis de Graaf,M,Nederlands,Gemiddeld,Alleenstaand,Links,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Intermediate,90,Gemiddeld,Goed,Goed,Gemiddeld
+Economist,Hamza van der Ploeg,F,Irakees,Laag,Alleenstaand met kinderen,Rechts,VWO,Hindoeïstisch,Ongehuwd,Parttime,Vrijstaand,Advanced,47,Laag,Goed,Goed,Slecht
+Financial manager,Berend Huurdeman,M,Turks,Hoog,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,57,Gemiddeld,Goed,Goed,Gemiddeld
+Further education lecturer,Aiden van der Mast-van Opper-Lotharingen,M,Nederlands,Laag,Samenwonend,Links,Basisonderwijs,Christelijk,Ongehuwd,Fulltime,Woonboot,Beginner,90,Hoog,Slecht,Gemiddeld,Gemiddeld
+Sport and exercise psychologist,Amelia Haack,F,Indonesisch,Hoog,Samenwonend,Links,VMBO,Anders,Ongehuwd,Parttime,Twee-onder-een-kap,Beginner,53,Laag,Gemiddeld,Gemiddeld,Goed
+Financial planner,Kate Geertsen,M,Nederlands,Hoog,Samenwonend,Midden,HBO,Christelijk,Ongehuwd,Parttime,Appartement,Beginner,48,Hoog,Slecht,Slecht,Gemiddeld
+Further education lecturer,Ecrin van Wessex,M,Nederlands,Hoog,Samenwonend,Rechts,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Digibeet,60,Hoog,Slecht,Gemiddeld,Slecht
+"Editor, magazine features",Lukas van Jumiège,M,Nederlands,Hoog,Alleenstaand,Rechts,MBO,Anders,Weduwe/Weduwnaar,Gepensioneerd,Appartement,Digibeet,29,Laag,Slecht,Slecht,Slecht
+Building surveyor,Sjoerd Waltrade Walderade-Mens,F,Duits,Hoog,Samenwonend,Midden,WO,Atheïstisch,Gescheiden,Parttime,Rijtjeshuis,Intermediate,25,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Paramedic,James Keijser,M,Bulgaars,Gemiddeld,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,63,Hoog,Gemiddeld,Goed,Gemiddeld
+Maintenance engineer,Fay Adriaense,M,Turks,Hoog,Samenwonend,Rechts,VMBO,Christelijk,Gescheiden,Zelfstandig,Appartement,Beginner,97,Laag,Gemiddeld,Goed,Gemiddeld

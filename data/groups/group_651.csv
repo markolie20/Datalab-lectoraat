@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Public affairs consultant,Roan van den Nuwenhuijzen,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Christelijk,Ongehuwd,Zelfstandig,Appartement,Expert,48,Gemiddeld,Gemiddeld,Gemiddeld,Slecht
+Planning and development surveyor,Oscar van Laarhoven-Vignon,F,Afghaans,Gemiddeld,Alleenstaand,Midden,MBO,Islamitisch,Gescheiden,Student,Appartement,Advanced,67,Laag,Slecht,Gemiddeld,Goed
+Animator,Evy de Man,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Joods,Gehuwd,Zelfstandig,Vrijstaand,Digibeet,91,Laag,Gemiddeld,Goed,Goed
+Web designer,Rosa Claassen,M,Spaans,Gemiddeld,Alleenstaand,Links,MBO,Anders,Gehuwd,Zelfstandig,Appartement,Digibeet,75,Laag,Slecht,Gemiddeld,Goed
+Acupuncturist,Ashley Rijntjes,F,Turks,Gemiddeld,Samenwonend,Rechts,HAVO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Beginner,52,Hoog,Gemiddeld,Slecht,Goed
+"Engineer, biomedical",Lenn van Santen-Arent,M,Nederlands,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Fulltime,Appartement,Beginner,80,Laag,Goed,Gemiddeld,Slecht
+Museum/gallery exhibitions officer,Tara Jacobs,M,Pools,Laag,Samenwonend met kinderen,Midden,HAVO,Atheïstisch,Gescheiden,Werkloos,Appartement,Digibeet,34,Laag,Gemiddeld,Slecht,Gemiddeld
+"Designer, industrial/product",Amir Mulder,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,WO,Islamitisch,Ongehuwd,Student,Rijtjeshuis,Intermediate,50,Laag,Goed,Gemiddeld,Slecht
+Geoscientist,Sylvie Kronenberg,F,Nederlands,Hoog,Samenwonend,Rechts,WO,Joods,Ongehuwd,Parttime,Appartement,Digibeet,98,Laag,Gemiddeld,Gemiddeld,Goed
+Mining engineer,Floortje Smits,M,Nederlands,Laag,Samenwonend,Midden,VMBO,Anders,Gehuwd,Student,Rijtjeshuis,Expert,76,Gemiddeld,Slecht,Gemiddeld,Goed
+Armed forces operational officer,Bente Heere,F,Nederlands,Laag,Samenwonend,Rechts,MBO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Beginner,23,Laag,Goed,Gemiddeld,Slecht
+Futures trader,Madelief Zijlmans,M,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Atheïstisch,Ongehuwd,Fulltime,Vrijstaand,Digibeet,47,Hoog,Goed,Gemiddeld,Slecht
+Estate manager/land agent,Roan Waltrade Walderade-Cadefau,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Beginner,65,Laag,Goed,Goed,Goed

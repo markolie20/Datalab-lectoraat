@@ -1,0 +1,11 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Building surveyor,Beau Kwaadland-Hoes,M,Turks,Gemiddeld,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Zelfstandig,Vrijstaand,Digibeet,37,Gemiddeld,Goed,Goed,Gemiddeld
+Optometrist,Ian Kronenberg,M,Nederlands,Laag,Alleenstaand met kinderen,Midden,MBO,Islamitisch,Gehuwd,Parttime,Rijtjeshuis,Intermediate,96,Hoog,Slecht,Gemiddeld,Gemiddeld
+"Teacher, adult education",Naud de Jonge-de Jong,F,Marokkaans,Gemiddeld,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Werkloos,Appartement,Intermediate,55,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Cartographer,Ryan Mallien,M,Indonesisch,Laag,Alleenstaand met kinderen,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,87,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+"Designer, multimedia",Giel van Loon-Tirie,F,Nederlands,Gemiddeld,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Fulltime,Twee-onder-een-kap,Digibeet,22,Laag,Goed,Gemiddeld,Gemiddeld
+Retail banker,Yara Heijman,M,Turks,Hoog,Samenwonend,Midden,MBO,Atheïstisch,Gescheiden,Fulltime,Twee-onder-een-kap,Intermediate,37,Laag,Gemiddeld,Slecht,Goed
+"Editor, commissioning",Marit Nedermeijer,F,Nederlands,Laag,Alleenstaand,Rechts,HAVO,Hindoeïstisch,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,50,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Advertising art director,Lindsey Hexspoor,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,HAVO,Christelijk,Gehuwd,Zelfstandig,Twee-onder-een-kap,Expert,20,Laag,Goed,Slecht,Slecht
+"Designer, multimedia",Chloé Schrant,M,Turks,Gemiddeld,Alleenstaand,Links,VWO,Islamitisch,Gescheiden,Fulltime,Rijtjeshuis,Intermediate,99,Laag,Slecht,Gemiddeld,Goed
+Tree surgeon,Bradley Weerdenburg,M,Antilliaans,Laag,Alleenstaand,Rechts,VWO,Christelijk,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,99,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld

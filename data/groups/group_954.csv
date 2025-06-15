@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Broadcast engineer,Sterre Hoes,M,Nederlands,Laag,Samenwonend,Rechts,Basisonderwijs,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Expert,41,Gemiddeld,Goed,Gemiddeld,Goed
+Analytical chemist,Lars Reijers,F,Turks,Laag,Samenwonend met kinderen,Rechts,VMBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,33,Laag,Gemiddeld,Slecht,Slecht
+"Psychologist, counselling",Evy Totwiller,M,Surinaams,Laag,Samenwonend met kinderen,Rechts,HAVO,Hindoeïstisch,Ongehuwd,Zelfstandig,Appartement,Beginner,20,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Dancer,Merle Bekbergen,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,VMBO,Christelijk,Gescheiden,Fulltime,Woonboot,Beginner,36,Gemiddeld,Gemiddeld,Goed,Goed
+Medical sales representative,Joep Aschman,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Links,HAVO,Anders,Gehuwd,Fulltime,Studio,Beginner,32,Hoog,Slecht,Goed,Goed
+Field trials officer,Adam van der Pol,M,Italiaans,Hoog,Samenwonend met kinderen,Links,VWO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,51,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Chief Operating Officer,Elif de Bruin,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,VWO,Hindoeïstisch,Ongehuwd,Werkloos,Appartement,Beginner,29,Hoog,Gemiddeld,Slecht,Gemiddeld
+"Programme researcher, broadcasting/film/video",Felix Van Bragt-Riem,F,Turks,Hoog,Samenwonend met kinderen,Midden,WO,Islamitisch,Gescheiden,Student,Twee-onder-een-kap,Beginner,39,Laag,Gemiddeld,Goed,Gemiddeld
+Interpreter,Selina Rippey-Kamp,M,Nederlands,Laag,Alleenstaand met kinderen,Rechts,VWO,Atheïstisch,Gehuwd,Werkloos,Woonboot,Advanced,85,Hoog,Goed,Gemiddeld,Goed
+Set designer,Fatima Hellevoort-Potters,M,Nederlands,Laag,Alleenstaand,Rechts,MBO,Islamitisch,Gehuwd,Fulltime,Appartement,Intermediate,47,Laag,Gemiddeld,Slecht,Gemiddeld
+"Engineer, electrical",Azra Peters,M,Marokkaans,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Fulltime,Studio,Digibeet,83,Gemiddeld,Goed,Gemiddeld,Goed
+"Scientist, audiological",Lukas Bierstraten,M,Nederlands,Gemiddeld,Alleenstaand,Midden,VMBO,Christelijk,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,58,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, energy",Rowan van Emmelen-Peronne,F,Antilliaans,Laag,Samenwonend met kinderen,Links,WO,Islamitisch,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,25,Gemiddeld,Gemiddeld,Goed,Slecht
+Corporate treasurer,Noortje Spies,F,Pools,Laag,Samenwonend,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,56,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+"Radiographer, diagnostic",Duuk Jansen,M,Syrisch,Laag,Samenwonend met kinderen,Midden,WO,Atheïstisch,Ongehuwd,Gepensioneerd,Twee-onder-een-kap,Beginner,44,Gemiddeld,Slecht,Slecht,Gemiddeld

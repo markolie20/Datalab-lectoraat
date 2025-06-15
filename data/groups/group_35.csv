@@ -1,0 +1,17 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Conference centre manager,Sterre Gruijl,F,Turks,Laag,Alleenstaand,Links,HAVO,Joods,Gehuwd,Fulltime,Vrijstaand,Beginner,71,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Furniture designer,Tijn Texier,F,Nederlands,Gemiddeld,Alleenstaand met kinderen,Rechts,HBO,Boeddhistisch,Ongehuwd,Zelfstandig,Rijtjeshuis,Intermediate,28,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Theme park manager,Madelief Slagmolen,F,Eritrees,Hoog,Alleenstaand,Links,HBO,Islamitisch,Ongehuwd,Gepensioneerd,Vrijstaand,Intermediate,93,Gemiddeld,Slecht,Gemiddeld,Gemiddeld
+Armed forces training and education officer,Amin Verwoert-Hoedemakers,F,Nederlands,Laag,Alleenstaand met kinderen,Links,VMBO,Christelijk,Gehuwd,Student,Vrijstaand,Expert,52,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Waste management officer,Pippa Kok,F,Surinaams,Hoog,Alleenstaand,Midden,HBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,68,Laag,Gemiddeld,Goed,Goed
+Fisheries officer,Leah Aarts,F,Pools,Gemiddeld,Alleenstaand,Rechts,HAVO,Joods,Ongehuwd,Fulltime,Appartement,Beginner,88,Gemiddeld,Gemiddeld,Goed,Slecht
+Chief Executive Officer,Wessel de Swart,M,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,73,Gemiddeld,Goed,Gemiddeld,Goed
+"Programmer, multimedia",Ryan Chrodtrud,M,Nederlands,Laag,Samenwonend met kinderen,Links,HAVO,Christelijk,Ongehuwd,Student,Twee-onder-een-kap,Advanced,47,Laag,Goed,Slecht,Gemiddeld
+Chief of Staff,Sara Wagenvoort-Pastoors,M,Duits,Laag,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Intermediate,35,Gemiddeld,Goed,Goed,Goed
+Research scientist (life sciences),Nathan Holthuis-Schellekens,F,Antilliaans,Laag,Samenwonend met kinderen,Midden,HAVO,Christelijk,Gehuwd,Zelfstandig,Appartement,Beginner,76,Laag,Goed,Slecht,Gemiddeld
+Mining engineer,Roos Hendrikse-Teunissen,F,Antilliaans,Laag,Alleenstaand met kinderen,Midden,VWO,Atheïstisch,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,45,Laag,Goed,Slecht,Slecht
+Games developer,Senn van de Eerenbeemt,M,Surinaams,Laag,Samenwonend,Midden,VMBO,Christelijk,Ongehuwd,Student,Appartement,Beginner,97,Hoog,Goed,Gemiddeld,Goed
+"Nurse, learning disability",Finn van den Brand,M,Turks,Gemiddeld,Alleenstaand met kinderen,Rechts,WO,Christelijk,Ongehuwd,Student,Appartement,Advanced,64,Hoog,Goed,Goed,Gemiddeld
+Clinical biochemist,Job Doorhof,M,Bulgaars,Hoog,Alleenstaand met kinderen,Links,MBO,Hindoeïstisch,Gehuwd,Zelfstandig,Rijtjeshuis,Intermediate,65,Laag,Goed,Goed,Goed
+Insurance account manager,Imran van Velthoven,F,Surinaams,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Atheïstisch,Gehuwd,Parttime,Rijtjeshuis,Expert,65,Gemiddeld,Slecht,Slecht,Gemiddeld
+Company secretary,James de Kale,F,Pools,Laag,Alleenstaand,Midden,MBO,Islamitisch,Gehuwd,Gepensioneerd,Appartement,Intermediate,70,Laag,Slecht,Slecht,Slecht

@@ -1,0 +1,15 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Administrator,Saar van de Leemput,M,Nederlands,Laag,Samenwonend met kinderen,Rechts,VMBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,53,Laag,Slecht,Gemiddeld,Gemiddeld
+Mechanical engineer,Olivia van Ochten,F,Indiaas,Hoog,Alleenstaand,Midden,VMBO,Atheïstisch,Gehuwd,Student,Appartement,Advanced,59,Laag,Goed,Gemiddeld,Gemiddeld
+Retail merchandiser,Luc Vial-Visser,F,Turks,Laag,Samenwonend met kinderen,Links,MBO,Boeddhistisch,Ongehuwd,Werkloos,Vrijstaand,Intermediate,73,Laag,Gemiddeld,Gemiddeld,Slecht
+"Engineer, drilling",Benjamin Louws,F,Turks,Laag,Samenwonend met kinderen,Midden,HBO,Christelijk,Gehuwd,Fulltime,Appartement,Expert,42,Laag,Slecht,Gemiddeld,Slecht
+Network engineer,Jaylinn Jacquot,F,Surinaams,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Advanced,94,Laag,Slecht,Slecht,Goed
+"Engineer, structural",Amina Gerritse-van Orleans,F,Nederlands,Laag,Samenwonend,Rechts,VWO,Islamitisch,Ongehuwd,Zelfstandig,Woonboot,Expert,42,Laag,Gemiddeld,Gemiddeld,Goed
+Armed forces logistics/support/administrative officer,Rowan van Leeuwen,M,Marokkaans,Gemiddeld,Samenwonend met kinderen,Rechts,HAVO,Christelijk,Gehuwd,Parttime,Vrijstaand,Beginner,20,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Veterinary surgeon,Bastiaan Aelftrud van Wessex,F,Turks,Laag,Samenwonend,Links,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,65,Laag,Gemiddeld,Goed,Gemiddeld
+Building services engineer,Floortje Kok,F,Turks,Laag,Alleenstaand met kinderen,Midden,VMBO,Joods,Gehuwd,Fulltime,Appartement,Intermediate,38,Gemiddeld,Goed,Slecht,Gemiddeld
+"Radiographer, diagnostic",Yasmine van Gastel,M,Nederlands,Laag,Samenwonend,Rechts,VMBO,Boeddhistisch,Gescheiden,Fulltime,Rijtjeshuis,Advanced,58,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Astronomer,Meike Kas-de Strigter,M,Irakees,Hoog,Alleenstaand,Links,VMBO,Islamitisch,Gescheiden,Student,Studio,Beginner,74,Laag,Gemiddeld,Slecht,Gemiddeld
+"Producer, television/film/video",Megan van Olst,M,Nederlands,Gemiddeld,Samenwonend,Rechts,HAVO,Atheïstisch,Ongehuwd,Parttime,Rijtjeshuis,Intermediate,70,Gemiddeld,Gemiddeld,Slecht,Gemiddeld
+Geographical information systems officer,Hamza de Gratie-Risma,M,Bulgaars,Laag,Samenwonend met kinderen,Rechts,VWO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Intermediate,89,Laag,Goed,Gemiddeld,Slecht
+"Development worker, international aid",Thijn van der Meer,F,Antilliaans,Laag,Samenwonend met kinderen,Midden,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Intermediate,84,Gemiddeld,Gemiddeld,Slecht,Gemiddeld

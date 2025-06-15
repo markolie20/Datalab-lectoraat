@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Contractor,Fabiënne Hoes,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Links,MBO,Atheïstisch,Ongehuwd,Gepensioneerd,Rijtjeshuis,Digibeet,38,Laag,Goed,Gemiddeld,Gemiddeld
+Consulting civil engineer,Megan Kleybrink-Jochems,F,Duits,Hoog,Samenwonend met kinderen,Rechts,MBO,Hindoeïstisch,Gehuwd,Gepensioneerd,Studio,Expert,20,Laag,Slecht,Slecht,Gemiddeld
+Clinical cytogeneticist,Maud Meyer,F,Afghaans,Gemiddeld,Samenwonend,Rechts,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,32,Laag,Gemiddeld,Gemiddeld,Goed
+"Engineer, water",Amber Lamore,F,Eritrees,Gemiddeld,Alleenstaand met kinderen,Midden,MBO,Boeddhistisch,Gehuwd,Fulltime,Appartement,Beginner,98,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Theatre director,Gerrit van Luin,M,Somalisch,Hoog,Samenwonend met kinderen,Links,HBO,Anders,Gescheiden,Fulltime,Vrijstaand,Beginner,81,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Advertising copywriter,Jolijn Dachgelder,M,Indonesisch,Laag,Alleenstaand,Links,MBO,Joods,Gehuwd,Werkloos,Rijtjeshuis,Advanced,98,Laag,Gemiddeld,Goed,Goed
+Legal executive,Timo de Reede,F,Nederlands,Gemiddeld,Alleenstaand,Links,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Intermediate,99,Gemiddeld,Slecht,Goed,Gemiddeld
+Commercial art gallery manager,Jolijn Michielsen,F,Nederlands,Laag,Alleenstaand,Midden,VMBO,Islamitisch,Weduwe/Weduwnaar,Fulltime,Rijtjeshuis,Advanced,96,Gemiddeld,Goed,Gemiddeld,Slecht
+"Designer, blown glass/stained glass",Rafael de Bruin-van Allemanië,F,Turks,Hoog,Samenwonend met kinderen,Rechts,MBO,Anders,Ongehuwd,Fulltime,Appartement,Intermediate,91,Hoog,Goed,Goed,Goed
+Fisheries officer,Jordy Verbeek,F,Nederlands,Laag,Samenwonend,Rechts,VMBO,Christelijk,Gehuwd,Gepensioneerd,Appartement,Intermediate,91,Hoog,Gemiddeld,Gemiddeld,Slecht
+Chief Technology Officer,Max van Beeck Beeckmans,F,Antilliaans,Laag,Samenwonend,Rechts,WO,Christelijk,Gescheiden,Zelfstandig,Rijtjeshuis,Beginner,86,Laag,Goed,Slecht,Gemiddeld
+Multimedia specialist,Iris Van Bragt,M,Nederlands,Gemiddeld,Samenwonend,Midden,WO,Anders,Gehuwd,Parttime,Rijtjeshuis,Advanced,75,Laag,Gemiddeld,Goed,Slecht
+"Horticulturist, commercial",Selina Weeldenburg,F,Chinees,Laag,Alleenstaand,Midden,HBO,Joods,Ongehuwd,Werkloos,Appartement,Digibeet,80,Gemiddeld,Gemiddeld,Goed,Goed

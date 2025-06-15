@@ -1,0 +1,16 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Chiropodist,Daniël Lathrope,F,Nederlands,Hoog,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Fulltime,Studio,Advanced,30,Hoog,Gemiddeld,Gemiddeld,Slecht
+Occupational hygienist,Melissa Doornhem,M,Nederlands,Gemiddeld,Alleenstaand,Links,WO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Advanced,23,Hoog,Goed,Slecht,Slecht
+"Librarian, public",Brent Bos,M,Spaans,Laag,Alleenstaand met kinderen,Rechts,HBO,Christelijk,Gehuwd,Parttime,Rijtjeshuis,Beginner,88,Hoog,Goed,Gemiddeld,Goed
+Textile designer,Floor van Laar,F,Marokkaans,Gemiddeld,Alleenstaand met kinderen,Links,HBO,Islamitisch,Gescheiden,Gepensioneerd,Studio,Beginner,40,Laag,Goed,Gemiddeld,Slecht
+Biomedical scientist,Aylin Pratt-Strik,M,Surinaams,Gemiddeld,Samenwonend,Links,MBO,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Advanced,37,Laag,Gemiddeld,Slecht,Goed
+Insurance underwriter,Gijs van Laarhoven-Broek,F,Pools,Hoog,Alleenstaand,Rechts,VMBO,Hindoeïstisch,Weduwe/Weduwnaar,Parttime,Rijtjeshuis,Beginner,70,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+"Engineer, chemical",Mason van Boulogne,M,Pools,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,43,Laag,Gemiddeld,Gemiddeld,Gemiddeld
+Interpreter,Rick Boogaerts-van Gils,F,Indiaas,Gemiddeld,Samenwonend,Links,HBO,Hindoeïstisch,Ongehuwd,Parttime,Rijtjeshuis,Digibeet,65,Laag,Slecht,Slecht,Gemiddeld
+Research scientist (medical),Meike Groenestein,M,Indiaas,Hoog,Samenwonend,Midden,MBO,Atheïstisch,Ongehuwd,Fulltime,Appartement,Digibeet,56,Hoog,Gemiddeld,Gemiddeld,Goed
+Travel agency manager,Florian van Hostaden,F,Nederlands,Laag,Alleenstaand,Links,WO,Anders,Gescheiden,Fulltime,Rijtjeshuis,Digibeet,90,Gemiddeld,Goed,Gemiddeld,Gemiddeld
+Forensic psychologist,Tijn Wensen,M,Marokkaans,Laag,Alleenstaand,Rechts,MBO,Atheïstisch,Ongehuwd,Student,Vrijstaand,Intermediate,60,Laag,Gemiddeld,Goed,Gemiddeld
+"Teacher, early years/pre",Stijn Dircken,F,Antilliaans,Gemiddeld,Alleenstaand,Midden,VWO,Boeddhistisch,Gescheiden,Werkloos,Twee-onder-een-kap,Expert,57,Gemiddeld,Slecht,Goed,Slecht
+Environmental health practitioner,Sam van der Heiden,M,Surinaams,Hoog,Alleenstaand,Midden,Basisonderwijs,Christelijk,Gehuwd,Fulltime,Twee-onder-een-kap,Digibeet,84,Laag,Slecht,Slecht,Gemiddeld
+Pharmacologist,Mare Charon-Remmers,F,Nederlands,Hoog,Alleenstaand met kinderen,Midden,HBO,Anders,Gehuwd,Parttime,Twee-onder-een-kap,Intermediate,93,Laag,Goed,Gemiddeld,Goed
+"Scientist, physiological",Rowan van der Stael de Jonge,F,Antilliaans,Laag,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Gehuwd,Werkloos,Woonboot,Digibeet,19,Hoog,Goed,Goed,Slecht

@@ -1,0 +1,18 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Proofreader,Kick Mansvelt-van Bovene,M,Afghaans,Laag,Samenwonend met kinderen,Rechts,HBO,Christelijk,Gehuwd,Fulltime,Vrijstaand,Beginner,99,Hoog,Gemiddeld,Gemiddeld,Gemiddeld
+Commercial horticulturist,Pieter Knoers,F,Antilliaans,Laag,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Ongehuwd,Parttime,Rijtjeshuis,Beginner,81,Laag,Goed,Goed,Gemiddeld
+Operational investment banker,Fabian Heymans,M,Antilliaans,Laag,Samenwonend met kinderen,Midden,VMBO,Atheïstisch,Ongehuwd,Fulltime,Woonboot,Expert,39,Hoog,Slecht,Slecht,Goed
+"Engineer, structural",Leon Schouten-Wever,M,Marokkaans,Laag,Samenwonend met kinderen,Rechts,MBO,Islamitisch,Ongehuwd,Fulltime,Appartement,Intermediate,72,Hoog,Gemiddeld,Gemiddeld,Goed
+Database administrator,Lucy van Wijland,M,Marokkaans,Gemiddeld,Alleenstaand,Links,VMBO,Anders,Gescheiden,Zelfstandig,Rijtjeshuis,Intermediate,30,Laag,Slecht,Slecht,Goed
+"Biochemist, clinical",Kim Brouwer,F,Indiaas,Laag,Alleenstaand,Rechts,MBO,Christelijk,Ongehuwd,Parttime,Studio,Advanced,85,Laag,Gemiddeld,Goed,Goed
+Geophysical data processor,Charlotte Vos,F,Indiaas,Laag,Alleenstaand met kinderen,Midden,HBO,Joods,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,38,Gemiddeld,Goed,Slecht,Slecht
+"Engineer, control and instrumentation",Teun van de Ven-Ariens,M,Chinees,Laag,Alleenstaand met kinderen,Midden,WO,Anders,Ongehuwd,Parttime,Rijtjeshuis,Expert,41,Gemiddeld,Gemiddeld,Goed,Gemiddeld
+Land/geomatics surveyor,Naomi de Keijser,M,Nederlands,Laag,Samenwonend,Midden,HAVO,Islamitisch,Gehuwd,Fulltime,Woonboot,Beginner,88,Gemiddeld,Gemiddeld,Gemiddeld,Gemiddeld
+Music therapist,Jort Schenkel-Heijmen,F,Turks,Laag,Samenwonend met kinderen,Links,HBO,Boeddhistisch,Ongehuwd,Gepensioneerd,Woonboot,Advanced,93,Laag,Gemiddeld,Goed,Gemiddeld
+Immigration officer,Amir Wouters,M,Nederlands,Gemiddeld,Samenwonend,Links,HAVO,Christelijk,Gehuwd,Fulltime,Rijtjeshuis,Intermediate,35,Laag,Slecht,Gemiddeld,Gemiddeld
+Geochemist,Sam Stoffel,F,Surinaams,Hoog,Alleenstaand,Links,HAVO,Hindoeïstisch,Ongehuwd,Fulltime,Rijtjeshuis,Advanced,28,Gemiddeld,Slecht,Goed,Gemiddeld
+"Conservation officer, historic buildings",Lily le Gulcher,F,Indiaas,Hoog,Alleenstaand met kinderen,Links,HBO,Anders,Gehuwd,Student,Rijtjeshuis,Digibeet,41,Laag,Slecht,Gemiddeld,Slecht
+IT sales professional,Ian Janssen,F,Nederlands,Hoog,Samenwonend,Links,VWO,Christelijk,Ongehuwd,Gepensioneerd,Rijtjeshuis,Expert,70,Gemiddeld,Gemiddeld,Gemiddeld,Goed
+Armed forces technical officer,Isabella van Haarlem-Ponci,F,Marokkaans,Gemiddeld,Samenwonend met kinderen,Links,HAVO,Christelijk,Gehuwd,Gepensioneerd,Rijtjeshuis,Beginner,58,Laag,Goed,Slecht,Gemiddeld
+Lobbyist,Benthe van Beaumont,M,Turks,Gemiddeld,Samenwonend met kinderen,Midden,HBO,Christelijk,Ongehuwd,Student,Rijtjeshuis,Digibeet,89,Gemiddeld,Slecht,Gemiddeld,Goed
+Metallurgist,Jaylinn Hoelen,M,Nederlands,Hoog,Alleenstaand met kinderen,Midden,VWO,Islamitisch,Gehuwd,Student,Woonboot,Beginner,77,Gemiddeld,Goed,Goed,Gemiddeld

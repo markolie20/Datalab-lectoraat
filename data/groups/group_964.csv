@@ -1,0 +1,14 @@
+job,name,sex,country_of_origin,socio_economic_status,household_composition,political_orientation,education_level,religion,marital_status,employment_status,housing_type,technology_proficiency,age,Income,Health,Social_Interaction,Dutch_reading_and_writing_skills
+Diplomatic Services operational officer,Bart de Jode Vastraedsd-van Duvenvoirde,F,Spaans,Hoog,Samenwonend,Midden,WO,Islamitisch,Ongehuwd,Werkloos,Twee-onder-een-kap,Beginner,46,Laag,Goed,Slecht,Goed
+Haematologist,Amir Dachgelder,M,Nederlands,Gemiddeld,Samenwonend met kinderen,Midden,VMBO,Islamitisch,Gehuwd,Parttime,Appartement,Intermediate,99,Laag,Gemiddeld,Gemiddeld,Slecht
+"Designer, furniture",Mare de Beer-Schenkel,F,Nederlands,Gemiddeld,Samenwonend met kinderen,Rechts,HBO,Atheïstisch,Weduwe/Weduwnaar,Fulltime,Appartement,Beginner,53,Laag,Goed,Gemiddeld,Goed
+Mental health nurse,Mason Lether,F,Pools,Hoog,Alleenstaand,Rechts,HBO,Christelijk,Ongehuwd,Werkloos,Appartement,Beginner,55,Hoog,Gemiddeld,Slecht,Slecht
+Optometrist,Imran Momberg,F,Eritrees,Hoog,Alleenstaand met kinderen,Links,HAVO,Joods,Ongehuwd,Zelfstandig,Twee-onder-een-kap,Intermediate,90,Gemiddeld,Goed,Slecht,Gemiddeld
+Chartered management accountant,Meike Nedermeijer-Jorlink,F,Nederlands,Laag,Alleenstaand,Links,WO,Islamitisch,Gehuwd,Gepensioneerd,Rijtjeshuis,Advanced,90,Laag,Slecht,Gemiddeld,Goed
+Manufacturing engineer,Yara van Mil,F,Somalisch,Laag,Alleenstaand,Midden,MBO,Atheïstisch,Gehuwd,Fulltime,Woonboot,Expert,44,Laag,Goed,Goed,Gemiddeld
+Technical sales engineer,Jennifer de Kale-Mathurin,F,Irakees,Laag,Alleenstaand met kinderen,Links,VMBO,Anders,Ongehuwd,Gepensioneerd,Rijtjeshuis,Advanced,53,Hoog,Gemiddeld,Slecht,Gemiddeld
+Medical technical officer,Sem van Dalem,F,Turks,Gemiddeld,Samenwonend met kinderen,Rechts,VMBO,Islamitisch,Gehuwd,Fulltime,Vrijstaand,Beginner,85,Laag,Goed,Goed,Gemiddeld
+Interior and spatial designer,Lars van Ochten,M,Indonesisch,Hoog,Samenwonend,Links,HBO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,20,Laag,Gemiddeld,Goed,Goed
+"Engineer, electrical",Matthias Govarts,F,Nederlands,Laag,Alleenstaand met kinderen,Links,MBO,Christelijk,Gehuwd,Fulltime,Woonboot,Expert,46,Laag,Goed,Goed,Gemiddeld
+Police officer,Muhammed van Wallaert,M,Marokkaans,Laag,Alleenstaand met kinderen,Rechts,VMBO,Joods,Gescheiden,Werkloos,Rijtjeshuis,Intermediate,27,Gemiddeld,Goed,Goed,Slecht
+General practice doctor,Lucy Martel,M,Turks,Laag,Alleenstaand met kinderen,Midden,WO,Christelijk,Ongehuwd,Fulltime,Rijtjeshuis,Beginner,21,Gemiddeld,Gemiddeld,Slecht,Goed
