@@ -183,7 +183,7 @@ def save_bio(df, bio_agent, filepath):
         json.dump(bios_data_list, fp=file, indent=4, ensure_ascii=False)
 
 
-def main():
+def generate_bios():
   BIO_DATA_FOLDER = 'data/bios'
   GROUP_DATA_FOLDER = 'data/groups'
   LOCAL_MODEL = "deepseek-r1:7b"
@@ -202,7 +202,7 @@ def main():
     ),
     local_model=LOCAL_MODEL)
   
-  for csv_file in os.listdir(GROUP_DATA_FOLDER):
+  for csv_file in os.listdir(GROUP_DATA_FOLDER)[:9]:
     csv_filepath = os.path.join(GROUP_DATA_FOLDER, csv_file)
     df = pd.read_csv(csv_filepath)
 
@@ -214,6 +214,3 @@ def main():
       continue
     
     save_bio(df, bio_agent, json_filepath)
-
-if __name__ == '__main__':
-  main()

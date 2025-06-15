@@ -31,8 +31,6 @@ COOLDOWN_ACTIVITY_FACTOR = { # Higher activity = shorter cooldown
     "Hoog": 0.5
 }
 
-# LLM Model for chat generation
-LOCAL_MODEL_CHAT = "deepseek-r1:7b" # Or your preferred model for chat
 
 # --- Helper Functions ---
 
@@ -154,13 +152,41 @@ def generate_llm_chat_message(persona, topic, chat_history, chat_agent):
     except Exception as e:
         print(f"Could not parse writing style for {persona['name']}, using default. Error: {e}")
 
+    # Use all persona data points in the prompt
     persona_prompt_info = f"""
 Jouw persona:
 - Naam: {persona['name']}
-- Leeftijd: {persona.get('age', 'Onbekend')}
-- Beroep: {persona.get('job', 'Onbekend')}
-- Politieke voorkeur: {persona.get('political_orientation', 'Onbekend')}
-- Enkele meningen/overtuigingen (haal uit bio indien beschikbaar, anders algemeen): {persona.get('opinions', 'Geen specifieke meningen bekend.')} 
+- Leeftijd: {persona['age']}
+- Geslacht: {persona['sex']}
+- Geboortedatum: {persona['birthdate']}
+- Land van herkomst: {persona['country_of_origin']}
+- Sociaal-economische status: {persona['socio_economic_status']}
+- Huishoudsamenstelling: {persona['household_composition']}
+- Politieke oriëntatie: {persona['political_orientation']}
+- Opleidingsniveau: {persona['education_level']}
+- Religie: {persona['religion']}
+- Burgerlijke staat: {persona['marital_status']}
+- Werkstatus: {persona['employment_status']}
+- Woningtype: {persona['housing_type']}
+- Technologische vaardigheid: {persona['technology_proficiency']}
+- Gezondheidsstatus: {persona['health_status']}
+- Inkomensniveau: {persona['income_level']}
+- Activiteitsniveau: {persona['activity_level']}
+- Typische online uren: {persona['typical_online_hours']}
+- Reactievertraging: {persona['response_latency_profile']}
+- Emoji-gebruik: {persona['emoji_usage_propensity']}
+- Mention-gedrag: {persona['mention_propensity']}
+- Voorkeur berichtlengte: {persona['message_length_preference']}
+- Interpunctie-gewoonten: {persona['punctuation_habits']}
+- Spelfoutfrequentie: {persona['spelling_error_frequency']}
+- Grammaticale correctheid: {persona['grammar_correctness']}
+- Taalstijl: {persona['language_style']}
+- Nadrukstijl: {persona['emphasis_style']}
+- Berichtketen-voorkeur: {persona['message_chaining_preference']}
+- Beroep: {persona['job']}
+- Normen en waarden: {persona.get('normen_en_waarden', 'Niet gespecificeerd')}
+- Overtuigingen: {persona.get('beliefs', 'Niet gespecificeerd')}
+- Meningen: {persona.get('opinions', 'Niet gespecificeerd')}
 - Schrijfstijl: {writing_style_section}
 """
 
@@ -180,7 +206,10 @@ Recente chatgeschiedenis (laatste {CHAT_HISTORY_CONTEXT_LENGTH} berichten):
 {history_str if history_str else "Nog geen berichten."}
 
 Instructie: {instruction_hint}
-Genereer een korte, natuurlijke chatreactie als jouw persona. Houd je aan je schrijfstijl.
+Genereer een natuurlijke chatreactie als jouw persona. Houd je aan je schrijfstijl, meningen en voorkeuren.
+
+Let op: Blijf altijd volledig trouw aan je persona, ook als dit betekent dat je het oneens bent met anderen, het gesprek een andere wending geeft, of je mening herhaalt. Je mag gerust meningsverschillen uiten, van onderwerp wisselen als dat bij je persona past, of reageren op een manier die typerend is voor jouw karakter. jouw antwoorden moeten altijd authentiek zijn voor jouw persona, zelfs als dat leidt tot discussie, misverstanden of onverwachte wendingen in het gesprek. Gebruik je eigen stijl, voorkeuren en overtuigingen zoals beschreven in je profiel.
+
 Jouw antwoord:
 """
     # print(f"\n--- Generating for {persona['Name']} ---")
@@ -341,125 +370,172 @@ Jouw antwoord:
     return chat_log
 
 
-if __name__ == "__main__":
-    # --- Setup ---
-    # 1. Define Personas to participate
-    #    This path should point to where your individual persona JSON files are.
-    #    Example: if you have group_1.json, group_2.json etc.
-    #    And group_1.json contains a list of persona objects for that group.
-    #    OR, if you have data/bios_json/group_1/John Doe.json, data/bios_json/group_1/Jane Smith.json
-    
-    # For this example, let's assume a flat directory of persona JSON files.
-    # You'll need to adapt this to your actual persona storage.
-    # This path should lead to where your JSON files for *one specific chat group* are stored.
-    # Each JSON file is assumed to be one persona's full data (including augmented fields).
-    
-    # IMPORTANT: Adapt this path to where your persona JSONs for ONE GROUP are.
-    # Example: 'data/bios_json/group_1_bios_json/'
-    # The `load_personas_from_json_files` function expects individual JSON files per persona in this directory.
-    PERSONA_JSON_DIR = 'data/bios/group_1' # Placeholder - CHANGE THIS
-                                          # This should be the folder containing the JSON outputs
-                                          # from your first script (after running it on an augmented CSV).
-                                          # e.g., data/bios/group_1.json -> then you'd parse this main JSON
-                                          # OR data/bios/group_1_jsons/Maria.json, data/bios/group_1_jsons/Piet.json
-
-    # If your main bios are saved as one big JSON per group (e.g., group_1.json has a list of bios)
-    # you'll need to modify `load_personas_from_json_files` or pre-process it.
-    # For now, it assumes individual .json files per persona within PERSONA_JSON_DIR.
-
-    # Let's try to make `load_personas_from_json_files` more robust for a single group JSON file:
-    def load_personas_from_group_json(group_json_filepath):
-        personas = {}
-        if not os.path.exists(group_json_filepath):
-            print(f"Error: Group JSON file not found: {group_json_filepath}")
-            return personas
-        else:
-            print(f"Loading personas from group JSON file: {group_json_filepath}")
-        try:
-            with open(group_json_filepath, 'r', encoding='utf-8') as f:
-                # The file is a list of dicts, each dict has "Name" and "bio" string.
-                data_list = json.load(f) 
-                for p_data_entry in data_list:
-                    # Here, p_data_entry is {"Name": "X", "bio": "LLM_OUTPUT_STRING"}
-                    # We need the *original augmented CSV data* for simulation parameters
-                    # like "Typical Online Hours", "Chat Activity Level", etc.
-                    # The "bio" string itself is for the LLM to know how to write, not for sim params.
-                    
-                    # THIS IS A CRITICAL POINT: The current `generate_bio` and `save_bio`
-                    # only save Name + the LLM-generated bio string.
-                    # For the simulator, we need the full augmented persona profile.
-                    #
-                    # SOLUTION:
-                    # 1. Modify `save_bio` to save the *entire row (persona data from CSV)*
-                    #    along with the LLM-generated bio string, perhaps nested.
-                    #    e.g., {"Name": "X", "profile_data": {all_csv_fields...}, "llm_bio_text": "..."}
-                    # 2. OR, during chat simulation loading, re-load the original CSV for the group
-                    #    and merge its data with the loaded bio (matching by Name).
-                    #
-                    # For now, I will assume you've modified `save_bio` so that the JSON entry
-                    # for each persona *already contains all the augmented CSV fields*.
-                    # If `p_data_entry` is already the full persona dict, then:
-                    
-                    # Let's assume p_data_entry is already the full dict:
-                    name = p_data_entry.get("name")
-                    if not name:
-                        print("Skipping entry without a Name in group JSON.")
-                        continue
-
-                    # Initialize simulation-specific state
-                    p_data_entry['last_read_message_index'] = -1
-                    p_data_entry['message_cooldown_timer'] = 0
-                    p_data_entry['is_online'] = False
-                    # The "bio" key contains the LLM-generated text.
-                    # Other keys like "Typical Online Hours" should be top-level in p_data_entry
-                    personas[name] = p_data_entry
-                    print(f"Loaded persona: {name} from group JSON.")
-
-        except Exception as e:
-            print(f"Error loading personas from {group_json_filepath}: {e}")
-        if not personas:
-            print(f"No personas loaded from {group_json_filepath}.")
+def load_personas_from_group_json(group_json_filepath):
+    personas = {}
+    if not os.path.exists(group_json_filepath):
+        print(f"Error: Group JSON file not found: {group_json_filepath}")
         return personas
+    else:
+        print(f"Loading personas from group JSON file: {group_json_filepath}")
+    try:
+        with open(group_json_filepath, 'r', encoding='utf-8') as f:
+            # The file is a list of dicts, each dict has "Name" and "bio" string.
+            data_list = json.load(f) 
+            for p_data_entry in data_list:
+                # Here, p_data_entry is {"Name": "X", "bio": "LLM_OUTPUT_STRING"}
+                # We need the *original augmented CSV data* for simulation parameters
+                # like "Typical Online Hours", "Chat Activity Level", etc.
+                # The "bio" string itself is for the LLM to know how to write, not for sim params.
+                
+                # THIS IS A CRITICAL POINT: The current `generate_bio` and `save_bio`
+                # only save Name + the LLM-generated bio string.
+                # For the simulator, we need the full augmented persona profile.
+                #
+                # SOLUTION:
+                # 1. Modify `save_bio` to save the *entire row (persona data from CSV)*
+                #    along with the LLM-generated bio string, perhaps nested.
+                #    e.g., {"Name": "X", "profile_data": {all_csv_fields...}, "llm_bio_text": "..."}
+                # 2. OR, during chat simulation loading, re-load the original CSV for the group
+                #    and merge its data with the loaded bio (matching by Name).
+                #
+                # For now, I will assume you've modified `save_bio` so that the JSON entry
+                # for each persona *already contains all the augmented CSV fields*.
+                # If `p_data_entry` is already the full persona dict, then:
+                
+                # Let's assume p_data_entry is already the full dict:
+                name = p_data_entry.get("name")
+                if not name:
+                    print("Skipping entry without a Name in group JSON.")
+                    continue
 
-    # --- Point to your group's JSON file that contains a LIST of persona objects ---
-    # --- Each object in the list should be a FULL persona profile (not just Name+Bio) ---
-    GROUP_BIO_JSON_FILEPATH = 'data/bios/group_1.json' # <<<<  YOU MUST CREATE/HAVE THIS FILE
+                # Initialize simulation-specific state
+                p_data_entry['last_read_message_index'] = -1
+                p_data_entry['message_cooldown_timer'] = 0
+                p_data_entry['is_online'] = False
+                # The "bio" key contains the LLM-generated text.
+                # Other keys like "Typical Online Hours" should be top-level in p_data_entry
+                personas[name] = p_data_entry
+                print(f"Loaded persona: {name} from group JSON.")
 
-    active_personas = load_personas_from_group_json(GROUP_BIO_JSON_FILEPATH)
+    except Exception as e:
+        print(f"Error loading personas from {group_json_filepath}: {e}")
+    if not personas:
+        print(f"No personas loaded from {group_json_filepath}.")
+    return personas
 
-    if not active_personas:
-        print("Exiting: No personas loaded for simulation.")
-        exit()
 
-    # 2. Define Topic
-    current_topic = {
-        "id": "topic_002",
-        "title": "Nieuw parkeergebied",
-        "description": "De gemeente heeft plannen voor een nieuw parkeergebied aan de rand van het dorp. Wat vinden we hiervan?"
-    }
-
-    # 3. Initialize Chat Agent
+LOCAL_MODEL_CHAT = "deepseek-r1:7b" # Or your preferred model for chat
     #    The role here is for generating chat messages, not bios.
-    chat_agent_role = (
-        "Jij bent een deelnemer in een online groepschat. "
-        "Je reageert op basis van je toegewezen persona en de chatgeschiedenis. "
-        "Formuleer je antwoorden als een normaal chatbericht. "
-        "Voeg GEEN extra uitleg of commentaar toe buiten het chatbericht zelf."
-    )
-    chat_llm_agent = agent(role=chat_agent_role, local_model=LOCAL_MODEL_CHAT)
+CHAT_AGENT_ROLE = (
+    "Jij bent een deelnemer in een online groepschat. "
+    "Je reageert op basis van je toegewezen persona en de chatgeschiedenis. "
+    "Formuleer je antwoorden als een normaal chatbericht. "
+    "Voeg GEEN extra uitleg of commentaar toe buiten het chatbericht zelf."
+)
+CHAT_LLM_AGENT = agent(role=CHAT_AGENT_ROLE, local_model=LOCAL_MODEL_CHAT)
 
-    # 4. Run Simulation
-    print("\nStarting chat simulation...")
-    start_sim_wall_time = time.time()
-    
-    generated_chat_log = run_simulation(active_personas, current_topic, chat_llm_agent)
-    
-    end_sim_wall_time = time.time()
-    print(f"\nSimulation finished in {end_sim_wall_time - start_sim_wall_time:.2f} seconds (wall time).")
+PERSONA_JSON_DIR = 'data/bios/group_1'
+TOPICS =  [ {
+    "id": "topic_002",
+    "title": "Nieuw parkeergebied",
+    "description": "De gemeente heeft plannen voor een nieuw parkeergebied aan de rand van het dorp. Wat vinden we hiervan?"
+}, 
+{
+    "id": "topic_003",
+    "title": "Verkeersveiligheid",
+    "description": "Hoe kunnen we de verkeersveiligheid in ons dorp verbeteren?"
+},
+{
+    "id": "topic_004",
+    "title": "Groene energie",
+    "description": "Wat vinden we van de plannen voor meer groene energie in onze regio?"
+},
+{
+    "id": "topic_005",
+    "title": "Onderwijsvernieuwing",
+    "description": "Hoe kunnen we het onderwijs in onze gemeente verbeteren?"
+},
+{
+    "id": "topic_006",
+    "title": "Woningbouwprojecten",
+    "description": "Wat vinden we van de nieuwe woningbouwprojecten in onze regio?"
+}
+,
+{
+    "id": "topic_007",
+    "title": "Lokale economie",
+    "description": "Hoe kunnen we de lokale economie stimuleren?"
+},
+{
+    "id": "topic_008",
+    "title": "Cultuur en evenementen",
+    "description": "Welke culturele evenementen moeten we organiseren in ons dorp?"
+},
+{
+    "id": "topic_009",
+    "title": "Milieu en duurzaamheid",
+    "description": "Wat kunnen we doen om het milieu te beschermen in onze regio?"
+}
+,
+{
+    "id": "topic_010",
+    "title": "Gezondheidszorg",
+    "description": "Hoe kunnen we de gezondheidszorg in onze gemeente verbeteren?"
+}
+]
 
-    # 5. Save Chat Log
-    output_chatlog_file = f"data/chat_logs/chatlog_{current_topic['id']}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-    os.makedirs(os.path.dirname(output_chatlog_file), exist_ok=True)
-    with open(output_chatlog_file, 'w', encoding='utf-8') as f:
-        json.dump(generated_chat_log, f, indent=2, ensure_ascii=False)
-    print(f"Chat log saved to: {output_chatlog_file}")
+def generate_chatlogs(bios_folder='data/bios'):
+    """Generates chat logs for all personas in the specified folder."""
+    if not os.path.exists(bios_folder):
+        print(f"Error: Bios folder not found: {bios_folder}")
+        return
+    for bios_json in os.listdir(bios_folder):
+        if bios_json.endswith('.json'):
+            print(f"Found bios json file: {bios_json}")
+        # Load personas from JSON files
+        personas = load_personas_from_json_files(bios_folder, bios_json)
+        if not personas:
+            print("No personas loaded. Exiting.")
+            return
+            
+        # Run simulation for each topic
+        for topic in TOPICS:
+            print(f"\nStarting simulation for topic: {topic['title']}")
+            start_sim_wall_time = time.time()
+            chat_log = run_simulation(personas, topic, CHAT_LLM_AGENT)
+            end_sim_wall_time = time.time()
+            sim_time = end_sim_wall_time - start_sim_wall_time
+            print(f"Simulation complete. Generated {len(chat_log)} messages, in {sim_time:.2f} seconds.")
+
+            # 5. Save Chat Log
+            output_chatlog_file = f"data/chat_logs/chatlog_{topic['id']}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+            os.makedirs(os.path.dirname(output_chatlog_file), exist_ok=True)
+            with open(output_chatlog_file, 'w', encoding='utf-8') as f:
+                json.dump(chat_log, f, indent=2, ensure_ascii=False)
+            print(f"Chat log saved to: {output_chatlog_file}")
+
+def generate_chatlogs(group_json_filepath='data/bios/group_1.json'):
+    """Generates chat logs for all personas in the specified group JSON file."""
+    if not os.path.exists(group_json_filepath):
+        print(f"Error: Group JSON file not found: {group_json_filepath}")
+        return
+
+    personas = load_personas_from_group_json(group_json_filepath)
+    if not personas:
+        print("No personas loaded. Exiting.")
+        return
+
+    for topic in TOPICS:
+        print(f"\nStarting simulation for topic: {topic['title']}")
+        start_sim_wall_time = time.time()
+        chat_log = run_simulation(personas, topic, CHAT_LLM_AGENT)
+        end_sim_wall_time = time.time()
+        sim_time = end_sim_wall_time - start_sim_wall_time
+        print(f"Simulation complete. Generated {len(chat_log)} messages, in {sim_time:.2f} seconds.")
+
+        # Save Chat Log
+        output_chatlog_file = f"data/chat_logs/chatlog_{topic['id']}_{datetime.datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        os.makedirs(os.path.dirname(output_chatlog_file), exist_ok=True)
+        with open(output_chatlog_file, 'w', encoding='utf-8') as f:
+            json.dump(chat_log, f, indent=2, ensure_ascii=False)
+        print(f"Chat log saved to: {output_chatlog_file}")
